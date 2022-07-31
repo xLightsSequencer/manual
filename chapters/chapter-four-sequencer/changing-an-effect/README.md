@@ -135,13 +135,13 @@ You can also use the shortcut key of Ctrl+Z. The Undo actions can be daisy chang
 
 In order to select a group of effects, use the left mouse key to select the range of effects. The color of the cells change, but also, the links in the selected cells will turn to magenta.
 
-![](https://lh4.googleusercontent.com/OJsgd2zREwRoCu5kx60O8Mvy327Oe34woFuyaAAXfunWJwMGf9Bem3W4hWw5foMjh5ffqPZqmY5-BikqWCo6\_V91r4cbIn7pDcoYf8g9\_NAPW\_rdegmYatb9ZLs21yyDLG0yMlQI)
+![](../../../.gitbook/assets/base64fac2f5c2fd584b23.png)
 
 You can only select a group of cells, when the cursor looks like a pointing hand.
 
-![](https://lh4.googleusercontent.com/i6Wjlo7vFMSHL6mwDS84A2DP-FGggkbY6\_pN2uTZ6kBVMNsQlt2NXJeR4Yf7ydVGIia3pnkO8uXXtEHepAa2aUs-SHtyCRZl2rS75LEMbNZFQBXA6I5jLrhc5FxCQwX8GQUjf2iJ)
+![](../../../.gitbook/assets/base64ad3150adf33809de.png)
 
-![](https://lh6.googleusercontent.com/lDvo9hZSI1-l2zT2PkRz4lYwVJuJJDlotXq2q22fsB5MM2KpU\_9aEK3-A3ABGWXHEiOFwnRBQA7Etpl9bDY2Ajy-VaV4s0WYrx4sTC\_Mg5U4TJctA9IWxftlNtbJt\_3kFI-EtHe-)
+![](../../../.gitbook/assets/base6441800d4872eb0369.png)
 
 If two arrows are shown, then you can’t select the cells. You may need to zoom in to be able to see and select the required effects.
 
