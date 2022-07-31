@@ -22,7 +22,7 @@ In xLights, Model Groups are sequenced against an internal grid representation.
 
 The Default Layout Mode and Max Grid Size provides options on how the ‘internal grid’ is to be calculated when effects run across a model group.
 
-![](https://lh3.googleusercontent.com/fBfOYue0AOA\_lFWxQqvFFETJdwYlDIHqzfcoDelNa-NJub1nkdL9vmFLTA08DHFJSi097h9kDrGlsYueHM5d2IuspjUyI1eesQ4P2SXq4Jc\_mPQT2lofsR0g4YMXI3PehU7pspyr)
+![](../../.gitbook/assets/2022-07-31\_00h51\_52.png)
 
 If ‘Grid as per preview’ is selected , then the buffer used will be exactly as to how the the house preview appears i.e will be quite large.
 

@@ -2,7 +2,7 @@
 
 ### **Tree Model**
 
-![](https://lh3.googleusercontent.com/BaZmGrVRrLKnI69G0WCsSmz3hTRToS5Rc\_tiPe2R57y-neoQezQf3iuo6c1qLiT-BEZTQK8\_8WIl2\_hQYZa-ysq7RDu2EMLNwWldjw6UIulwacowScxIywzsNBLyXwFiQwsIe2fb)
+![](../../../.gitbook/assets/base64fa663a572ecc165b.png)
 
 ### Type
 
@@ -38,7 +38,7 @@ The Starting Location is used to define where the first node starts in a multidi
 
 In this example, a 360 degree Mega Tree visually has 15 strings of 50 pixels on each string, with 2 Strands per String. This will "fold" the strings once causing the tree to be 30 strands wide and have strands of 25 pixels long.
 
-![](https://lh6.googleusercontent.com/gRUnZ81oM00eWHonU5x5RVwJ0cNcvxdZb9u7XeB20kycihm84Htnj8B8MP6fUJNCQdd662eP8yeWhXT3\_l6fvi8p36Liwxo4FDufVwf1RX6IVlNcyNOxzQFjonVErudhGz30\_Wpp)
+![](../../../.gitbook/assets/base64fa21bae3561e4ba6.png)
 
 Each string starts from the bottom, goes up to the top of the tree and loops back down. So half the number of physical strings are required.
 

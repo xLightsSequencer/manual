@@ -15,7 +15,7 @@ The latest release of xLights for Windows can be found at the following link: [h
 5. Select the destination location. Leave as is to upgrade to a new release. Follow the prompts and click on install when ready.
 6. Click on Finish to complete the installation
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LZ2Jwp7mRP9HqIZtQ\_h%2F-LaLrn6pPaDBbUnRRJC0%2F-LaLstNucI5tOsYBZyiw%2Fimage.png?alt=media\&token=f0245eff-6394-4e54-bc5e-c6d373cba41b)
+![](<../../.gitbook/assets/image - 2022-07-31T003818.584.png>)
 
 The xLights software will be installed in the destination location. In addition to the software required to run the application, the installer also installs a few useful utilities, dictionaries and a songs subdirectory. The xLights application software is installed by default in the xLights directory within your Windows Program Files directory ( C:\Program Files\xLights\\).
 
