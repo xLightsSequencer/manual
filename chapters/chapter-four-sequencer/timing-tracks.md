@@ -6,15 +6,15 @@ xLights can support multiple timing tracks on the sequencer, each with different
 
 ![](<../../.gitbook/assets/image (85).png>)
 
-![](https://lh6.googleusercontent.com/c7Uqn9YaT6GdMJcEifMa67DI3OLSuI2BapJVAl8frx\_VBLZLjt-yafXWmv\_8hkQ\_qjiyiZuPqQ1DP4dgIFEV1akh\_HK2n6iP5jc0qatGLBUn5rEyg0cujBOWCi\_A2rUOxWaHmtMt)
+![](../../.gitbook/assets/base64295102e85a0ab30.png)
 
 Clicking on the down arrow will provide a drop down list of timing intervals to select from to create a timing track. Other than the first three, the remaining are from the VAMP plugins. If you have not installed the plugins then they will not appear in the list.
 
-![](https://lh3.googleusercontent.com/Rpt6-NX4V1qZobg6X6dvCwK8GfWGfgEs2c9GihH9Z4gNvckhCMnruEmMKOdJdahF\_ncAQL95NVix5S7JIA8SU\_jvE34HC9iOdqRB\_StOESBuut1WuvMax\_VqKsyWs9l3E5d3PsO7)
+![](../../.gitbook/assets/base64ea1a0ac901fc17f8.png)
 
 You can also import a Timing track that has been created externally. Click on the Import button instead of the New button. A window Chose Timing files(s) window will open, enabling you to browse for and select the timing file to be imported. Navigate to the .txt file containing the timing track and click OK to import it. The new timing track can be a lyric track with phrases and words broke down into phenoms.
 
-![](https://lh3.googleusercontent.com/12QtPYnhVDORqwqr\_-hFLwzabT2fs2axkkSSAH7O-oLAgxWzGG4LBiXtYQAYfU\_t4C\_By9q1BNhZI4tK6VWA1-Cu0-91CuvekVBgOerQx0fRqTNsB5bOG1S\_jKdp1buxPmIujTxb)
+![](../../.gitbook/assets/base6428a098d66b2ad664.png)
 
 {% hint style="info" %}
 If you are trying to import a LOR timing grid and it is not retrieved i.e. the window is empty, use any xml supported editor and check the LMS xml file for a section called \<timingGrids>. The section should contain a subsection called \<timingGrid> which must contain an attribute called "type=freeform".
@@ -70,11 +70,11 @@ If you wish to select and delete multiple timing marks all at once, uncheck the 
 
 In order to import a timing track, right click the Timing names area, then select Import Timing Track, navigate to the .txt ,PGO, LMS, LOR, LSP, .xml, or .xtiming file containing the timing track and click OK to import it.
 
-![](https://lh5.googleusercontent.com/J8qZGgZoqIRKz46RQp-d5N2l7THuYZy-8-VO7SJ-KykOUq5VS3qJqHuT6Bda0AAF5eA-De8MXzTNuttTKz9bxX8NM-OL3p7DIc5rOm40R1smp63EFYH3Xk3b9VZnClUfVn9mjj\_V)
+![](../../.gitbook/assets/base64538a6a09649a3a2.png)
 
 The timing tracks from the specified file are imported as xLights timing tracks - the following is an example of one that has been imported from LSP.
 
-![](https://lh6.googleusercontent.com/9IiCjGeeOHILUErIABDD6ozU4o2XWd2u9XEMizPcgW\_1Y1RU\_lLGOoZJSonMo9wvDksIP\_MLWQTYn4netGqbtDz6ZkV4EOFDh-OYDqrMsiu-0JftmmE676Duyf7uBxlk8bG31rGy)
+![](../../.gitbook/assets/base64e82c031c196897d1.png)
 
 Importing of a PGO timing track is covered elsewhere in the document.
 
@@ -82,13 +82,13 @@ Importing of a PGO timing track is covered elsewhere in the document.
 
 Similarly to export a timing track, right click on the timing track name in the Timing names area, and save as as .xtiming file.
 
-![](https://lh6.googleusercontent.com/HtDtXuE-CenC5ngVjQ1n7nZMm4-2-Xgu-xe6ebX7zttXTg5Uqn3iBcxf7TOBMOHUw2kgnbpQ68tCvRl8AuL3NsyKTS07Bc6JblthK17uAgJVPduGQYeDGauvDzLa\_wL4sPZxQ1Dr)
+![](../../.gitbook/assets/base64ced07dc4216db4f9.png)
 
 This capability includes exporting a singing face (xLights Papagayo) timing track.
 
 You can export the file as a PGO file , if you wish to provide the file for use in another type of sequencer (LOR ). If you wish to use this in for another xLights sequencer , then export as an XTIMING file.
 
-![](https://lh3.googleusercontent.com/D8ra2mwK-xjBy6BKwMw9JRd94jx8VuSMUBTSxLSIFTsbTW0Q0uRVrMtrAlR7BXRe5yJR3x9ARkCtNlta1t\_XjJmi3chiwaQZM5w43zwWUv-\_8uG5bnrbZOK8tEZdK2pAeynjUf\_a)
+![](../../.gitbook/assets/base642497528acc874de2.png)
 
 Multiple timing tracks can be exported to a single XTIMING file by selected them from the following dialog.
 
@@ -108,7 +108,7 @@ Right Click on the Timing Track name and select Import Notes.
 
 Specify a name for the Timing Track to be created , the Notes Source, and then navigate to and select the file from which the notes are to be Import.
 
-![](https://lh6.googleusercontent.com/7wqZ-7F9o5oYYuZi9ZVMg3uiLks1siB2K\_-UJhK7zvnjy\_9Ip9hiQrkD-ZhoZtbXe6E\_0bjDGqrkAVKS6GE36fxxuOjQeI0tVIjdcxkn\_p7Z9NYwhRNmxALmd1r4\_ZD4OL3LPonr)
+![](../../.gitbook/assets/base6476790ad4ccc42820.png)
 
 Click OK and the Timing track will be created from the notes.
 
