@@ -54,7 +54,7 @@ On OSX use Cmd key instead of Ctrl key.
 
 In order to align several effects to the same start or end times , drag a box around all the effects you want to align and then hold down shift and click the effect you want to be the reference. Then right click and select Alignment. You can then select one of the four options to align to the effect you selected as your reference. In the example below, the Start times of three effects have been aligned to the Start of the Bar effect just below them.
 
-![](https://lh6.googleusercontent.com/LPDzcLIKJQLyXxkRW1kHOeps4JW\_gDpIFuzl8ElAXahjbQSsZcG5jbXf5DUqCY5TJb6uk4GWvuYZ5yFyx36LQw4JfI8rSgYmr7UwtFMt\_Y5hJgFnRSRQnDqUTAPWjvg6DLXXCHYX)![](https://lh4.googleusercontent.com/VP5UXDN2kF4u3ZTsHDrbm8idiq9pJsFhw8I17rpXbrNTsrypXNTcBc39vdDJyWHTaw1W7d88Z198lXM\_jfNrQO1098XQS4Jc3YVGS7GXxkZFNshc9y1-Dvg9Gnna-cKEVQ84D2pr)![](https://lh3.googleusercontent.com/znUN3tNC1yZuHkbakVK\_-DhriO0hFMLv\_tgpz7Xsyk7R8agAsp9FLc-IuYJA6m4vUYHzg4ikbi62N6WgI486ybzbgavUp-E\_h9HxCOquiz8u-9Q-fv-IykNo2SHLykfIoYeh\_w2P)
+![](../../../.gitbook/assets/base64e74cce99ecc03fae.png)![](https://lh4.googleusercontent.com/VP5UXDN2kF4u3ZTsHDrbm8idiq9pJsFhw8I17rpXbrNTsrypXNTcBc39vdDJyWHTaw1W7d88Z198lXM\_jfNrQO1098XQS4Jc3YVGS7GXxkZFNshc9y1-Dvg9Gnna-cKEVQ84D2pr)![](https://lh3.googleusercontent.com/znUN3tNC1yZuHkbakVK\_-DhriO0hFMLv\_tgpz7Xsyk7R8agAsp9FLc-IuYJA6m4vUYHzg4ikbi62N6WgI486ybzbgavUp-E\_h9HxCOquiz8u-9Q-fv-IykNo2SHLykfIoYeh\_w2P)
 
 You can even select a timing effect as the reference and it will align to that timing effect.
 

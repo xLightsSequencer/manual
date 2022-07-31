@@ -14,7 +14,9 @@ On the right side, the model will be displayed with the selected nodes highlight
 
 The Node Ranges 'Grid' represents the submodels render buffer. A grid five row high with five nodes listed per row will create a 5x5 Render buffer.&#x20;
 
-![](https://lh6.googleusercontent.com/833pyS-GnYZK4omSP\_v1ij4sZNmoLcXHGvk45Y\_zmt5QizAQH9GDQ\_dl3SU8nc0tOJESo6n8oaf2gSnMgppoGg6hzvEwPpQ1fOhWn9xtORhvBDPXB4XMYNaa9by35jgmk88U8YOrsQ0)
+
+
+![](../../.gitbook/assets/5by5.png)
 
 Empty Commas(,) can be used to create empty spaces in the render buffer. The example below will create 5x5 a outline with a 3x3 'hole' in the middle.
 
