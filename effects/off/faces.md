@@ -1,0 +1,44 @@
+# Faces
+
+![Icon](<../../.gitbook/assets/image (812).png>)
+
+![Sequencer Grid](<../../.gitbook/assets/image (268).png>)
+
+![](<../../.gitbook/assets/image (993).png>)
+
+The Faces effect is used by xLights to generate singing and talking face effects. It is used and placed on the sequencer as part of the Papagayo import functionality, if the target in xLights is a Coro face.
+
+It is also used within xLights functionality to generate Singing Faces. The use of this effect is described in the section describing Singing Faces.
+
+| **Option/Settings**           | Description                                                                                                                  |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Phoneme**                   | Sets Face to specific mouth position.                                                                                        |
+| **Timing Track**              | Sets Timing Track to use for Lyrics/Phonemes                                                                                 |
+| **Face Definition**           | Sets Face Definition to use. These are setup in the model preference under the 'Faces' option.                               |
+| **Eyes**                      | Sets if the Eyes are open close, automatic, or off                                                                           |
+| **Show Outline**              | Show outline if defined in the Face Definition.                                                                              |
+| **Suppress when not singing** | If set, the Face will disappear if not lyrics are present, in the timing track.                                              |
+| **Lead In/Out Frames**        | Number of frames the face will appear before the lyrics start/end, Only available if 'Suppress when not singing' is enabled. |
+| **Fade during lead in/out**   | Fade the face in and out during the Lead in/out frames, Only available if 'Suppress when not singing' is enabled.            |
+| **Transparent Black**         | Sets the black pixels transparent to show effects on lower layers.                                                           |
+
+### Color Pallet
+
+The color pallet is used to determine the color of the signing face.
+
+![](<../../.gitbook/assets/image (1047).png>)
+
+![](<../../.gitbook/assets/image (1040).png>)
+
+| Pallet Color     | Face Nodes              |
+| ---------------- | ----------------------- |
+| 1st Pallet Color | Mouth Nodes             |
+| 2nd Pallet Color | Eyes Open/Close Nodes   |
+| 3rd Pallet Color | Outline Nodes           |
+| 4th Pallet Color | Outline2 Nodes          |
+| 5th Pallet Color | Eyes Open2/Close2 Nodes |
+| 6th Pallet Color | Eyes Open3/Close3 Nodes |
+
+{% content-ref url="../../chapters/chapter-four-sequencer/singing-faces/" %}
+[singing-faces](../../chapters/chapter-four-sequencer/singing-faces/)
+{% endcontent-ref %}
