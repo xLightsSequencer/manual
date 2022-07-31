@@ -30,7 +30,11 @@ To open a recently used sequence, select any item from this list.
 
 ### ![](<../../../.gitbook/assets/Save Seq Icon.JPG>) Save Sequence
 
-To save an open sequence, either use the Save Sequence icon, select Save Sequence from the File menu or press Ctrl S. If the sequence has not been saved previously, you will be presented with the Save As dialogue window to enter the name for the sequence. If the Render on Save setting (under the Settings menu) is set (i.e. checked) then all the effects on all the models will be rendered first before the sequence is saved in the FSEQ file. This is the default. Progress status messages are displayed on the last line of the window with a progress bar indicating the render progress.
+To save an open sequence, either use the Save Sequence icon, select Save Sequence from the File menu or press Ctrl S. If the sequence has not been saved previously, you will be presented with the Save As dialogue window to enter the name for the sequence.&#x20;
+
+![](../../../.gitbook/assets/image.png)
+
+If the Render on Save setting (under the Settings menu) is set (i.e. checked) then all the effects on all the models will be rendered first before the sequence is saved in the FSEQ file. This is the default. Progress status messages are displayed on the last line of the window with a progress bar indicating the render progress.
 
 ![](../../../.gitbook/assets/base6468e83ff059cafe45.png)
 
