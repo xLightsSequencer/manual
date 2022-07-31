@@ -76,7 +76,7 @@ After selecting the required colors (white, red and green in this example), righ
 
 The Color Curves window is displayed.
 
-![](../../../.gitbook/assets/base64eacafafa4c161559.png)
+![](https://lh3.googleusercontent.com/2jxZWbitA8mAHGuq2QhnQXllXghiS72Xx6ANKAA8XwGvp9HKyDfo1TWVHOMo5dr5JLV49T18Ra\_Yek-YI-ugMJ5yteUoxZAGDdMt-67bl27SEbVvmviZ6F4dA8iArs8Pad7iuVXA)
 
 The window representing the Color curve is black in color.
 
@@ -86,7 +86,7 @@ Move the marker to the far left. Then click within the White Color curve window.
 
 You now have a color effect that starts White and Turns blue over the duration of the effect.
 
-![](../../../.gitbook/assets/base64e91d72d6a28f41d0.png)
+![](https://lh6.googleusercontent.com/OCMUR-RdK6oZTjMNlghNFGV4fvIr4MaTiNDS33LmGvdhmwlSX8taKMt8O9-X0bWLaFPN8-Sj9ttXkWZraB5dZEMV9t-dj7m10QWS6IJ4RGIoO-OnRUL1X-T-sobmD20\_EGc\_9EVy)
 
 You can adjust the markers to control where the color changes.
 
@@ -96,7 +96,7 @@ The Blend Mode can be set to Gradient or None (sharp change).
 
 For effects that have the Platte color option (such as the Butterfly), the Palette must be selected for the colors to come into play.
 
-![](../../../.gitbook/assets/base64ad69768227d7616f.png)
+![](https://lh6.googleusercontent.com/RrlPpq1IjAO\_1wTkwh4DeuPkyCyWz8twkP1h1B24vl\_d4xWQRZohNqykZD-uu0EvxyZJ7aNY66AglBgyLqOWSruqCsWlMDWoTSrfsrDy6-TaEZR7qxMjCBX4UV5lmvWMegw0dCUa)
 
 You can select any one of the color curves present just below the Blend Mode attribute by clicking on it.
 
