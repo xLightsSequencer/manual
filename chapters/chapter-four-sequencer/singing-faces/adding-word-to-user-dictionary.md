@@ -22,13 +22,13 @@ The user\_dictionary can be moved to the Show Directory and xLights will read it
 
 The user\_dictionary is a simple text file which can be edited by using a text editor such as windows notepad or any other text editor, such as Notepad++, to open this file. This is only dictionary file that you should make any additions to because the other two files will be overwritten each time xLights is installed. When you first open the user\_dictionary file it will contain the information shown below.
 
-![](https://lh4.googleusercontent.com/Zp6c2XhWIEUKYBRJEmlu6SzCDKVNsrOejTpW4eDzH8BsAqarSSxq8HPo5Qo056HFcuAfkhTOdl3En\_qFma56uL4SDsBKoRV5tCnujyl0vNUQe6sypEKBTcwPMsZyBsVFbGsS7CC7)
+![](<../../../.gitbook/assets/pasted image 0 (21).png>)
 
 Before continuing, create a text file containing all the words that xLights did not have an associated  phoneme breakdown created. Name this something easily identifiable, such as ‘missing words.txt’ and put it in the same folder as the sequences. There is no special formatting, just a list of words, one per line, is required. One thing to note here is that if you have any hyphenated words such as ‘screa-um’ you should break the word into two words such as ‘screa’ and ‘um’’ for this list.
 
 Then in your internet browser open to the following webpage… [http://www.speech.cs.cmu.edu/tools/lextool.html](http://www.speech.cs.cmu.edu/tools/lextool.html) as shown here:
 
-![](https://lh4.googleusercontent.com/WBnGVGBmw2lSNY5hUSDWhxN99xsOuFRn6p-9hsIHu3qbVRGZrE--fb-8Kt-dzMpyX9UGhn41YrXOYU2efj-WIsxxkkrXLtaFWoSMBder5SJkz-rxS8aDr2\_JLhELSTg4epEdxm\_Q)
+![](<../../../.gitbook/assets/pasted image 0 (22).png>)
 
 Then click the ‘'Choose File' button and browse to find the file you created or enter this name into the file box.
 
@@ -36,17 +36,17 @@ Then click the 'Compile' button.
 
 Once the processing has completed another web page will appear similar to this:
 
-![](https://lh5.googleusercontent.com/v4m49gp0N62VCx1X2oZ4ISRKkj96UAqLQ9jQYDqTZ\_iK3twaWEFepm-aF-SsVFWywEYO1x2Sxv0xQFEGSQ1NTHZHF6xHEXqFEIcKwYxc3cMWqbITJ2c3475sMZKp-dQ94DRP5bqI)
+![](<../../../.gitbook/assets/pasted image 0 (23).png>)
 
 Click the work 'link'
 
 Another web page similar to this will appear.
 
-![](https://lh4.googleusercontent.com/DkCGzH8cPgNujdznjPBUlgzarjr4Wk2tw5qJTsdPawH7\_KaDx8cjc6N4SCshg2Lrcdv8\_Bz\_HJGU3gmnWkAXJmbevrD5SDFVDEELyPcFrjNitRqsFkzbJyx4pN\_1Aw5lEB7VczY2)
+![](<../../../.gitbook/assets/pasted image 0 (24).png>)
 
 Here click the file with the .dict extension such as 0548.dict, then a web page will appear with the words and their phoneme breakdown as shown below.
 
-![](https://lh3.googleusercontent.com/xDKf0s5\_1gtjyzcUe8KvwM-spB8CY2bkkvR1eNR5dksyrd0-RFkN660qq4VYFlmoppxaiVcFe7IiHHD46nZK6SGDDkptHU71spV1ZpqaB6Y9ktZ1E45Safm9Pi2Jqs-OMevrOuiD)
+![](<../../../.gitbook/assets/pasted image 0 (25).png>)
 
 Before following the rest of this process, close the current sequence and exit xLights.
 
@@ -64,4 +64,4 @@ This is the online CMU Pronouncing Dictionary. Here you will look up each word t
 
 Now that you have updated the user dictionary you should reopen xLights and load the previously saved sequence and find the newly added dictionary words and do a right click ‘Breakdown Word’ for the missing phonemes.  The image now shows the results after adding the word ‘honkey’ to the user\_dictionary file.
 
-![](https://lh6.googleusercontent.com/z6-gds\_kGeZJRFgmUdERmV0W6xcByPAMuOImvmnISN3BnMbSYuo155eOeFeh8Y8L0qIsXffmKX3P2VoaHkf1G0xMiyExPS-C1RPzzL3wbFF00I8a5AJwII7oiUQp56AkmYlK-eFt)
+![](<../../../.gitbook/assets/pasted image 0 (26).png>)

@@ -215,7 +215,7 @@ This section describes how you can import a Papagayo (.PGO) file into xLights as
 
 On the sequencer tab , after creating a new musical sequence or opening an existing musical sequence, right click on the Timing name and select Import Timing Track. Browse to the location of the Papagayo pgo file and select the file.
 
-![](https://lh3.googleusercontent.com/8m5\_ZhWFcyHe2aaVtk0bjzAnfjnSB0SzxSnchc0ncBNlupzUW1WYCSxejHy8jxICeIl85Z4FIml9jhdQFLrfFejaRQTUBSpw5oxMwlhP98NALUrf31mbSSbgQoID8S3XcMp9L3TP)![](https://lh6.googleusercontent.com/qifBn1Ot3IpTn3HuPx\_Jt0Ey42x8W9Bjhb0JoZjvR9dJybk7etTuFuCdzGS1y3rnlfiFS7q-yYsZqAbMSTp3mFHOIJiOnAENwCf-tb2NTAGBAI\_mvwCTvVlid7dF5j6iNUd1YrOF)
+![](../../../.gitbook/assets/base64f0f62f55a008058a.png)![](../../../.gitbook/assets/base646abc6c68a8d32b62.png)
 
 Specify the number of frames to offset the data by. Due to a performance limitation in the Papagayo software, a sequence often had to be broken up into segments. In which case the second segment had to be offset by the number of frames of the first segment.
 
