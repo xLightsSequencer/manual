@@ -133,7 +133,7 @@ It is also possible to import an entire timing track (that another person has ex
 
 Play through the song at regular or reduced speed and use the ‘t’ key to add timing marks at the beginning of each phrase. Then on the timing track, between two timing marks, double click or shirt double click (this is set by your preference dialog settings) and an ‘Edit label’ box will pop up. Type in, or copy and paste the words that pertain to the selected phrase (or phrases) that belong between the two timing marks. Press Ok to accept.
 
-![](https://lh5.googleusercontent.com/xn4pj-7oMhAyTc7Fp\_Mvwc4nUygSKSUOWS94QiLui5uI2ehN2H\_GjWLCoKFHT9n3OOu08e241gEIpMLxq1y1raoLaFAfTtjFRL2hgImJIl5X32vhNEfeFuPQev9r8tgklJIvBcEI)
+![](../../../.gitbook/assets/base64f215902928845d64.png)
 
 Repeat for as many phrases as you require or you can do one phrase at a time.
 
@@ -143,7 +143,7 @@ You can break down all the phrases into words by right clicking on the timing tr
 
 A list of words will be generated for the phrase in a timing track, just below the phrase.
 
-![](https://lh5.googleusercontent.com/-42iRKMztczEICyxC\_W\_Uix22gnZaRAUAO13P7VHELXBtT5Lnyrg5sUaq8iB1LmjXAkQwSl9UIhh900TQ4KQnm0\_oATHXBpmD1ToqX21QV7SE27nCN2BqFLKapY7KYVGiVTLeG8x)
+![](../../../.gitbook/assets/base6469ff8e67218abebf.png)
 
 ### Breakdown Words
 
@@ -153,13 +153,13 @@ You can break down all the words into phonemes by right clicking on the Timing T
 Due to the loading of dictionaries, there could be a delay of several seconds the first time this is used in each session, while the first word is broken down.
 {% endhint %}
 
-![](https://lh4.googleusercontent.com/YstMUdlwHxlc9p9YNoSgq\_yvKv3deWjeZEce3sCpisZJTODBx8NXUOuB9gWI9Uby6Nnrd2ipXc21LuCuk8vo2MgKWb\_X032klaJEeJeWKbftUouYXatr662bvUCqSbDe09jGX6Lp)
+![](../../../.gitbook/assets/base64937039316f906772.png)
 
 A list of phonemes will be generated for the word or words phrase in a timing track, just below the word timing track.
 
 Zoom in to see the words or phonemes more clearly. Drag the words to align them as required.
 
-![](https://lh5.googleusercontent.com/SxYNmVoFyi3d19jCuCEeqF9gYBOZLhVofzAOmv5j\_DBh\_-25WWPW0ONK5Q7jXeAjXG8spHfHeuH85iXyrtMBCDVzh7xR-xv1R1S1a8sZ46hfUKN60qJbRYTdHzywRr\_earrVRkji)
+![](../../../.gitbook/assets/base6415dd232cf327cbcb.png)
 
 You also need to separately drag the phonemes to align them as required.
 
@@ -177,13 +177,13 @@ If the Timing track name (‘Lyrics1’) does not appear in the list of Timing T
 
 Using the Effects Setting window, under Mouth Movements, select the applicable Timing Track (‘Lyrics’). The face definition value will default to the one defined for the model.
 
-![](https://lh4.googleusercontent.com/HgCBjjSgOLLhtC0wsVy8C5qkmP9layGs1ztygFEYm3y806wlKREK-5ufrwQLvaJGv8s\_6fgJUS9XYD-QZVVKgHibQj27imY5eYzvhJeqIb-xd-7dHXF8VQ4k4s5D82M6VpNS0Sbo)
+![](../../../.gitbook/assets/base64f4b0bc0cb6cf14f.png)
 
 You can also select ‘Show Outline’ which will activate the outline when the face effect is present and ‘Turn On/Off Eyes’, if you wish. Setting the eyes to Auto will cause the eyes to blink every few seconds when the rest phenome is on.
 
 The timings should automatically appear against each mouth movement.
 
-![](https://lh4.googleusercontent.com/ZnnGZCNgpT8bpFPUCxgqAvktE7d4pxhuqqUIkzm5rpFcIWaoal1VNeOJdPMJGisszM1ZVvbee6oe7cxdcyP3PshyNem7RtvN3ZE-P8Z0RDCmtiK8ublnC3rJQnWrthb1DnhJHrCb)
+![](../../../.gitbook/assets/base64826aa2c0a746480f.png)
 
 Repeat the process for the next phrase or group of phrases.
 
@@ -199,7 +199,7 @@ If you wish to assign a group of phrases/words/ phonemes from one Voice/timing T
 
 This step will help eliminate any words that xLights may not have in its library.
 
-![](https://lh5.googleusercontent.com/DRnK4SJnWQaXE2anSDZl4YvtUqcqsmiwXh4iOB97d13WI\_5kMTYaVtMLM1Nqo8cE\_Tbh0Ry4GsH1Y45qRsLIRze3OnSTwMU0BVk9VJX9quNXlrSMlsAHkTYIZr\_TJlsQTFyHH227)
+![](<../../../.gitbook/assets/pasted image 0 (20).png>)
 
 As you breakdown words in xLights, occasionally you may see that there is no phonetic breakdown of the word placed in the timing track. As shown below.
 
