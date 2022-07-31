@@ -30,13 +30,9 @@ To open a recently used sequence, select any item from this list.
 
 ### ![](<../../../.gitbook/assets/Save Seq Icon.JPG>) Save Sequence
 
-To save an open sequence, either use the Save Sequence icon, select Save Sequence from the File menu or press Ctrl S. If the sequence has not been saved previously, you will be presented with the Save As dialogue window to enter the name for the sequence.&#x20;
+To save an open sequence, either use the Save Sequence icon, select Save Sequence from the File menu or press Ctrl S. If the sequence has not been saved previously, you will be presented with the Save As dialogue window to enter the name for the sequence. If the Render on Save setting (under the Settings menu) is set (i.e. checked) then all the effects on all the models will be rendered first before the sequence is saved in the FSEQ file. This is the default. Progress status messages are displayed on the last line of the window with a progress bar indicating the render progress.
 
-![](../../../.gitbook/assets/image.png)
-
-If the Render on Save setting (under the Settings menu) is set (i.e. checked) then all the effects on all the models will be rendered first before the sequence is saved in the FSEQ file. This is the default. Progress status messages are displayed on the last line of the window with a progress bar indicating the render progress.
-
-![](<../../../.gitbook/assets/base6468e83ff059cafe45 (1).png>)
+![](https://lh6.googleusercontent.com/XdorBo\_jMjRBVLxsXQjZcniuopWa\_2AmoKz18QLEITefXPqyaTnxJVJf06Bx8F7WHKIBILhrl02UCfbmjr0VyZfoIVGXNMMf0lfKZBKevy19iWwPhaHuRQVL81-siV36P27rXQ3t)
 
 When the sequence has completed saving, a message will be displayed on the last line indicating the name of the FSEQ file and how long the save process took.
 
@@ -52,13 +48,13 @@ You can stretch and expand the window to see all the models.
 
 To save an open sequence with a different name, either use the Save As Sequence icon or select Save As Sequence from the File menu. You will be presented with the Save As dialogue window to enter the name for the sequence. If the Render on Save setting (under the Settings menu) is set (i.e. checked) then all the effects on all the models will be rendered first before the sequence is saved in the FSEQ file. This is the default. Progress status messages are displayed on the last line of the window. When the sequence has completed saving, a message will be displayed on the last line indicating the name of the FSEQ file and how long the save process took.
 
-![](../../../.gitbook/assets/base6468e83ff059cafe45.png)
+![](https://lh5.googleusercontent.com/CMIxBkjv8lszeDMpF5uho5zzSLKbwoUTf9jWMZEi1JukbOr\_uXHDRCdlG68WWcIuwDtZrIXpmcT4U2IziKDbz21WmsYY4Gedu9edqC-oc3tIpvUA2jl5ovjtJop7X4rxDr-Yzfwk)
 
 ### Close Sequence
 
 To close the currently open sequence, select Close Sequence from the File menu. If the sequence data has not been saved since the last change, you will be presented with warning.
 
-![](../../../.gitbook/assets/base645363772b692fdadc.png)
+![](https://lh5.googleusercontent.com/b48\_Ioe-qDn8JtZ5y3L06TS7EMIlVHLwmtUmX\_MgkJEZdg3aKNODtC8YD-17Frzw7OL8gC7jW6vJGOySgALafvbCKamUAgXiYpA\_4qyHjkRoEhvwVfUv8J-ext88QyY\_41EmtItW)
 
 Click on Save Changes if you want to save your changes. If you click Cancel then you will be returned to the sequence. If you select and click Discard Changes, then the sequence will be closed without any sequence changes being saved.
 
