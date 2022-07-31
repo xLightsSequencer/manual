@@ -32,7 +32,7 @@ To open a recently used sequence, select any item from this list.
 
 To save an open sequence, either use the Save Sequence icon, select Save Sequence from the File menu or press Ctrl S. If the sequence has not been saved previously, you will be presented with the Save As dialogue window to enter the name for the sequence.&#x20;
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (2).png>)
 
 If the Render on Save setting (under the Settings menu) is set (i.e. checked) then all the effects on all the models will be rendered first before the sequence is saved in the FSEQ file. This is the default. Progress status messages are displayed on the last line of the window with a progress bar indicating the render progress.
 
@@ -153,5 +153,5 @@ To quit xLights, select Quit from the File menu or press ALT+F4.
 
 If you have a sequence open and the sequence data has not been saved since the last change, you will be presented with the Save Sequence Dialog.
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](../../../.gitbook/assets/image.png)
 

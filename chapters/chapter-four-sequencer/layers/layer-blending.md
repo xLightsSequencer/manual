@@ -30,11 +30,11 @@ Click the Question Mark(?) Button for more Information.
 Put two effects on a model and step through each of the layering modes to see what they will look like. Experience is much better than reading about it.
 {% endhint %}
 
-| ![](https://lh4.googleusercontent.com/V8anpIiG1f5aYJ60kDHXNGLhglrgRmTyjTM3Wd3c5JCEY9dNEbmR2m7jrQeGhjZxTYKAyQHbhHSxfcxL20L7s8xRIdOT1st7LUJKjNLBGAjGDr0P8tErSN9NapyKVdUdvVKL5Px6) | ![](https://lh3.googleusercontent.com/sq\_4VDV8u57kiPplEK0rYzk3MP\_sbl7XD2C3g-27EQGxfUTiXa5euHLQho9Od1iDLfAucWNOpgNMP3GxfOOna2jOV2EYdotEuz4n5HIcJykWh4E2arCCMEkqHw1uWQMuTM6NPlj0) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](<../../../.gitbook/assets/pasted image 0 (7).png>) | ![](<../../../.gitbook/assets/pasted image 0 (8).png>) |
+| ------------------------------------------------------ | ------------------------------------------------------ |
 
-| ![](https://lh3.googleusercontent.com/TiwAhBSivOEGP\_\_BypTtLI6Z-h7CIDfltjSPgO5zT3JMJQRun-Un9n1ZzfKUnXIQQxjOn98mFOxZx\_hg7F0y1tAdW\_YwYm2JAnKmFoaV6Hb1n305zB68dJtLqb-CGsQwEII\_Z2rO) | ![](https://lh3.googleusercontent.com/3kMspsbKTrIoT5C07g050wlSP\_HIX3LlcrD3OjGJAikyAToBQKoarq8ddfjAP1a5AzEg6q7RWRBSJmsqBP-0cgE8XL8oah7mrA6-j6cNHUBBK5MZeOztga1-0iuFeEirM70ScKuH) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](<../../../.gitbook/assets/pasted image 0 (9).png>) | ![](<../../../.gitbook/assets/pasted image 0 (10).png>) |
+| ------------------------------------------------------ | ------------------------------------------------------- |
 
 | ![](https://lh6.googleusercontent.com/8VqltNyiMNdMWdJ9jyiA8KO0CpuKyR\_GEZoDMDUZjQWcU0Lt6YX3fcZdJeFsn3BMQt2S2iVW5pd5P2h4coQj4AfvCc8UkTJxMCq9ef8N2GfX9oA8AKCesTpBxdhoxUk22DU19qaS) | ![](https://lh3.googleusercontent.com/\_3XMHX4fBN9nrSRO1xUp1Pb\_07nP9I2pTyIWslOF\_yX1uI1MVuMsgkCYyQIiFfrGzzAomcTHa2eTOzidsQQjeeZgsNfFR6\_tekDyRAKkEaHuq15fLcbjTjJ2jYhvNuy0DFY\_P4HL) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

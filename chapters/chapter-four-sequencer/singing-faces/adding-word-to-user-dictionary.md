@@ -52,7 +52,7 @@ Before following the rest of this process, close the current sequence and exit x
 
 If your user\_dictionary is not open, open it now. Highlight and copy this list and paste it into your open user\_dictionary and save the newly modified file. There is a small bug in xLights at the time this document was written which you need to compensate for. After pasting in the newly added words do a search and replace with a ‘ ‘ (space) for any ‘tab’ characters in the user\_dictionary. Between the "word" and the "phonemes" requires two spaces ('  ') and one space(' ') is required between phonemes.
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 
 
