@@ -32,13 +32,13 @@ To open a recently used sequence, select any item from this list.
 
 To save an open sequence, either use the Save Sequence icon, select Save Sequence from the File menu or press Ctrl S. If the sequence has not been saved previously, you will be presented with the Save As dialogue window to enter the name for the sequence. If the Render on Save setting (under the Settings menu) is set (i.e. checked) then all the effects on all the models will be rendered first before the sequence is saved in the FSEQ file. This is the default. Progress status messages are displayed on the last line of the window with a progress bar indicating the render progress.
 
-![](https://lh6.googleusercontent.com/XdorBo\_jMjRBVLxsXQjZcniuopWa\_2AmoKz18QLEITefXPqyaTnxJVJf06Bx8F7WHKIBILhrl02UCfbmjr0VyZfoIVGXNMMf0lfKZBKevy19iWwPhaHuRQVL81-siV36P27rXQ3t)
+![](../../../.gitbook/assets/base6468e83ff059cafe45.png)
 
 When the sequence has completed saving, a message will be displayed on the last line indicating the name of the FSEQ file and how long the save process took.
 
 If you click on the green progress bar, a window opens and you can see the render progress of each model / model group.
 
-![](https://lh4.googleusercontent.com/473Yghbd6zklRFXzsAQB5o8nrtS4OpQCLlFMhNc5pvfjsLwo\_mf8HOtk0F-wk9Rq8kl-jPSZsaqD9FSz9-V-tbTTyaHHg0ToOSPfHDFCiAGFUIKwcHJqi1ZpUl\_XQa9afGR1R94R)
+![](../../../.gitbook/assets/base64c2a8aa2599b2c7da.png)
 
 One line is displayed for each model or Model group that is being rendered.
 
