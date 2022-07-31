@@ -54,7 +54,7 @@ On OSX use Cmd key instead of Ctrl key.
 
 In order to align several effects to the same start or end times , drag a box around all the effects you want to align and then hold down shift and click the effect you want to be the reference. Then right click and select Alignment. You can then select one of the four options to align to the effect you selected as your reference. In the example below, the Start times of three effects have been aligned to the Start of the Bar effect just below them.
 
-![](../../../.gitbook/assets/base64e74cce99ecc03fae.png)![](../../../.gitbook/assets/base6432f828dde02ca5ab.png)![](https://lh3.googleusercontent.com/znUN3tNC1yZuHkbakVK\_-DhriO0hFMLv\_tgpz7Xsyk7R8agAsp9FLc-IuYJA6m4vUYHzg4ikbi62N6WgI486ybzbgavUp-E\_h9HxCOquiz8u-9Q-fv-IykNo2SHLykfIoYeh\_w2P)
+![](../../../.gitbook/assets/base64e74cce99ecc03fae.png)![](../../../.gitbook/assets/base6432f828dde02ca5ab.png)![](../../../.gitbook/assets/base647f4ebbc1b3541d5c.png)
 
 You can even select a timing effect as the reference and it will align to that timing effect.
 
@@ -76,7 +76,7 @@ Paste by Time is the most common option. You do not need to have a timing track 
 
 Paste by Cell works using timing tracks. A timing track must be active when you copy, so that the cells to be copied can be determined from the active timing track. You can use this option to copy timings/timing data (such as the phonemes used for singing faces).
 
-You can use this option to paste effects to cells of a different size to the cells you copied from. If the source cell was a full cell, then the target cells will be filled. If the source cell was ½ filled, then the target cell will also be ½ filled ie it will be pasted to the same proportion as the source cell.![](https://lh6.googleusercontent.com/gW8C6JhtWXWial1ISOiizOFYGnYs8GrjitlFJXU\_nAWeulBDplkmNyvj6SBeOFUUSqr7wcBxV3jIjTRRi\_OKEaNoDnBvuglFBOvtruq9MrpbCsnt2oqtu-P7JG7mkAgNQZLGl57P) ![](https://lh5.googleusercontent.com/AFe1xkHG2KSH6BpPJ8ZaHlsdAIMnhIZKbGiKO7H0gzTbW1BJjV\_UnpHuxsIzEJIAYigIxHTdnm55xN5hfRM3fc88dBflWn3RACvK10mDQVwIYyZTBR05JGdunne2uNQ8u8YWdv\_U)
+You can use this option to paste effects to cells of a different size to the cells you copied from. If the source cell was a full cell, then the target cells will be filled. If the source cell was ½ filled, then the target cell will also be ½ filled ie it will be pasted to the same proportion as the source cell.![](../../../.gitbook/assets/base64869573ca9ad587f1.png) ![](../../../.gitbook/assets/base6422de96d6060fb905.png)
 
 Examples
 
@@ -135,13 +135,13 @@ You can also use the shortcut key of Ctrl+Z. The Undo actions can be daisy chang
 
 In order to select a group of effects, use the left mouse key to select the range of effects. The color of the cells change, but also, the links in the selected cells will turn to magenta.
 
-![](https://lh4.googleusercontent.com/OJsgd2zREwRoCu5kx60O8Mvy327Oe34woFuyaAAXfunWJwMGf9Bem3W4hWw5foMjh5ffqPZqmY5-BikqWCo6\_V91r4cbIn7pDcoYf8g9\_NAPW\_rdegmYatb9ZLs21yyDLG0yMlQI)
+![](../../../.gitbook/assets/base64fac2f5c2fd584b23.png)
 
 You can only select a group of cells, when the cursor looks like a pointing hand.
 
-![](https://lh4.googleusercontent.com/i6Wjlo7vFMSHL6mwDS84A2DP-FGggkbY6\_pN2uTZ6kBVMNsQlt2NXJeR4Yf7ydVGIia3pnkO8uXXtEHepAa2aUs-SHtyCRZl2rS75LEMbNZFQBXA6I5jLrhc5FxCQwX8GQUjf2iJ)
+![](../../../.gitbook/assets/base64ad3150adf33809de.png)
 
-![](https://lh6.googleusercontent.com/lDvo9hZSI1-l2zT2PkRz4lYwVJuJJDlotXq2q22fsB5MM2KpU\_9aEK3-A3ABGWXHEiOFwnRBQA7Etpl9bDY2Ajy-VaV4s0WYrx4sTC\_Mg5U4TJctA9IWxftlNtbJt\_3kFI-EtHe-)
+![](../../../.gitbook/assets/base6441800d4872eb0369.png)
 
 If two arrows are shown, then you can’t select the cells. You may need to zoom in to be able to see and select the required effects.
 

@@ -18,7 +18,7 @@ Create a new sequence, either a musical or animation. See New Sequence Page for 
 [new-sequence.md](new-sequence.md)
 {% endcontent-ref %}
 
-![](https://lh5.googleusercontent.com/qyXD1YaXRWTasP70uLegmuhm8C-T9itwNjo4-FkGnidvmLdau9QQDBDxf\_lRBIUHKibhKXVGDW9LxlIcn3waWCR1mEcWcUDmxKlI6Ma6JHrUHLuRFBx1oOlTQ9LFaOw-5X2yU2LB)
+![](<../../../.gitbook/assets/pasted image 0 (5).png>)
 
 ### ![](<../../../.gitbook/assets/Open Seq Icon.JPG>) Open Sequence
 
