@@ -18,7 +18,7 @@ This will not back up any images, pictures or media files.
 
 A message is displayed indicating the name and location of the backup files.
 
-![](https://lh5.googleusercontent.com/1FiwD0OceJZWIBo59970AGhf7OgQbfU0xCZYgdGhdOYdMT6CHQ8T\_05PdZlltOK5gBd3xQfQUcEq2TMtN7X2nsIju0Y7\_JZOJ4BQ15c5UUtk-Sdq\_26h3ytomkHGIMl3oG2BdGrl)
+![](../../.gitbook/assets/base64114bea2328539ba3.png)
 
 Select Yes to accept. Then, from the file menu again, click on Close Sequence.
 
@@ -26,6 +26,6 @@ Then click on Quit.
 
 If the following message is displayed, xLights has detected that there has been a change to the Model or View definitions that has yet to be saved.
 
-![](https://lh3.googleusercontent.com/P0kwwHQy73eMDquOi9aiak9nMBULUy90y\_gwvNW0vLft9vB47KvuUXHXGnICTbPpcZnUGUkElxomAJqAs2H54fGB6WcDtc0HTcD-1pLx37ZGyfLOTiVzf84qzT0DLVlGQJ6BawCs)
+![](../../.gitbook/assets/base6467fd721a0490a796.png)
 
 Click on ‘Save Changes’ to save.
