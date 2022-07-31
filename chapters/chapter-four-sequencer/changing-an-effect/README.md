@@ -54,7 +54,7 @@ On OSX use Cmd key instead of Ctrl key.
 
 In order to align several effects to the same start or end times , drag a box around all the effects you want to align and then hold down shift and click the effect you want to be the reference. Then right click and select Alignment. You can then select one of the four options to align to the effect you selected as your reference. In the example below, the Start times of three effects have been aligned to the Start of the Bar effect just below them.
 
-![](../../../.gitbook/assets/base64e74cce99ecc03fae.png)![](https://lh4.googleusercontent.com/VP5UXDN2kF4u3ZTsHDrbm8idiq9pJsFhw8I17rpXbrNTsrypXNTcBc39vdDJyWHTaw1W7d88Z198lXM\_jfNrQO1098XQS4Jc3YVGS7GXxkZFNshc9y1-Dvg9Gnna-cKEVQ84D2pr)![](https://lh3.googleusercontent.com/znUN3tNC1yZuHkbakVK\_-DhriO0hFMLv\_tgpz7Xsyk7R8agAsp9FLc-IuYJA6m4vUYHzg4ikbi62N6WgI486ybzbgavUp-E\_h9HxCOquiz8u-9Q-fv-IykNo2SHLykfIoYeh\_w2P)
+![](../../../.gitbook/assets/base64e74cce99ecc03fae.png)![](../../../.gitbook/assets/base6432f828dde02ca5ab.png)![](../../../.gitbook/assets/base647f4ebbc1b3541d5c.png)
 
 You can even select a timing effect as the reference and it will align to that timing effect.
 
@@ -76,7 +76,7 @@ Paste by Time is the most common option. You do not need to have a timing track 
 
 Paste by Cell works using timing tracks. A timing track must be active when you copy, so that the cells to be copied can be determined from the active timing track. You can use this option to copy timings/timing data (such as the phonemes used for singing faces).
 
-You can use this option to paste effects to cells of a different size to the cells you copied from. If the source cell was a full cell, then the target cells will be filled. If the source cell was ½ filled, then the target cell will also be ½ filled ie it will be pasted to the same proportion as the source cell.![](https://lh6.googleusercontent.com/gW8C6JhtWXWial1ISOiizOFYGnYs8GrjitlFJXU\_nAWeulBDplkmNyvj6SBeOFUUSqr7wcBxV3jIjTRRi\_OKEaNoDnBvuglFBOvtruq9MrpbCsnt2oqtu-P7JG7mkAgNQZLGl57P) ![](https://lh5.googleusercontent.com/AFe1xkHG2KSH6BpPJ8ZaHlsdAIMnhIZKbGiKO7H0gzTbW1BJjV\_UnpHuxsIzEJIAYigIxHTdnm55xN5hfRM3fc88dBflWn3RACvK10mDQVwIYyZTBR05JGdunne2uNQ8u8YWdv\_U)
+You can use this option to paste effects to cells of a different size to the cells you copied from. If the source cell was a full cell, then the target cells will be filled. If the source cell was ½ filled, then the target cell will also be ½ filled ie it will be pasted to the same proportion as the source cell.![](../../../.gitbook/assets/base64869573ca9ad587f1.png) ![](../../../.gitbook/assets/base6422de96d6060fb905.png)
 
 Examples
 
