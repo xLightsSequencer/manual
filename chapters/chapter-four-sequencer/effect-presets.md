@@ -30,7 +30,7 @@ If you change something within an effect preset that you have selected, you can 
 
 To export a preset , select the Preset name from the list in the Preset panel, then click on Export preset. Specify a name and click on Save. A file with the selected name and a ‘.xpreset’ suffix  will be created.
 
-![](https://lh4.googleusercontent.com/4RlSLa0Am4npMeqlVBHLn1gtsThAxBWv9lOfvyDf3QNxqXAVotwX2usWI1g5usl3julVTzJGX9MXayp64SBkOeTfxvB4kvWk5NfRc0IrqJAwQkAoXT\_0qaqKcnLLIwco7pnn6ZqQ)
+![](../../.gitbook/assets/base647725910886760bb3.png)
 
 ### Import Presets
 

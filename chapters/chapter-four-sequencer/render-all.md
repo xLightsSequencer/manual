@@ -10,7 +10,7 @@ The ‘Render All’ function is used to force a render of all effects - that ha
 
 The Data Layer order renders from the bottom to top. Therefore what is on the top layer will be done last – much like painting – the last brush strokes are on the top.
 
-![](https://lh5.googleusercontent.com/1RzP8lBxdakPtz4z5UzqFi1ZJtAsjga6ljhSnCE\_QgOB\_Wd-78uE5gaAqW8b2Gn\_OV0RS7O4esmern6jZzsQ6rWKI1kkQfO2JNycupM24z0\_imAP4BfrnaJpouEP-5q6BqOYk2sP)
+![](<../../.gitbook/assets/xlights render order.jpg>)
 
 Model layers also render from the bottom to top. Therefore the bottom layer will be rendered first, then the layer above it and do on until the top layer is rendered last.
 
