@@ -18,7 +18,7 @@ Right click on the Timing grid names (in the area highlighted on the screen).
 
 Select the Edit Display Elements option from the pop up window.
 
-![](../../../.gitbook/assets/base6465c67d29500aedde.png)
+![](https://lh5.googleusercontent.com/ulL6RSBnP1k22c\_RYnGyg-K6sDCHs5b\_kGTzMDkHj5tuAAq5snpVnagIg2JBH9XP2sC2bmguTkd26m\_Dpirf-xgS1kfRtiaEQhcBUJ-JQvJw9KD7NATtsAyuctUTJt2d5ZS4hlzt)
 
 Select the Master View from the top window.
 
