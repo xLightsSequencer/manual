@@ -1,6 +1,6 @@
 # History
 
-![Matt Brown & Sean Meighan](https://lh6.googleusercontent.com/\_EEJr1Cgp4lyua4aNeMDWc1sHPiBugD\_cDszKjy6U0kGlq0WKrIohKtzflGEQAVsT3xCjZpAxt1Ui5DRo8WKn7LVNsCPzeR667-r9FivIVa\_-u8qylAppS7h0vkjdQB3dFI6ybB3\_F9v)
+![Matt Brown & Sean Meighan](../../.gitbook/assets/mattandsean.jpg)
 
 ## xLights & Nutcracker
 
