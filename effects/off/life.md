@@ -1,10 +1,10 @@
 # Life
 
-![Icon](<../../.gitbook/assets/image (732).png>)
+![Icon](<../../.gitbook/assets/image (122) (1).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (354).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (444).png>)
 
-![](<../../.gitbook/assets/image (671).png>)
+![](<../../.gitbook/assets/image (499).png>)
 
 The Life effect simulates the Game of Life cellular automation model. One or multiple colors can be used for the effect.
 

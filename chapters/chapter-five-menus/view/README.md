@@ -2,28 +2,28 @@
 
 ## View
 
-![](<../../../.gitbook/assets/image (382).png>)
+![](<../../../.gitbook/assets/image (607).png>)
 
 The view menu enables you to zoom in or out on the sequencer view, define and use Perspectives and nominate which windows you want to have open.
 
-### ![](<../../../.gitbook/assets/Zoom In Icon.JPG>) Zoom In
+### ![](../../../.gitbook/assets/zoom-in-icon.JPG) Zoom In
 
 Selecting this option while on the sequencer tab will zoom in on the details on the sequencer grid. Use this for fine tuning timing marks or effects.
 
 Zooming in can be performed by:
 
 * Selecting _View/Zoom In_ from the Menu Bar
-* Clicking on the Zoom In Icon on the Tool Bar ![](<../../../.gitbook/assets/Zoom In Icon.JPG>)&#x20;
+* Clicking on the Zoom In Icon on the Tool Bar ![](../../../.gitbook/assets/zoom-in-icon.JPG)&#x20;
 * Using the + (plus) key on the keyboard
 
-### ![](<../../../.gitbook/assets/Zoom Out Icon.JPG>) Zoom Out
+### ![](../../../.gitbook/assets/zoom-out-icon.JPG) Zoom Out
 
 Selecting this option while on the sequencer tab will zoom out of the details on the sequencer grid. Use this for seeing more of the sequence.
 
 Zooming in can be performed by:
 
 * Selecting _View/Zoom Out_ from the Menu Bar
-* Clicking on the Zoom Out Icon on the Tool Bar ![](<../../../.gitbook/assets/Zoom Out Icon.JPG>)&#x20;
+* Clicking on the Zoom Out Icon on the Tool Bar ![](../../../.gitbook/assets/zoom-out-icon.JPG)&#x20;
 * Using the - (minus) key on the keyboard
 
 ### Reset Toolbars
@@ -32,11 +32,11 @@ The Reset Toolbar option, when selected, will reset the Toolbars to the default 
 
 ### AC Lights Toolbar
 
-![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (142).png>)
+![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (425).png>)
 
 The AC Lights Toolbar allows you to add On, Off, Shimmer, Twinkle, and Ramp effect in bulk, similar to LOR.
 
-![AC Lights Toolbar enabled](<../../../.gitbook/assets/image (598).png>)
+![AC Lights Toolbar enabled](<../../../.gitbook/assets/image (1) (1).png>)
 
 Select an Effect, using the On effect in this example, then click and drag on the desired rows to populated.
 
@@ -44,13 +44,13 @@ Select an Effect, using the On effect in this example, then click and drag on th
 
 The Effects will be places in the selected area.
 
-![](<../../../.gitbook/assets/image (659).png>)
+![](<../../../.gitbook/assets/image (202).png>)
 
 ### Show AC Ramps
 
 Show Start and End Intensity for effects, similar to LOR.
 
-![](<../../../.gitbook/assets/image (301).png>)
+![](<../../../.gitbook/assets/image (448).png>)
 
 ### Windows
 

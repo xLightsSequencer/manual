@@ -1,5 +1,5 @@
 # Sequencer Tab
 
-![](../../.gitbook/assets/xLights-Logo.png)
+![](../../.gitbook/assets/xlights-logo.png)
 
-![](<../../.gitbook/assets/image (164).png>)
+![](<../../.gitbook/assets/image (614).png>)

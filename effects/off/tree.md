@@ -1,10 +1,10 @@
 # Tree
 
-![Icon](<../../.gitbook/assets/image (475).png>)
+![Icon](<../../.gitbook/assets/image (624).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (462).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (220).png>)
 
-![](<../../.gitbook/assets/image (474).png>)
+![](<../../.gitbook/assets/image (64) (1).png>)
 
 The Tree effect creates a series of zigzag branches against a colored background. This effect is best used against a tree type of model such as a mega tree. The first color selected will be used as the background color for the model (i.e. the mega tree). Subsequent color(s) will be used for each branch.
 

@@ -14,7 +14,7 @@ A model is made up of one or more strands, and each strand is made up of one or 
 
 At the top of the layout screen is a row of Model icons. If you hover the cursor on each icon, the model name will be displayed. The model icons represent an Arch, Candy Cane, Circle, Custom model, Icicles Matrix, Single Line, Spinner, Star, Tree, Window Frame, Wreath and Import Custom. The last icon labelled ‘Import’ Custom enables you to import and create a custom model that has been exported from another sequence.
 
-![](<../../../.gitbook/assets/image (700).png>)
+![](<../../../.gitbook/assets/image (213) (1).png>)
 
 To define a new Model, click on the Model icon that you wish to create once. The model icon will have a dark blue square around it. Then with your mouse left button click on the layout canvas , and keep your mouse button still held down. The model shape will appear on the canvas in yellow. If it does not , then left click on the canvas and drag slightly. At the same time , a model is created and displayed in the Model panel that is normally to the left of the Layout screen.
 
@@ -74,7 +74,7 @@ If a Model group name is selected when you create a model , the model will autom
 
 To delete a model, highlight the model on the Layout canvas and press the Delete key or press Ctrl X. You can hold down the cursor and drag to form a rectangle around the model and then delete.
 
-![](<../../../.gitbook/assets/image (1078).png>)
+![](<../../../.gitbook/assets/image (655).png>)
 
 You can also Right Click on the Model name in the Model list panel. A ‘Delete’ pop up window will be displayed. Click on it to confirm and delete the model.
 
@@ -108,7 +108,7 @@ If the ‘Overlap checks enabled’ attribute is selected, when you click on the
 
 ## Right Click Menu
 
-![](<../../../.gitbook/assets/image (707).png>)
+![](<../../../.gitbook/assets/image (60) (1).png>)
 
 {% hint style="info" %}
 The Right Click Menu has some entries that don't apply to individual models and they will not be covered in this section.
@@ -132,7 +132,7 @@ The node layout window is then displayed. The s1, s2, etc. represent the string 
 
 Lock a model in place to prevent it from being moved. The Model handles will appear red when a model is locked.
 
-![](<../../../.gitbook/assets/image (733).png>)
+![](<../../../.gitbook/assets/image (320) (1).png>)
 
 ### Unlock
 
@@ -146,7 +146,7 @@ Create a Custom Model file from a built in Model Type. Use only if you wire your
 
 Displays a view of how to wire your model based on the Model properties. This can be saved or printed by right clicking on the dialog.
 
-![](<../../../.gitbook/assets/image (760).png>)
+![](<../../../.gitbook/assets/image (336) (1).png>)
 
 {% hint style="warning" %}
 By default the Wiring View is set to the **backside** or **reverse view** of the model. To switch to the front side, Select "Front" from the right click menu.

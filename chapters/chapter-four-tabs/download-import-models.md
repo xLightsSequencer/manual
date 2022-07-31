@@ -2,39 +2,39 @@
 
 ## Download/Import Models
 
-![](<../../.gitbook/assets/image (873).png>)
+![](<../../.gitbook/assets/image (31) (1).png>)
 
 ## Import Model
 
-![Import Model Button](<../../.gitbook/assets/image (738).png>)
+![Import Model Button](<../../.gitbook/assets/image (429).png>)
 
 After Selecting the Import Model Button, You must click and drag out a box and release on the layout screen to represent the imported model location.
 
-![Empty Model Box](<../../.gitbook/assets/image (316).png>)
+![Empty Model Box](<../../.gitbook/assets/image (717).png>)
 
 Then select the local .xmodel file with the File Select Window
 
 ![File Select Window](<../../.gitbook/assets/image (781).png>)
 
-![Imported Model ](<../../.gitbook/assets/image (274).png>)
+![Imported Model ](<../../.gitbook/assets/image (209).png>)
 
 The imported model will be the same model type it was exported as. If the .xmodel file contains a custom Model, the imported model will also be a custom model.
 
 ## Download Model
 
-![Download Model Button](<../../.gitbook/assets/image (222).png>)
+![Download Model Button](<../../.gitbook/assets/image (351) (1).png>)
 
 After Selecting the Download Model button, You must click and drag out a box and release on the layout screen to represent the downloaded model location.
 
-![Empty Model Box](<../../.gitbook/assets/image (316).png>)
+![Empty Model Box](<../../.gitbook/assets/image (717).png>)
 
 The Model Dialog will appear where you can select the desired model you would like to insert.
 
-![Download Model Dialog](<../../.gitbook/assets/image (920).png>)
+![Download Model Dialog](<../../.gitbook/assets/image (475).png>)
 
 Click Insert and Model will be added to your layout.
 
-![ChromaFlake Model](<../../.gitbook/assets/image (888).png>)
+![ChromaFlake Model](<../../.gitbook/assets/image (633) (1).png>)
 
 {% hint style="info" %}
 Models for supported built in model types like trees, stars, wreaths(circle model) will NOT appear in the download model dialog.

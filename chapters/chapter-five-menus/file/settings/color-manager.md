@@ -4,83 +4,83 @@
 
 The Color Tab allows the user to change the colors options of xLights. The First two Columns Relate to the colors in the Sequence Tab, while the third column changes Layout Colors.
 
-![](<../../../../.gitbook/assets/image (885).png>)
+![](<../../../../.gitbook/assets/image (724).png>)
 
 ## Sequencer Colors
 
 ### Timing Tracks
 
-![](<../../../../.gitbook/assets/image (851).png>)
+![](<../../../../.gitbook/assets/image (581).png>)
 
 These Colors are used for the Timing Tracks Header's background color in the Sequence Tab.
 
-![Sequence Tab Timing Tracks](<../../../../.gitbook/assets/image (503).png>)
+![Sequence Tab Timing Tracks](<../../../../.gitbook/assets/image (588).png>)
 
 ### Timings
 
 Changed the Timing Mark's Color.
 
-![Timing Marks](<../../../../.gitbook/assets/image (39).png>)
+![Timing Marks](<../../../../.gitbook/assets/image (412).png>)
 
 ### Effects
 
 Effects Changes the Color of the "Bounding Boxes" of the Effects
 
-![Effects Bounding Box Color](<../../../../.gitbook/assets/image (277).png>)
+![Effects Bounding Box Color](<../../../../.gitbook/assets/image (670).png>)
 
 ### Effect Selected
 
 Selected Effect Color (When Mouse Click and Dragging to select multiple effects.)
 
-![](<../../../../.gitbook/assets/image (922).png>)
+![](<../../../../.gitbook/assets/image (665).png>)
 
 ### Effect Referenced
 
 Effect Referenced Color.(The Effect the Effect Settings Dialog is Currently Referencing)
 
-![](<../../../../.gitbook/assets/image (40).png>)
+![](<../../../../.gitbook/assets/image (468).png>)
 
 ### Row Heading
 
 Row Heading Background Color
 
-![](<../../../../.gitbook/assets/image (831).png>)
+![](<../../../../.gitbook/assets/image (679).png>)
 
 ### Row Heading Text
 
 Row Heading Text Color
 
-![](<../../../../.gitbook/assets/image (206).png>)
+![](<../../../../.gitbook/assets/image (353) (1).png>)
 
 ### Row Heading Selected
 
 Currently Selected Row Heading Color
 
-![Selected](<../../../../.gitbook/assets/image (877).png>)
+![Selected](<../../../../.gitbook/assets/image (6) (2).png>)
 
 ### Dashed Selected
 
 Mouse Click and Drag Box Color
 
-![](<../../../../.gitbook/assets/image (537).png>)
+![](<../../../../.gitbook/assets/image (440).png>)
 
 ### Gridlines
 
 The color of the Gridlines between the rows and columns.(Red in the Picture Below)
 
-![](<../../../../.gitbook/assets/image (675).png>)
+![](<../../../../.gitbook/assets/image (176).png>)
 
 ### Labels
 
 Timing Track Label Background Color
 
-![](<../../../../.gitbook/assets/image (488).png>)
+![](<../../../../.gitbook/assets/image (319).png>)
 
 ### Labels Outline
 
 Timing Track Label Outline Color
 
-![](<../../../../.gitbook/assets/image (337).png>)
+![](<../../../../.gitbook/assets/image (140).png>)
 
 ### Phrases
 
@@ -98,51 +98,51 @@ Singing Faces Words Background Color
 
 Singing Faces Phonemes Background Color
 
-![](<../../../../.gitbook/assets/image (582).png>)
+![](<../../../../.gitbook/assets/image (217) (1).png>)
 
 ### Fixed Timings
 
 Timing Tracks that cannot be edited.
 
-![](<../../../../.gitbook/assets/image (216).png>)
+![](<../../../../.gitbook/assets/image (562).png>)
 
 ### Locked Effects
 
 Selected Locked Effect (Click and Drag Select)
 
-![](<../../../../.gitbook/assets/image (502).png>)
+![](<../../../../.gitbook/assets/image (430).png>)
 
 ### Locked Reference Effect
 
 Locked Effect Referenced Color (The Effect the Effect Settings Dialog is Currently Referencing)
 
-![](<../../../../.gitbook/assets/image (390).png>)
+![](<../../../../.gitbook/assets/image (396).png>)
 
 ### Waveform
 
 Audio Waveform Color
 
-![](<../../../../.gitbook/assets/image (426).png>)
+![](<../../../../.gitbook/assets/image (582) (1).png>)
 
 ### Waveform Background
 
 Audio Waveform Background Color
 
-![](<../../../../.gitbook/assets/image (883).png>)
+![](<../../../../.gitbook/assets/image (627) (1).png>)
 
 ### Waveform Selected
 
 Audio Waveform Selected Color
 
-![](<../../../../.gitbook/assets/image (883).png>)
+![](<../../../../.gitbook/assets/image (627) (1).png>)
 
-![](<../../../../.gitbook/assets/image (593).png>)
+![](<../../../../.gitbook/assets/image (668).png>)
 
 ### Waveform Selected Effects
 
 Audio Waveform Selected Effect Interval Marker Color
 
-![](<../../../../.gitbook/assets/image (887).png>)
+![](<../../../../.gitbook/assets/image (465) (1).png>)
 
 ## Layout Tab
 
@@ -150,27 +150,27 @@ Audio Waveform Selected Effect Interval Marker Color
 
 Model Color
 
-![](<../../../../.gitbook/assets/image (249).png>)
+![](<../../../../.gitbook/assets/image (740).png>)
 
 ### Model Selected
 
 Model Selected Color
 
-![](<../../../../.gitbook/assets/image (701).png>)
+![](<../../../../.gitbook/assets/image (738).png>)
 
 ### Model Overlap
 
 Color of other models with overlapping channels of the selected model. Overlap checks enabled must me active for this to appear.
 
-![](<../../../../.gitbook/assets/image (946).png>)
+![](<../../../../.gitbook/assets/image (59) (2).png>)
 
-![](<../../../../.gitbook/assets/image (647).png>)
+![](<../../../../.gitbook/assets/image (701).png>)
 
 ### Dashed Selected
 
 Mouse Click and Drag Box Color
 
-![](<../../../../.gitbook/assets/image (820).png>)
+![](<../../../../.gitbook/assets/image (69) (1).png>)
 
 ## Buttons
 

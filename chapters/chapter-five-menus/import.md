@@ -8,11 +8,11 @@
 
 The import effects dialog allows the user to import effects from other sequences in the currently open sequence. This option should be used when importing purchased sequences from different vendors.
 
-![](<../../.gitbook/assets/image (71).png>)
+![](<../../.gitbook/assets/image (747).png>)
 
 The Import Effect dialog supports multiple sequence file formats. xLights, Light-o-rama S4, S5, SuperStar, Vixen 2, Vixen 3(limited), HLS, LSP, VSA File formats are all supported.
 
-![](<../../.gitbook/assets/image (389).png>)
+![](<../../.gitbook/assets/image (370).png>)
 
 ### Importing an xLights Sequence
 
@@ -29,11 +29,11 @@ Step 1
 
 Create a new directory and unzip the sequence files to that directory. It is recommended to create this directory within your show folder. The zip file should contain the xlights\_rgbeffects.xml, the sequence.xsq or sequence.xml and any other required files(image, shader, etc files). Change the show folder in xLights to point to the new directory. Copy the music file to the new folder if missing.
 
-![](<../../.gitbook/assets/image (252).png>)
+![](<../../.gitbook/assets/image (206).png>)
 
 Open the sequence, click on Render All and Save the sequence. You should be able to see how the lights flow in the layout window. Study the sequence and determine which models you wish to copy to your own models.
 
-![](<../../.gitbook/assets/image (710).png>)
+![](<../../.gitbook/assets/image (409) (1).png>)
 
 {% hint style="success" %}
 Print out the model names from the shared sequence as you will need to know those when you import.
@@ -70,15 +70,15 @@ Select the file type of XML by changed the dropdown at the bottom right. Select 
 
 A model mapping window is displayed. On the top left is a list containing the timing tracks to import. On the left are the models and model groups from YOUR layout/sequencer tab("Model"). 'Blue' items are Model Groups. On the right is a list of models/groups/submodels ("Available") that contain effects from the sequence being imported. Click and drag a model name from the right list to the ‘Map To’ column in the row that you want to import the model to. You may also highlight the "Map To" cell and double click on a "Available" model to map it or highlight a "Available" model and double click the "Map To" cell.
 
-![Import Dialog](<../../.gitbook/assets/image (517).png>)
+![Import Dialog](<../../.gitbook/assets/image (143).png>)
 
 Models in the "Available" list will turn gray when used. These items can still be used multiple times even when grayed out.
 
-![](<../../.gitbook/assets/image (631).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 When done, select "Save Mapping", and save the XMAP file. This XMAP file can then be loaded in the future when mapping another sequence from the same layout.
 
-![](<../../.gitbook/assets/image (245).png>)
+![](<../../.gitbook/assets/image (453) (1).png>)
 
 Click OK when done.
 
@@ -86,19 +86,19 @@ Click OK when done.
 
 Change the File Type drop-down to SUP. Then select the SuperStar Sequence File.
 
-![File Select Dialog](<../../.gitbook/assets/image (508).png>)
+![File Select Dialog](<../../.gitbook/assets/image (358).png>)
 
 The SuperStar Import Dialog will then appear. Select the xlights model to import the SuperStar file onto.
 
-![](<../../.gitbook/assets/image (856).png>)
+![](<../../.gitbook/assets/image (527) (1).png>)
 
 xLights will create pictures from the SuperStar files. The next dialog asks the user to select a folder to save these pictures files too. In the file name field set the 'base' file name. This 'base' name is used as the file name root of all the saved image files. In most cases just set the 'base' name to the SUP file name.
 
-![](<../../.gitbook/assets/image (189).png>)
+![](<../../.gitbook/assets/image (134).png>)
 
 The SUP file will then be imported to the specified model as picture and morph effects.
 
-![](<../../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/image (287).png>)
 
 ### Importing a LOR Sequence
 

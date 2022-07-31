@@ -1,10 +1,10 @@
 # Warp
 
-![Icon](<../../.gitbook/assets/image (717).png>)
+![Icon](<../../.gitbook/assets/image (301) (1).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (941).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (626) (1).png>)
 
-![](<../../.gitbook/assets/image (567).png>)
+![](<../../.gitbook/assets/image (150).png>)
 
 The Warp Effect is a canvas mode effect. By itself it does nothing. The warp effect distorts the pixels in the layers below it. The Canvas option in Layer Blending must be enabled for it to work.
 

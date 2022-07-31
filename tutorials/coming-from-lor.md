@@ -121,11 +121,11 @@ Create a new music sequence, add timing tracks and add the models you have defin
 
 Using the Import, Import Effects menu, change the ‘Import file’ file to LOR Music Sequence - LMS, navigate to where the LOR LMS file is and select the file to Import.
 
-![](<../.gitbook/assets/image (850).png>)
+![](<../.gitbook/assets/image (466) (1).png>)
 
 On the Map Channels dialog, all the xLights models will appear on the left hand side and all the LOR Channels on the right side.
 
-![](<../.gitbook/assets/image (708).png>)
+![](<../.gitbook/assets/image (534).png>)
 
 Do not select the Map by Strand/CCR option in this case.
 
@@ -133,19 +133,19 @@ Highlight the 'Map To' Cell – in line with the model name. Double Click the LO
 
 When Done, Save the mapping first, so that you can re-use it later.
 
-![](<../.gitbook/assets/image (331).png>)
+![](<../.gitbook/assets/image (731).png>)
 
 Click OK to start the process.
 
-![](<../.gitbook/assets/image (427).png>)
+![](<../.gitbook/assets/image (330).png>)
 
 Double Click the model name and then double click the stand name to see the effects on the nodes.
 
-![](<../.gitbook/assets/image (261).png>)
+![](<../.gitbook/assets/image (694).png>)
 
 Click on the Render All icon and play the sequence.
 
-![](<../.gitbook/assets/image (731).png>)
+![](<../.gitbook/assets/image (75) (1).png>)
 
 {% hint style="success" %}
 **If you were importing data from a Singing face where your model has multiple channels, then you need to double click in the Channel column, but against the node row instead.**

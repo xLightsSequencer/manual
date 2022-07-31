@@ -8,37 +8,37 @@ As an example, I am creating an Arch model and will call it ‘Arch 1’. The ar
 
 Click on the Layout tab, then click on the Arches icon. The selected icon will have a blue square around it.
 
-![](<../../.gitbook/assets/image (871).png>)
+![](<../../.gitbook/assets/image (20) (1).png>)
 
 Then click anywhere on the Canvas and drag slightly. An image of an arch will be displayed and an Arch model called ‘Arches’ (the default name that is assigned to the model may be slightly different) will be created with a default set of model settings.
 
-![](../../.gitbook/assets/addarc.gif)
+![](<../../.gitbook/assets/addarc (1).gif>)
 
 Change the Model name to ‘Arch-1’. Click the Tab or Enter Key to set the new name.
 
-![](<../../.gitbook/assets/image (893).png>)
+![](<../../.gitbook/assets/image (212).png>)
 
 Change the Nodes Per Arch value to 25.
 
-![](<../../.gitbook/assets/image (458).png>)
+![](<../../.gitbook/assets/image (211).png>)
 
 Set the controller to "Main Controller" or whatever name you set in the controller tab.
 
-![](<../../.gitbook/assets/image (179).png>)
+![](<../../.gitbook/assets/image (75).png>)
 
 Set the Controller Connection Port to 1. This is the port of the controller the model will be physically  connected too.
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (84).png>)
 
 The Start and End channel will be automatically calculated by xLights based on the model settings and the controller settings selected.
 
-![](<../../.gitbook/assets/image (183).png>)
+![](<../../.gitbook/assets/image (56).png>)
 
 If you are adding a second model to the same controller port, set the model chain order to determine the model order on the controller output.
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (24).png>)
 
-![](<../../.gitbook/assets/image (178).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 {% hint style="success" %}
 You can change the model name or any settings by typing over/editing the settings field. For some settings, click in the settings field, to the right of the setting name.
@@ -54,11 +54,11 @@ Use the blue dots around the model to resize and rotate it if required. To move 
 
 The starting location of the model can be changed to the 'Blue' or 'Green' square.
 
-![](<../../.gitbook/assets/image (836).png>)
+![](<../../.gitbook/assets/image (538).png>)
 
 Click on the Save button (just below the Models button) to save the work that you have done so far. This includes the Model definition and its position on the Layout.
 
-![](<../../.gitbook/assets/image (220).png>)
+![](<../../.gitbook/assets/image (132).png>)
 
 {% hint style="info" %}
 The 'Save' button will appear red when unsaved changes are present.

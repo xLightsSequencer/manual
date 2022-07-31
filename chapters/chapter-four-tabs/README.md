@@ -1,5 +1,5 @@
 # Layout Tab
 
-![](../../.gitbook/assets/xLights-Logo.png)
+![](../../.gitbook/assets/xlights-logo.png)
 
-![](<../../.gitbook/assets/image (157).png>)
+![](<../../.gitbook/assets/image (39).png>)

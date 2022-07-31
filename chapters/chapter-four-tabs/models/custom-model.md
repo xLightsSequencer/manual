@@ -8,9 +8,9 @@ xLights enables you to define models that do not fit into the concept of predesi
 
 A custom model grid will be displayed in which you enter numbers in the grid representing the nodes/channels in your model.
 
-![](<../../../.gitbook/assets/image (514).png>)
+![](<../../../.gitbook/assets/image (348).png>)
 
-![](<../../../.gitbook/assets/image (97).png>)
+![](<../../../.gitbook/assets/image (235).png>)
 
 Change the width and height values to increase the size of the grid to fit the layout.
 
@@ -20,7 +20,7 @@ The depth is used to make a 3D custom model. Future edits to the manual will ela
 
 The Right Click Menu Allows you to Flip, Rotate, Compress, Trim Unusued Space, and Shrink Space.
 
-![](<../../../.gitbook/assets/image (322).png>)
+![](<../../../.gitbook/assets/image (338).png>)
 
 For example, to model a custom candy cane with 12 nodes, you could have a grid 4 columns wide and 10 rows high. Place the numbers 1-9 up the right hand side, 10 and 11 in the middle cells in the top row and 12 would go in column A row 2. This is shown below.
 
@@ -28,15 +28,15 @@ For example, to model a custom candy cane with 12 nodes, you could have a grid 4
 There is no undo button, If you mess up your model. Click the Cancel button and none of your changes will be saved.
 {% endhint %}
 
-![](<../../../.gitbook/assets/Custom Candy Cane.JPG>)
+![](../../../.gitbook/assets/custom-candy-cane.JPG)
 
 Click on the Wiring View Button to open a window which will display the nodes and wires as they would be installed in the actual model, based on the layout entered in the grid. Note that the wiring view is shown from the reverse view (back side of the model) below. This is the view as if the pixels are being pushed in from the backside. Right clicking on the wiring view will provide options for changing the background color, font side, and viewing from the front or backside, as well as a few others.
 
-![](<../../../.gitbook/assets/Custom Candy Cane Wiring.JPG>)
+![](../../../.gitbook/assets/custom-candy-cane-wiring.JPG)
 
 The Right Click on the Custom Menu grid gives options to Flip, Rotate, Compress, Trim Unusued Space, and Shrink Space.
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (526).png>)
 
 Click on the Horizontal Flip or Vertical Flip buttons to shift the nodes in the grid horizontally or vertically, which will also change the output of the Wiring View if selected.
 
@@ -48,11 +48,11 @@ To erase a number in a cell, selected the cell and press the Delete key.
 
 You can delete multiple cells by drawing a box around them and then pressing Delete.
 
-![](<../../../.gitbook/assets/image (394).png>)
+![](<../../../.gitbook/assets/image (675) (1).png>)
 
 You can use the ‘+’ and ‘-‘ keys to make zoom in and out, respectively.
 
-To copy a custom model generated in Excel, copy the cells in Excel, select Column A, Row 1 in the custom model grid, and then click on the paste icon. ![](<../../../.gitbook/assets/Paste Icon.JPG>)
+To copy a custom model generated in Excel, copy the cells in Excel, select Column A, Row 1 in the custom model grid, and then click on the paste icon. ![](../../../.gitbook/assets/paste-icon.JPG)
 
 Click OK to save the model.
 
@@ -60,11 +60,11 @@ Click OK to save the model.
 
 From the Layout screen, click on the custom model icon and drag and draw a custom model, as described above. Click on the ... button at the far right of the Background Image Row. A window will open to prompt for the location of an image file. Browse to and select the image.
 
-![](<../../../.gitbook/assets/Custom Model Background.JPG>)
+![](../../../.gitbook/assets/custom-model-background.JPG)
 
 Alternatively, open the Model Data window to open the Custom Model Window and select the file using the Browse button.
 
-![](<../../../.gitbook/assets/image (689).png>)
+![](<../../../.gitbook/assets/image (130).png>)
 
 Click on the Model Data attribute. This will open up a window with the image in the background which will fill the grid size. Adjust the size of the grid by increasing the width and height values. Click on the ‘+’ and ‘-’ buttons to Zoom in and out of the grid.
 
@@ -72,7 +72,7 @@ Click on the Model Data attribute. This will open up a window with the image in 
 
 The Background image slider can be used to adjust the brightness of the background so that the image is just visible. This will enable you to more easily see the numbers on the image and around the outline. Slide to the left for 100% brightness and to the right for 0% brightness. The magnifying glass at the right side of the slider will toggle the image on and off.
 
-![](<../../../.gitbook/assets/image (689).png>)
+![](<../../../.gitbook/assets/image (130).png>)
 
 You can then start typing the numbers in the positions that the pixels would be located. In this example, it would be around the edges of the snowman and hat.
 
@@ -106,7 +106,7 @@ A custom model can be exported so that it can be shared with others, used in dif
 
 To export a Custom Model, select the model and right click. Select Export xLights Model.
 
-![](<../../../.gitbook/assets/Custom Model Right Click.JPG>)
+![](../../../.gitbook/assets/custom-model-right-click.JPG)
 
 You will be prompted to specify a location and filename. Enter the filename click on Save. Note that the xLights custom models use a ".xmodel" file extension.
 

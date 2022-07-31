@@ -24,7 +24,7 @@ The image size has to be the same as the default image and as such, it is not av
 
 The preview window can now be used to create Models or Model Groups against similar to the Default Preview layout. Models can be reassigned to the different Preview by changing the "Preview" Model Setting.
 
-![](<../../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (650).png>)
 
 If you wish to delete the preview , right click within the window and click on the ‘Delete this Preview’ option.
 
@@ -32,7 +32,7 @@ If you wish to delete the preview , right click within the window and click on t
 
 When a Preview is Deleted, All the Models currently assigned to it will become unassigned and need to be reassigned to another preview.
 
-![](<../../.gitbook/assets/image (243).png>)
+![](<../../.gitbook/assets/image (210).png>)
 
 When an additional Preview is created, a ‘Previews’ option to select and open it on your sequencer will be available on the View menu. Click on the preview name to open the Preview window. This option is not available if only the Default preview exists.
 
