@@ -219,14 +219,14 @@ On the sequencer tab , after creating a new musical sequence or opening an exist
 
 Specify the number of frames to offset the data by. Due to a performance limitation in the Papagayo software, a sequence often had to be broken up into segments. In which case the second segment had to be offset by the number of frames of the first segment.
 
-![](https://lh3.googleusercontent.com/YBH6edh3YAaayIAPb7RAvN8B\_nHTFop0uYj2v2dgC5uTEEdOxkZ\_-YWm0VoKkQlq5KSE13M3GVlIZYhT0ZY81rPm\_rB9n7Bz-nW08JxpVUdSdf9XoBNWL6lhLD3JSr3yCGuiT1x3)
+![](../../../.gitbook/assets/base645a6cec02a5d7dc53.png)
 
 For the first segment being imported the offset is zero. Click on OK.
 
 The Phrases, words and phonemes are imported and a timing track with the three components is created for each Voice contained in the PGO file. The phrases, words and phonemes can then be edited, moved and adjusted similar to one that had been created within xLights.
 
-![](https://lh3.googleusercontent.com/Kp-DRVjI63YfzFTyWNbqpSW7VfPRwpmpvbjxaoi5DJNxkiOyVR8szpVP0CEyvI2byErZw8HkTZfi5rDy6YBc-vdAu4fcG2-ahrO31vF1v\_6kl8Mb6byPXBfZaMTmmyvj-DRbdDji)
+![](../../../.gitbook/assets/base64dfe97e6e8030dbde.png)
 
 The following image shows a snippet of what the file contains. The 4th line contains the total number of frames and the 5th line has the number of Voices in the file, followed by the details for each voice.
 
-![](https://lh6.googleusercontent.com/i0CiIAwX0IRtYyYO7u12AxUyz8JY-M3pms4KLv-GwwI8sit4\_GjRggKtRSkGe5vxvptH2k-Gx32zZRYa44rhKeelTPX\_IQqBsQ22B9UKr5Zej9PsVY6x6IwXFbh3ufngvpPbu5iN)
+![](../../../.gitbook/assets/base64a0221d1404e750b6.png)
