@@ -86,7 +86,7 @@ Then for each mouth position, double click in the eyes open column (you may need
 
 The 'Download Images' button will display a list of user submitted singing faces images. Select the 'Insert Face' to download the pictures files to 'DownloadedFaces' folder in the show folder. This will also populate the face definitions in the main dialog.
 
-![](<../../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 {% hint style="warning" %}
 Pay attention the image resolution compared to the matrix resolution. High resolution image will not scale well to low resolution matrices.

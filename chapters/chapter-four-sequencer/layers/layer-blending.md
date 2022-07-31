@@ -45,8 +45,8 @@ Put two effects on a model and step through each of the layering modes to see wh
 | ![](https://lh4.googleusercontent.com/vI5xoCUy3qeAk7PRT4jPCCaB44CsaS0jkWyRFkPyq6ypXpID8scYE7uH9XByY9CcLdFMD4PFERqBeO5fo9Pu-WvdIw5CyCYxLa7dqlFdFR2eypJSP7-wNPxeKWqwWMGGxFlQUfjH) | ![](https://lh3.googleusercontent.com/mf1Cbrr0H1K1lHSLy9gvV-wrPx1yZw-t7jTC3C3mMYepNNPGwzWoCo1eyUHtLR5qC6tKinUE58YG2S3RD2b-nIENHgsGyty9r9\_u\_bpIPOu59UR8D7tHLKbS1M5fT1fGR3U08BLT) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![](https://lh4.googleusercontent.com/rHcnDr4nh31fHVu9XducJLzyh2HLigOqboa5xhk3bTZCidiQIVX2FikfvqALwAe5Lx-ROeYyVEmWsjA\_vpghk33fNGrW3yCyMgmVr8J0xSsWUMLp2KyMocDahCMm\_i5G\_-mFtAQB) | ![](https://lh6.googleusercontent.com/FQSejW7lYIs-ryKDejCx4WcAT2SNuOyb5xp0XCUGAQZ8zH6pl8ovFGT5Qd4qx2up48dctGm2-abtKkxIcoNQLhyhhF8vGZh82n1UKq1emftL5zPXhHQ3dKKPhgcf1DWMKQ86Fiky) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](<../../../.gitbook/assets/pasted image 0 (16).png>) | ![](<../../../.gitbook/assets/pasted image 0 (15).png>) |
+| ------------------------------------------------------- | ------------------------------------------------------- |
 
 ### Morph
 
