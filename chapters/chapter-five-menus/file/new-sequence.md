@@ -2,7 +2,7 @@
 
 To create a new sequence, either use the New Sequence icon, select New Sequence from the File menu or press Ctrl N.  The following screen is displayed:
 
-![](https://lh5.googleusercontent.com/qyXD1YaXRWTasP70uLegmuhm8C-T9itwNjo4-FkGnidvmLdau9QQDBDxf\_lRBIUHKibhKXVGDW9LxlIcn3waWCR1mEcWcUDmxKlI6Ma6JHrUHLuRFBx1oOlTQ9LFaOw-5X2yU2LB)
+![](<../../../.gitbook/assets/pasted image 0 (6).png>)
 
 {% hint style="info" %}
 If you do change your mind about creating a sequence, click on the Don’t Create Sequence button.
