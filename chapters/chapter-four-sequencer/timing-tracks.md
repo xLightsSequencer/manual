@@ -108,7 +108,7 @@ Right Click on the Timing Track name and select Import Notes.
 
 Specify a name for the Timing Track to be created , the Notes Source, and then navigate to and select the file from which the notes are to be Import.
 
-![](<../../.gitbook/assets/base6476790ad4ccc42820 (1).png>)
+![](../../.gitbook/assets/base6476790ad4ccc42820.png)
 
 Click OK and the Timing track will be created from the notes.
 
