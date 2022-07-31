@@ -4,7 +4,7 @@
 
 The Channel Block can be used to define an arbitrary amount of channels. It can be used to 'model' generic channel to be used or AC Lights, relays, smoke machines, etc.
 
-![](<../../../.gitbook/assets/image (1148).png>)
+![](../../../.gitbook/assets/image.png)
 
 ### # Channels
 

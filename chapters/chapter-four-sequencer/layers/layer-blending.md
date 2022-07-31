@@ -39,11 +39,11 @@ Put two effects on a model and step through each of the layering modes to see wh
 | ![](https://lh6.googleusercontent.com/8VqltNyiMNdMWdJ9jyiA8KO0CpuKyR\_GEZoDMDUZjQWcU0Lt6YX3fcZdJeFsn3BMQt2S2iVW5pd5P2h4coQj4AfvCc8UkTJxMCq9ef8N2GfX9oA8AKCesTpBxdhoxUk22DU19qaS) | ![](https://lh3.googleusercontent.com/\_3XMHX4fBN9nrSRO1xUp1Pb\_07nP9I2pTyIWslOF\_yX1uI1MVuMsgkCYyQIiFfrGzzAomcTHa2eTOzidsQQjeeZgsNfFR6\_tekDyRAKkEaHuq15fLcbjTjJ2jYhvNuy0DFY\_P4HL) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-| ![](https://lh4.googleusercontent.com/8LTkMkBO9AqpwK82ATLogim9HngDobt8GVbJSrz2Q5QiKasgF9\_4RPzxo61ZWIbmHKngbkG353hAk1uee3CJTyvg7edIchztC2rcPdtVPEZuzyfFo58OEMtd8XhbMUriCxtmL\_dC) | ![](https://lh6.googleusercontent.com/alwH3SKJi7U2v9j8gFA85DkVvaLYb34Up1xvNVswL2qho029hY6KbcrCPpuRGQYhJgBjAqwmixLrseDqEE9c6c-je0\_bs4rCrjz3DE3qySu5DE6tGNOE6s9K6QUn\_Oiy1m9GoCnt) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](<../../../.gitbook/assets/pasted image 0 (13).png>) | ![](<../../../.gitbook/assets/pasted image 0 (14).png>) |
+| ------------------------------------------------------- | ------------------------------------------------------- |
 
-| ![](https://lh4.googleusercontent.com/vI5xoCUy3qeAk7PRT4jPCCaB44CsaS0jkWyRFkPyq6ypXpID8scYE7uH9XByY9CcLdFMD4PFERqBeO5fo9Pu-WvdIw5CyCYxLa7dqlFdFR2eypJSP7-wNPxeKWqwWMGGxFlQUfjH) | ![](https://lh3.googleusercontent.com/mf1Cbrr0H1K1lHSLy9gvV-wrPx1yZw-t7jTC3C3mMYepNNPGwzWoCo1eyUHtLR5qC6tKinUE58YG2S3RD2b-nIENHgsGyty9r9\_u\_bpIPOu59UR8D7tHLKbS1M5fT1fGR3U08BLT) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](<../../../.gitbook/assets/pasted image 0 (17).png>) | ![](<../../../.gitbook/assets/pasted image 0 (18).png>) |
+| ------------------------------------------------------- | ------------------------------------------------------- |
 
 | ![](<../../../.gitbook/assets/pasted image 0 (16).png>) | ![](<../../../.gitbook/assets/pasted image 0 (15).png>) |
 | ------------------------------------------------------- | ------------------------------------------------------- |

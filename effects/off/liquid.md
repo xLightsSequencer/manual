@@ -2,7 +2,7 @@
 
 ## Liquid
 
-![Icon](<../../.gitbook/assets/image (4) (1).png>)
+![Icon](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (457).png>)
 
