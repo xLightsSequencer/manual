@@ -10,7 +10,7 @@ Select the Reverse attribute to set the the crock of the cane facing the opposit
 
 In this example, a Candy Cane model has three canes in one set. Each cane has 18 nodes in it.
 
-![](<../../../.gitbook/assets/image (207).png>)
+![](<../../../.gitbook/assets/image (63).png>)
 
 The start channel address is 1 and it is has  RGB pixel nodes so it will use 54 channels.
 

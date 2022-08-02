@@ -4,7 +4,7 @@
 
 The Channel Block can be used to define an arbitrary amount of channels. It can be used to 'model' generic channel to be used or AC Lights, relays, smoke machines, etc.
 
-![](<../../../.gitbook/assets/image (162).png>)
+![](<../../../.gitbook/assets/image (22).png>)
 
 ### # Channels
 
@@ -14,4 +14,4 @@ Number(#) of Channels defines the size of the channel block. These Individual ch
 
 Channel Color determines what color in the sequencer will "activate" this channel block channel. If set to 'White' all three RGB channel values will be use to set the output channel value. If set to 'Red' only the Red channel values will be use to set the output channel value.
 
-#### ![](<../../../.gitbook/assets/image (73).png>)&#x20;
+#### ![](<../../../.gitbook/assets/image (77).png>)&#x20;

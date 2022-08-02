@@ -1,8 +1,8 @@
 # Shape
 
-![Icon](<../../.gitbook/assets/image (48).png>)
+![Icon](<../../.gitbook/assets/image (48) (1).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (661).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (661) (1).png>)
 
 ![](<../../.gitbook/assets/image (495).png>)
 

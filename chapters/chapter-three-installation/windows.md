@@ -4,7 +4,7 @@
 
 The latest release of xLights for Windows can be found at the following link: [https://xlights.org/releases/](https://xlights.org/releases/). This page has a link to the 64 bit main xLights installer. There is also a link to the Queen Mary Vamp Plugins and the Microsoft Visual C++ 2015 Redistributable which is required by the QM Vamp Plugins.
 
-![](<../../.gitbook/assets/image (703).png>)
+![](<../../.gitbook/assets/image (703) (1).png>)
 
 ## Installing xLights <a href="#installing" id="installing"></a>
 

@@ -2,7 +2,7 @@
 
 ## Sequences
 
-![](<../../../../.gitbook/assets/image (6).png>)
+![](<../../../../.gitbook/assets/image (815).png>)
 
 ### Render On Save
 
@@ -18,7 +18,7 @@ When enabled, the Model Blending option in the sequence settings dialog will be 
 
 ### Default View For New Sequences
 
-![](<../../../../.gitbook/assets/image (36).png>)
+![](<../../../../.gitbook/assets/image (762).png>)
 
 Select a View to default as the Master View when creating a new sequence.
 
@@ -32,7 +32,7 @@ Render Cache allows xLights to render an effect or group of effects once and the
 
 This defines where the render cache files are saved on disk. If "Use Show Folder" is 'checked' xLights will use the current show folder. If 'unchecked' and a folder path is specified all the Render Cache data will be saved to that location. If this folder doesn't exist (move computers or remove a harddrive) the Render Cache directory will default back to the show directory.
 
-![](<../../../../.gitbook/assets/image (827).png>)
+![](<../../../../.gitbook/assets/image (129).png>)
 
 {% hint style="info" %}
 There is a purge render cache option under Tools->Purge Render Cache.
@@ -50,7 +50,7 @@ In order to recover your sequence file from an unexpected error or corruption to
 
 ### Media/Resource Directories
 
-![](<../../../../.gitbook/assets/image (75).png>)
+![](<../../../../.gitbook/assets/image (85).png>)
 
 This defines where xLights will search for audio/picture/video files, This should only be set if  the audio/picture/video files are **not** stored in the current show folder or a sub-directory of the current show folder. On Mac OS, adding folders in this section will give xLights the correct permissions to search them.
 
@@ -60,12 +60,12 @@ This will save the current rendered data to the FSEQ file on save. If this setti
 
 ### FSEQ Version
 
-![](<../../../../.gitbook/assets/image (83) (2).png>)
+![](<../../../../.gitbook/assets/image (83) (1).png>)
 
 Version 1 is the "original" FSEQ file format. V1 files contain all the channel data and can be very large file. xLights, FPP, and most controllers support V1. Version 2 of the FSEQ file format added compression and "skips" off channels to reduce file sizes. FPP 2.5 and lower do not support the V2 file format. ZSTD, ZLIB, Uncompressed are additional options to select which compression format to use. ZSTD is the default and is the preferred setting. These options can be changed in xLights to generate FSEQ files in the different file format for devices that require them. xLights 2019.64 and FPP 2.6+ support all the available file formats.
 
 ### FSEQ Directory
 
-![](<../../../../.gitbook/assets/image (43).png>)
+![](<../../../../.gitbook/assets/image (1).png>)
 
 This defines where xLights will save FSEQ files. The FSEQ files are the raw sequence data for each sequence. If "Use Show Folder" is 'checked' xLights will use the current show folder. If 'unchecked' xLights will use the set folder path. If this folder doesn't exist (move computers or remove a harddrive) the FSEQ directory will default back to the show directory.

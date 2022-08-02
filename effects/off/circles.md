@@ -4,7 +4,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (419).png>)
 
-![](<../../.gitbook/assets/image (205).png>)
+![](<../../.gitbook/assets/image (205) (1).png>)
 
 The Circles effect creates solid sphere like objects that move seemingly in random fashion on a model.
 

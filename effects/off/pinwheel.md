@@ -6,7 +6,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (640).png>)
 
-![](<../../.gitbook/assets/image (801).png>)
+![](<../../.gitbook/assets/image (174).png>)
 
 The Pinwheel effect generates a rotating pinwheel arrangement or radial rays type of effect.
 

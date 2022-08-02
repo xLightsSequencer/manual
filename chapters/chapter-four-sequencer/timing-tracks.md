@@ -4,7 +4,7 @@
 
 xLights can support multiple timing tracks on the sequencer, each with different frequencies of timing marks. By default, a timing track ‘New Timing’ is created for each sequence if you have not created one when creating a new sequence. Timing Tracks can be added via the File, Sequence Settings, Timing menu.
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (233).png>)
 
 ![](../../.gitbook/assets/base64295102e85a0ab30.png)
 
@@ -108,7 +108,7 @@ Right Click on the Timing Track name and select Import Notes.
 
 Specify a name for the Timing Track to be created , the Notes Source, and then navigate to and select the file from which the notes are to be Import.
 
-![](../../.gitbook/assets/base6476790ad4ccc42820.png)
+![](<../../.gitbook/assets/base6476790ad4ccc42820 (1).png>)
 
 Click OK and the Timing track will be created from the notes.
 

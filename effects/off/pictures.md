@@ -2,7 +2,7 @@
 
 ![Icon](<../../.gitbook/assets/image (783).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (684) (1).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (684).png>)
 
 {% tabs %}
 {% tab title="Start Position" %}
@@ -18,7 +18,7 @@
 {% endtab %}
 
 {% tab title="End Scale" %}
-![](<../../.gitbook/assets/image (167).png>)
+![](<../../.gitbook/assets/image (167) (1).png>)
 {% endtab %}
 {% endtabs %}
 

@@ -1,8 +1,8 @@
 # Servo
 
-![Icon](<../../.gitbook/assets/image (161) (1).png>)
+![Icon](<../../.gitbook/assets/image (161).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (201).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (201) (1).png>)
 
 ![](<../../.gitbook/assets/image (702).png>)
 

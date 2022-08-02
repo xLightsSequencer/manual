@@ -1,6 +1,6 @@
 # Ripple
 
-![Icon](<../../.gitbook/assets/image (361) (1).png>)
+![Icon](<../../.gitbook/assets/image (361).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (255).png>)
 

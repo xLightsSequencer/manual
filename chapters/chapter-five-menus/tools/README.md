@@ -18,7 +18,7 @@ The Test Dialog enables you to test anything from a single channel, all channels
 
 The Check Sequence option runs a series of verification routines against the currently loaded setup, layout and sequence. This process will generate a text file containing information on the controller outputs, channel mappings and model information as well as identify any potential issues which could cause problems within xLights. Selecting the option will open up a text file using the default text file editor on your computer.
 
-![](<../../../.gitbook/assets/image (665).png>)
+![](<../../../.gitbook/assets/image (127).png>)
 
 {% hint style="warning" %}
 ERRORS in a check sequence file indicate there is something wrong with your setup, layout, or sequence and the show will not run correctly. Errors should be fixed before trying to run the sequence from your controllers.
@@ -30,7 +30,7 @@ WARNINGS are indications that something is not typical, but the show will still 
 
 Cleanup File Locations will move all the files currently used by xLights (audio, videos, pictures, etc) into the Show directory. This is useful when backing up or packaging your sequence for sharing, so that all of the needed files and paths are retained.
 
-![](<../../../.gitbook/assets/image (506).png>)
+![](<../../../.gitbook/assets/image (252).png>)
 
 ### Package Sequence
 
@@ -42,7 +42,7 @@ The Download Sequences/Lyrics Dialog provides a list of free sequences available
 
 This Dialog also contains links to the Singing Faces Project Lyric tracks. You must be a member of the singing faces project to access these files.
 
-![](<../../../.gitbook/assets/image (646) (1).png>)
+![](<../../../.gitbook/assets/image (646).png>)
 
 ### Batch Render
 
@@ -71,7 +71,7 @@ If a Error is found during batch rendering, xLights will display a popup and wil
 
 ### FPP Connect
 
-![](<../../../.gitbook/assets/image (350) (1).png>)
+![](<../../../.gitbook/assets/image (350).png>)
 
 FPP Connect is used to upload to a Falcon Pi Player that is playing the role as a show player the channel and model configurations and one or more sequences (including associated audio).
 
@@ -83,21 +83,27 @@ FPP Connect is used to upload to a Falcon Pi Player that is playing the role as 
 
 Bulk Controller Upload allows the user to upload the E1.31 Universe Inputs, and Controller String port Settings. Check the controllers you would like to upload and click upload.
 
-![](<../../../.gitbook/assets/image (435).png>)
+![](<../../../.gitbook/assets/image (21).png>)
 
 ### HinksPix Export
 
 HinksPix Export dialog is used to generate the required SD card files to use the HinksPix controllers in standalone mode. The selected sequences files will be generated for the selected controllers.
 
-![](<../../../.gitbook/assets/image (386).png>)
+![](<../../../.gitbook/assets/image (573).png>)
+
+### Run Scripts
+
+This dialog allows the user to run Lua scripts to automate xLights functions.
+
+![](<../../../.gitbook/assets/image (830).png>)
 
 ### Export Models
 
-The Export Models functionality creates a CSV file with the details of all your models. Click on the Export Models menu item. You will be prompted for a filename and location to create the file in. Specify the filename and click OK.
+The Export Models functionality creates a Spreadsheet (.xlsx) file with the details of all your models. Click on the Export Models menu item. You will be prompted for a filename and location to create the file in. Specify the filename and click OK.
 
-![](<../../../.gitbook/assets/image (825).png>)
+![](<../../../.gitbook/assets/image (207).png>)
 
-A CSV file will be created with a row for each model defined listing all the key attributes. Spreadsheet programs such as Excel are used to view CSV files.
+The Spreadsheet file will be created with a row for each model defined listing all the key attributes. Additional sheets are added with group attributes and global Channel/pixel counts. Spreadsheet programs such as Microsoft Excel or [LibreOffice ](https://www.libreoffice.org/)are used to view the .xlsx files.
 
 ![](https://lh5.googleusercontent.com/Ng4CzpTHY-h6Y0K-bYhN1m43tYah9lQ-Bq8uEYyQMWgJjXm-gmi\_3-s0pVPDhjRQiEU5OWgontRRuZtm-7\_TmvM-p\_mKDEYkpCqg0gZ\_7yR20ToyIQ\_JRc1WHhGQS5UDMidnjhlf)
 
@@ -107,13 +113,19 @@ The Export Effects functionality creates a CSV file with the details of all the 
 
 A CSV file will be created with a row for each effect defined listing all the key attributes. In addition summary rows are created showing the number of times each sequence is used as well as the total duration of each effect.
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](<../../../.gitbook/assets/image (68).png>)
+
+### Export Controller Connections
+
+The Export Controller Connections option creates a Spreadsheet with all the controller to model wiring information. This is meant to be used as a prop "hookup" list.
+
+![](<../../../.gitbook/assets/image (822).png>)
 
 ### View Log
 
 The View Log option, enables a user to view the information / debug log that xLights maintains, if required to troubleshoot any problems and provide information when posting questions. Selecting the option will open up a text file using the default text file editor on your computer. Scroll to the bottom to view the latest messages that have been written to the log.
 
-![](<../../../.gitbook/assets/image (307).png>)
+![](<../../../.gitbook/assets/image (334).png>)
 
 ![](https://lh6.googleusercontent.com/lscnTcix3-SwMkjR-uFM7VHHMm6KNbCzv8dEY3C0XFvoydvjJ0mF\_aR9KQB6L7eUM1-dtHrKlHLvYUvraGQXxdCl7IWXM94glzxyBj7PO7sNvAy4iazRTtRf5JLY3NLeVU\_erdzy)
 
@@ -121,7 +133,7 @@ The View Log option, enables a user to view the information / debug log that xLi
 
 The Package Log Files option, provides functionality to package the required xLights XML/XSQ and log files into a ZIP file which can then be provided for analysis. It is similar in content to the ZIP file created when a system crash occurs.
 
-![](<../../../.gitbook/assets/image (809).png>)
+![](<../../../.gitbook/assets/image (193).png>)
 
 From the Tools menu, with the sequence that needs to be investigated open, select the Package Log Files option. The required files will be zipped into a file ‘xLightsProblem.zip’ and you will be prompted to save it in the show directory.
 
@@ -147,13 +159,13 @@ This 2D Path Generate Tool allows you to create X and Y value curve "paths" that
 
 Click and Drag the endpoint Dots, to move them. Double Click to add a new Line Segment. The Browse button allows the user to load a image to trace if needed. The slider will adjust the image brightness. Load will allow you to edit previously generated files. The Generate Button will save the path to two value curves files (X & Y Direction) to be loaded by an effect.
 
-![ Value curve Files](<../../../.gitbook/assets/image (613).png>)
+![ Value curve Files](<../../../.gitbook/assets/image (613) (1).png>)
 
 ### Generate Custom Model
 
 The Generate Custom Model function enables you to generate an xLights custom model using a picture or video of the physical item. You should have defined your controller and need to know which channel the model will start on and how many channels.
 
-![](<../../../.gitbook/assets/image (760).png>)
+![](<../../../.gitbook/assets/image (112).png>)
 
 
 
@@ -161,17 +173,23 @@ The Generate Custom Model function enables you to generate an xLights custom mod
 [generate-custom-model.md](generate-custom-model.md)
 {% endcontent-ref %}
 
+### Remap Custom Models
+
+This tool is used to take a model with valid/useful face definitions, state definitions and submodels and remap them onto a model with a reordered wiring layout. The two models must be identically dimensioned custom model with pixels in all the same positions.
+
+![](<../../../.gitbook/assets/image (816).png>)
+
 ### Generate Lyrics From Data
 
 The Generate Lyrics From Data allows xLights to generate Lyric Timing Tracks with Phonemes from channel data. This data can be a LOR LMS or LAS file, that has been imported as a data layer first. Select the start channel of the channel data and the offset for each mouth movement channel. xLights will then generate the Phonemes Track from this data.
 
-![](<../../../.gitbook/assets/image (410).png>)
+![](<../../../.gitbook/assets/image (410) (1).png>)
 
 ### Convert
 
 The Convert function is commonly used to convert a sequence file from one sequencer format to the format of another sequencer or to the format (.fseq) required to run via Falcon Player on a Raspberry Pi or BeagleBone Black controller.
 
-![](<../../../.gitbook/assets/image (249).png>)
+![](<../../../.gitbook/assets/image (330).png>)
 
 {% content-ref url="convert.md" %}
 [convert.md](convert.md)
@@ -195,4 +213,16 @@ The User Lyric Dictionary Dialog allows the user to manually add word phonemes b
 
 ### xSchedule
 
-On windows and Linux this menu option will launch the xLights scheduler/player xSchedule.
+**Windows and Linux** - This menu option will launch the xLights scheduler/player xSchedule.
+
+### &#x20;xCapture
+
+**Windows and Linux** - This menu option will launch the xCapture E131 Recording Tool.
+
+### &#x20;xScanner
+
+**Windows and Linux** - This menu option will launch the xScanner, which can be used to discover controllers located on the network.
+
+### 2nd xLights
+
+**MacOS** - This menu option will launch the second instance of xLights that can be used for mapping sequences.

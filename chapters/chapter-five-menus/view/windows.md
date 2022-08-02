@@ -4,9 +4,9 @@
 
 There are a number of windows that enable simultaneous display of different views in xLights. When xLights first loads, a default set of windows are displayed. Which windows are open can be controlled via the Windows menu by selecting View, Windows and then clicking on the required window to open it. The window is dropped by default on the left side of the screen, however each window can be moved and docked to alternate locations on the same screen or moved to an alternate display screen if connected to your PC/ MAC.
 
-![](<../../../.gitbook/assets/image (200).png>)
+![](<../../../.gitbook/assets/image (200) (1).png>)
 
-![Window Toolbar](<../../../.gitbook/assets/image (359) (1).png>)
+![Window Toolbar](<../../../.gitbook/assets/image (359).png>)
 
 ### ![](../../../.gitbook/assets/display-elements-icon.JPG) Display Elements
 
@@ -28,7 +28,7 @@ The Model Preview window displays the effects on a model as the sequence is play
 
 The House Preview window displays the effects of your entire display where the model or model group has been assigned to the currently selected Preview window. Refer to explanations of multiple Preview windows in the Layout section. It can also be opened/closed by clicking on the icon on the toolbar.
 
-![](<../../../.gitbook/assets/image (487).png>)
+![](<../../../.gitbook/assets/image (487) (1).png>)
 
 ### ![](../../../.gitbook/assets/effect-settings-icon.JPG) Effect Settings
 
@@ -86,7 +86,7 @@ The Layer Settings menu has two tabs. The first tab (Buffer) defines how the eff
 {% endtab %}
 
 {% tab title="Roto-Zoom" %}
-![](<../../../.gitbook/assets/image (528).png>)
+![](<../../../.gitbook/assets/image (528) (1).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -112,13 +112,13 @@ The size on the icons on the Effects Toolbar can be adjusted by going to _Settin
 
 The Value Curves Dialog allows the user to drag and drop their saved values curves onto the desired effect setting.
 
-![](<../../../.gitbook/assets/image (434) (1).png>)
+![](<../../../.gitbook/assets/image (434).png>)
 
 ### Color Dropper
 
 The Color Dropper Dialog allows the user to drag and drop their saved colors/color curves onto the color palette.
 
-![](<../../../.gitbook/assets/image (671).png>)
+![](<../../../.gitbook/assets/image (671) (1).png>)
 
 ### Effect Assist
 
@@ -136,7 +136,7 @@ If you want single line morphs instead of area morphs then it's easier to just c
 
 The Select Effects Window allows the user to select effects based on type, model, and time. Based on the these selection, multiple effects can be selected and then bulk edit can be used to adjust the settings. This allows the user to, for example, select all the pinwheel effects on there mini trees and change the number of arms with bulk edit.
 
-![](<../../../.gitbook/assets/image (94).png>)
+![](<../../../.gitbook/assets/image (78).png>)
 
 The "Effect Type" allows the user to select which effect type to select.  The Model List allows the user to select which models to filter selection on. Only highlighted model names, will have their effects selected. The Time Fields allows the user to effect filter selection by time. The Effects by Time List displays all the effects found based on the other options and will select the highlighted items.
 
@@ -144,7 +144,7 @@ The "Effect Type" allows the user to select which effect type to select.  The Mo
 
 The Video Preview Window allows the user to preview the video file, they are using while sequencing it as the audio track.
 
-![](<../../../.gitbook/assets/image (18) (2).png>)
+![](<../../../.gitbook/assets/image (18) (1).png>)
 
 ### Jukebox
 

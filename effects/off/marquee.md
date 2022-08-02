@@ -1,8 +1,8 @@
 # Marquee
 
-![Icon](<../../.gitbook/assets/image (365).png>)
+![Icon](<../../.gitbook/assets/image (365) (1).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (462) (1).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (462).png>)
 
 {% tabs %}
 {% tab title="Settings" %}

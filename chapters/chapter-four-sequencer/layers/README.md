@@ -2,7 +2,7 @@
 
 ## Layers
 
-![](<../../../.gitbook/assets/image (579).png>)
+![](<../../../.gitbook/assets/image (579) (1).png>)
 
 Layering effects gives you the ability to create unlimited stunning effects that could not be created without layers.
 

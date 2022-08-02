@@ -74,7 +74,7 @@ If a Model group name is selected when you create a model , the model will autom
 
 To delete a model, highlight the model on the Layout canvas and press the Delete key or press Ctrl X. You can hold down the cursor and drag to form a rectangle around the model and then delete.
 
-![](<../../../.gitbook/assets/image (574).png>)
+![](<../../../.gitbook/assets/image (258).png>)
 
 You can also Right Click on the Model name in the Model list panel. A ‘Delete’ pop up window will be displayed. Click on it to confirm and delete the model.
 
