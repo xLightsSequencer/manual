@@ -2,7 +2,7 @@
 
 ## Layer Blending
 
-![](<../../../.gitbook/assets/image (144).png>)
+![](<../../../.gitbook/assets/image (872).png>)
 
 The Layer Blending window can be opened by clicking on the Layer Blending icon from the toolbar or via the View , Windows menus.
 
@@ -10,13 +10,13 @@ The Layer Blending window can be opened by clicking on the Layer Blending icon f
 
 #### Reset panel when changing effects
 
-![](<../../../.gitbook/assets/image (269) (1).png>)
+![](<../../../.gitbook/assets/image (269).png>)
 
 This will reset the Layer Setting back to default every time you select or create a new effect. Checked is the recommended setting for most users.
 
 ## Layer Blending
 
-![Layer Blending Dropdown](<../../../.gitbook/assets/image (57) (1).png>)
+![Layer Blending Dropdown](<../../../.gitbook/assets/image (57).png>)
 
 The Layer blending settings allows the user to dictate how effects on multiple layers will be merged together for a model/group/submodel.
 
@@ -24,7 +24,7 @@ When setting the layer blending modes, the current layer is considered layer 1 a
 
 Click the Question Mark(?) Button for more Information.
 
-![](<../../../.gitbook/assets/image (298).png>)
+![](<../../../.gitbook/assets/image (160).png>)
 
 {% hint style="success" %}
 Put two effects on a model and step through each of the layering modes to see what they will look like. Experience is much better than reading about it.
@@ -68,7 +68,7 @@ This will pause or stop an effect at the specified frame and hold that frame and
 
 There are 19 layer blending transition choices. Using the transitions will help you bridge between effects providing a way to smooth out abrupt changes between different effects. A stylistic use would be between sections of a song such as the chorus to verse or verse to verse. Keep in mind that the blending is done within the boundary of the timing mark and does not transition between timing marks.
 
-![](<../../../.gitbook/assets/image (227) (1).png>)
+![](<../../../.gitbook/assets/image (227).png>)
 
 These transitions are common in the video editing world, and should be visually familiar to anyone who’s used video editing software or anyone who’s watched anything on TV in the past 20 years.
 
@@ -110,7 +110,7 @@ This slider adjusts the level of each effect in the combined output of the effec
 
 ## Canvas
 
-![](<../../../.gitbook/assets/image (524).png>)
+![](<../../../.gitbook/assets/image (524) (1).png>)
 
 Canvas Mode is a special render mode that only works with specific effects. The default render mode in xLights will draw the effects on a blank buffer for each layer. Canvas Mode allows an effect to draw on a previous layer without "blanking it" out. This is used by effects like the Warp and Kaleidoscope Effect that manipulate data from the underlying layers.
 

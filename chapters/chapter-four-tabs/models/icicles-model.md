@@ -12,7 +12,7 @@ You can drag the green or top blue pixel to hang the icicles at an angle and the
 
 The drop pattern indicates how the pixels are arranged on each drop and how many.
 
-![](<../../../.gitbook/assets/image (147).png>)
+![](<../../../.gitbook/assets/image (888).png>)
 
 So, if the total lights on the string is 80 and the drop pattern is  3,4,5,4, this indicates that the first drop has 3 nodes, the next 4 , then 5 then 4.
 
@@ -20,4 +20,4 @@ This pattern is then repeated until 80 nodes have been accounted for.
 
 Alternate Nodes will skip every other hole to allow wiring up and down each icicle and prevent wire splicing.
 
-![](<../../../.gitbook/assets/image (82).png>)
+![](<../../../.gitbook/assets/image (819).png>)

@@ -56,17 +56,17 @@ If the controller dropdown is set to "Use Start Channel", by Default, xLights wi
 
 In this example, the Start Channel has been set to start immediately after the ‘Candy Canes-2’ model.
 
-![](<../../../../.gitbook/assets/image (142) (1).png>)
+![](<../../../../.gitbook/assets/image (142).png>)
 
 xLights will automatically calculate the start channel and end channels, and if the ‘Candy Canes-2’ model’s channels change, then the start and end channels for this model will automatically be recalculated.
 
 Click the ellipse button (three periods) to edit the start channel.
 
-![](<../../../../.gitbook/assets/image (128) (2).png>)
+![](<../../../../.gitbook/assets/image (128) (1).png>)
 
 Model Start Channel can use Absolute, Universe, Start/End of Model or Controller based addressing.
 
-![](<../../../../.gitbook/assets/image (435).png>)
+![](<../../../../.gitbook/assets/image (435) (1).png>)
 
 ### Individual Start Channels
 
@@ -114,7 +114,7 @@ Each strand and node can have a name assigned to it. This is useful where for ex
 
 This setting is used to specify the Faces definition for custom models that support Singing faces.
 
-![](<../../../../.gitbook/assets/image (241) (2).png>)
+![](<../../../../.gitbook/assets/image (241).png>)
 
 Click the ellipse button (three periods) to edit the Faces.
 
@@ -126,7 +126,7 @@ Functionality has been covered in the Singing Faces section.
 
 ## Dimming Curves
 
-![](<../../../../.gitbook/assets/image (657) (1).png>)
+![](<../../../../.gitbook/assets/image (657).png>)
 
 The Dimming Curves setting can be used to change/reduce the brightness of the lights for a specific model. The intensity of the lights is accordingly changed/reduced from its default value of 100%. Use the "Brightness" slider where you can reduce (or increase, but 99% of the time, you reduce) the brightness of the model in the FSEQ. Change the gamma curve of each of the red, blue or green values.
 
@@ -157,7 +157,7 @@ It helps when all of your LEDs have the same wavelength of colors in them. If on
 
 ## **State**
 
-![](<../../../../.gitbook/assets/image (725).png>)
+![](<../../../../.gitbook/assets/image (725) (1).png>)
 
 This setting is used to specify the State definition for custom models. Functionality has been covered in the State Effect section.
 
@@ -167,7 +167,7 @@ This setting is used to specify the State definition for custom models. Function
 
 ## Sub-Models
 
-![](<../../../../.gitbook/assets/image (21) (2).png>)
+![](<../../../../.gitbook/assets/image (21).png>)
 
 This setting is used to specify parts of a model to be controlled as if it were its own model. This is used for example if you have a wire frame with 2 arm positions you then can sub model those and control them without the need for adding a 2nd or 3rd model.
 

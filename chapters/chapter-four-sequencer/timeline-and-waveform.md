@@ -18,7 +18,7 @@ The waveform displays a sonographic representation of the audio portion of the m
 
 You can control the focus of the waveform.
 
-![](<../../.gitbook/assets/image (318) (1).png>)
+![](<../../.gitbook/assets/image (318).png>)
 
 * Zoom in on the waveform by double clicking on the waveform. Keep double clicking until you've got a zoom setting you can use. Or click on the ‘+’ button.
 * To zoom out, hold the shift key and double click on the waveform or click on the ‘-‘- button.
@@ -67,7 +67,7 @@ The audio will be played as you scrub the line. Therefore you can play a small s
 
 Timeline Tags allow the user to create "bookmarks" or "shortcuts" on timeline numbered 0-9. You can then type CTRL + 0-9 to scroll the timeline to the numbered tag's location. To add a timeline tag right-click on the timeline at the desired timing location and select a number 0-9. Numbers with check-marks already have tags placed on the timeline. You can reuse a tag with a check-mark but the previous location will be overwritten.
 
-![](<../../.gitbook/assets/image (398) (1).png>)
+![](<../../.gitbook/assets/image (398).png>)
 
 To delete a timeline tag Right Click on the timeline and Select Delete and then the number of the tag you want to remove.
 

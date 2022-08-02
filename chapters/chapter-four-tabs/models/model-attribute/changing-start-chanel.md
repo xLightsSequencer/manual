@@ -4,31 +4,31 @@
 
 If Auto Layout Models is enabled in the Controller Tab, xLights will automatically calculate the Model Start and End Channels based on the controller settings.
 
-![](<../../../../.gitbook/assets/image (376).png>)
+![](<../../../../.gitbook/assets/image (219).png>)
 
 First Set the Controller the model will be connecting to.
 
-![](<../../../../.gitbook/assets/image (355).png>)
+![](<../../../../.gitbook/assets/image (260).png>)
 
 Then Set the Controller Port
 
-![](<../../../../.gitbook/assets/image (530).png>)
+![](<../../../../.gitbook/assets/image (9).png>)
 
 If assigning multiple models to one controller port you must set the model chaining to determine the order of the models on the controller output.
 
-![](<../../../../.gitbook/assets/image (65).png>)
+![](<../../../../.gitbook/assets/image (815).png>)
 
 ## Manually **Changing Start Chanel**
 
 First Change the Controller Dropdown to "Use Start Channels" in the model settings.
 
-![](<../../../../.gitbook/assets/image (17).png>)
+![](<../../../../.gitbook/assets/image (39).png>)
 
 Click within the Start Channel cell and then click on the highlighted box to open up The Start Chanel Window. &#x20;
 
-![](<../../../../.gitbook/assets/image (287).png>)
+![](<../../../../.gitbook/assets/image (59).png>)
 
-![](<../../../../.gitbook/assets/image (641).png>)
+![](<../../../../.gitbook/assets/image (19).png>)
 
 The 'Offset From' determines how the start address is calculated. If the offset is set to "None" the start channel is then used to define the absolute channel number.&#x20;
 

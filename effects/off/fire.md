@@ -1,6 +1,6 @@
 # Fire
 
-![Icon](<../../.gitbook/assets/image (494) (1).png>)
+![Icon](<../../.gitbook/assets/image (494).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (598).png>)
 

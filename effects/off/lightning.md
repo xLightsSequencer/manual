@@ -1,6 +1,6 @@
 # Lightning
 
-![Icon](<../../.gitbook/assets/image (485) (1).png>)
+![Icon](<../../.gitbook/assets/image (485).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (698).png>)
 

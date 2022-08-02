@@ -26,7 +26,7 @@ When you first access the Test Dialog, you will be presented with three tabs. Th
 
 Once you have selected a set of channels, you can save this individual set up as a test configuration for future repeat testing by clicking on the Save button and specifying a name for that group of channels. You can load a previously saved test configuration by clicking on the Load button.
 
-![](<../../../.gitbook/assets/image (75).png>)
+![](<../../../.gitbook/assets/image (840).png>)
 
 If you click on the second tab labeled 'Model Groups', the view with display all the Model Groups. You can then select one or more Model group to test.
 

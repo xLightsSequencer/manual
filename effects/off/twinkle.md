@@ -1,6 +1,6 @@
 # Twinkle
 
-![Icon](<../../.gitbook/assets/image (342) (1).png>)
+![Icon](<../../.gitbook/assets/image (342).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (795).png>)
 

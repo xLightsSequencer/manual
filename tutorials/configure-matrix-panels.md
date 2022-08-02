@@ -6,9 +6,9 @@ In this example, the setup consists of 8 P10 panels (4H x 2 W) driven via a Beag
 
 First Add a New Ethernet Controller to the Controller Tab. It is recommended to use a DDP Protocol for FPP based P10/P5 panels. An E131 Protocol can also be used but for this guide DDP was selected.
 
-![](<../.gitbook/assets/image (238).png>)
+![](<../.gitbook/assets/image (171).png>)
 
-![](<../.gitbook/assets/image (358).png>)
+![](<../.gitbook/assets/image (232).png>)
 
 Set the Name to FPPBB. Set the IP Address of the device IP(192.168.5.200 in this example). The Id is a unique controller ID for xLights to use, this Id must be different for each out. The default Id of 1 is okay for this example. The number of channels is the total number of channels for the P10 matrix. To calculate this number channels, multiple the number of channels per LED(3 in most cases) by the number of LEDs per panel(512 for P10's) and then multiple that result by the number of Panels(eight in this example). The final values is the total channel for the Matrix.
 
@@ -18,13 +18,13 @@ $$
 
 For this example, the total number of channels is: 3 x 512 x 8 = 12288 channels.
 
-![](<../.gitbook/assets/image (119).png>)
+![](<../.gitbook/assets/image (816).png>)
 
 Set the Description Field To 'P10Matrix' and set the Vendor to 'FPP' and the Controller Type to 'PiHat'. The Description . Enable the 'Auto Upload Configuration' setting.
 
 Click 'Save' when complete.
 
-![](<../.gitbook/assets/image (110).png>)
+![](<../.gitbook/assets/image (851).png>)
 
 Next, Define a model ‘P10Matrix’ for in the Layout Tab
 
@@ -36,11 +36,11 @@ First Select the 'Matrix' model icon in the Model Toolbar.
 
 Click the Left Mouse Button Down then Drag the Pointer to the Right, and Release.
 
-![](<../.gitbook/assets/image (115).png>)
+![](<../.gitbook/assets/image (115) (1).png>)
 
 Next, define the model settings. Set the model name to ‘P10Matrix’ (or any name of your choice) set it as a horizontal matrix.
 
-![](<../.gitbook/assets/image (282).png>)
+![](<../.gitbook/assets/image (282) (1).png>)
 
 Set ‘# Strings’ = 64 (corresponds to number of rows), ‘Nodes/String’ as 64 (corresponds to the columns) and ‘Strands /String’ = 1. 'Starting Location' = Top Left.
 
@@ -54,21 +54,21 @@ To set the Start Channel Click the Ellipsis(three periods) button in the Start C
 
 Set the start Channel by Clicking the 'Controller' Option and selecting the Controller Name set earlier, from the drop-down list. Keep the 'Start Channel' set to 1.
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (324).png>)
 
 The start channel should be set to '!P10Matrix:1' and xLights will automatically calculate the end channel.
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (286).png>)
 
 Click the 'Save' Button when done.
 
-![](<../.gitbook/assets/image (108).png>)
+![](<../.gitbook/assets/image (865).png>)
 
 ### Upload Config to FPP
 
 Switch back to the Controller Tab. Highlight the 'FPPBB' controller and click 'Upload Output'. This will automatically set the Panel Start channel In FPP for you.
 
-![](<../.gitbook/assets/image (311).png>)
+![](<../.gitbook/assets/image (122).png>)
 
 ### **BBB FPP definition**
 
@@ -80,11 +80,11 @@ Set the FPP controller to bridge mode for testing for now. When running your sho
 
 Click the 'Input/Output Setup' Menu Banner and Select the 'Channel Outputs' Option
 
-![](<../.gitbook/assets/image (263).png>)
+![](<../.gitbook/assets/image (263) (1).png>)
 
 On the LED Panel page, Check the Enable LED Panel Output Option. The panel layout is 2 x 4. The Start channel should automatically been updated by the Upload To Controller Option used earlier. Make sure this matches the model definition in xLights. 'Single Panel Size' sets the Panel Size and Scan Rate. For most indoor P10 panels this is '32x16 1/8 Scan'. The channel count is automatically is calculated. This should also match the model in xLights. The 'Model Start Corner' should be the same as the 'Starting Location' in xLights. 'Default Panel Color Order' should match the panel vendors recommendation. Different vendors use different Color Orders. You may have to do try all the options to find the correct one. 'Brightness' is the Panel brightness, 10 is 100%, 1 is 10%. All the other options keep to the defaults.
 
-![LED Panel Output Page](<../.gitbook/assets/image (88).png>)
+![LED Panel Output Page](<../.gitbook/assets/image (88) (1).png>)
 
 The vertical arrows correspond to the Up/Down physical setting of the arrows on the panel backside. The LED Panel Layout orientation is as if viewed from the **front** of the panels. 'O-1', 'O-2', 'O-3', etc are the outputs ports on the Octoscroller. 'P-1', 'P-2', 'P-3', etc. is the panel order for each output. The first panel connected to the Octoscroller output is 'P-1', the second panel is 'P-2' and so forth.
 

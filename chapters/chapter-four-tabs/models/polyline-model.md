@@ -8,7 +8,7 @@ The Poly Line model enables several straight line or curved segments to be drawn
 
 This model is useful for the roof line , rafters , fences etc where the lines are at an angle to each other.
 
-![](<../../../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (823).png>)
 
 To draw, select this model and drag on the layout as usual. At the end of each segment, click once with the mouse left button, then draw another segment. Left mouse button Click to end the segment.
 

@@ -4,17 +4,17 @@
 
 You can then drop and effect against either the Model Group or the Model. Model groups are identified by a small group icon after the name.
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (837).png>)
 
 If you double Click on the Model Group name, it will expand and show you the models that have been defined as part of the Model group - in this case the ‘Arch 1’ model. Double Click again to collapse the Model Group.
 
-![](<../../.gitbook/assets/image (344).png>)
+![](<../../.gitbook/assets/image (207).png>)
 
 ## Adding Effects To a Model
 
 First Select a Timing marks you like to use. To do this, select the circle next to timing track. In the example below, The ‘Beats’ timing marks are selected.
 
-![](<../../.gitbook/assets/image (184) (1).png>)
+![](<../../.gitbook/assets/image (184).png>)
 
 Select an effect (in this case the Bars effect) and drag it onto the grid in line with the ‘Arch 1’ model.
 
@@ -36,7 +36,7 @@ You can change effect settings via the Effects Window. For example, change the B
 
 You can change the color of the effect, by selecting a different set of colors from the Color window.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 Use the highlighted keys to start, stop pause, rewind and play again. As the sequence plays, you can see the effects on the House Preview screen.
 

@@ -18,11 +18,11 @@ Multiple views can be defined, with each view defining a list of models that are
 * An ‘Import Model’ view may contain only elements that you wish to sequence after importing other data from other sequencers.
 * A ‘Halloween Model’ view may contain only elements that you wish to sequence for Halloween.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (41).png>)
 
 To Create a new View , click on the Add button, enter a unique name in the window and Click OK.
 
-![](<../../.gitbook/assets/image (271) (1).png>)
+![](<../../.gitbook/assets/image (271).png>)
 
 To delete an existing view , highlight the view from the View window and select Delete.
 
@@ -34,7 +34,7 @@ New models can be added to a view by first selecting that view from the Views li
 
 Similarly models can be removed from a View by highlighting the model in the Model window on the right and clicking on Left Arrow Button..
 
-![](<../../.gitbook/assets/image (223) (1).png>)
+![](<../../.gitbook/assets/image (223).png>)
 
 The position that the model appears within the view can be changed by highlighting the model and clicking on Up or Down Arrow.
 

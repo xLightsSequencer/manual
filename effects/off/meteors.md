@@ -1,8 +1,8 @@
 # Meteors
 
-![Icon](<../../.gitbook/assets/image (294) (1).png>)
+![Icon](<../../.gitbook/assets/image (294).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (378).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (378) (1).png>)
 
 ![](<../../.gitbook/assets/image (327).png>)
 

@@ -6,11 +6,11 @@
 
 {% tabs %}
 {% tab title="Start Position" %}
-![](<../../.gitbook/assets/image (427) (1).png>)
+![](<../../.gitbook/assets/image (427).png>)
 {% endtab %}
 
 {% tab title="End Position" %}
-![](<../../.gitbook/assets/image (322) (1).png>)
+![](<../../.gitbook/assets/image (322).png>)
 {% endtab %}
 
 {% tab title="Start Scale" %}

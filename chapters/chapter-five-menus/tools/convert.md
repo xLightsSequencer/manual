@@ -10,7 +10,7 @@ It is not to be used to convert into an xLights sequence – use the Data Layer 
 
 Supported input/output formats are:
 
-![](<../../../.gitbook/assets/image (104) (1).png>)
+![](<../../../.gitbook/assets/image (104).png>)
 
 ![Convert Dialog](<../../../.gitbook/assets/image (486).png>)
 

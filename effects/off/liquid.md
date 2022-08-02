@@ -6,7 +6,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (455).png>)
 
-![](<../../.gitbook/assets/image (377) (1).png>)
+![](<../../.gitbook/assets/image (377).png>)
 
 The Liquid effect is based on a liquid particle simulation algorithm. Up to four liquid particle sources can be enabled. Based on Google's LiquidFun fluid simulation. [http://google.github.io/liquidfun/](http://google.github.io/liquidfun/)
 

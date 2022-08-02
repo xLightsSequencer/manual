@@ -8,7 +8,7 @@ xLights enables you to define models that do not fit into the concept of predesi
 
 A custom model grid will be displayed in which you enter numbers in the grid representing the nodes/channels in your model.
 
-![](<../../../.gitbook/assets/image (348) (1).png>)
+![](<../../../.gitbook/assets/image (348).png>)
 
 ![](<../../../.gitbook/assets/image (235).png>)
 
@@ -20,7 +20,7 @@ The depth is used to make a 3D custom model. Future edits to the manual will ela
 
 The Right Click Menu Allows you to Flip, Rotate, Compress, Trim Unusued Space, and Shrink Space.
 
-![](<../../../.gitbook/assets/image (338) (1).png>)
+![](<../../../.gitbook/assets/image (338).png>)
 
 For example, to model a custom candy cane with 12 nodes, you could have a grid 4 columns wide and 10 rows high. Place the numbers 1-9 up the right hand side, 10 and 11 in the middle cells in the top row and 12 would go in column A row 2. This is shown below.
 
@@ -48,7 +48,7 @@ To erase a number in a cell, selected the cell and press the Delete key.
 
 You can delete multiple cells by drawing a box around them and then pressing Delete.
 
-![](<../../../.gitbook/assets/image (675).png>)
+![](<../../../.gitbook/assets/image (675) (1).png>)
 
 You can use the ‘+’ and ‘-‘ keys to make zoom in and out, respectively.
 
@@ -64,7 +64,7 @@ From the Layout screen, click on the custom model icon and drag and draw a custo
 
 Alternatively, open the Model Data window to open the Custom Model Window and select the file using the Browse button.
 
-![](<../../../.gitbook/assets/image (130) (1).png>)
+![](<../../../.gitbook/assets/image (130).png>)
 
 Click on the Model Data attribute. This will open up a window with the image in the background which will fill the grid size. Adjust the size of the grid by increasing the width and height values. Click on the ‘+’ and ‘-’ buttons to Zoom in and out of the grid.
 
@@ -72,7 +72,7 @@ Click on the Model Data attribute. This will open up a window with the image in 
 
 The Background image slider can be used to adjust the brightness of the background so that the image is just visible. This will enable you to more easily see the numbers on the image and around the outline. Slide to the left for 100% brightness and to the right for 0% brightness. The magnifying glass at the right side of the slider will toggle the image on and off.
 
-![](<../../../.gitbook/assets/image (130) (1).png>)
+![](<../../../.gitbook/assets/image (130).png>)
 
 You can then start typing the numbers in the positions that the pixels would be located. In this example, it would be around the edges of the snowman and hat.
 

@@ -22,7 +22,7 @@ Select the Edit Display Elements option from the pop up window.
 
 Select the Master View from the top window.
 
-![](<../../../.gitbook/assets/image (208).png>)
+![](<../../../.gitbook/assets/image (208) (1).png>)
 
 From the Left window select the items you would like to add and Click the Right Arrow Button. If you select the Double Right Arrow all the items (All Models, Arch1, and Arches Group) will be added.
 
