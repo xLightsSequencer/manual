@@ -4,7 +4,7 @@
 
 ![](<../../../.gitbook/assets/image (463).png>)
 
-The Controller Visualizer allows the user to drag and drop models onto the controller ports. All model setting are update and saved in real time. If the "Auto Layout Models" option is disabled for the controller, this dialog will only let the user view the model port connections set in the layout tab.
+The Controller Visualizer allows the user to drag and drop models onto the controller ports. All model setting are update and saved in real time. If the "Auto Layout Models" option is disabled for the controller, this dialog will only allow the user view the model port connections set in the layout tab.
 
 Hover over a model to display its current settings.
 
