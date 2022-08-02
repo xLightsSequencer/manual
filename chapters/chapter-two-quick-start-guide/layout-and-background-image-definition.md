@@ -6,16 +6,16 @@ The next step is to add a Background Image for your House Preview Layout.
 
 Click on the Layout tab. You will be presented with the list of Model definitions on the left (currently empty) and the House preview (shows up as black as no picture has been loaded).
 
-![](<../../.gitbook/assets/image (809).png>)
+![](<../../.gitbook/assets/image (64).png>)
 
 You can proceed without a picture of your house/yard and add this in later.
 
 Or you can select an image from any location. Click on the Background Image prompt and browse to and select your image.
 
-![](<../../.gitbook/assets/image (578).png>)
+![](<../../.gitbook/assets/image (221).png>)
 
 Note that the image background, size and appearance does not drive any xLights functionality, but is more for the user to have a visual representation of where his or her models are and what they look like on the canvas.
 
-![](<../../.gitbook/assets/image (526).png>)
+![](<../../.gitbook/assets/image (213).png>)
 
 Click on Save to set the image details.

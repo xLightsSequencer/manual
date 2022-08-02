@@ -59,7 +59,7 @@ On the xLights setup screen, the corresponding channels must be defined.
 
 You can define it as a USB, with a network type of LOR, and set up the COM port (obtained from the LOR device manager) and you will need to try different baud rates.
 
-![](<../.gitbook/assets/image (857).png>)
+![](<../.gitbook/assets/image (443).png>)
 
 However, there is sometimes a lag associated with the sequence when you use this option.
 
@@ -93,7 +93,7 @@ Create a new music sequence, add timing tracks and add the models you have defin
 
 Using the Import, Import Effects menu, change the ‘Import file’ file to LOR Music Sequence - LMS, navigate to where the LOR LMS file is and select the file to Import.
 
-![](<../.gitbook/assets/image (466).png>)
+![](<../.gitbook/assets/image (466) (1).png>)
 
 On the Map Channels dialog, all the xLights models will appear on the left hand side and all the LOR Channels on the right side.
 
@@ -113,7 +113,7 @@ Click OK to start the process.
 
 Double Click the model name and then double click the stand name to see the effects on the nodes.
 
-![](<../.gitbook/assets/image (694) (1).png>)
+![](<../.gitbook/assets/image (694).png>)
 
 Click on the Render All icon and play the sequence.
 

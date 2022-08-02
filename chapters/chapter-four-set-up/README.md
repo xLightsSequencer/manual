@@ -2,4 +2,4 @@
 
 ![](../../.gitbook/assets/xlights-logo.png)
 
-![](<../../.gitbook/assets/image (891).png>)
+![](<../../.gitbook/assets/image (352).png>)

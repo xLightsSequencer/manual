@@ -4,7 +4,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (609).png>)
 
-![](<../../.gitbook/assets/image (802) (1).png>)
+![](<../../.gitbook/assets/image (802).png>)
 
 The Music effect analyses and displays a representation of the frequency breakdown of the song from the waveform. Select at least two colors.
 

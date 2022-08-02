@@ -1,6 +1,6 @@
 # Circles
 
-![Icon](<../../.gitbook/assets/image (373).png>)
+![Icon](<../../.gitbook/assets/image (373) (1).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (419).png>)
 

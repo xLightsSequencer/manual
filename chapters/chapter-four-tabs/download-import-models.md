@@ -22,7 +22,7 @@ The imported model will be the same model type it was exported as. If the .xmode
 
 ## Download Model
 
-![Download Model Button](<../../.gitbook/assets/image (351) (1).png>)
+![Download Model Button](<../../.gitbook/assets/image (351).png>)
 
 After Selecting the Download Model button, You must click and drag out a box and release on the layout screen to represent the downloaded model location.
 

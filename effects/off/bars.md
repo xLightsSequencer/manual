@@ -1,6 +1,6 @@
 # Bars
 
-![Icon](<../../.gitbook/assets/image (157) (1).png>)
+![Icon](<../../.gitbook/assets/image (157).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (692).png>)
 

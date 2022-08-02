@@ -2,7 +2,7 @@
 
 ## Wave
 
-![Icon](<../../.gitbook/assets/image (281).png>)
+![Icon](<../../.gitbook/assets/image (281) (1).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (576).png>)
 

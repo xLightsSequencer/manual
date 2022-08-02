@@ -12,7 +12,7 @@ The import effects dialog allows the user to import effects from other sequences
 
 The Import Effect dialog supports multiple sequence file formats. xLights, Light-o-rama S4, S5, SuperStar, Vixen 2, Vixen 3(limited), HLS, LSP, VSA File formats are all supported.
 
-![](<../../.gitbook/assets/image (370).png>)
+![](<../../.gitbook/assets/image (370) (1).png>)
 
 ### Importing an xLights Sequence
 
@@ -33,7 +33,7 @@ Create a new directory and unzip the sequence files to that directory. It is rec
 
 Open the sequence, click on Render All and Save the sequence. You should be able to see how the lights flow in the layout window. Study the sequence and determine which models you wish to copy to your own models.
 
-![](<../../.gitbook/assets/image (409) (1).png>)
+![](<../../.gitbook/assets/image (409).png>)
 
 {% hint style="success" %}
 Print out the model names from the shared sequence as you will need to know those when you import.
@@ -74,11 +74,11 @@ A model mapping window is displayed. On the top left is a list containing the ti
 
 Models in the "Available" list will turn gray when used. These items can still be used multiple times even when grayed out.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 When done, select "Save Mapping", and save the XMAP file. This XMAP file can then be loaded in the future when mapping another sequence from the same layout.
 
-![](<../../.gitbook/assets/image (453) (1).png>)
+![](<../../.gitbook/assets/image (453).png>)
 
 Click OK when done.
 
@@ -86,15 +86,15 @@ Click OK when done.
 
 Change the File Type drop-down to SUP. Then select the SuperStar Sequence File.
 
-![File Select Dialog](<../../.gitbook/assets/image (358).png>)
+![File Select Dialog](<../../.gitbook/assets/image (358) (1).png>)
 
 The SuperStar Import Dialog will then appear. Select the xlights model to import the SuperStar file onto.
 
-![](<../../.gitbook/assets/image (527).png>)
+![](<../../.gitbook/assets/image (527) (1).png>)
 
 xLights will create pictures from the SuperStar files. The next dialog asks the user to select a folder to save these pictures files too. In the file name field set the 'base' file name. This 'base' name is used as the file name root of all the saved image files. In most cases just set the 'base' name to the SUP file name.
 
-![](<../../.gitbook/assets/image (134) (1).png>)
+![](<../../.gitbook/assets/image (134).png>)
 
 The SUP file will then be imported to the specified model as picture and morph effects.
 

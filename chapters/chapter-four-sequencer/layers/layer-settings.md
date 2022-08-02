@@ -2,11 +2,11 @@
 
 ## Layer Settings
 
-![](<../../../.gitbook/assets/image (310).png>)
+![](<../../../.gitbook/assets/image (310) (1).png>)
 
 The Layer Settings window can be opened by clicking on the Layer Settings icon from the toolbar, or via the View, Windows menu.
 
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (36) (1).png>)
 
 #### Reset panel when changing effects
 
@@ -22,7 +22,7 @@ This will reset the Layer Setting back to default every time you select or creat
 
 This attribute controls how the buffer is laid out for a model or model group when the effect is rendered. Every model has a ‘Default’ buffer which can be view by opening the model's node layout in the Layout Tab.
 
-![Arch Model Render Styles ](<../../../.gitbook/assets/image (307) (1).png>)
+![Arch Model Render Styles ](<../../../.gitbook/assets/image (307).png>)
 
 For example, for Arches – the default buffer treats each arch as a single line and stacks the arches on top of eachother, for a Star model, the default is a square grid that cases effects to chase across the face of a star.
 
@@ -57,7 +57,7 @@ For model groups, additional buffer render styles are available. The list below 
 
 When using the "Per Preview" render style, this dropdown allows the user to select which viewpoint to use. 2D is the default.
 
-![](<../../../.gitbook/assets/image (214).png>)
+![](<../../../.gitbook/assets/image (214) (1).png>)
 
 #### Transformation
 
@@ -107,7 +107,7 @@ The term came from high persistence scopes where each trace just kept layering o
 
 The Roto-Zoom functionality enables the effect to be Rotated as well as have aspects of the effect Zoomed.
 
-![](<../../../.gitbook/assets/image (676) (1).png>)
+![](<../../../.gitbook/assets/image (676).png>)
 
 The Preset defines the type of rotation to be applied to the effect. The effect can be continuously rotated clockwise or counterclockwise, made to explode outwards , implode inwards , shake etc.
 

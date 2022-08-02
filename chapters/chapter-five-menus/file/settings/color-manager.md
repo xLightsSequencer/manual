@@ -38,7 +38,7 @@ Selected Effect Color (When Mouse Click and Dragging to select multiple effects.
 
 Effect Referenced Color.(The Effect the Effect Settings Dialog is Currently Referencing)
 
-![](<../../../../.gitbook/assets/image (468).png>)
+![](<../../../../.gitbook/assets/image (468) (1).png>)
 
 ### Row Heading
 
@@ -50,13 +50,13 @@ Row Heading Background Color
 
 Row Heading Text Color
 
-![](<../../../../.gitbook/assets/image (353) (1).png>)
+![](<../../../../.gitbook/assets/image (353).png>)
 
 ### Row Heading Selected
 
 Currently Selected Row Heading Color
 
-![Selected](<../../../../.gitbook/assets/image (6) (1).png>)
+![Selected](<../../../../.gitbook/assets/image (6) (2).png>)
 
 ### Dashed Selected
 
@@ -68,7 +68,7 @@ Mouse Click and Drag Box Color
 
 The color of the Gridlines between the rows and columns.(Red in the Picture Below)
 
-![](<../../../../.gitbook/assets/image (176).png>)
+![](<../../../../.gitbook/assets/image (176) (1).png>)
 
 ### Labels
 
@@ -80,13 +80,13 @@ Timing Track Label Background Color
 
 Timing Track Label Outline Color
 
-![](<../../../../.gitbook/assets/image (140).png>)
+![](<../../../../.gitbook/assets/image (140) (1).png>)
 
 ### Phrases
 
 Singing Faces Phrases Background Color
 
-![](<../../../../.gitbook/assets/image (791) (1).png>)
+![](<../../../../.gitbook/assets/image (791).png>)
 
 ### Words
 
@@ -98,7 +98,7 @@ Singing Faces Words Background Color
 
 Singing Faces Phonemes Background Color
 
-![](<../../../../.gitbook/assets/image (217).png>)
+![](<../../../../.gitbook/assets/image (217) (1).png>)
 
 ### Fixed Timings
 
@@ -116,25 +116,25 @@ Selected Locked Effect (Click and Drag Select)
 
 Locked Effect Referenced Color (The Effect the Effect Settings Dialog is Currently Referencing)
 
-![](<../../../../.gitbook/assets/image (396).png>)
+![](<../../../../.gitbook/assets/image (396) (1).png>)
 
 ### Waveform
 
 Audio Waveform Color
 
-![](<../../../../.gitbook/assets/image (582) (1).png>)
+![](<../../../../.gitbook/assets/image (582).png>)
 
 ### Waveform Background
 
 Audio Waveform Background Color
 
-![](<../../../../.gitbook/assets/image (627).png>)
+![](<../../../../.gitbook/assets/image (627) (1).png>)
 
 ### Waveform Selected
 
 Audio Waveform Selected Color
 
-![](<../../../../.gitbook/assets/image (627).png>)
+![](<../../../../.gitbook/assets/image (627) (1).png>)
 
 ![](<../../../../.gitbook/assets/image (668).png>)
 
@@ -150,19 +150,19 @@ Audio Waveform Selected Effect Interval Marker Color
 
 Model Color
 
-![](<../../../../.gitbook/assets/image (740).png>)
+![](<../../../../.gitbook/assets/image (740) (1).png>)
 
 ### Model Selected
 
 Model Selected Color
 
-![](<../../../../.gitbook/assets/image (738) (1).png>)
+![](<../../../../.gitbook/assets/image (738).png>)
 
 ### Model Overlap
 
 Color of other models with overlapping channels of the selected model. Overlap checks enabled must me active for this to appear.
 
-![](<../../../../.gitbook/assets/image (59).png>)
+![](<../../../../.gitbook/assets/image (59) (2).png>)
 
 ![](<../../../../.gitbook/assets/image (701).png>)
 
@@ -174,7 +174,7 @@ Mouse Click and Drag Box Color
 
 ## Buttons
 
-![](<../../../../.gitbook/assets/image (757) (1).png>)
+![](<../../../../.gitbook/assets/image (757).png>)
 
 ### Import
 

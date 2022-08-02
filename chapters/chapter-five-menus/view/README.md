@@ -32,11 +32,11 @@ The Reset Toolbar option, when selected, will reset the Toolbars to the default 
 
 ### AC Lights Toolbar
 
-![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (425) (1).png>)
+![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (425).png>)
 
 The AC Lights Toolbar allows you to add On, Off, Shimmer, Twinkle, and Ramp effect in bulk, similar to LOR.
 
-![AC Lights Toolbar enabled](<../../../.gitbook/assets/image (1) (1).png>)
+![AC Lights Toolbar enabled](<../../../.gitbook/assets/image (1).png>)
 
 Select an Effect, using the On effect in this example, then click and drag on the desired rows to populated.
 
@@ -44,13 +44,13 @@ Select an Effect, using the On effect in this example, then click and drag on th
 
 The Effects will be places in the selected area.
 
-![](<../../../.gitbook/assets/image (202).png>)
+![](<../../../.gitbook/assets/image (202) (1).png>)
 
 ### Show AC Ramps
 
 Show Start and End Intensity for effects, similar to LOR.
 
-![](<../../../.gitbook/assets/image (448).png>)
+![](<../../../.gitbook/assets/image (448) (1).png>)
 
 ### Windows
 

@@ -2,13 +2,13 @@
 
 ## FPP Connect
 
-![FPP Connect Dialog](<../../../.gitbook/assets/image (514) (1).png>)
+![FPP Connect Dialog](<../../../.gitbook/assets/image (514).png>)
 
 The FPP Connect Dialog is used to upload files to a Falcon Player(FPP) that is being used as a show player, remote player, or in bridge mode. The channel inputs, channel outputs, model configurations and one or more sequences (including associated audio) can be uploaded to one or more FPP instances. FPP Connect only supports FPP 2.0 and newer.
 
 On startup, xLights will attempt to auto-discover all the FPP instances on your network. If none are found, Click the Add FPP button to manually add a device by its IP Address.
 
-![List of FPP Devices](<../../../.gitbook/assets/image (566) (1).png>)
+![List of FPP Devices](<../../../.gitbook/assets/image (566).png>)
 
 The Upload Checkbox Column will "Enable" the FPP instances for xLights to upload data to it. If unchecked xLights will not upload any data to that device.
 
@@ -24,7 +24,7 @@ The FSEQ Type Column allows the user to select which FSEQ file version to upload
 
 If the Media checkbox is selected, xLights will upload the Media Files.
 
-![Media Upload Column](<../../../.gitbook/assets/image (16).png>)
+![Media Upload Column](<../../../.gitbook/assets/image (16) (2).png>)
 
 If the Model checkbox is selected, xLights will upload the Model Data for the display testing page.
 
@@ -40,15 +40,15 @@ The Playlist drop allows the user to select a predefined Playlist in FPP to add 
 
 The Pixel Hat/Cap Column will display if a Output device is attached and configured. Devices like PiCaps, Matrix PiHat, F8-B, etc will appear if they are configured in FPP. If the Checkbox is selected the input channels will be configure. For Matrix PiHat the panel start channel will also be configured.
 
-![Hat/Cap Information](<../../../.gitbook/assets/image (557) (1).png>)
+![Hat/Cap Information](<../../../.gitbook/assets/image (557).png>)
 
 You can then select one or more sequences to upload. The sequence FSEQ files are listed here. If the sequence is an audio sequence then the media file will also be uploaded if the media checkbox is selected.
 
-![Sequence Selection](<../../../.gitbook/assets/image (653) (1).png>)
+![Sequence Selection](<../../../.gitbook/assets/image (653).png>)
 
 There is a Right Click Menu to Select All Sequences, Clear Selections, Select Highlighted, or Deselect Highlighted.
 
-![](<../../../.gitbook/assets/image (315).png>)
+![](<../../../.gitbook/assets/image (315) (1).png>)
 
 When the upload button is clicked all selected items will be uploaded to the FPP instances with the Upload Option checked and the dialog will close. Cancel will close the dialog without uploading any changes.
 

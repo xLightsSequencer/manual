@@ -2,7 +2,7 @@
 
 ## Backup Tab
 
-![](<../../../../.gitbook/assets/image (902).png>)
+![](<../../../../.gitbook/assets/image (148).png>)
 
 ### Backup On Save
 
@@ -28,15 +28,15 @@ This drop-down sets how long xLights will keep backup. With "Never" selected xLi
 
 ### Backup Directory
 
-![](<../../../../.gitbook/assets/image (82).png>)
+![](<../../../../.gitbook/assets/image (23).png>)
 
 This defines the location where the backup folder(Backup on Save/Launch or F10) will be saved. If the 'Use Show Folder' Checkbox is selected (the default) the backup files will be saved in the current show folder. If this is unchecked and a folder path is specified all the backup files will be saved to that location. If this folder doesn't exist (move computers or remove a harddrive) the backup directory will default back to the show directory.
 
-![](<../../../../.gitbook/assets/image (900).png>)
+![](<../../../../.gitbook/assets/image (152).png>)
 
 ### Alternative Backup Directory
 
-![](<../../../../.gitbook/assets/image (557).png>)
+![](<../../../../.gitbook/assets/image (325).png>)
 
 This is the location where the Alternative backups will be saved. This is manually triggered with F11 or the File Menu option. This Backup function is intended as a secondary backup location, like a external hardrive or NAS device. By default the location is not set and will prompt you if you attempt to do a Alternative Backup and no folder is set. To enable, set the desired folder or drive location.
 
@@ -50,7 +50,7 @@ This function enables you to change the size of the tool icons that are used to 
 
 Four options are available:
 
-![](<../../../../.gitbook/assets/image (218).png>)
+![](<../../../../.gitbook/assets/image (218) (1).png>)
 
 #### OpenGL Version
 
@@ -70,19 +70,19 @@ In 3D mode, Model and Objects sometimes do not look correct in the house preview
 
 This option will adjust the size of the model handles in the Layout Tab.
 
-![](<../../../../.gitbook/assets/image (324).png>)
+![](<../../../../.gitbook/assets/image (268).png>)
 
 There are three sizes available:
 
-![Normal](<../../../../.gitbook/assets/image (158) (1).png>)
+![Normal](<../../../../.gitbook/assets/image (158).png>)
 
-![Large](<../../../../.gitbook/assets/image (40) (1).png>)
+![Large](<../../../../.gitbook/assets/image (40).png>)
 
-![Extra Large](<../../../../.gitbook/assets/image (473) (1).png>)
+![Extra Large](<../../../../.gitbook/assets/image (473).png>)
 
 ### Effect Assist Window
 
-![](<../../../../.gitbook/assets/image (911).png>)
+![](<../../../../.gitbook/assets/image (159).png>)
 
 "Always On" will display the window in all cases, "Always Off" won’t display the window and "Auto Toggle" will display the window if the effect supports it, else won't display the window if the effect does not have this capability. Click on an effect in the sequencer grid and expand the Effect Assist window. If "Always on" is selected and the effect is not supported by this window, then you will see a red X in the window.
 
@@ -92,7 +92,7 @@ There are three sizes available:
 
 This Options will display Play, Pause, Stop, Scrub Bar to the House Preview to allow control of the sequence playback. They will only appear if the house preview window is larger than 400 wide by 300 high.
 
-![](<../../../../.gitbook/assets/image (286) (1).png>)
+![](<../../../../.gitbook/assets/image (286).png>)
 
 ### Auto Show House Preview
 
@@ -100,7 +100,7 @@ Automatically Show the House Preview Window when the sequence is playing and hid
 
 ## Effects Grid Tab
 
-![](<../../../../.gitbook/assets/image (93).png>)
+![](<../../../../.gitbook/assets/image (518).png>)
 
 ### Spacing
 
@@ -116,7 +116,7 @@ Five options are available: Extra Small, Small, Medium, Large, Extra Large.
 
 ### Icon Backgrounds
 
-![](<../../../../.gitbook/assets/image (804).png>)
+![](<../../../../.gitbook/assets/image (81).png>)
 
 When an effect such as the Morph effect is placed between timing marks (as an example over several seconds long), a representation of the color changes over time for that effect.
 
@@ -128,7 +128,7 @@ If unchecked, then the effect on the sequencer grid will only show the generic e
 
 ### Node Values
 
-![](<../../../../.gitbook/assets/image (822).png>)
+![](<../../../../.gitbook/assets/image (130).png>)
 
 This function provides the ability to turn off the effect displaying colors at the node level.
 
@@ -136,17 +136,17 @@ Turning it off improves rendering performance and is recommended where effects a
 
 ![Grid Node Values On](<../../../../.gitbook/assets/image (380).png>)
 
-![Grid Node Values Off](<../../../../.gitbook/assets/image (268).png>)
+![Grid Node Values Off](<../../../../.gitbook/assets/image (268) (1).png>)
 
 ### Snap to Timing Marks
 
-![](<../../../../.gitbook/assets/image (31).png>)
+![](<../../../../.gitbook/assets/image (186).png>)
 
 If checked, When moving or resizing an effect this will snap the effect beginning and/or endpoint to the closest timing make if you drag it close enough (approx 10 pixels on your monitor).
 
 ### Double Click Mode
 
-![](<../../../../.gitbook/assets/image (80).png>)
+![](<../../../../.gitbook/assets/image (31).png>)
 
 When "Play Timing" is selected, if you Double Click a timing mark, xLights will play the sequence for that timing mark interval. If "Edit Text" is selected, the Edit Label Dialog will appear. This Dialog allows you to input lyrics for singing faces or states for the state effect. The opposite option's functionality will works if you hold down shirt key then double click.
 
@@ -154,37 +154,47 @@ When "Play Timing" is selected, if you Double Click a timing mark, xLights will 
 
 ### Small Waveform
 
-![](<../../../../.gitbook/assets/image (912).png>)
+![](<../../../../.gitbook/assets/image (156).png>)
 
 When Enabled, the audio waveform will appear smaller on the screen. This is designed for screens with lower resolutions.
 
-![Small Waveform](<../../../../.gitbook/assets/image (11) (1).png>)
+![Small Waveform](<../../../../.gitbook/assets/image (11) (2).png>)
 
-![Normal Waveform](<../../../../.gitbook/assets/image (117).png>)
+![Normal Waveform](<../../../../.gitbook/assets/image (117) (1).png>)
 
 ### Display Transition Marks
 
-![](<../../../../.gitbook/assets/image (730).png>)
+![](<../../../../.gitbook/assets/image (116).png>)
 
 If checked, color bars are display to represent transitions, like fade in or fade out.
 
-![](<../../../../.gitbook/assets/image (276).png>)
+![](<../../../../.gitbook/assets/image (276) (1).png>)
 
 ## Sequence Tab
 
-![](<../../../../.gitbook/assets/image (832).png>)
+![](<../../../../.gitbook/assets/image (452).png>)
 
 ### Render On Save
 
 The default setting is to render all the effects of all the models and groups when saving the XML. If this setting is unchecked (i.e. to turn off), then it will only save the sequence XML file when you click Save/Save As, resulting in a very fast save operation. If unchecked, then Render All must be used to populate the render buffer. You must Render All and then File Save to create a up to date FSEQ file.
 
-### Model Blend Default Off
+### Low Definition Render
 
-When checked, the Model Blending option in the sequence settings dialog will be disables by default when creating a new sequence.
+When Enabled model like matrixes and trees can be set to render at a smaller resolution to help lower render times during sequencing.
+
+### Default Model Blending for New Sequences
+
+When enabled, the Model Blending option in the sequence settings dialog will be enabled when creating a new sequence.
+
+### Default View For New Sequences
+
+![](<../../../../.gitbook/assets/image (397).png>)
+
+Select a View to default as the Master View when creating a new sequence.
 
 ### Render Cache
 
-![](<../../../../.gitbook/assets/image (126).png>)
+![](<../../../../.gitbook/assets/image (126) (1).png>)
 
 Render Cache allows xLights to render an effect or group of effects once and then save the individual frames in memory (and on disk) so it doesn't need to render the frames again. This can speed up render times, as xLights does not need to re-render unchanged effects.
 
@@ -192,7 +202,7 @@ Render Cache allows xLights to render an effect or group of effects once and the
 
 This defines where the render cache files are saved on disk. If "Use Show Folder" is 'checked' xLights will use the current show folder. If 'unchecked' and a folder path is specified all the Render Cache data will be saved to that location. If this folder doesn't exist (move computers or remove a harddrive) the Render Cache directory will default back to the show directory.
 
-![](<../../../../.gitbook/assets/image (186).png>)
+![](<../../../../.gitbook/assets/image (195).png>)
 
 {% hint style="info" %}
 There is a purge render cache option under Tools->Purge Render Cache.
@@ -202,7 +212,7 @@ There is a purge render cache option under Tools->Purge Render Cache.
 
 The Auto Save functionality creates a copy of your working sequence xml, in your show directory. By default, the open sequence will be saved every 3 minutes and will create or override a file ‘XXX.xbkp’ where ‘XXX’ is the name of your sequence. You can use this menu to change the timeframe this occurs at or to disable it. The ‘\*xml.xbkp’ files will also be included when you press F10 to back up your xml files from the show directory. It won’t be included if F11 is used to back files up to an alternate location.
 
-![](<../../../../.gitbook/assets/image (66).png>)
+![](<../../../../.gitbook/assets/image (66) (1).png>)
 
 ![](https://lh3.googleusercontent.com/zuDkOJbt4\_ToDqX5VR0iU6Z7zbpFQRbdVJCbhyApI7tAle2Biufsdxdz9Dd7Ncnm\_9Bhc0pbXmDe\_gR8cGKDKVifrBtVu3Y-2jq6IlfVcyfZXiDTb7X5mfo1ZpMiS462pw5ALk4p)
 
@@ -210,7 +220,7 @@ In order to recover your sequence file from an unexpected error or corruption to
 
 ### Media/Resource Directories
 
-![](<../../../../.gitbook/assets/image (884).png>)
+![](<../../../../.gitbook/assets/image (382).png>)
 
 This defines where xLights will search for audio/picture/video files, This should only be set if  the audio/picture/video files are **not** stored in the current show folder or a sub-directory of the current show folder. On Mac OS, adding folders in this section will give xLights the correct permissions to search them.
 
@@ -226,13 +236,13 @@ Version 1 is the "original" FSEQ file format. V1 files contain all the channel d
 
 ### FSEQ Directory
 
-![](<../../../../.gitbook/assets/image (33).png>)
+![](<../../../../.gitbook/assets/image (658).png>)
 
 This defines where xLights will save FSEQ files. The FSEQ files are the raw sequence data for each sequence. If "Use Show Folder" is 'checked' xLights will use the current show folder. If 'unchecked' xLights will use the set folder path. If this folder doesn't exist (move computers or remove a harddrive) the FSEQ directory will default back to the show directory.
 
 ## Output Tab
 
-![](<../../../../.gitbook/assets/image (111).png>)
+![](<../../../../.gitbook/assets/image (111) (1).png>)
 
 ### Use Frame Sync
 
@@ -242,7 +252,7 @@ For ArtNET you just need to select this option.
 
 For E1.31 you also need to set a universe number on the controller tab … this universe number needs to be a universe you are not otherwise using.
 
-![](<../../../../.gitbook/assets/image (473).png>)
+![](<../../../../.gitbook/assets/image (269).png>)
 
 ### Force Local IP
 
@@ -266,9 +276,9 @@ When using the Jukebox Panel with xFade or xSchedule, this determines which inst
 
 The Random Effects tab allows the user to set which effects are used by the Generate Random Effects Right click menu option in the sequencer.
 
-![](<../../../../.gitbook/assets/image (151).png>)
+![](<../../../../.gitbook/assets/image (151) (2).png>)
 
-![](<../../../../.gitbook/assets/image (53).png>)
+![](<../../../../.gitbook/assets/image (583).png>)
 
 ## Colors Tab
 
@@ -278,11 +288,11 @@ The Color Tab allows the user to change the colors options of xLights.
 [color-manager.md](color-manager.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (138) (1).png>)
+![](<../../../../.gitbook/assets/image (138).png>)
 
 ## Other Tab
 
-![](<../../../../.gitbook/assets/image (831).png>)
+![](<../../../../.gitbook/assets/image (62).png>)
 
 ### eMail Address
 
@@ -312,7 +322,7 @@ This option will cause xLights to save both the Controller Settings and Layout S
 
 When Uploading Controller Inputs and Outputs, this will cause xLights to do both upload actions when Upload Output is clicked.
 
-![](<../../../../.gitbook/assets/image (278).png>)
+![](<../../../../.gitbook/assets/image (230).png>)
 
 ### Prompt issues during batch render
 

@@ -1,6 +1,6 @@
 # Snowflakes
 
-![Icon](<../../.gitbook/assets/image (329) (1).png>)
+![Icon](<../../.gitbook/assets/image (329).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (233) (1).png>)
 
