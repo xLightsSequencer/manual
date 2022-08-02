@@ -20,11 +20,11 @@ In other scenarios, Value Curves and for other effects, different sliders are av
 
 Click on the drop down link and a number of options are presented.
 
-![Value Curve Types](<../../.gitbook/assets/image (279) (1).png>)
+![Value Curve Types](<../../.gitbook/assets/image (279).png>)
 
 Select the Ramp Value curve. As the image indicates, this will cause the selected attribute (say Palette Reps), to increase (ramp up) over time, starting from 20% and ending at 80%. Note that the Start level and End level sliders are now active.
 
-![](<../../.gitbook/assets/image (203).png>)
+![](<../../.gitbook/assets/image (203) (1).png>)
 
 Another type of Value Curve is the Sawtooth variation. The selected attribute to which this is being applied (palette reps) will increase and decrease twice (controlled by the Cycles selected) from a start level to and End level.
 

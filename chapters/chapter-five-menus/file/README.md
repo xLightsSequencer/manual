@@ -8,7 +8,7 @@ The File menu enables you to create a new xLights sequence, open an existing xLi
 
 
 
-![](<../../../.gitbook/assets/image (373).png>)
+![](<../../../.gitbook/assets/image (366).png>)
 
 ### ![](../../../.gitbook/assets/new-seq-icon.JPG) New Sequence
 
@@ -32,7 +32,7 @@ To open a recently used sequence, select any item from this list.
 
 To save an open sequence, either use the Save Sequence icon, select Save Sequence from the File menu or press Ctrl S. If the sequence has not been saved previously, you will be presented with the Save As dialogue window to enter the name for the sequence.&#x20;
 
-![](<../../../.gitbook/assets/image (98).png>)
+![](<../../../.gitbook/assets/image (105).png>)
 
 If the Render on Save setting (under the Settings menu) is set (i.e. checked) then all the effects on all the models will be rendered first before the sequence is saved in the FSEQ file. This is the default. Progress status messages are displayed on the last line of the window with a progress bar indicating the render progress.
 
@@ -64,7 +64,7 @@ Click on Save Changes if you want to save your changes. If you click Cancel then
 
 ### Preferences
 
-![](<../../../.gitbook/assets/image (640).png>)
+![](<../../../.gitbook/assets/image (220).png>)
 
 The Preferences Dialog allows the user to set all the global settings in xLights. These settings are stored in the system register and are persistent between show folders.
 
@@ -76,7 +76,7 @@ The Preferences Dialog allows the user to set all the global settings in xLights
 
 ### Sequence Setting
 
-![](<../../../.gitbook/assets/image (413).png>)
+![](<../../../.gitbook/assets/image (216).png>)
 
 The Sequence Settings Dialog allows the user to edit all the settings for the currently open sequence. See Sequence Settings page for more information.
 
@@ -84,21 +84,21 @@ The Sequence Settings Dialog allows the user to edit all the settings for the cu
 [sequence-settings.md](sequence-settings.md)
 {% endcontent-ref %}
 
-![Sequence Setting](<../../../.gitbook/assets/image (273) (2).png>)
+![Sequence Setting](<../../../.gitbook/assets/image (273).png>)
 
 ### Key bindings
 
-![](<../../../.gitbook/assets/image (594).png>)
+![](<../../../.gitbook/assets/image (42).png>)
 
 The Key bindings Dialog allows the user to manually edit the keyboards shortcuts in xLights.
 
-![](<../../../.gitbook/assets/image (174).png>)
+![](<../../../.gitbook/assets/image (305).png>)
 
 ### Export House Preview Video
 
 The Export House Preview Video feature will "Play" the loaded sequence and create a video file of the House Preview Window. The video resolution of the resulting file is based on House Preview size. It is recommended you make the House Preview Window as large as possible before selecting this option.
 
-![](<../../../.gitbook/assets/image (626).png>)
+![](<../../../.gitbook/assets/image (16).png>)
 
 ### ![](../../../.gitbook/assets/show-directory-icon.JPG) Select Show Folder
 
@@ -110,13 +110,13 @@ Ensure that you have the correct xLights XML files (xlights\_keybindings.xml, xl
 
 This option will display a list of previously selected show directories. If you select any of the items listed, your show directory will be changed to the selected directory.
 
-![](<../../../.gitbook/assets/image (187).png>)
+![](<../../../.gitbook/assets/image (503).png>)
 
 ### Backup
 
 The Backup Menu item allows you to manually trigger a backup of the show folder.
 
-![](<../../../.gitbook/assets/image (207).png>)
+![](<../../../.gitbook/assets/image (467).png>)
 
 You will be presented will a message indicating where a backup will be created. Click Yes to proceed.\
 Every time this step is executed, a copy will be created of all the ‘\*xml’ files from your show directory into the Backup subdirectory of your show directory. A new subfolder is created each time a backup is executed.
@@ -139,7 +139,7 @@ The Alternate Backup function enables you to specify and use a different locatio
 
 Press F11 or select this function from the File menu. The first time you use this function, you will be prompted for the location that you wish to back the files to. Navigate to the required location and select the folder. The prompts after that are similar to the Backup functions.
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (11).png>)
 
 Subsequently, Pressing F11 will save the files to the specified location. You can change this location via the Settings, Alt Backup Location menu.
 
@@ -153,5 +153,5 @@ To quit xLights, select Quit from the File menu or press ALT+F4.
 
 If you have a sequence open and the sequence data has not been saved since the last change, you will be presented with the Save Sequence Dialog.
 
-![](<../../../.gitbook/assets/image (87).png>)
+![](<../../../.gitbook/assets/image (94).png>)
 

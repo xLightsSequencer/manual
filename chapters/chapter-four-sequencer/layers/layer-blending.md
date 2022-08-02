@@ -2,7 +2,7 @@
 
 ## Layer Blending
 
-![](<../../../.gitbook/assets/image (675).png>)
+![](<../../../.gitbook/assets/image (67).png>)
 
 The Layer Blending window can be opened by clicking on the Layer Blending icon from the toolbar or via the View , Windows menus.
 
@@ -24,7 +24,7 @@ When setting the layer blending modes, the current layer is considered layer 1 a
 
 Click the Question Mark(?) Button for more Information.
 
-![](<../../../.gitbook/assets/image (351).png>)
+![](<../../../.gitbook/assets/image (458).png>)
 
 {% hint style="success" %}
 Put two effects on a model and step through each of the layering modes to see what they will look like. Experience is much better than reading about it.
@@ -52,7 +52,7 @@ Put two effects on a model and step through each of the layering modes to see wh
 
 This is not to be confused with the Morph Effect. This is a layering option that can be applied to any two effects.
 
-![](<../../../.gitbook/assets/image (541) (1).png>)
+![](<../../../.gitbook/assets/image (541).png>)
 
 The morph option of layer blending will magically make effect 1 ‘morph’ into effect 2 during the length of the timing cell that the effects are in. You will not see effect 2 at the beginning of the timing cell, and you will not see effect 1 at the end of the timing cell. Somewhere near the middle you will see the effect 1 ‘morph’ into effect 2.
 
@@ -68,7 +68,7 @@ This will pause or stop an effect at the specified frame and hold that frame and
 
 There are 19 layer blending transition choices. Using the transitions will help you bridge between effects providing a way to smooth out abrupt changes between different effects. A stylistic use would be between sections of a song such as the chorus to verse or verse to verse. Keep in mind that the blending is done within the boundary of the timing mark and does not transition between timing marks.
 
-![](<../../../.gitbook/assets/image (227).png>)
+![](<../../../.gitbook/assets/image (227) (1).png>)
 
 These transitions are common in the video editing world, and should be visually familiar to anyone who’s used video editing software or anyone who’s watched anything on TV in the past 20 years.
 

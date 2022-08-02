@@ -24,6 +24,6 @@ The Poly Line model defines each segment as a Strand and the layer functionality
 
 To add layers at the strand level, click on the Model name in the sequencer to display the Strand names. Then right click on the strand name and choose Add Layer above or below the selected strand.
 
-![](<../../../.gitbook/assets/image (699) (1).png>)
+![](<../../../.gitbook/assets/image (699).png>)
 
 The strands blend onto the model level effects.

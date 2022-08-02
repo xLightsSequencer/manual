@@ -4,7 +4,7 @@
 
 The Color Tab allows the user to change the colors options of xLights. The First two Columns Relate to the colors in the Sequence Tab, while the third column changes Layout Colors.
 
-![](<../../../../.gitbook/assets/image (724).png>)
+![](<../../../../.gitbook/assets/image (724) (1).png>)
 
 ## Sequencer Colors
 
@@ -14,7 +14,7 @@ The Color Tab allows the user to change the colors options of xLights. The First
 
 These Colors are used for the Timing Tracks Header's background color in the Sequence Tab.
 
-![Sequence Tab Timing Tracks](<../../../../.gitbook/assets/image (588).png>)
+![Sequence Tab Timing Tracks](<../../../../.gitbook/assets/image (588) (1).png>)
 
 ### Timings
 
@@ -38,7 +38,7 @@ Selected Effect Color (When Mouse Click and Dragging to select multiple effects.
 
 Effect Referenced Color.(The Effect the Effect Settings Dialog is Currently Referencing)
 
-![](<../../../../.gitbook/assets/image (468).png>)
+![](<../../../../.gitbook/assets/image (468) (1).png>)
 
 ### Row Heading
 
@@ -50,7 +50,7 @@ Row Heading Background Color
 
 Row Heading Text Color
 
-![](<../../../../.gitbook/assets/image (353) (1).png>)
+![](<../../../../.gitbook/assets/image (353).png>)
 
 ### Row Heading Selected
 
@@ -62,13 +62,13 @@ Currently Selected Row Heading Color
 
 Mouse Click and Drag Box Color
 
-![](<../../../../.gitbook/assets/image (440).png>)
+![](<../../../../.gitbook/assets/image (440) (1).png>)
 
 ### Gridlines
 
 The color of the Gridlines between the rows and columns.(Red in the Picture Below)
 
-![](<../../../../.gitbook/assets/image (176).png>)
+![](<../../../../.gitbook/assets/image (176) (1).png>)
 
 ### Labels
 
@@ -80,7 +80,7 @@ Timing Track Label Background Color
 
 Timing Track Label Outline Color
 
-![](<../../../../.gitbook/assets/image (140).png>)
+![](<../../../../.gitbook/assets/image (140) (1).png>)
 
 ### Phrases
 
@@ -110,7 +110,7 @@ Timing Tracks that cannot be edited.
 
 Selected Locked Effect (Click and Drag Select)
 
-![](<../../../../.gitbook/assets/image (430).png>)
+![](<../../../../.gitbook/assets/image (430) (1).png>)
 
 ### Locked Reference Effect
 
@@ -122,7 +122,7 @@ Locked Effect Referenced Color (The Effect the Effect Settings Dialog is Current
 
 Audio Waveform Color
 
-![](<../../../../.gitbook/assets/image (582) (1).png>)
+![](<../../../../.gitbook/assets/image (582).png>)
 
 ### Waveform Background
 
@@ -150,7 +150,7 @@ Audio Waveform Selected Effect Interval Marker Color
 
 Model Color
 
-![](<../../../../.gitbook/assets/image (740).png>)
+![](<../../../../.gitbook/assets/image (740) (1).png>)
 
 ### Model Selected
 

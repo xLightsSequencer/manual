@@ -2,17 +2,17 @@
 
 ## Controller Visualizer
 
-![](<../../../.gitbook/assets/image (646).png>)
+![](<../../../.gitbook/assets/image (148).png>)
 
 The Controller Visualizer allows the user to drag and drop models onto the controller ports. All model setting are update and saved in real time. If the "Auto Layout Models" option is disabled for the controller, this dialog will only let the user view the model port connections set in the layout tab.
 
 Hover over a model to display its current settings.
 
-![](<../../../.gitbook/assets/image (530).png>)
+![](<../../../.gitbook/assets/image (234).png>)
 
 ### Size Adjustment Sliders
 
-![](<../../../.gitbook/assets/image (345).png>)
+![](<../../../.gitbook/assets/image (309).png>)
 
 The Box Size and Font Size sliders will change the size of the drag and drop boxes and font size.
 
@@ -20,7 +20,7 @@ The Box Size and Font Size sliders will change the size of the drag and drop box
 
 The Status Message Box will display errors that are found in the current controller configuration. If an error is displayed, xLights will not upload the controller configuration.
 
-![](<../../../.gitbook/assets/image (459).png>)
+![](<../../../.gitbook/assets/image (203).png>)
 
 ### Adding/Moving Models
 
@@ -40,7 +40,7 @@ To remove a model, drag a it from the controller port list on the right to the m
 
 ## Model Right Click Menu
 
-![](<../../../.gitbook/assets/image (302).png>)
+![](<../../../.gitbook/assets/image (658).png>)
 
 ### Print
 
@@ -58,7 +58,7 @@ Removal all the models from all the controller ports.
 
 Set the smart receiver for Falcon Controllers.
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (258).png>)
 
 | Smart Receiver Setting | Outputs Used              |
 | ---------------------- | ------------------------- |
@@ -70,29 +70,29 @@ Set the smart receiver for Falcon Controllers.
 
 Smart Receivers will display as different colors if set. Green is 'A', Purple is 'B', and Orange is 'C'
 
-![](<../../../.gitbook/assets/image (279).png>)
+![](<../../../.gitbook/assets/image (493).png>)
 
 ### Set Brightness
 
 Set the Model Brightness.
 
-![](<../../../.gitbook/assets/image (194).png>)
+![](<../../../.gitbook/assets/image (454).png>)
 
 ### Clear Brightness
 
 Clear the Model Brightness.
 
-![](<../../../.gitbook/assets/image (324).png>)
+![](<../../../.gitbook/assets/image (115).png>)
 
 ## Controller Port Right Click Menu
 
-![](<../../../.gitbook/assets/image (706).png>)
+![](<../../../.gitbook/assets/image (734).png>)
 
 ### Set Protocol
 
 Set the Controller Port Protocol.
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (259).png>)
 
 ### Remove all models from port
 

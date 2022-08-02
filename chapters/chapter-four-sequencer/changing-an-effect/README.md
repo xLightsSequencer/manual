@@ -22,7 +22,7 @@ See the Effects Section for more information on the individual effect settings.
 
 From the Color window, you can change the Colors that apply to the effect, as well as the Sparkles, Brightness and Contrast values. How effects use the colors is defined by the effect.
 
-![](<../../../.gitbook/assets/image (446).png>)
+![](<../../../.gitbook/assets/image (194).png>)
 
 {% content-ref url="changing-color-settings.md" %}
 [changing-color-settings.md](changing-color-settings.md)
@@ -109,7 +109,7 @@ Highlight the model name, right click and select Model, Copy Effects to copy the
 
 Then select the model name header you want to paste the effects (in the same sequence or another sequence), right click against the model name and select Model -> Paste Effects. The data copied remains in the clipboard buffer. The Paste operation does not have to be immediately after the Copy operation.
 
-![](<../../../.gitbook/assets/image (309).png>)
+![](<../../../.gitbook/assets/image (309) (1).png>)
 
 ### Row - Copy
 
@@ -123,7 +123,7 @@ Highlight the row/layer header, right click and select Row, Copy Effects to copy
 
 You then paste the effects from the entire row/layer by right clicking on the row header and selecting Row, Paste Effects
 
-![](<../../../.gitbook/assets/image (71) (1).png>)
+![](<../../../.gitbook/assets/image (71).png>)
 
 ### Undo Effect
 
@@ -153,7 +153,7 @@ After selecting multiple effects, the user can change an individual setting acro
 
 A separate window will appear, allowing the user to change the setting.
 
-![](<../../../.gitbook/assets/image (560) (1).png>)
+![](<../../../.gitbook/assets/image (560).png>)
 
 After Clicking OK, all the selected effects will be changed to the new setting value.
 

@@ -2,11 +2,11 @@
 
 ### Sphere Model
 
-![](<../../../.gitbook/assets/image (325) (1).png>)
+![](<../../../.gitbook/assets/image (325).png>)
 
 
 
-![](<../../../.gitbook/assets/image (428).png>)
+![](<../../../.gitbook/assets/image (175).png>)
 
 
 

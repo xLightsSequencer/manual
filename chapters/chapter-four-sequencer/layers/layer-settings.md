@@ -10,25 +10,25 @@ The Layer Settings window can be opened by clicking on the Layer Settings icon f
 
 #### Reset panel when changing effects
 
-![](<../../../.gitbook/assets/image (545).png>)
+![](<../../../.gitbook/assets/image (545) (1).png>)
 
 This will reset the Layer Setting back to default every time you select or create a new effect. Checked is the recommended setting for most users.
 
 ## Buffer
 
-![](<../../../.gitbook/assets/image (334).png>)
+![](<../../../.gitbook/assets/image (334) (1).png>)
 
 #### Render Style
 
 This attribute controls how the buffer is laid out for a model or model group when the effect is rendered. Every model has a ‘Default’ buffer which can be view by opening the model's node layout in the Layout Tab.
 
-![Arch Model Render Styles ](<../../../.gitbook/assets/image (307) (1).png>)
+![Arch Model Render Styles ](<../../../.gitbook/assets/image (307).png>)
 
 For example, for Arches – the default buffer treats each arch as a single line and stacks the arches on top of eachother, for a Star model, the default is a square grid that cases effects to chase across the face of a star.
 
 Additional options are available to change the buffer representation for the model or group. The list of values that are selectable are dynamic depending on the type of model.
 
-![](<../../../.gitbook/assets/image (695).png>)
+![](<../../../.gitbook/assets/image (695) (1).png>)
 
 For model groups, additional buffer render styles are available. The list below discrips all model render styles.
 
@@ -57,7 +57,7 @@ For model groups, additional buffer render styles are available. The list below 
 
 When using the "Per Preview" render style, this dropdown allows the user to select which viewpoint to use. 2D is the default.
 
-![](<../../../.gitbook/assets/image (214).png>)
+![](<../../../.gitbook/assets/image (214) (1).png>)
 
 #### Transformation
 
@@ -73,7 +73,7 @@ While some effects have settings to do similar things this is now the standard w
 
 This attribute will cause the effect to ‘blur’ i.e. the colors become less distinct (hazy) and the edges of two colors will fade into each other i.e. will not have sharp edges. The level of haziness can be increased from 0 onwards using the slider or adjusted using the Value Curve functionality by clicking on the Value Curve icon.
 
-![](<../../../.gitbook/assets/image (408).png>)
+![](<../../../.gitbook/assets/image (408) (1).png>)
 
 #### Sub Buffer Selection
 
@@ -107,7 +107,7 @@ The term came from high persistence scopes where each trace just kept layering o
 
 The Roto-Zoom functionality enables the effect to be Rotated as well as have aspects of the effect Zoomed.
 
-![](<../../../.gitbook/assets/image (676) (1).png>)
+![](<../../../.gitbook/assets/image (676).png>)
 
 The Preset defines the type of rotation to be applied to the effect. The effect can be continuously rotated clockwise or counterclockwise, made to explode outwards , implode inwards , shake etc.
 

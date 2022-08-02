@@ -29,7 +29,7 @@
 * [Controllers Tab](chapters/chapter-four-set-up/README.md)
   * [Controllers](chapters/chapter-four-set-up/set-up.md)
   * [Show Directory](chapters/chapter-four-set-up/directories.md)
-  * [Controllers Settings](chapters/chapter-four-set-up/lighting-networks/README.md)
+  * [Controllers Settings](chapters/chapter-four-set-up/lighting-networks.md)
     * [USB Controller](chapters/chapter-four-set-up/lighting-networks/usb-controller.md)
     * [Ethernet Controller](chapters/chapter-four-set-up/lighting-networks/ethernet-controller.md)
     * [NULL Controller](chapters/chapter-four-set-up/lighting-networks/null-controller.md)

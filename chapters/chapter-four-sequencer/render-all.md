@@ -2,7 +2,7 @@
 
 ## Render All
 
-![](<../../.gitbook/assets/image (577).png>)
+![](<../../.gitbook/assets/image (577) (1).png>)
 
 The ‘Render All’ function is used to force a render of all effects - that have either been created within xLights, imported via the Import Effects function or has been imported as a Data layer.
 

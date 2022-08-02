@@ -4,7 +4,7 @@
 
 ## xLights & Nutcracker
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (80) (1).png>)
 
 ![](<../../.gitbook/assets/image (739).png>)
 

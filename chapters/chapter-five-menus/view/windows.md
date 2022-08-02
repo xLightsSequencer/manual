@@ -22,7 +22,7 @@ The Display Elements window enables views, Timings as well as models to be defin
 
 The Model Preview window displays the effects on a model as the sequence is playing. With the window open, right click on the model name when on the sequencer tab and select Play model. It can also be opened/closed by clicking on the icon on the toolbar.
 
-![](<../../../.gitbook/assets/image (441) (1).png>)
+![](<../../../.gitbook/assets/image (441).png>)
 
 ### ![](../../../.gitbook/assets/house-preview-icon.JPG) House Preview
 
@@ -34,7 +34,7 @@ The House Preview window displays the effects of your entire display where the m
 
 The Effect Settings window displays the current or last effect that is being worked with. If an effect on the grid is selected or a new effect dragged to the grid, then this window gets updated with the ‘current’ effect.
 
-![](<../../../.gitbook/assets/image (569) (1).png>)
+![](<../../../.gitbook/assets/image (569).png>)
 
 Use the window to modify the attributes of the effect as required. The results of the change are displayed in the model window when selected and in the House Preview window when the sequence is played.
 
@@ -82,7 +82,7 @@ The Layer Settings menu has two tabs. The first tab (Buffer) defines how the eff
 
 {% tabs %}
 {% tab title="Buffer" %}
-![](<../../../.gitbook/assets/image (615) (1).png>)
+![](<../../../.gitbook/assets/image (615).png>)
 {% endtab %}
 
 {% tab title="Roto-Zoom" %}
@@ -136,7 +136,7 @@ If you want single line morphs instead of area morphs then it's easier to just c
 
 The Select Effects Window allows the user to select effects based on type, model, and time. Based on the these selection, multiple effects can be selected and then bulk edit can be used to adjust the settings. This allows the user to, for example, select all the pinwheel effects on there mini trees and change the number of arms with bulk edit.
 
-![](<../../../.gitbook/assets/image (57).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 The "Effect Type" allows the user to select which effect type to select.  The Model List allows the user to select which models to filter selection on. Only highlighted model names, will have their effects selected. The Time Fields allows the user to effect filter selection by time. The Effects by Time List displays all the effects found based on the other options and will select the highlighted items.
 
@@ -144,7 +144,7 @@ The "Effect Type" allows the user to select which effect type to select.  The Mo
 
 The Video Preview Window allows the user to preview the video file, they are using while sequencing it as the audio track.
 
-![](<../../../.gitbook/assets/image (18) (2).png>)
+![](<../../../.gitbook/assets/image (18) (1).png>)
 
 ### Jukebox
 

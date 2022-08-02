@@ -137,7 +137,7 @@ When Done, Save the mapping first, so that you can re-use it later.
 
 Click OK to start the process.
 
-![](<../.gitbook/assets/image (330).png>)
+![](<../.gitbook/assets/image (330) (1).png>)
 
 Double Click the model name and then double click the stand name to see the effects on the nodes.
 
@@ -145,7 +145,7 @@ Double Click the model name and then double click the stand name to see the effe
 
 Click on the Render All icon and play the sequence.
 
-![](<../.gitbook/assets/image (75) (1).png>)
+![](<../.gitbook/assets/image (75).png>)
 
 {% hint style="success" %}
 **If you were importing data from a Singing face where your model has multiple channels, then you need to double click in the Channel column, but against the node row instead.**

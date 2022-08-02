@@ -4,7 +4,7 @@
 
 Click on the Save or Save As icon to save the sequence.
 
-![](<../../.gitbook/assets/image (275).png>)
+![](<../../.gitbook/assets/image (275) (1).png>)
 
 Since this is the first time that the sequence is being saved, the Save As dialogue box opens for a file name to be provided. If saving an audio sequence the filename field will be prepopulated with the Audio file name as the sequence name.
 

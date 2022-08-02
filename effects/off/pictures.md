@@ -18,7 +18,7 @@
 {% endtab %}
 
 {% tab title="End Scale" %}
-![](<../../.gitbook/assets/image (167).png>)
+![](<../../.gitbook/assets/image (167) (1).png>)
 {% endtab %}
 {% endtabs %}
 

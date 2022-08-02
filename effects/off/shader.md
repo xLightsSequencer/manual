@@ -1,6 +1,6 @@
 # Shader
 
-![Icon](<../../.gitbook/assets/image (433).png>)
+![Icon](<../../.gitbook/assets/image (433) (1).png>)
 
 ![](<../../.gitbook/assets/image (314).png>)
 

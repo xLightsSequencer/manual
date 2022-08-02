@@ -2,7 +2,7 @@
 
 ## Tendril
 
-![Icon](<../../.gitbook/assets/image (90) (1).png>)
+![Icon](<../../.gitbook/assets/image (90) (2).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (183).png>)
 

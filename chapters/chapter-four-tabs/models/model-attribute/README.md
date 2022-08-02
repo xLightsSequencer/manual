@@ -34,7 +34,7 @@ Lights per String denotes the number of lights per string. This will be used ins
 
 Location of the first pixel or first channel location. "Green Square" means the starting location is the green square on the layout and "Blue Square" means the starting location is the blue square.
 
-![](<../../../../.gitbook/assets/image (795).png>)
+![](<../../../../.gitbook/assets/image (795) (1).png>)
 
 ## Controller
 
@@ -48,7 +48,7 @@ If no controller names appear in the dropdown, double check the Auto Layout Mode
 
 ## Start Channel
 
-![](<../../../../.gitbook/assets/image (447).png>)
+![](<../../../../.gitbook/assets/image (447) (1).png>)
 
 The Start Channel corresponds to the starting channel of the first node for the model. xLights will automatically calculate the end channel based on the model settings.
 
@@ -56,7 +56,7 @@ If the controller dropdown is set to "Use Start Channel", by Default, xLights wi
 
 In this example, the Start Channel has been set to start immediately after the ‘Candy Canes-2’ model.
 
-![](<../../../../.gitbook/assets/image (142) (1).png>)
+![](<../../../../.gitbook/assets/image (142) (2).png>)
 
 xLights will automatically calculate the start channel and end channels, and if the ‘Candy Canes-2’ model’s channels change, then the start and end channels for this model will automatically be recalculated.
 
@@ -72,7 +72,7 @@ Model Start Channel can use Absolute, Universe, Start/End of Model or Controller
 
 For models with multiple strands or elements, you can specify the start channel for each strand individually if required. This is useful where the channel numbering is not contiguous.
 
-![](<../../../../.gitbook/assets/image (90).png>)
+![](<../../../../.gitbook/assets/image (90) (1).png>)
 
 ## Preview Display
 
@@ -102,7 +102,7 @@ The model is assigned to the Preview.
 
 ## **Strand / Node Names**
 
-![](<../../../../.gitbook/assets/image (67) (2).png>)
+![](<../../../../.gitbook/assets/image (67) (1).png>)
 
 Click the ellipse button (three periods) to edit the Strand / Node Names.
 
@@ -114,7 +114,7 @@ Each strand and node can have a name assigned to it. This is useful where for ex
 
 This setting is used to specify the Faces definition for custom models that support Singing faces.
 
-![](<../../../../.gitbook/assets/image (241).png>)
+![](<../../../../.gitbook/assets/image (241) (1).png>)
 
 Click the ellipse button (three periods) to edit the Faces.
 
@@ -126,7 +126,7 @@ Functionality has been covered in the Singing Faces section.
 
 ## Dimming Curves
 
-![](<../../../../.gitbook/assets/image (657).png>)
+![](<../../../../.gitbook/assets/image (657) (1).png>)
 
 The Dimming Curves setting can be used to change/reduce the brightness of the lights for a specific model. The intensity of the lights is accordingly changed/reduced from its default value of 100%. Use the "Brightness" slider where you can reduce (or increase, but 99% of the time, you reduce) the brightness of the model in the FSEQ. Change the gamma curve of each of the red, blue or green values.
 
@@ -167,7 +167,7 @@ This setting is used to specify the State definition for custom models. Function
 
 ## Sub-Models
 
-![](<../../../../.gitbook/assets/image (21) (1).png>)
+![](<../../../../.gitbook/assets/image (21) (2).png>)
 
 This setting is used to specify parts of a model to be controlled as if it were its own model. This is used for example if you have a wire frame with 2 arm positions you then can sub model those and control them without the need for adding a 2nd or 3rd model.
 

@@ -6,7 +6,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (148) (1).png>)
 
-![](<../../.gitbook/assets/image (485).png>)
+![](<../../.gitbook/assets/image (41).png>)
 
 The Text effect enables up to 20 lines of text, all individually controlled to be displayed. The content of the text can be static, but can also include countdown timers. Adding a '\n' to the text will display the text following it on a new line.
 

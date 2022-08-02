@@ -4,7 +4,7 @@
 
 A view is used to be able to easily select a list of models and the sequence in which they are to be displayed on the sequencer.
 
-![](<../../.gitbook/assets/image (267).png>)
+![](<../../.gitbook/assets/image (267) (1).png>)
 
 Views work across sequences, so once you have setup a view with the models that you require, if you open any sequence, that view is available to use in that sequence.
 
@@ -18,15 +18,15 @@ Multiple views can be defined, with each view defining a list of models that are
 * An ‘Import Model’ view may contain only elements that you wish to sequence after importing other data from other sequencers.
 * A ‘Halloween Model’ view may contain only elements that you wish to sequence for Halloween.
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (78).png>)
 
 To Create a new View , click on the Add button, enter a unique name in the window and Click OK.
 
-![](<../../.gitbook/assets/image (271).png>)
+![](<../../.gitbook/assets/image (271) (1).png>)
 
 To delete an existing view , highlight the view from the View window and select Delete.
 
-![](<../../.gitbook/assets/image (559).png>)
+![](<../../.gitbook/assets/image (559) (1).png>)
 
 New models can be added to a view by first selecting that view from the Views list on the right, then second select the Available Model on the Left and third clicking on Right Arrow Button.
 
@@ -34,11 +34,11 @@ New models can be added to a view by first selecting that view from the Views li
 
 Similarly models can be removed from a View by highlighting the model in the Model window on the right and clicking on Left Arrow Button..
 
-![](<../../.gitbook/assets/image (223).png>)
+![](<../../.gitbook/assets/image (223) (1).png>)
 
 The position that the model appears within the view can be changed by highlighting the model and clicking on Up or Down Arrow.
 
-![](<../../.gitbook/assets/image (241) (1).png>)
+![](<../../.gitbook/assets/image (241).png>)
 
 The Double Left and Right Arrows will Add or Remove All the Models in either list.
 
