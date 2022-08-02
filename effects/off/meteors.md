@@ -4,7 +4,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (378) (1).png>)
 
-![](<../../.gitbook/assets/image (327).png>)
+![](<../../.gitbook/assets/image (327) (1).png>)
 
 The Meteors effect generates a number of meteor like streaks of color.
 

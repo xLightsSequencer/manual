@@ -2,7 +2,7 @@
 
 ![Icon](<../../.gitbook/assets/image (783).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (684).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (684) (1).png>)
 
 {% tabs %}
 {% tab title="Start Position" %}

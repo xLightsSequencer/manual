@@ -8,7 +8,7 @@ Backup Preferences contains all the backup and restore settings.
 [backup.md](backup.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (694).png>)
+![](<../../../../.gitbook/assets/image (31).png>)
 
 ## View
 
@@ -28,7 +28,7 @@ Effects Grid Preferences contains settings for the Sequencer Effects Grid.
 [effects-grid.md](effects-grid.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (22).png>)
+![](<../../../../.gitbook/assets/image (850).png>)
 
 ## Sequences
 
@@ -38,7 +38,7 @@ Sequences Preferences contains settings for rendering and saving sequences.
 [sequences.md](sequences.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (594).png>)
+![](<../../../../.gitbook/assets/image (6).png>)
 
 ## Output
 
@@ -48,15 +48,15 @@ Output Preferences are related to sending data to physical hardware.
 [output.md](output.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (111) (1).png>)
+![](<../../../../.gitbook/assets/image (111).png>)
 
 ## Random Effects
 
 The Random Effects tab allows the user to set which effects are used by the Generate Random Effects Right click menu option in the sequencer.
 
-![](<../../../../.gitbook/assets/image (151).png>)
+![](<../../../../.gitbook/assets/image (151) (1).png>)
 
-![](<../../../../.gitbook/assets/image (17).png>)
+![](<../../../../.gitbook/assets/image (149).png>)
 
 ## Colors
 
@@ -76,4 +76,4 @@ Output Preferences contains settings that did not fall under the other categorie
 [other.md](other.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (738).png>)
+![](<../../../../.gitbook/assets/image (14).png>)

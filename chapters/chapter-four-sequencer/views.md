@@ -18,11 +18,11 @@ Multiple views can be defined, with each view defining a list of models that are
 * An ‘Import Model’ view may contain only elements that you wish to sequence after importing other data from other sequencers.
 * A ‘Halloween Model’ view may contain only elements that you wish to sequence for Halloween.
 
-![](<../../.gitbook/assets/image (41).png>)
+![](<../../.gitbook/assets/image (448).png>)
 
 To Create a new View , click on the Add button, enter a unique name in the window and Click OK.
 
-![](<../../.gitbook/assets/image (271).png>)
+![](<../../.gitbook/assets/image (271) (1).png>)
 
 To delete an existing view , highlight the view from the View window and select Delete.
 
@@ -30,19 +30,19 @@ To delete an existing view , highlight the view from the View window and select 
 
 New models can be added to a view by first selecting that view from the Views list on the right, then second select the Available Model on the Left and third clicking on Right Arrow Button.
 
-![](<../../.gitbook/assets/image (171) (1).png>)
+![](<../../.gitbook/assets/image (171).png>)
 
 Similarly models can be removed from a View by highlighting the model in the Model window on the right and clicking on Left Arrow Button..
 
-![](<../../.gitbook/assets/image (223).png>)
+![](<../../.gitbook/assets/image (223) (1).png>)
 
 The position that the model appears within the view can be changed by highlighting the model and clicking on Up or Down Arrow.
 
-![](<../../.gitbook/assets/image (241) (1).png>)
+![](<../../.gitbook/assets/image (241).png>)
 
 The Double Left and Right Arrows will Add or Remove All the Models in either list.
 
-![](<../../.gitbook/assets/image (224).png>)
+![](<../../.gitbook/assets/image (224) (1).png>)
 
 Within each view, the models that are part of the view can be marked as visible or non visible via the ![eye-16.PNG](https://lh4.googleusercontent.com/wiL0OEoLqv14\_eWUGfnHhBBTGnb4NEvvqXtE-ZAdF2HRUkpYdbfldwOsayDaYmCMLaGtAwifBo3da4r4VaDOV7iN5FX3APblEd9p5Q5huhuk1zb2unS3ZCteJlXLZMlo8kNrzpie)button to the left of the model.
 

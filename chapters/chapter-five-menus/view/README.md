@@ -50,7 +50,7 @@ The Effects will be places in the selected area.
 
 Show Start and End Intensity for effects, similar to LOR.
 
-![](<../../../.gitbook/assets/image (448).png>)
+![](<../../../.gitbook/assets/image (448) (1).png>)
 
 ### Windows
 

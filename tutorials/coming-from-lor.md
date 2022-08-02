@@ -59,7 +59,7 @@ On the xLights setup screen, the corresponding channels must be defined.
 
 You can define it as a USB, with a network type of LOR, and set up the COM port (obtained from the LOR device manager) and you will need to try different baud rates.
 
-![](<../.gitbook/assets/image (760).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 However, there is sometimes a lag associated with the sequence when you use this option.
 
@@ -105,7 +105,7 @@ Highlight the 'Map To' Cell – in line with the model name. Double Click the LO
 
 When Done, Save the mapping first, so that you can re-use it later.
 
-![](<../.gitbook/assets/image (731).png>)
+![](<../.gitbook/assets/image (731) (1).png>)
 
 Click OK to start the process.
 
@@ -113,7 +113,7 @@ Click OK to start the process.
 
 Double Click the model name and then double click the stand name to see the effects on the nodes.
 
-![](<../.gitbook/assets/image (694) (1).png>)
+![](<../.gitbook/assets/image (694).png>)
 
 Click on the Render All icon and play the sequence.
 

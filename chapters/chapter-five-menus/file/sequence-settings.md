@@ -6,7 +6,7 @@
 
 Select the Sequence Settings option from the File menu. This screen can also be accessed by clicking on the button of the toolbar. The Sequence Settings screen has four tabs.
 
-![](<../../../.gitbook/assets/image (491) (1).png>)
+![](<../../../.gitbook/assets/image (491).png>)
 
 ## Info/Media
 
@@ -14,7 +14,7 @@ The Info/Media tab displays information about the sequence including the xLights
 
 The sequence type, media file name or location, the sequence duration and whether media tags can be overwritten can be changed from this tab after the sequence has been created.
 
-![](<../../../.gitbook/assets/image (649).png>)
+![](<../../../.gitbook/assets/image (649) (1).png>)
 
 If you have reduced the length of the media file after starting on the sequence, and want the sequence to adjust to the new length or if you want to change the default length of an animation:
 
@@ -74,7 +74,7 @@ You can repeat this process to import another timing grid from the same file or 
 
 ## Data Layers
 
-![](<../../../.gitbook/assets/image (217).png>)
+![](<../../../.gitbook/assets/image (217) (1).png>)
 
 ### Render Mode
 

@@ -4,7 +4,7 @@
 
 The model settings determine the physical properties of the model or prop. These setting are critical for how xLights determines the render sequence data, start channels, and controller connections.
 
-![](<../../../../.gitbook/assets/image (133).png>)
+![](<../../../../.gitbook/assets/image (133) (1).png>)
 
 ### **Name**
 
@@ -34,13 +34,13 @@ Lights per String denotes the number of lights per string. This will be used ins
 
 Location of the first pixel or first channel location. "Green Square" means the starting location is the green square on the layout and "Blue Square" means the starting location is the blue square.
 
-![](<../../../../.gitbook/assets/image (795) (1).png>)
+![](<../../../../.gitbook/assets/image (795).png>)
 
 ## Controller
 
 xLights has two systems to define model start channel locations. If the controller dropdown is set to a controller name specified in the controller tab, the start channel will be auto generated based on the Controller Port and Model Chaining settings. **This is the preferred method of configuring start channels.**
 
-![](<../../../../.gitbook/assets/image (509).png>)
+![](<../../../../.gitbook/assets/image (509) (1).png>)
 
 {% hint style="info" %}
 If no controller names appear in the dropdown, double check the Auto Layout Model is enabled in the Controller Tab.
@@ -56,13 +56,13 @@ If the controller dropdown is set to "Use Start Channel", by Default, xLights wi
 
 In this example, the Start Channel has been set to start immediately after the ‘Candy Canes-2’ model.
 
-![](<../../../../.gitbook/assets/image (142).png>)
+![](<../../../../.gitbook/assets/image (142) (1).png>)
 
 xLights will automatically calculate the start channel and end channels, and if the ‘Candy Canes-2’ model’s channels change, then the start and end channels for this model will automatically be recalculated.
 
 Click the ellipse button (three periods) to edit the start channel.
 
-![](<../../../../.gitbook/assets/image (128) (1).png>)
+![](<../../../../.gitbook/assets/image (128).png>)
 
 Model Start Channel can use Absolute, Universe, Start/End of Model or Controller based addressing.
 
@@ -114,7 +114,7 @@ Each strand and node can have a name assigned to it. This is useful where for ex
 
 This setting is used to specify the Faces definition for custom models that support Singing faces.
 
-![](<../../../../.gitbook/assets/image (241).png>)
+![](<../../../../.gitbook/assets/image (241) (1).png>)
 
 Click the ellipse button (three periods) to edit the Faces.
 
@@ -167,7 +167,7 @@ This setting is used to specify the State definition for custom models. Function
 
 ## Sub-Models
 
-![](<../../../../.gitbook/assets/image (21).png>)
+![](<../../../../.gitbook/assets/image (21) (2).png>)
 
 This setting is used to specify parts of a model to be controlled as if it were its own model. This is used for example if you have a wire frame with 2 arm positions you then can sub model those and control them without the need for adding a 2nd or 3rd model.
 

@@ -20,7 +20,7 @@ In other scenarios, Value Curves and for other effects, different sliders are av
 
 Click on the drop down link and a number of options are presented.
 
-![Value Curve Types](<../../.gitbook/assets/image (279) (1).png>)
+![Value Curve Types](<../../.gitbook/assets/image (279).png>)
 
 Select the Ramp Value curve. As the image indicates, this will cause the selected attribute (say Palette Reps), to increase (ramp up) over time, starting from 20% and ending at 80%. Note that the Start level and End level sliders are now active.
 
@@ -36,6 +36,6 @@ Custom Value Curves can also be created. Select the Custom option from the drop-
 
 Value curves can be loaded and exported as a .XVC file. By default, the files will be loaded and previewed if they are in the 'valuecurves' folder automatically created in the current show folder.
 
-![](<../../.gitbook/assets/image (250).png>)
+![](<../../.gitbook/assets/image (250) (1).png>)
 
 ![](<../../.gitbook/assets/image (808).png>)

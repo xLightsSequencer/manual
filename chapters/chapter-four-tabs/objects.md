@@ -18,39 +18,39 @@ In 3D Mode, Meshes/Renders of your house or other object can be added to the Lay
 
 Click Add OBJ button and Select the Mesh dropdown.
 
-![](<../../.gitbook/assets/image (821).png>)
+![](<../../.gitbook/assets/image (298).png>)
 
 Click the Ellipsis(three dots) Button to select a OBJ file.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (174).png>)
 
 Once selected, the OBJ will be displayed in xLights.
 
-![](<../../.gitbook/assets/image (862).png>)
+![](<../../.gitbook/assets/image (215).png>)
 
-![](<../../.gitbook/assets/image (883).png>)
+![](<../../.gitbook/assets/image (621).png>)
 
 ### Grid&#x20;
 
 In 3D Mode, Grids can be added to help align models. The grids can be rotated and moved to the desired location.
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../.gitbook/assets/image (833).png>)
 
-![](<../../.gitbook/assets/image (858).png>)
+![](<../../.gitbook/assets/image (286).png>)
 
 ### Pictures
 
 In 3D Mode, Multiple Pictures can be added to the Layout. Images can be placed on the ground and also used as the house backdrop.
 
-![](<../../.gitbook/assets/image (848).png>)
+![](<../../.gitbook/assets/image (412).png>)
 
 Click the Ellipsis(three dots) Button to select a image file.
 
-![](<../../.gitbook/assets/image (411).png>)
+![](<../../.gitbook/assets/image (112).png>)
 
 The file name will appear after a image is selected.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (148).png>)
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (820).png>)
 

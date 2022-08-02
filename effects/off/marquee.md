@@ -2,7 +2,7 @@
 
 ![Icon](<../../.gitbook/assets/image (365).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (462).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (462) (1).png>)
 
 {% tabs %}
 {% tab title="Settings" %}

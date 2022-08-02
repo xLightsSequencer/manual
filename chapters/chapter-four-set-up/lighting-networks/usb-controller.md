@@ -2,19 +2,19 @@
 
 ## USB Controller
 
-![](<../../../.gitbook/assets/image (353).png>)
+![](<../../../.gitbook/assets/image (110).png>)
 
 USB Controller type is used to define a DMX, Pixelnet-Open, LOR dongle, LOR optimized, D-Light, Renard, or OpenDMX setup. The USB  type can be used to for physical serial ports on the PC or "virtual" serial ports using a USB FTDI adapter.
 
-![](<../../../.gitbook/assets/image (33).png>)
+![](<../../../.gitbook/assets/image (424).png>)
 
 Click the Add USB button to add a new USB controller. Select a row to highlight the controller and change the settings.
 
-![](<../../../.gitbook/assets/image (830).png>)
+![](<../../../.gitbook/assets/image (265).png>)
 
 ## USB Controller Settings
 
-![](<../../../.gitbook/assets/image (409).png>)
+![](<../../../.gitbook/assets/image (113).png>)
 
 ### Port
 
@@ -45,11 +45,11 @@ Number of channels of the serial device. For most DMX devices this needs to be 5
 
 LOR Optimized is much closer to true LOR protocol and utilizes some of the more advanced commands.&#x20;
 
-![](<../../../.gitbook/assets/image (35).png>)
+![](<../../../.gitbook/assets/image (462).png>)
 
 First, set an ID of the output, this is **not** the LOR unit ID of a controller box, it is a unique ID that xLights will use to direct the channel data to this output. The port is the COM port of the dongle in use, Baud Rate is adjustable. NOTE: Older black or white LOR dongles do not support speeds over 115200, Only the red LOR dongle will support higher speeds. Description is user defined value to identify the controller. The Devices setting sets the number of LOR Controller. Based on the Devices number, the settings grid will add setting for each LOR controller.
 
-![](<../../../.gitbook/assets/image (30).png>)
+![](<../../../.gitbook/assets/image (432).png>)
 
 The settings grid will list the LOR controller. Each controller will be listed by controller type, **Unit ID**, Channels, and Address Mode. Note: xLights cannot set the unit ID to the controller, this must be done via the LOR software or from the DIP switches on the controller board if applicable.
 

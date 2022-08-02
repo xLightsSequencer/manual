@@ -2,7 +2,7 @@
 
 ![Icon](<../../.gitbook/assets/image (584).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (686).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (686) (1).png>)
 
 ![](<../../.gitbook/assets/image (165).png>)
 

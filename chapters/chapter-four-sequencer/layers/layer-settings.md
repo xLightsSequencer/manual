@@ -57,7 +57,7 @@ For model groups, additional buffer render styles are available. The list below 
 
 When using the "Per Preview" render style, this dropdown allows the user to select which viewpoint to use. 2D is the default.
 
-![](<../../../.gitbook/assets/image (214).png>)
+![](<../../../.gitbook/assets/image (214) (1).png>)
 
 #### Transformation
 

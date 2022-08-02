@@ -4,9 +4,9 @@
 
 There are a number of windows that enable simultaneous display of different views in xLights. When xLights first loads, a default set of windows are displayed. Which windows are open can be controlled via the Windows menu by selecting View, Windows and then clicking on the required window to open it. The window is dropped by default on the left side of the screen, however each window can be moved and docked to alternate locations on the same screen or moved to an alternate display screen if connected to your PC/ MAC.
 
-![](<../../../.gitbook/assets/image (200) (1).png>)
+![](<../../../.gitbook/assets/image (200).png>)
 
-![Window Toolbar](<../../../.gitbook/assets/image (359).png>)
+![Window Toolbar](<../../../.gitbook/assets/image (359) (1).png>)
 
 ### ![](../../../.gitbook/assets/display-elements-icon.JPG) Display Elements
 
@@ -112,7 +112,7 @@ The size on the icons on the Effects Toolbar can be adjusted by going to _Settin
 
 The Value Curves Dialog allows the user to drag and drop their saved values curves onto the desired effect setting.
 
-![](<../../../.gitbook/assets/image (434).png>)
+![](<../../../.gitbook/assets/image (434) (1).png>)
 
 ### Color Dropper
 
@@ -136,7 +136,7 @@ If you want single line morphs instead of area morphs then it's easier to just c
 
 The Select Effects Window allows the user to select effects based on type, model, and time. Based on the these selection, multiple effects can be selected and then bulk edit can be used to adjust the settings. This allows the user to, for example, select all the pinwheel effects on there mini trees and change the number of arms with bulk edit.
 
-![](<../../../.gitbook/assets/image (265).png>)
+![](<../../../.gitbook/assets/image (94).png>)
 
 The "Effect Type" allows the user to select which effect type to select.  The Model List allows the user to select which models to filter selection on. Only highlighted model names, will have their effects selected. The Time Fields allows the user to effect filter selection by time. The Effects by Time List displays all the effects found based on the other options and will select the highlighted items.
 

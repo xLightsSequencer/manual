@@ -54,7 +54,7 @@ To summarise the backup functionality:
 
 If you need to recover, File -> Restore Backup
 
-![](<../../../.gitbook/assets/image (691).png>)
+![](<../../../.gitbook/assets/image (32).png>)
 
 
 
@@ -68,11 +68,11 @@ Select the backup folder from the left list and "check" which files to restore. 
 
 The Sequence Tab can be used to backup sequence files.
 
-![](<../../../.gitbook/assets/image (626).png>)
+![](<../../../.gitbook/assets/image (19).png>)
 
 Click the "Restore Files" button to start the restore process.
 
-![](<../../../.gitbook/assets/image (644).png>)
+![](<../../../.gitbook/assets/image (33).png>)
 
 
 

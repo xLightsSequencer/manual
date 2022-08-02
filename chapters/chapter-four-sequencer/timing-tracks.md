@@ -4,7 +4,7 @@
 
 xLights can support multiple timing tracks on the sequencer, each with different frequencies of timing marks. By default, a timing track ‘New Timing’ is created for each sequence if you have not created one when creating a new sequence. Timing Tracks can be added via the File, Sequence Settings, Timing menu.
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (54).png>)
 
 ![](../../.gitbook/assets/base64295102e85a0ab30.png)
 
@@ -92,7 +92,7 @@ You can export the file as a PGO file , if you wish to provide the file for use 
 
 Multiple timing tracks can be exported to a single XTIMING file by selected them from the following dialog.
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (74) (1).png>)
 
 {% hint style="success" %}
 Timings are created just like effects which means they have a duration. Every timing effect has a starting edge and an ending edge. So you can have a timing effect that goes from 1 to 2 seconds and then another from 3 to 4 seconds with nothing in between 2 and 3 seconds. If you want one in there just select a range and hit "t" then drag the edges over to connect to the existing timing effects.
@@ -104,11 +104,11 @@ The purpose of this function is to create a timing track by importing the notes 
 
 Right Click on the Timing Track name and select Import Notes.
 
-![](<../../.gitbook/assets/image (175).png>)
+![](<../../.gitbook/assets/image (175) (1).png>)
 
 Specify a name for the Timing Track to be created , the Notes Source, and then navigate to and select the file from which the notes are to be Import.
 
-![](<../../.gitbook/assets/base6476790ad4ccc42820 (1).png>)
+![](../../.gitbook/assets/base6476790ad4ccc42820.png)
 
 Click OK and the Timing track will be created from the notes.
 

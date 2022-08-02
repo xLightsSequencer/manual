@@ -2,7 +2,7 @@
 
 ## Output
 
-![](<../../../../.gitbook/assets/image (111) (1).png>)
+![](<../../../../.gitbook/assets/image (111).png>)
 
 ### Use Frame Sync
 
@@ -12,7 +12,7 @@ For ArtNET you just need to select this option.
 
 For E1.31 you also need to set a universe number on the controller tab … this universe number needs to be a universe you are not otherwise using.
 
-![](<../../../../.gitbook/assets/image (81).png>)
+![](<../../../../.gitbook/assets/image (805).png>)
 
 ### Force Local IP
 
@@ -22,7 +22,7 @@ By default xLights automatically selects which network interface to send out net
 
 ### Duplicate Frames To Suppress
 
-![](<../../../../.gitbook/assets/image (685).png>)
+![](<../../../../.gitbook/assets/image (685) (1).png>)
 
 This selection allows xLights to "skip" frames that contain the same data as the previous frame. This can help with lagging, as it will reduce network traffic. xSchedule will also use this setting when outputting data.
 

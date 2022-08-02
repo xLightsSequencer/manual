@@ -6,15 +6,15 @@
 
 {% tabs %}
 {% tab title="Position" %}
-![](<../../.gitbook/assets/image (98) (1).png>)
+![](<../../.gitbook/assets/image (98).png>)
 {% endtab %}
 
 {% tab title="Blades" %}
-![](<../../.gitbook/assets/image (149).png>)
+![](<../../.gitbook/assets/image (149) (1).png>)
 {% endtab %}
 
 {% tab title="Options" %}
-![](<../../.gitbook/assets/image (732) (1).png>)
+![](<../../.gitbook/assets/image (732).png>)
 {% endtab %}
 {% endtabs %}
 

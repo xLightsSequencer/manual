@@ -2,7 +2,7 @@
 
 ## Sequences
 
-![](<../../../../.gitbook/assets/image (594).png>)
+![](<../../../../.gitbook/assets/image (6).png>)
 
 ### Render On Save
 
@@ -18,7 +18,7 @@ When enabled, the Model Blending option in the sequence settings dialog will be 
 
 ### Default View For New Sequences
 
-![](<../../../../.gitbook/assets/image (473).png>)
+![](<../../../../.gitbook/assets/image (36).png>)
 
 Select a View to default as the Master View when creating a new sequence.
 
@@ -32,7 +32,7 @@ Render Cache allows xLights to render an effect or group of effects once and the
 
 This defines where the render cache files are saved on disk. If "Use Show Folder" is 'checked' xLights will use the current show folder. If 'unchecked' and a folder path is specified all the Render Cache data will be saved to that location. If this folder doesn't exist (move computers or remove a harddrive) the Render Cache directory will default back to the show directory.
 
-![](<../../../../.gitbook/assets/image (168).png>)
+![](<../../../../.gitbook/assets/image (827).png>)
 
 {% hint style="info" %}
 There is a purge render cache option under Tools->Purge Render Cache.
@@ -50,7 +50,7 @@ In order to recover your sequence file from an unexpected error or corruption to
 
 ### Media/Resource Directories
 
-![](<../../../../.gitbook/assets/image (233).png>)
+![](<../../../../.gitbook/assets/image (75).png>)
 
 This defines where xLights will search for audio/picture/video files, This should only be set if  the audio/picture/video files are **not** stored in the current show folder or a sub-directory of the current show folder. On Mac OS, adding folders in this section will give xLights the correct permissions to search them.
 
@@ -66,6 +66,6 @@ Version 1 is the "original" FSEQ file format. V1 files contain all the channel d
 
 ### FSEQ Directory
 
-![](<../../../../.gitbook/assets/image (200).png>)
+![](<../../../../.gitbook/assets/image (43).png>)
 
 This defines where xLights will save FSEQ files. The FSEQ files are the raw sequence data for each sequence. If "Use Show Folder" is 'checked' xLights will use the current show folder. If 'unchecked' xLights will use the set folder path. If this folder doesn't exist (move computers or remove a harddrive) the FSEQ directory will default back to the show directory.

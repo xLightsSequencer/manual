@@ -26,17 +26,17 @@ When you first access the Test Dialog, you will be presented with three tabs. Th
 
 Once you have selected a set of channels, you can save this individual set up as a test configuration for future repeat testing by clicking on the Save button and specifying a name for that group of channels. You can load a previously saved test configuration by clicking on the Load button.
 
-![](<../../../.gitbook/assets/image (840).png>)
+![](<../../../.gitbook/assets/image (350).png>)
 
 If you click on the second tab labeled 'Model Groups', the view with display all the Model Groups. You can then select one or more Model group to test.
 
 You can also click against a Model Group which will then display all the models under the group. This is quite useful to test a model or group of models at a time.
 
-![](<../../../.gitbook/assets/image (733).png>)
+![](<../../../.gitbook/assets/image (733) (1).png>)
 
 The third Tab, will display a list of all 'Models'. You can test individual models or expand the model, by clicking the down arrow, and test the individual nodes.
 
-![](<../../../.gitbook/assets/image (277) (1).png>)
+![](<../../../.gitbook/assets/image (277).png>)
 
 ## Selecting How to Test
 
@@ -60,6 +60,6 @@ Output from the test tab is, in most cases, always in RGB sequence. It actually 
 
 If you wish that the ‘RGB definition’ of your model be used instead, then select the R-G-B-W option instead.
 
-![](<../../../.gitbook/assets/image (502).png>)
+![](<../../../.gitbook/assets/image (502) (1).png>)
 
 This will use the model definition and turn on the color that corresponds to the channel as defined in the model. So if the model definition is GBR, then the colors turned on will be Green, Blue, and Red respectively.

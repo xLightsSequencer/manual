@@ -10,7 +10,7 @@ This function enables you to change the size of the tool icons that are used to 
 
 Four options are available:
 
-![](<../../../../.gitbook/assets/image (218) (1).png>)
+![](<../../../../.gitbook/assets/image (218).png>)
 
 #### OpenGL Version
 
@@ -30,19 +30,19 @@ In 3D mode, Model and Objects sometimes do not look correct in the house preview
 
 This option will adjust the size of the model handles in the Layout Tab.
 
-![](<../../../../.gitbook/assets/image (128).png>)
+![](<../../../../.gitbook/assets/image (847).png>)
 
 There are three sizes available:
 
 ![Normal](<../../../../.gitbook/assets/image (158) (1).png>)
 
-![Large](<../../../../.gitbook/assets/image (40).png>)
+![Large](<../../../../.gitbook/assets/image (40) (1).png>)
 
 ![Extra Large](<../../../../.gitbook/assets/image (473) (1).png>)
 
 ### Effect Assist Window
 
-![](<../../../../.gitbook/assets/image (881).png>)
+![](<../../../../.gitbook/assets/image (532).png>)
 
 "Always On" will display the window in all cases, "Always Off" won’t display the window and "Auto Toggle" will display the window if the effect supports it, else won't display the window if the effect does not have this capability. Click on an effect in the sequencer grid and expand the Effect Assist window. If "Always on" is selected and the effect is not supported by this window, then you will see a red X in the window.
 

@@ -32,7 +32,7 @@ If the Model checkbox is selected, xLights will upload the Model Data for the di
 
 The UDP Out dropdown will enable xLights to upload The E1.31 and DDP Channel Output definitions from the Setup Tab in xLights. 'All' will uploads All the E1.31 and DDP Channel Output Definitions, 'Proxied' will only upload E1.31 and DDP Ouput Channel Definitions of proxied controllers on that FPP instance. 'All' should be selected on Standalone/Master FPP Devices and 'Proxied' should be used for Remote FPP Devices that act as a tunnel to other controllers like a F16v3.
 
-![](<../../../.gitbook/assets/image (25) (1).png>)
+![](<../../../.gitbook/assets/image (25).png>)
 
 The Playlist drop allows the user to select a predefined Playlist in FPP to add the uploaded Sequences too.
 
@@ -40,11 +40,11 @@ The Playlist drop allows the user to select a predefined Playlist in FPP to add 
 
 The Pixel Hat/Cap Column will display if a Output device is attached and configured. Devices like PiCaps, Matrix PiHat, F8-B, etc will appear if they are configured in FPP. If the Checkbox is selected the input channels will be configure. For Matrix PiHat the panel start channel will also be configured.
 
-![Hat/Cap Information](<../../../.gitbook/assets/image (557) (1).png>)
+![Hat/Cap Information](<../../../.gitbook/assets/image (557).png>)
 
 You can then select one or more sequences to upload. The sequence FSEQ files are listed here. If the sequence is an audio sequence then the media file will also be uploaded if the media checkbox is selected.
 
-![Sequence Selection](<../../../.gitbook/assets/image (653) (1).png>)
+![Sequence Selection](<../../../.gitbook/assets/image (653).png>)
 
 There is a Right Click Menu to Select All Sequences, Clear Selections, Select Highlighted, or Deselect Highlighted.
 

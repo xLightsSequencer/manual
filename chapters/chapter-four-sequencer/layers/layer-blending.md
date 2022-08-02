@@ -2,7 +2,7 @@
 
 ## Layer Blending
 
-![](<../../../.gitbook/assets/image (872).png>)
+![](<../../../.gitbook/assets/image (581).png>)
 
 The Layer Blending window can be opened by clicking on the Layer Blending icon from the toolbar or via the View , Windows menus.
 
@@ -16,7 +16,7 @@ This will reset the Layer Setting back to default every time you select or creat
 
 ## Layer Blending
 
-![Layer Blending Dropdown](<../../../.gitbook/assets/image (57).png>)
+![Layer Blending Dropdown](<../../../.gitbook/assets/image (57) (1).png>)
 
 The Layer blending settings allows the user to dictate how effects on multiple layers will be merged together for a model/group/submodel.
 
@@ -24,7 +24,7 @@ When setting the layer blending modes, the current layer is considered layer 1 a
 
 Click the Question Mark(?) Button for more Information.
 
-![](<../../../.gitbook/assets/image (160).png>)
+![](<../../../.gitbook/assets/image (816).png>)
 
 {% hint style="success" %}
 Put two effects on a model and step through each of the layering modes to see what they will look like. Experience is much better than reading about it.
@@ -106,7 +106,7 @@ If an effect has a transitions applied a green bar will appear for an in transit
 
 This slider adjusts the level of each effect in the combined output of the effects. You can use this to just put a hint (or more) of one effect on another.
 
-![](<../../../.gitbook/assets/image (159) (1).png>)
+![](<../../../.gitbook/assets/image (159).png>)
 
 ## Canvas
 
@@ -120,4 +120,4 @@ This Dialog allows the user which layers to use when Canvas Mode is Enabled
 
 ![](<../../../.gitbook/assets/image (746).png>)
 
-![](<../../../.gitbook/assets/image (245) (1).png>)
+![](<../../../.gitbook/assets/image (245).png>)
