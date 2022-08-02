@@ -31,7 +31,7 @@ The Cube model is a 3D model that is used to model objects like Pixel/Peace Stak
 {% endtab %}
 
 {% tab title="Alternate Pixel" %}
-![](<../../../.gitbook/assets/image (735).png>)
+![](<../../../.gitbook/assets/image (735) (2).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -53,7 +53,7 @@ All the wiring for each layer will start in the same location. Bottom Left in th
 
 #### 3W x 3H x 3D, Front Bottom Left, Horizontal Front/Back, ZigZag
 
-![](<../../../.gitbook/assets/image (728).png>)
+![](<../../../.gitbook/assets/image (728) (2).png>)
 
 #### 3W x 3H x 3D, Front Bottom Left, Stacked Left/Right, ZigZag
 

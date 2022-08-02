@@ -40,7 +40,7 @@ To remove a model, drag a it from the controller port list on the right to the m
 
 ## Model Right Click Menu
 
-![](<../../../.gitbook/assets/image (25).png>)
+![](../../../.gitbook/assets/2022-08-02\_11h03\_38.png)
 
 ### Print
 
@@ -54,21 +54,39 @@ Saves controller model layout to a CSV file for editing.
 
 Removal all the models from all the controller ports.
 
-### None/A->B->C
+### Change String Count
 
-Set the smart receiver for Falcon Controllers.
+Change the physical number of strings i.e controller ports a model consumes. When used, xLights will attempt to adjust the Nodes Per String and Stands per String to preserve the original total pixel count of the model. Only works with Tree/Matrix/Custom Models.
 
-![](<../../../.gitbook/assets/image (57).png>)
+### Smart Remotes
 
-| Smart Receiver Setting | Outputs Used              |
-| ---------------------- | ------------------------- |
-| \*A\*                  | "A' Receiver Outputs Only |
-| \*B\*                  | 'B' Receiver Outputs Only |
-| \*C\*                  | 'C' Receiver Outputs Only |
-| \*A\*->\*B\*->\*C\*    | 'A', 'B', & 'C' Outputs   |
-| \*B\*->\*C\*           | 'B', & 'C' Outputs        |
+![](<../../../.gitbook/assets/image (728).png>)
 
-Smart Receivers will display as different colors if set. Green is 'A', Purple is 'B', and Orange is 'C'
+#### None/A/B/C/D/E/F
+
+Set the Smart Receiver ID for Falcon/Kulp/FPP/HinksPix Controllers. None is used for "Dumb" or normal receivers.
+
+#### Type
+
+Set the Type of Smart Receiver. V1 "White" Receivers are "falconv1", "Blue" or "Black" Receivers are "falconv2" or "fppv2".
+
+![](<../../../.gitbook/assets/image (832).png>)
+
+#### Cascade Down Port
+
+When enable, this will change the string order to proceed down the daisy chained receivers on the current "chain" of remotes. This is needed for controllers that don't support 'Virtual Strings' like the HinksPix Pro.
+
+#### Cascade Remotes
+
+This allow multi-string models to use multiple smart receivers daisy chained together. When Cascade Remotes is set to 4, xLights will assign strings to 4 smart receivers chained together.
+
+![4 Cascade Remotes with Cascade Down Port Disabled](../../../.gitbook/assets/2022-08-02\_12h04\_24.png)
+
+![4 Cascade Remotes with Cascade Down Port Enabled](<../../../.gitbook/assets/image (735).png>)
+
+#### Smart Receiver Color
+
+Smart Receivers will display as different colors if set. Green is 'A', Purple is 'B', Orange is 'C', and Light Blue is 'D'. The colors will repeat after 'D', Green is 'E', etc.
 
 ![](<../../../.gitbook/assets/image (152).png>)
 
