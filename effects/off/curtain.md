@@ -4,7 +4,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (379).png>)
 
-![](<../../.gitbook/assets/image (464).png>)
+![](<../../.gitbook/assets/image (464) (1).png>)
 
 The Curtain effect creates a color transition of one or more colors across the face of a model depicting a curtain opening or closing based on the options selected.
 

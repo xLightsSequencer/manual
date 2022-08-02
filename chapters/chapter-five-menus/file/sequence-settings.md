@@ -2,11 +2,11 @@
 
 ## Sequence Settings
 
-![](<../../../.gitbook/assets/image (180) (1).png>)
+![](<../../../.gitbook/assets/image (180).png>)
 
 Select the Sequence Settings option from the File menu. This screen can also be accessed by clicking on the button of the toolbar. The Sequence Settings screen has four tabs.
 
-![](<../../../.gitbook/assets/image (491).png>)
+![](<../../../.gitbook/assets/image (491) (1).png>)
 
 ## Info/Media
 
@@ -74,7 +74,7 @@ You can repeat this process to import another timing grid from the same file or 
 
 ## Data Layers
 
-![](<../../../.gitbook/assets/image (217).png>)
+![](<../../../.gitbook/assets/image (217) (1).png>)
 
 ### Render Mode
 

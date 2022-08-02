@@ -89,7 +89,7 @@ Click on Done when complete.  xLights will create a Timing track with timing mar
 
 The subsequent process is the same as in the Musical Sequence. By default, xLights will create an animated  sequence that is 30 seconds in length. To change this , click on File, Sequence Settings and you can change the Sequence Duration.
 
-![](<../../../.gitbook/assets/image (318).png>)
+![](<../../../.gitbook/assets/image (386).png>)
 
-![](<../../../.gitbook/assets/image (336).png>)
+![](<../../../.gitbook/assets/image (353).png>)
 

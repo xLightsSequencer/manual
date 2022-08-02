@@ -4,11 +4,11 @@
 
 This setting allows the user to specify parts of a model to be controlled as if it were its own model. For example, you could defined the horizontal and vertical section of a windows frame.
 
-![](<../../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/image (762).png>)
 
 Click Add to create a new submodel. Then add the nodes that will be included in the submodel. On the right side you will see the model and selected nodes will be highlighted.
 
-![](<../../.gitbook/assets/image (242).png>)
+![](<../../.gitbook/assets/image (242) (1).png>)
 
 On the right side, the model will be displayed with the selected nodes highlighted. If the user clicks the row header(Top or Bottom), the display will highlight only the nodes in the selected row. If the user clicks the "Node Ranges" column header, all the nodes from all the rows will be highlighted.
 
@@ -32,7 +32,7 @@ The 'Vertical Buffer Layout' checkbox with rotate the underlining render buffer 
 
 To graphically select the nodes, double click the row header or row cell and select the desired nodes. This option will only populate one row at a time.
 
-![](<../../.gitbook/assets/image (750).png>)
+![](<../../.gitbook/assets/image (47).png>)
 
 {% hint style="info" %}
 Un-check 'Ordered Selection' to enable 'Click and Drag' Mode
@@ -42,11 +42,11 @@ Un-check 'Ordered Selection' to enable 'Click and Drag' Mode
 
 To Draw a model, like a Cross, across the whole model click the Draw Model Button.
 
-![](<../../.gitbook/assets/image (536) (1).png>)
+![](<../../.gitbook/assets/image (536).png>)
 
 Click and drag to select nodes(blue highlight). The selected node will turn grey once selected. Double clicking on a node number also toggles between selected and not selected. 'Select All' will select all the nodes. 'Select None' will deselect all the nodes. The 'Ordered Selection' checkbox enables a single select mode that disables 'Click and Drag'(blue highlight) Mode. 'Ordered Selection' is used to select the individual nodes in a specific order to be used by the underlying buffer.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (875).png>)
 
 The "From Model" button allows the user to select nodes based on the custom model "shape". For Example, you can import a snowflake model file to overlay it on a matrix.
 
@@ -56,25 +56,25 @@ Hold the 'Ctrl'/'Cmd' Key highlight the cells and press Ctrl+C to copy them. Ctr
 
 Click Ok to Close the select window.
 
-![](<../../.gitbook/assets/image (110) (1).png>)
+![](<../../.gitbook/assets/image (110).png>)
 
 ## SubBuffer SubModel
 
-![](<../../.gitbook/assets/image (366) (1).png>)
+![](<../../.gitbook/assets/image (366).png>)
 
 The SubBuffer tab allows the user to select sections of the buffer instead of the nodes. This can be used to divide mega trees/matrices into slices for singing face or individual effects.
 
-![](<../../.gitbook/assets/image (754) (1).png>)
+![](<../../.gitbook/assets/image (754).png>)
 
 Click The Action Button and Select Generate Slices to automatically generate different size slices.
 
-![](<../../.gitbook/assets/image (362).png>)
+![](<../../.gitbook/assets/image (453).png>)
 
 ![](<../../.gitbook/assets/image (778).png>)
 
 Vertical Slices will create 'count' number of vertical slices that are equal size.
 
-![](<../../.gitbook/assets/image (260).png>)
+![](<../../.gitbook/assets/image (566).png>)
 
 ## Delete
 
@@ -92,7 +92,7 @@ Copy the currently selected submodel.
 
 ## Action
 
-![](<../../.gitbook/assets/image (241).png>)
+![](<../../.gitbook/assets/image (488).png>)
 
 ### Generate Slices
 
@@ -116,7 +116,7 @@ This will reverse all the submodels nodes numbering. 1->100, 100->1.
 
 ## Import
 
-![](<../../.gitbook/assets/image (103).png>)
+![](<../../.gitbook/assets/image (829).png>)
 
 ### Import SubModels from Model
 
@@ -132,11 +132,11 @@ This allows the user to 'copy' submodels from a XModel file.
 
 This option will use a custom model file(.xmodel) to create submodels based on X/Y location of the node locations. The height and width of the custom model file must be smaller than the matrix height and width. This will also import the singing face and model state defines.
 
-![](<../../.gitbook/assets/image (354) (1).png>)
+![](<../../.gitbook/assets/image (354).png>)
 
 ## Export
 
-![](<../../.gitbook/assets/image (160).png>)
+![](<../../.gitbook/assets/image (850).png>)
 
 ### Export SubModels as CSV
 

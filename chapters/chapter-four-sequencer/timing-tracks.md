@@ -4,7 +4,7 @@
 
 xLights can support multiple timing tracks on the sequencer, each with different frequencies of timing marks. By default, a timing track ‘New Timing’ is created for each sequence if you have not created one when creating a new sequence. Timing Tracks can be added via the File, Sequence Settings, Timing menu.
 
-![](<../../.gitbook/assets/image (174).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 ![](../../.gitbook/assets/base64295102e85a0ab30.png)
 
@@ -42,11 +42,11 @@ You can also have xLights create fixed timing interval timing tracks by selectin
 
 When xLights created a Metronome timing it is generated as a Fixed Timing Tracks. Fixed Timing Tracks are not editable and the timing marks cannot be changed. Fixed timing tracks are colored orange in the sequence tab by default.
 
-![](<../../.gitbook/assets/image (618) (1).png>)
+![](<../../.gitbook/assets/image (618).png>)
 
 To edit a Fixed timing track the user must right click and select Make Timing Track Variable.
 
-![](<../../.gitbook/assets/image (349).png>)
+![](<../../.gitbook/assets/image (349) (1).png>)
 
 ### Adding/Removing Timing Track
 
@@ -54,13 +54,13 @@ While on the sequencer tab, you can add new timing tracks or delete an existing 
 
 Right Click , with your cursor in the area of the timing track names and select Add Timing Track or Delete Timing Track.
 
-![](<../../.gitbook/assets/image (415) (1).png>)
+![](<../../.gitbook/assets/image (415).png>)
 
 ### Importing Timing Track
 
 You can also import timing marks created externally (the most common being those created via Audacity or another xLights sequence).
 
-![](<../../.gitbook/assets/image (368) (1).png>)
+![](<../../.gitbook/assets/image (368).png>)
 
 This capability includes importing a Singing Face (xLights Papagayo) timing track.
 
@@ -108,7 +108,7 @@ Right Click on the Timing Track name and select Import Notes.
 
 Specify a name for the Timing Track to be created , the Notes Source, and then navigate to and select the file from which the notes are to be Import.
 
-![](../../.gitbook/assets/base6476790ad4ccc42820.png)
+![](<../../.gitbook/assets/base6476790ad4ccc42820 (1).png>)
 
 Click OK and the Timing track will be created from the notes.
 

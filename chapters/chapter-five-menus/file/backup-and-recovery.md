@@ -50,22 +50,29 @@ To summarise the backup functionality:
 * Every x (3,10,15,30) minutes , the current open XML file (i.e xxx.xml) is backed up (overwrite) to xxx.xbkp or \_\_.xbkp (for a new unnamed sequence) in the show directory. This will occur if there have been any changes since the last auto save or on demand (F10/F11) save.
 * Every x minutes (same value as set above), the xlights\_rgbeffects.xml is backed up to xlights\_rgbeffects.xbkp in the show directory. This includes the layout as well.  This will occur if there have been any changes since the last auto save or on demand (F10/F11) save.
 
-If you need to recover:
+### Restore Backup
 
-If you want to restore the XML you were working on , then (Shut down xLights first and then)
+If you need to recover, File -> Restore Backup
 
-* Rename existing xxx.xml to say xxx\_old.xml, and rename xxx.xbkp to xxx.xml. For a new unsaved sequence , just rename \_\_.xbkp to xxx.xml. Render All and Save.
-* If this does not work as required , then look for the latest backup timestamp created using F10 , F11 or in the 'timestamp\_OnStart folder' and replace the XML as above.
-* If that does not work, then go to the next oldest backup by timestamp etc
+![](<../../../.gitbook/assets/image (864).png>)
 
-{% hint style="info" %}
-If you have changed show directories then also look in the show directory you were working in for backups created there. When you change show directories the onStartup backup will also be created for the new show directory … ensuring you always have a start of session backup.
-{% endhint %}
 
-If you need to restore the xlights files, then
 
-* Rename existing xlights\_rgbeffects .xml to say xlights\_rgbeffects\_old.xml, and rename xlights\_rgbeffects.xbkp to xml to xlights\_rgbeffects.xml from your show directory.
-* If this does not work as required , then look for the latest backup timestamp created using F10 , F11 or in the 'timestamp\_OnStart folder' and replace the xlights\_rgbeffects. xml as above.
-* If that does not work, then go to the next oldest backup by timestamp etc
+![](../../../.gitbook/assets/2022-08-02\_00h53\_10.png)
 
-If you have recently changed your network definition and you need to recover that , then look for the xlights\_network.xml file in the most recent timestamped folder and copy and replace the current one (after renaming the current one).
+Select the backup folder from the left list and "check" which files to restore. The right list display basic data about the files found in the selected backup folder.
+
+* **xlights\_networks.xml** file contains the controller tab data.
+* **xlights\_rgbeffects.xml** file contains the layout, model, preview and preset data .
+* **xlights\_keybindings.xml** files contains the keyboard shortcut settings.
+
+The Sequence Tab can be used to backup sequence files.
+
+![](<../../../.gitbook/assets/image (853).png>)
+
+Click the "Restore Files" button to start the restore process.
+
+![](<../../../.gitbook/assets/image (841).png>)
+
+
+

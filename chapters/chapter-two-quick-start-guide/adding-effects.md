@@ -4,11 +4,11 @@
 
 You can then drop and effect against either the Model Group or the Model. Model groups are identified by a small group icon after the name.
 
-![](<../../.gitbook/assets/image (123).png>)
+![](<../../.gitbook/assets/image (779).png>)
 
 If you double Click on the Model Group name, it will expand and show you the models that have been defined as part of the Model group - in this case the ‘Arch 1’ model. Double Click again to collapse the Model Group.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (893).png>)
 
 ## Adding Effects To a Model
 
@@ -24,7 +24,7 @@ This is effectively placing the effect on the model.
 
 You could also place it against the Model Group - (one line higher), in which case it applies to all models under the Group.
 
-![](<../../.gitbook/assets/image (146) (1).png>)
+![](<../../.gitbook/assets/image (146).png>)
 
 You can grab the edge (in purple) and drag it to the right to stretch. Note that the effect shows in the Model window and in the House Preview window.
 

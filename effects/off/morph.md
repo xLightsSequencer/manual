@@ -4,11 +4,11 @@
 
 ![Icon](<../../.gitbook/assets/image (364) (1).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (77) (1).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (77).png>)
 
 {% tabs %}
 {% tab title="Start" %}
-![](<../../.gitbook/assets/image (756) (1).png>)
+![](<../../.gitbook/assets/image (756).png>)
 {% endtab %}
 
 {% tab title="End" %}
@@ -16,7 +16,7 @@
 {% endtab %}
 
 {% tab title="Options" %}
-![](<../../.gitbook/assets/image (426) (1).png>)
+![](<../../.gitbook/assets/image (426).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -55,4 +55,4 @@ A morph can start anywhere and end anywhere on a model. The starting and ending 
 Open and use the Effect Assist window. The window will display a grid corresponding to the x,y start and end coordinates. If you then grab a slider for the morph effect and move it, the Effect Assist window shows exactly where the coordinate is being moved to, making it easier to determine what is being done to the effect. Double click to reset the coordinates to defaults.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (361).png>)
+![](<../../.gitbook/assets/image (423).png>)

@@ -16,7 +16,7 @@ Then select the local .xmodel file with the File Select Window
 
 ![File Select Window](<../../.gitbook/assets/image (781).png>)
 
-![Imported Model ](<../../.gitbook/assets/image (209) (1).png>)
+![Imported Model ](<../../.gitbook/assets/image (209).png>)
 
 The imported model will be the same model type it was exported as. If the .xmodel file contains a custom Model, the imported model will also be a custom model.
 

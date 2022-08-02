@@ -4,7 +4,7 @@
 
 Presets are a way to save an effect and easily recall it later to speed up sequencing.
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (739).png>)
 
 You can also send snippets of your effects to other people and import and use snippets of effects supplied by other people without having to import an entire model.
 
@@ -12,7 +12,7 @@ The Effect Presets window enables presets to be managed. You can group them and 
 
 Against each preset name, the count of the number of effect layers is displayed.
 
-![](<../../.gitbook/assets/image (367).png>)
+![](<../../.gitbook/assets/image (288).png>)
 
 ### New Preset
 

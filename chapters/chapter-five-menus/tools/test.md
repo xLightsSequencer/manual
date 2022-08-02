@@ -26,7 +26,7 @@ When you first access the Test Dialog, you will be presented with three tabs. Th
 
 Once you have selected a set of channels, you can save this individual set up as a test configuration for future repeat testing by clicking on the Save button and specifying a name for that group of channels. You can load a previously saved test configuration by clicking on the Load button.
 
-![](<../../../.gitbook/assets/image (79).png>)
+![](<../../../.gitbook/assets/image (750).png>)
 
 If you click on the second tab labeled 'Model Groups', the view with display all the Model Groups. You can then select one or more Model group to test.
 
@@ -36,7 +36,7 @@ You can also click against a Model Group which will then display all the models 
 
 The third Tab, will display a list of all 'Models'. You can test individual models or expand the model, by clicking the down arrow, and test the individual nodes.
 
-![](<../../../.gitbook/assets/image (277) (1).png>)
+![](<../../../.gitbook/assets/image (277).png>)
 
 ## Selecting How to Test
 
@@ -48,7 +48,7 @@ The 'Standard' Tab will test the individual channels. This is intended for AC li
 
 The 'RGB' Tab will test the individual Pixel or Dumb RGB strands. Similarly to above, the 'Highlight Intensity' is the "High" channel value, while the 'Background Intensity' is the "Low" intensity. At value off 255 is 100% ON while 0 is OFF. By default, the Highlight Intensity is 255 and the Background Intensity is 0. The three sliders will set the Output Color. For Model with RGB color order, the first sliders would be Red, 2nd is Green and the third is Blue. For all color orders the the first sliders controls the first color, the second sliders the second color, and third sliders the third color. 'Case' will set one Pixel or group of three channels, at a time to the 'Highlight Intensity' and proceed thought all the enabled channels. 'Alternate' will set every-other Pixel or group of three channels to the 'Highlight' and 'Background' Intensity. 'Background Only' with set all the Pixel to the 'Background Intensity'.
 
-![](<../../../.gitbook/assets/image (107) (1).png>)
+![](<../../../.gitbook/assets/image (107).png>)
 
 The 'RGB Cycle' Tab will test the individual colors in a Smart(Pixel) or Dumb RGB strands. The 'A-B-C' option will turn on each individual colors of the selected output. For Model with RGB color order, this would be Red, then Green and then Blue. For all color orders 'A' the first color, 'B's the second color, and 'C' is the third color. The 'A-B-C-All' will cycle the color and add an all colors on state. 'A-B-C-All-None' additionally adds an all colors off state. 'R-G-B-W' with cycle four channel RGBW lights.
 

@@ -23,21 +23,21 @@ The Cube model is a 3D model that is used to model objects like Pixel/Peace Stak
 
 {% tabs %}
 {% tab title="Zig Zag" %}
-![](<../../../.gitbook/assets/image (143).png>)
+![](<../../../.gitbook/assets/image (840).png>)
 {% endtab %}
 
 {% tab title="No Zig Zag" %}
-![](<../../../.gitbook/assets/image (159).png>)
+![](<../../../.gitbook/assets/image (849).png>)
 {% endtab %}
 
 {% tab title="Alternate Pixel" %}
-![](<../../../.gitbook/assets/image (158).png>)
+![](<../../../.gitbook/assets/image (839).png>)
 {% endtab %}
 {% endtabs %}
 
 ### Layers All Start in Same Place
 
-![](<../../../.gitbook/assets/image (144).png>)
+![](<../../../.gitbook/assets/image (860).png>)
 
 All the wiring for each layer will start in the same location. Bottom Left in the example above.
 
@@ -53,9 +53,9 @@ All the wiring for each layer will start in the same location. Bottom Left in th
 
 #### 3W x 3H x 3D, Front Bottom Left, Horizontal Front/Back, ZigZag
 
-![](<../../../.gitbook/assets/image (148).png>)
+![](<../../../.gitbook/assets/image (854).png>)
 
 #### 3W x 3H x 3D, Front Bottom Left, Stacked Left/Right, ZigZag
 
-![](<../../../.gitbook/assets/image (139).png>)
+![](<../../../.gitbook/assets/image (866).png>)
 

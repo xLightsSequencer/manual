@@ -6,11 +6,11 @@
 
 {% tabs %}
 {% tab title="Settings" %}
-![](<../../.gitbook/assets/image (561) (1).png>)
+![](<../../.gitbook/assets/image (561).png>)
 {% endtab %}
 
 {% tab title="Positions" %}
-![](<../../.gitbook/assets/image (497) (1).png>)
+![](<../../.gitbook/assets/image (497).png>)
 {% endtab %}
 {% endtabs %}
 

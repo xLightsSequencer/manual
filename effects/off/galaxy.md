@@ -2,7 +2,7 @@
 
 ![Icon](<../../.gitbook/assets/image (376).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (194) (1).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (194).png>)
 
 {% tabs %}
 {% tab title="Start" %}
@@ -10,11 +10,11 @@
 {% endtab %}
 
 {% tab title="End" %}
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (73) (1).png>)
 {% endtab %}
 
 {% tab title="Options" %}
-![](<../../.gitbook/assets/image (123) (1).png>)
+![](<../../.gitbook/assets/image (123).png>)
 {% endtab %}
 {% endtabs %}
 

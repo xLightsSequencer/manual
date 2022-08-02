@@ -10,7 +10,7 @@ Before you install any new release of the software, it is very good practice to 
 Alternatively you can manually do so via the F10 or F11 functions.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (464) (1).png>)
+![](<../../.gitbook/assets/image (464).png>)
 
 If you have any sequence currently open, then changes to the effects, views, models etc may not have been saved until you exit xLights.
 

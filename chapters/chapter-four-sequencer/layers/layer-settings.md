@@ -6,7 +6,7 @@
 
 The Layer Settings window can be opened by clicking on the Layer Settings icon from the toolbar, or via the View, Windows menu.
 
-![](<../../../.gitbook/assets/image (36) (1).png>)
+![](<../../../.gitbook/assets/image (36).png>)
 
 #### Reset panel when changing effects
 
@@ -28,7 +28,7 @@ For example, for Arches – the default buffer treats each arch as a single line
 
 Additional options are available to change the buffer representation for the model or group. The list of values that are selectable are dynamic depending on the type of model.
 
-![](<../../../.gitbook/assets/image (695) (1).png>)
+![](<../../../.gitbook/assets/image (695).png>)
 
 For model groups, additional buffer render styles are available. The list below discrips all model render styles.
 
@@ -63,7 +63,7 @@ When using the "Per Preview" render style, this dropdown allows the user to sele
 
 The transformation attributes can be used to rotate the effect clockwise, counter clockwise (90 or 180 degrees) or to flip it either horizontally or vertically.
 
-![](<../../../.gitbook/assets/image (100) (1).png>)
+![](<../../../.gitbook/assets/image (100).png>)
 
 {% hint style="info" %}
 While some effects have settings to do similar things this is now the standard way to flip or rotate an effect.
@@ -107,7 +107,7 @@ The term came from high persistence scopes where each trace just kept layering o
 
 The Roto-Zoom functionality enables the effect to be Rotated as well as have aspects of the effect Zoomed.
 
-![](<../../../.gitbook/assets/image (676).png>)
+![](<../../../.gitbook/assets/image (676) (1).png>)
 
 The Preset defines the type of rotation to be applied to the effect. The effect can be continuously rotated clockwise or counterclockwise, made to explode outwards , implode inwards , shake etc.
 

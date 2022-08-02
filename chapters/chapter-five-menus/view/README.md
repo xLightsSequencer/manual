@@ -32,7 +32,7 @@ The Reset Toolbar option, when selected, will reset the Toolbars to the default 
 
 ### AC Lights Toolbar
 
-![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (425).png>)
+![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (425) (1).png>)
 
 The AC Lights Toolbar allows you to add On, Off, Shimmer, Twinkle, and Ramp effect in bulk, similar to LOR.
 

@@ -6,14 +6,14 @@ The ‘# Arches’ value can be set to the number of arches that the model repre
 
 ![](<../../../.gitbook/assets/image (507).png>)
 
-![](<../../../.gitbook/assets/image (296).png>)
+![](<../../../.gitbook/assets/image (260).png>)
 
 The example above will contain two arches of 25 pixels each, for a total of 50 pixels. Each pixel contains 3 LED per pixel so there are 3 lights per node.
 
 ### Layered Arch
 
-![](<../../../.gitbook/assets/image (588).png>)
+![](<../../../.gitbook/assets/image (44).png>)
 
 With Layered Arch enabled,  a multi layered arch will be created. The Layers attribute value describe the concentric arches in the model. This will create node count settings for each layer. The sum of the node counts must add up to the number of nodes in the model. 'Hollow %' will set the space "under" the arch.
 
-![](<../../../.gitbook/assets/image (416).png>)
+![](<../../../.gitbook/assets/image (907).png>)

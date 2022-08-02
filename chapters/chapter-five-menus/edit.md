@@ -6,7 +6,7 @@ From the Edit menu , you can select the Undo, Cut, Copy and Paste functions and 
 
 You can also use the associated Ctrl keys instead i.e. Ctrl+C and Ctrl+V in this case. The functionality of each option is self explanatory.
 
-![](<../../.gitbook/assets/image (67) (2).png>)
+![](<../../.gitbook/assets/image (67).png>)
 
 ### Shift Effects and Shift Selected Effects
 

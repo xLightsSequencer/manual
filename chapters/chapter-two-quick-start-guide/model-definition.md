@@ -16,7 +16,7 @@ Then click anywhere on the Canvas and drag slightly. An image of an arch will be
 
 Change the Model name to ‘Arch-1’. Click the Tab or Enter Key to set the new name.
 
-![](<../../.gitbook/assets/image (212) (1).png>)
+![](<../../.gitbook/assets/image (212).png>)
 
 Change the Nodes Per Arch value to 25.
 
@@ -24,21 +24,21 @@ Change the Nodes Per Arch value to 25.
 
 Set the controller to "Main Controller" or whatever name you set in the controller tab.
 
-![](<../../.gitbook/assets/image (187).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 Set the Controller Connection Port to 1. This is the port of the controller the model will be physically  connected too.
 
-![](<../../.gitbook/assets/image (460).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 The Start and End channel will be automatically calculated by xLights based on the model settings and the controller settings selected.
 
-![](<../../.gitbook/assets/image (176).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 If you are adding a second model to the same controller port, set the model chain order to determine the model order on the controller output.
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (118).png>)
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (128).png>)
 
 {% hint style="success" %}
 You can change the model name or any settings by typing over/editing the settings field. For some settings, click in the settings field, to the right of the setting name.
@@ -54,11 +54,11 @@ Use the blue dots around the model to resize and rotate it if required. To move 
 
 The starting location of the model can be changed to the 'Blue' or 'Green' square.
 
-![](<../../.gitbook/assets/image (538).png>)
+![](<../../.gitbook/assets/image (538) (1).png>)
 
 Click on the Save button (just below the Models button) to save the work that you have done so far. This includes the Model definition and its position on the Layout.
 
-![](<../../.gitbook/assets/image (132) (1).png>)
+![](<../../.gitbook/assets/image (132).png>)
 
 {% hint style="info" %}
 The 'Save' button will appear red when unsaved changes are present.
