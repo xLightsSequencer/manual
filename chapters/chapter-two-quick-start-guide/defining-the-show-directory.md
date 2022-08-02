@@ -20,7 +20,7 @@ Right Click in the "Documents" folder and select New->Folder
 
 Rename the folder to a unique name.
 
-![](<../../.gitbook/assets/image (162).png>)
+![](<../../.gitbook/assets/image (831).png>)
 
 In the following example I created a show folder is called "xLights"
 
@@ -32,5 +32,5 @@ After setting up your show folder the main xLights window should appear.
 
 "C:\Users\\\<username>\Documents\xLights"
 
-![](<../../.gitbook/assets/image (132).png>)
+![](<../../.gitbook/assets/image (834).png>)
 

@@ -2,9 +2,9 @@
 
 ![Icon](<../../.gitbook/assets/image (652).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (30) (1).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (30) (2).png>)
 
-![](<../../.gitbook/assets/image (344).png>)
+![](<../../.gitbook/assets/image (315).png>)
 
 The Faces effect is used by xLights to generate singing and talking face effects. It is used and placed on the sequencer as part of the Papagayo import functionality, if the target in xLights is a Coro face.
 
@@ -26,9 +26,9 @@ It is also used within xLights functionality to generate Singing Faces. The use 
 
 The color pallet is used to determine the color of the signing face.
 
-![](<../../.gitbook/assets/image (408).png>)
+![](<../../.gitbook/assets/image (340).png>)
 
-![](<../../.gitbook/assets/image (141).png>)
+![](<../../.gitbook/assets/image (809).png>)
 
 | Pallet Color     | Face Nodes              |
 | ---------------- | ----------------------- |

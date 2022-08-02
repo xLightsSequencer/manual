@@ -6,7 +6,7 @@
 
 ## Import Model
 
-![Import Model Button](<../../.gitbook/assets/image (429).png>)
+![Import Model Button](<../../.gitbook/assets/image (429) (1).png>)
 
 After Selecting the Import Model Button, You must click on the layout preview and drag out a box and release, to represent the imported model location.
 
@@ -30,7 +30,7 @@ After Selecting the Download Model button, You must click and drag out a box and
 
 The Model Dialog will appear where you can select the desired model you would like to insert.
 
-![Download Model Dialog](<../../.gitbook/assets/image (475).png>)
+![Download Model Dialog](<../../.gitbook/assets/image (475) (1).png>)
 
 Click Insert and Model will be added to your layout.
 

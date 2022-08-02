@@ -1,6 +1,6 @@
 # Kaleidoscope
 
-![Icon](<../../.gitbook/assets/image (418).png>)
+![Icon](<../../.gitbook/assets/image (418) (1).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (787).png>)
 

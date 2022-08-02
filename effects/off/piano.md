@@ -1,8 +1,8 @@
 # Piano
 
-![Icon](<../../.gitbook/assets/image (658) (1).png>)
+![Icon](<../../.gitbook/assets/image (658).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (583) (1).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (583).png>)
 
 ![](<../../.gitbook/assets/image (321).png>)
 

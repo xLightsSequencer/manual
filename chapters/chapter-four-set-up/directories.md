@@ -2,7 +2,7 @@
 
 ## **Show** Directory
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (874).png>)
 
 The xLights Show Directory is where all the required xLights sequences, pictures, and user configuration files used to run the sequences are kept. When a sequence (.xsq) is saved and a binary file (.fseq) rendered, both files are created in the show directory. This is the same location where xLights configuration files can be found and the default location where the program will first prompt for, or look for files pertaining to several functions of xLights.
 
@@ -30,7 +30,7 @@ This is useful if you are moving your setup to a USB drive or Dropbox. If howeve
 
 ### Change Permanently
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (874).png>)
 
 The "Change Permanently" button will allow the user to specify the location of the their primary show directory on disk. This show directory location will be remembered when xLights is closed and reopened.
 
@@ -38,4 +38,4 @@ The "Change Permanently" button will allow the user to specify the location of t
 
 The "Change Temporarily" button will allow the user to temporary switch show directories. The show directory path name will turn the color yellow to signify a temporary show directory is being used. When xLights is closed and reopened, this "temporary" show directory will be forgotten and xLights will resume use of the "Permanent" Show directory. The "Restore to Permanent" button will also switch back to the "Permanent" Show directory. The "temporary" show directory should be used when importing a sequence.
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../.gitbook/assets/image (801).png>)

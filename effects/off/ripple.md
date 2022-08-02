@@ -4,7 +4,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (255) (1).png>)
 
-![](<../../.gitbook/assets/image (772).png>)
+![](<../../.gitbook/assets/image (772) (1).png>)
 
 The Ripple effect generates a ripple like spreading movement of color similar to when an object is dropped into water. One or multiple colors can be used for the effect.
 

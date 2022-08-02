@@ -1,8 +1,8 @@
 # Life
 
-![Icon](<../../.gitbook/assets/image (122) (1).png>)
+![Icon](<../../.gitbook/assets/image (122).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (444).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (444) (1).png>)
 
 ![](<../../.gitbook/assets/image (499).png>)
 

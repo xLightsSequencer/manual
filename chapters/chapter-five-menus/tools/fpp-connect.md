@@ -8,11 +8,11 @@ The FPP Connect Dialog is used to upload files to a Falcon Player(FPP) that is b
 
 On startup, xLights will attempt to auto-discover all the FPP instances on your network. If none are found, Click the Add FPP button to manually add a device by its IP Address.
 
-![List of FPP Devices](<../../../.gitbook/assets/image (566).png>)
+![List of FPP Devices](<../../../.gitbook/assets/image (566) (1).png>)
 
 The Upload Checkbox Column will "Enable" the FPP instances for xLights to upload data to it. If unchecked xLights will not upload any data to that device.
 
-![Upload Enable Column](<../../../.gitbook/assets/image (481).png>)
+![Upload Enable Column](<../../../.gitbook/assets/image (481) (1).png>)
 
 The Location Column will display the DNS host name and IP address. The Description Column DNS Host description value. The Version Column is the FPP software version installed on the device.
 
@@ -24,11 +24,11 @@ The FSEQ Type Column allows the user to select which FSEQ file version to upload
 
 If the Media checkbox is selected, xLights will upload the Media Files.
 
-![Media Upload Column](<../../../.gitbook/assets/image (16) (1).png>)
+![Media Upload Column](<../../../.gitbook/assets/image (16) (2).png>)
 
 If the Model checkbox is selected, xLights will upload the Model Data for the display testing page.
 
-![Model Upload Column](<../../../.gitbook/assets/image (216) (1).png>)
+![Model Upload Column](<../../../.gitbook/assets/image (216).png>)
 
 The UDP Out dropdown will enable xLights to upload The E1.31 and DDP Channel Output definitions from the Setup Tab in xLights. 'All' will uploads All the E1.31 and DDP Channel Output Definitions, 'Proxied' will only upload E1.31 and DDP Ouput Channel Definitions of proxied controllers on that FPP instance. 'All' should be selected on Standalone/Master FPP Devices and 'Proxied' should be used for Remote FPP Devices that act as a tunnel to other controllers like a F16v3.
 
@@ -48,8 +48,8 @@ You can then select one or more sequences to upload. The sequence FSEQ files are
 
 There is a Right Click Menu to Select All Sequences, Clear Selections, Select Highlighted, or Deselect Highlighted.
 
-![](<../../../.gitbook/assets/image (315).png>)
+![](<../../../.gitbook/assets/image (315) (1).png>)
 
 When the upload button is clicked all selected items will be uploaded to the FPP instances with the Upload Option checked and the dialog will close. Cancel will close the dialog without uploading any changes.
 
-![Add FPP, Upload, and Cancel Button](<../../../.gitbook/assets/image (483).png>)
+![Add FPP, Upload, and Cancel Button](<../../../.gitbook/assets/image (483) (1).png>)

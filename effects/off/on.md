@@ -1,6 +1,6 @@
 # On
 
-![Icon](<../../.gitbook/assets/image (234) (1).png>)
+![Icon](<../../.gitbook/assets/image (234).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (603).png>)
 

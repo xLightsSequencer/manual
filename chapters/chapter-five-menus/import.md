@@ -70,7 +70,7 @@ Select the file type of XML by changed the dropdown at the bottom right. Select 
 
 A model mapping window is displayed. On the top left is a list containing the timing tracks to import. On the left are the models and model groups from YOUR layout/sequencer tab("Model"). 'Blue' items are Model Groups. On the right is a list of models/groups/submodels ("Available") that contain effects from the sequence being imported. Click and drag a model name from the right list to the ‘Map To’ column in the row that you want to import the model to. You may also highlight the "Map To" cell and double click on a "Available" model to map it or highlight a "Available" model and double click the "Map To" cell.
 
-![Import Dialog](<../../.gitbook/assets/image (143) (1).png>)
+![Import Dialog](<../../.gitbook/assets/image (143).png>)
 
 Models in the "Available" list will turn gray when used. These items can still be used multiple times even when grayed out.
 
@@ -78,7 +78,7 @@ Models in the "Available" list will turn gray when used. These items can still b
 
 When done, select "Save Mapping", and save the XMAP file. This XMAP file can then be loaded in the future when mapping another sequence from the same layout.
 
-![](<../../.gitbook/assets/image (453).png>)
+![](<../../.gitbook/assets/image (453) (1).png>)
 
 Click OK when done.
 
@@ -86,11 +86,11 @@ Click OK when done.
 
 Change the File Type drop-down to SUP. Then select the SuperStar Sequence File.
 
-![File Select Dialog](<../../.gitbook/assets/image (358).png>)
+![File Select Dialog](<../../.gitbook/assets/image (358) (1).png>)
 
 The SuperStar Import Dialog will then appear. Select the xlights model to import the SuperStar file onto.
 
-![](<../../.gitbook/assets/image (527) (1).png>)
+![](<../../.gitbook/assets/image (527).png>)
 
 xLights will create pictures from the SuperStar files. The next dialog asks the user to select a folder to save these pictures files too. In the file name field set the 'base' file name. This 'base' name is used as the file name root of all the saved image files. In most cases just set the 'base' name to the SUP file name.
 
@@ -98,7 +98,7 @@ xLights will create pictures from the SuperStar files. The next dialog asks the 
 
 The SUP file will then be imported to the specified model as picture and morph effects.
 
-![](<../../.gitbook/assets/image (287).png>)
+![](<../../.gitbook/assets/image (287) (1).png>)
 
 ### Importing a LOR Sequence
 

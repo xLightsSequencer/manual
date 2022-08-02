@@ -22,7 +22,7 @@ See the Effects Section for more information on the individual effect settings.
 
 From the Color window, you can change the Colors that apply to the effect, as well as the Sparkles, Brightness and Contrast values. How effects use the colors is defined by the effect.
 
-![](<../../../.gitbook/assets/image (194).png>)
+![](<../../../.gitbook/assets/image (761).png>)
 
 {% content-ref url="changing-color-settings.md" %}
 [changing-color-settings.md](changing-color-settings.md)
@@ -66,7 +66,7 @@ In order to copy and paste a range of effects, use the cursor to highlight and s
 
 You can paste what is in the buffer (after a Copy) to multiple locations, by moving the cursor to each new location and pasting the copied data (right click and Paste or Ctrl+V) there.
 
-![](<../../../.gitbook/assets/image (435) (1).png>)
+![](<../../../.gitbook/assets/image (435).png>)
 
 There are two modes for Copying and Pasting effects: Paste by Time or Paste by Cell.
 
@@ -101,15 +101,15 @@ You can copy the effects of an entire model/group and paste it to another model/
 
 Highlight the model name, right click and select Model, Copy Effects to copy the entire row of the effects.
 
-![](<../../../.gitbook/assets/image (706) (1).png>)
+![](<../../../.gitbook/assets/image (706).png>)
 
-![](<../../../.gitbook/assets/image (363).png>)
+![](<../../../.gitbook/assets/image (363) (1).png>)
 
 ### Model - Paste
 
 Then select the model name header you want to paste the effects (in the same sequence or another sequence), right click against the model name and select Model -> Paste Effects. The data copied remains in the clipboard buffer. The Paste operation does not have to be immediately after the Copy operation.
 
-![](<../../../.gitbook/assets/image (309) (1).png>)
+![](<../../../.gitbook/assets/image (309).png>)
 
 ### Row - Copy
 

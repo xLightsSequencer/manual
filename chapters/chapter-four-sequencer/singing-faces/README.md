@@ -8,7 +8,7 @@ This section describes how Singing Face functionality i.e. the conversion of phr
 
 In the model layout tab, select the singing face model, then click on the ellipsis (three dots) button on the Faces property.
 
-![](<../../../.gitbook/assets/image (395) (1).png>)
+![](<../../../.gitbook/assets/image (395).png>)
 
 ![Face Definition Window](<../../../.gitbook/assets/image (232).png>)
 
@@ -18,7 +18,7 @@ The 'Name' dropdown specified the currently selected Face Definition. If the dro
 
 Click 'Add' to create a new Face Definition.
 
-![](<../../../.gitbook/assets/image (611) (1).png>)
+![](<../../../.gitbook/assets/image (611).png>)
 
 'Delete' will delete the current selected Face Definition.
 
@@ -26,11 +26,11 @@ Click 'Add' to create a new Face Definition.
 
 Click the ellipsis (three dots) to copy, rename or import a face definition.
 
-![](<../../../.gitbook/assets/image (335).png>)
+![](<../../../.gitbook/assets/image (335) (1).png>)
 
 The drop down box below the 'Name' selector is used to select the type of face definition. There are three types of face definition.
 
-![](<../../../.gitbook/assets/image (712) (1).png>)
+![](<../../../.gitbook/assets/image (712).png>)
 
 | Type        | Use Case                                                              |
 | ----------- | --------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ If force custom colors is selected, then a specific color to be turned on by def
 
 If ‘Node Ranges’ is selected, then the following window will be displayed.
 
-![](<../../../.gitbook/assets/image (449).png>)
+![](<../../../.gitbook/assets/image (449) (1).png>)
 
 Type in the list of node numbers (pixel numbers) for what should be turned for each movement. Example: ("1-12,24-30"). Double click the Nodes Column or Phenom Name to bring up the Node Select Dialog.
 
@@ -72,7 +72,7 @@ There is a right clicked menu that allows the user to import node numbers from a
 
 If force custom colors is selected, then a specific color to be turned on by default. This can be specified for each phenom/row by double clicking in the color column to bring up the color palette.
 
-![](<../../../.gitbook/assets/image (78) (1).png>)
+![](<../../../.gitbook/assets/image (78).png>)
 
 ## Matrix
 

@@ -2,7 +2,7 @@
 
 ![Icon](<../../.gitbook/assets/image (376).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (194) (1).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (194).png>)
 
 {% tabs %}
 {% tab title="Start" %}

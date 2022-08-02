@@ -2,7 +2,7 @@
 
 ## Layer Settings
 
-![](<../../../.gitbook/assets/image (310).png>)
+![](<../../../.gitbook/assets/image (310) (1).png>)
 
 The Layer Settings window can be opened by clicking on the Layer Settings icon from the toolbar, or via the View, Windows menu.
 
@@ -10,13 +10,13 @@ The Layer Settings window can be opened by clicking on the Layer Settings icon f
 
 #### Reset panel when changing effects
 
-![](<../../../.gitbook/assets/image (545) (1).png>)
+![](<../../../.gitbook/assets/image (545).png>)
 
 This will reset the Layer Setting back to default every time you select or create a new effect. Checked is the recommended setting for most users.
 
 ## Buffer
 
-![](<../../../.gitbook/assets/image (334) (1).png>)
+![](<../../../.gitbook/assets/image (334).png>)
 
 #### Render Style
 
@@ -28,7 +28,7 @@ For example, for Arches – the default buffer treats each arch as a single line
 
 Additional options are available to change the buffer representation for the model or group. The list of values that are selectable are dynamic depending on the type of model.
 
-![](<../../../.gitbook/assets/image (695) (1).png>)
+![](<../../../.gitbook/assets/image (695).png>)
 
 For model groups, additional buffer render styles are available. The list below discrips all model render styles.
 
@@ -57,7 +57,7 @@ For model groups, additional buffer render styles are available. The list below 
 
 When using the "Per Preview" render style, this dropdown allows the user to select which viewpoint to use. 2D is the default.
 
-![](<../../../.gitbook/assets/image (214) (1).png>)
+![](<../../../.gitbook/assets/image (214).png>)
 
 #### Transformation
 
@@ -73,13 +73,13 @@ While some effects have settings to do similar things this is now the standard w
 
 This attribute will cause the effect to ‘blur’ i.e. the colors become less distinct (hazy) and the edges of two colors will fade into each other i.e. will not have sharp edges. The level of haziness can be increased from 0 onwards using the slider or adjusted using the Value Curve functionality by clicking on the Value Curve icon.
 
-![](<../../../.gitbook/assets/image (408) (1).png>)
+![](<../../../.gitbook/assets/image (408).png>)
 
 #### Sub Buffer Selection
 
 The Sub Buffer selection can be used to limit the area that an effect is active. This basically redefines the size of the model/group (on a per effect basis). This option is different than masking, because the entire effect is rendered based on this new model size, whereas a mask covers up what you specify.
 
-![](<../../../.gitbook/assets/image (648) (1).png>)
+![](<../../../.gitbook/assets/image (648).png>)
 
 So if you only want the effect to be on the top half of the model or group, bring the bottom part of the dotted yellow line to the middle of the black box. The ‘handles’ of the yellow grid are in the corners. Double Clicking will reset the defaults to the full size.
 

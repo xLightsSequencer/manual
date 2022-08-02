@@ -2,7 +2,7 @@
 
 ## Help
 
-![](<../../.gitbook/assets/image (258) (1).png>)
+![](<../../.gitbook/assets/image (258).png>)
 
 ### User Manual
 

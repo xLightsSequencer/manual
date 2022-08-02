@@ -1,6 +1,6 @@
 # Fan
 
-![Icon](<../../.gitbook/assets/image (385).png>)
+![Icon](<../../.gitbook/assets/image (385) (1).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (697).png>)
 

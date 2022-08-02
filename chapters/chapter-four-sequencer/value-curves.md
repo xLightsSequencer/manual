@@ -38,4 +38,4 @@ Value curves can be loaded and exported as a .XVC file. By default, the files wi
 
 ![](<../../.gitbook/assets/image (250).png>)
 
-![](<../../.gitbook/assets/image (808).png>)
+![](<../../.gitbook/assets/image (808) (1).png>)

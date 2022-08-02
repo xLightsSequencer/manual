@@ -4,7 +4,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (233).png>)
 
-![](<../../.gitbook/assets/image (503) (1).png>)
+![](<../../.gitbook/assets/image (503).png>)
 
 The Snowflakes effect paints a picture of falling particles i.e. a similar to snowflakes falling on snow. This effect works best with a single color selected. Multiple colors can be selected and depending on the type of the snowflake either one color or multiple colors will be used.
 

@@ -34,13 +34,13 @@ Lights per String denotes the number of lights per string. This will be used ins
 
 Location of the first pixel or first channel location. "Green Square" means the starting location is the green square on the layout and "Blue Square" means the starting location is the blue square.
 
-![](<../../../../.gitbook/assets/image (795) (1).png>)
+![](<../../../../.gitbook/assets/image (795).png>)
 
 ## Controller
 
 xLights has two systems to define model start channel locations. If the controller dropdown is set to a controller name specified in the controller tab, the start channel will be auto generated based on the Controller Port and Model Chaining settings. **This is the preferred method of configuring start channels.**
 
-![](<../../../../.gitbook/assets/image (509).png>)
+![](<../../../../.gitbook/assets/image (509) (1).png>)
 
 {% hint style="info" %}
 If no controller names appear in the dropdown, double check the Auto Layout Model is enabled in the Controller Tab.
@@ -56,23 +56,23 @@ If the controller dropdown is set to "Use Start Channel", by Default, xLights wi
 
 In this example, the Start Channel has been set to start immediately after the ‘Candy Canes-2’ model.
 
-![](<../../../../.gitbook/assets/image (142) (2).png>)
+![](<../../../../.gitbook/assets/image (142) (1).png>)
 
 xLights will automatically calculate the start channel and end channels, and if the ‘Candy Canes-2’ model’s channels change, then the start and end channels for this model will automatically be recalculated.
 
 Click the ellipse button (three periods) to edit the start channel.
 
-![](<../../../../.gitbook/assets/image (128).png>)
+![](<../../../../.gitbook/assets/image (128) (1).png>)
 
 Model Start Channel can use Absolute, Universe, Start/End of Model or Controller based addressing.
 
-![](<../../../../.gitbook/assets/image (435).png>)
+![](<../../../../.gitbook/assets/image (435) (1).png>)
 
 ### Individual Start Channels
 
 For models with multiple strands or elements, you can specify the start channel for each strand individually if required. This is useful where the channel numbering is not contiguous.
 
-![](<../../../../.gitbook/assets/image (90) (1).png>)
+![](<../../../../.gitbook/assets/image (90).png>)
 
 ## Preview Display
 
@@ -102,7 +102,7 @@ The model is assigned to the Preview.
 
 ## **Strand / Node Names**
 
-![](<../../../../.gitbook/assets/image (67) (1).png>)
+![](<../../../../.gitbook/assets/image (67) (2).png>)
 
 Click the ellipse button (three periods) to edit the Strand / Node Names.
 
@@ -187,7 +187,7 @@ See the Sub-Models Section for more info.
 
 The Controller Connection settings are used for the Upload to Controller Options in the Controller Tab. Port specify which output of the controller is being used by this model. Protocol is the pixel type or serial type. If a serial protocol is set i.e. DMX the Port setting sets which DMX Port is used on the controller. If the Protocol is set to a pixel protocol i.e. ws2811 the Port setting sets which pixel output is used on the controller board. The additional settings(Null Pixels, Brightness, Gamma, Color Order, etc) will override the setting in the controller if checked. Not all controllers support all settings and some controllers only support one setting per controller port.
 
-![](<../../../../.gitbook/assets/image (72).png>)
+![](<../../../../.gitbook/assets/image (72) (2).png>)
 
 Upload to Controller is covered under controller tab.
 

@@ -1,8 +1,8 @@
 # Garlands
 
-![Icon](<../../.gitbook/assets/image (186).png>)
+![Icon](<../../.gitbook/assets/image (186) (1).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (515).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (515) (1).png>)
 
 ![](<../../.gitbook/assets/image (345).png>)
 

@@ -16,7 +16,7 @@ Combining two spirals in opposing directions on a mega tree also can create stun
 
 To add layers to a model right click the model in the sequencer tab and choose Add Layer above or below (the current layer).
 
-![](<../../../.gitbook/assets/image (284) (1).png>)
+![](<../../../.gitbook/assets/image (284).png>)
 
 Layers can also be added at the Strand level.
 

@@ -12,7 +12,7 @@ There are a number of windows that enable simultaneous display of different view
 
 The Display Elements window enables views, Timings as well as models to be defined and updated. Functionality for these functions is described in the Views, Timings and Models section of this document.
 
-![](<../../../.gitbook/assets/image (382).png>)
+![](<../../../.gitbook/assets/image (382) (1).png>)
 
 {% content-ref url="../../chapter-four-sequencer/views.md" %}
 [views.md](../../chapter-four-sequencer/views.md)
@@ -22,7 +22,7 @@ The Display Elements window enables views, Timings as well as models to be defin
 
 The Model Preview window displays the effects on a model as the sequence is playing. With the window open, right click on the model name when on the sequencer tab and select Play model. It can also be opened/closed by clicking on the icon on the toolbar.
 
-![](<../../../.gitbook/assets/image (441).png>)
+![](<../../../.gitbook/assets/image (441) (1).png>)
 
 ### ![](../../../.gitbook/assets/house-preview-icon.JPG) House Preview
 
@@ -48,7 +48,7 @@ It is possible to select a group of the same effects and change the settings of 
 
 The Effect Colors window enables the user to change the colors of the current effect that is being worked with. If an effect on the grid is selected or a new effect dragged to the grid, then this window uses the ‘current’ color.
 
-![](<../../../.gitbook/assets/image (27) (1).png>)
+![](<../../../.gitbook/assets/image (27).png>)
 
 Use the window to modify the colors of the effect as required. The results of the change are displayed in the model window when selected and in the House Preview window when the sequence is played.
 
@@ -70,7 +70,7 @@ By clicking on one of the colors, the color box will appear allowing you to choo
 
 The first option of Morph is used with two or more layers. If selected, effect #1 will morph/blend/fade into Effect #2 midway through the timing interval in which the effects are placed.
 
-![](<../../../.gitbook/assets/image (641) (1).png>)
+![](<../../../.gitbook/assets/image (641).png>)
 
 {% content-ref url="../../chapter-four-sequencer/layers/layer-blending.md" %}
 [layer-blending.md](../../chapter-four-sequencer/layers/layer-blending.md)
@@ -136,7 +136,7 @@ If you want single line morphs instead of area morphs then it's easier to just c
 
 The Select Effects Window allows the user to select effects based on type, model, and time. Based on the these selection, multiple effects can be selected and then bulk edit can be used to adjust the settings. This allows the user to, for example, select all the pinwheel effects on there mini trees and change the number of arms with bulk edit.
 
-![](<../../../.gitbook/assets/image (30).png>)
+![](<../../../.gitbook/assets/image (856).png>)
 
 The "Effect Type" allows the user to select which effect type to select.  The Model List allows the user to select which models to filter selection on. Only highlighted model names, will have their effects selected. The Time Fields allows the user to effect filter selection by time. The Effects by Time List displays all the effects found based on the other options and will select the highlighted items.
 

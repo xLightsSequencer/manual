@@ -1,6 +1,6 @@
 # Butterfly
 
-![Icon](<../../.gitbook/assets/image (221) (1).png>)
+![Icon](<../../.gitbook/assets/image (221).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (230).png>)
 
