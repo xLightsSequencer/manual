@@ -22,7 +22,7 @@ You can save the windows that you normally have open as your default perspective
 
 Select the Dock All option to reset the Windows perspectives and dock all the windows to your current setup.
 
-![](<../../.gitbook/assets/image (644).png>)
+![](<../../.gitbook/assets/image (644) (1).png>)
 
 This is sometimes required if you are using an xLights\_rgbeffects file that has been saved with a different default perspective e.g. two monitors and that set-up is not present in your current environment.
 

@@ -2,7 +2,7 @@
 
 ## Layer Blending
 
-![](<../../../.gitbook/assets/image (64).png>)
+![](<../../../.gitbook/assets/image (582).png>)
 
 The Layer Blending window can be opened by clicking on the Layer Blending icon from the toolbar or via the View , Windows menus.
 
@@ -10,7 +10,7 @@ The Layer Blending window can be opened by clicking on the Layer Blending icon f
 
 #### Reset panel when changing effects
 
-![](<../../../.gitbook/assets/image (269).png>)
+![](<../../../.gitbook/assets/image (269) (1).png>)
 
 This will reset the Layer Setting back to default every time you select or create a new effect. Checked is the recommended setting for most users.
 
@@ -24,7 +24,7 @@ When setting the layer blending modes, the current layer is considered layer 1 a
 
 Click the Question Mark(?) Button for more Information.
 
-![](<../../../.gitbook/assets/image (290).png>)
+![](<../../../.gitbook/assets/image (132).png>)
 
 {% hint style="success" %}
 Put two effects on a model and step through each of the layering modes to see what they will look like. Experience is much better than reading about it.
@@ -106,11 +106,11 @@ If an effect has a transitions applied a green bar will appear for an in transit
 
 This slider adjusts the level of each effect in the combined output of the effects. You can use this to just put a hint (or more) of one effect on another.
 
-![](<../../../.gitbook/assets/image (159).png>)
+![](<../../../.gitbook/assets/image (159) (1).png>)
 
 ## Canvas
 
-![](<../../../.gitbook/assets/image (524) (1).png>)
+![](<../../../.gitbook/assets/image (524).png>)
 
 Canvas Mode is a special render mode that only works with specific effects. The default render mode in xLights will draw the effects on a blank buffer for each layer. Canvas Mode allows an effect to draw on a previous layer without "blanking it" out. This is used by effects like the Warp and Kaleidoscope Effect that manipulate data from the underlying layers.
 

@@ -2,7 +2,7 @@
 
 ## View
 
-![](<../../../.gitbook/assets/image (607) (1).png>)
+![](<../../../.gitbook/assets/image (607).png>)
 
 The view menu enables you to zoom in or out on the sequencer view, define and use Perspectives and nominate which windows you want to have open.
 
@@ -32,7 +32,7 @@ The Reset Toolbar option, when selected, will reset the Toolbars to the default 
 
 ### AC Lights Toolbar
 
-![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (425) (1).png>)
+![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (425).png>)
 
 The AC Lights Toolbar allows you to add On, Off, Shimmer, Twinkle, and Ramp effect in bulk, similar to LOR.
 

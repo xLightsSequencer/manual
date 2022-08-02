@@ -4,11 +4,11 @@
 
 You can then drop and effect against either the Model Group or the Model. Model groups are identified by a small group icon after the name.
 
-![](<../../.gitbook/assets/image (833).png>)
+![](<../../.gitbook/assets/image (307).png>)
 
 If you double Click on the Model Group name, it will expand and show you the models that have been defined as part of the Model group - in this case the ‘Arch 1’ model. Double Click again to collapse the Model Group.
 
-![](<../../.gitbook/assets/image (869).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 ## Adding Effects To a Model
 
@@ -32,7 +32,7 @@ You can grab the edge (in purple) and drag it to the right to stretch. Note that
 
 You can change effect settings via the Effects Window. For example, change the Bars 'Palette Rep' setting from 1 to 2 by dragging the slider bar. This window can be dragged out to an another location and expanded. The windows will resize.
 
-![](<../../.gitbook/assets/image (546) (1).png>)
+![](<../../.gitbook/assets/image (546).png>)
 
 You can change the color of the effect, by selecting a different set of colors from the Color window.
 

@@ -2,7 +2,7 @@
 
 ## Layout
 
-![](<../../.gitbook/assets/image (867).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 
 

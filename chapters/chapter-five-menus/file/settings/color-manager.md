@@ -50,25 +50,25 @@ Row Heading Background Color
 
 Row Heading Text Color
 
-![](<../../../../.gitbook/assets/image (353).png>)
+![](<../../../../.gitbook/assets/image (353) (1).png>)
 
 ### Row Heading Selected
 
 Currently Selected Row Heading Color
 
-![Selected](<../../../../.gitbook/assets/image (6) (1).png>)
+![Selected](<../../../../.gitbook/assets/image (6) (2).png>)
 
 ### Dashed Selected
 
 Mouse Click and Drag Box Color
 
-![](<../../../../.gitbook/assets/image (440).png>)
+![](<../../../../.gitbook/assets/image (440) (1).png>)
 
 ### Gridlines
 
 The color of the Gridlines between the rows and columns.(Red in the Picture Below)
 
-![](<../../../../.gitbook/assets/image (176).png>)
+![](<../../../../.gitbook/assets/image (176) (1).png>)
 
 ### Labels
 
@@ -80,13 +80,13 @@ Timing Track Label Background Color
 
 Timing Track Label Outline Color
 
-![](<../../../../.gitbook/assets/image (140).png>)
+![](<../../../../.gitbook/assets/image (140) (1).png>)
 
 ### Phrases
 
 Singing Faces Phrases Background Color
 
-![](<../../../../.gitbook/assets/image (791) (1).png>)
+![](<../../../../.gitbook/assets/image (791).png>)
 
 ### Words
 
@@ -98,7 +98,7 @@ Singing Faces Words Background Color
 
 Singing Faces Phonemes Background Color
 
-![](<../../../../.gitbook/assets/image (217).png>)
+![](<../../../../.gitbook/assets/image (217) (1).png>)
 
 ### Fixed Timings
 
@@ -110,7 +110,7 @@ Timing Tracks that cannot be edited.
 
 Selected Locked Effect (Click and Drag Select)
 
-![](<../../../../.gitbook/assets/image (430).png>)
+![](<../../../../.gitbook/assets/image (430) (1).png>)
 
 ### Locked Reference Effect
 
@@ -122,7 +122,7 @@ Locked Effect Referenced Color (The Effect the Effect Settings Dialog is Current
 
 Audio Waveform Color
 
-![](<../../../../.gitbook/assets/image (582).png>)
+![](<../../../../.gitbook/assets/image (582) (1).png>)
 
 ### Waveform Background
 
@@ -156,13 +156,13 @@ Model Color
 
 Model Selected Color
 
-![](<../../../../.gitbook/assets/image (738).png>)
+![](<../../../../.gitbook/assets/image (738) (1).png>)
 
 ### Model Overlap
 
 Color of other models with overlapping channels of the selected model. Overlap checks enabled must me active for this to appear.
 
-![](<../../../../.gitbook/assets/image (59).png>)
+![](<../../../../.gitbook/assets/image (59) (1).png>)
 
 ![](<../../../../.gitbook/assets/image (701).png>)
 
@@ -170,11 +170,11 @@ Color of other models with overlapping channels of the selected model. Overlap c
 
 Mouse Click and Drag Box Color
 
-![](<../../../../.gitbook/assets/image (69) (1).png>)
+![](<../../../../.gitbook/assets/image (69).png>)
 
 ## Buttons
 
-![](<../../../../.gitbook/assets/image (757) (1).png>)
+![](<../../../../.gitbook/assets/image (757).png>)
 
 ### Import
 

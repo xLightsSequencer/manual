@@ -4,7 +4,7 @@
 
 ![](<../../../.gitbook/assets/image (767).png>)
 
-The Cube model is a 3D model that is used to model objects like Pixel/Peace Stakes. While the model is 3D, xLights renders the effects in 2D. &#x20;
+The Cube model is a 3D model that is used to model objects like Pixel/Peace Stakes, Boxes, or Grids. While the model is 3D, xLights renders the effects in 2D. &#x20;
 
 
 
@@ -23,21 +23,21 @@ The Cube model is a 3D model that is used to model objects like Pixel/Peace Stak
 
 {% tabs %}
 {% tab title="Zig Zag" %}
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (437).png>)
 {% endtab %}
 
 {% tab title="No Zig Zag" %}
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (424).png>)
 {% endtab %}
 
 {% tab title="Alternate Pixel" %}
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (457).png>)
 {% endtab %}
 {% endtabs %}
 
 ### Layers All Start in Same Place
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (413).png>)
 
 All the wiring for each layer will start in the same location. Bottom Left in the example above.
 
@@ -53,9 +53,9 @@ All the wiring for each layer will start in the same location. Bottom Left in th
 
 #### 3W x 3H x 3D, Front Bottom Left, Horizontal Front/Back, ZigZag
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (463).png>)
 
 #### 3W x 3H x 3D, Front Bottom Left, Stacked Left/Right, ZigZag
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (459).png>)
 

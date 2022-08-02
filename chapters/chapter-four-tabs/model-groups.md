@@ -42,19 +42,19 @@ The models that are currently in the group will be displayed in the ‘Models in
 The order of the models in the ‘Models in Group’ determines the render order of the Group Render Styles. 'Per Model' group render styles are rendered in model order top to bottom.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (463).png>)
+![](<../../.gitbook/assets/image (463) (1).png>)
 
 ### Delete Group
 
 To remove a Model Group, select the Model Group from the model list, right click and select Delete Group. This will not change or remove any of the underlying models, however any effects that have been placed at that group level on the sequencer will be removed and the Model group will be removed from the Layout display if it has been added to that display.
 
-![](<../../.gitbook/assets/image (840).png>)
+![](<../../.gitbook/assets/image (326).png>)
 
 ### Rename Group
 
 To rename a Model Group, select the Model Group from the same list , right click and select Rename Group. Enter the new name for the Model Group. 'Clone Group' will create a copy of the current group with the same models. 'Delete Empty Groups' will delete Model Group with containing no models.
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (644).png>)
 
 {% hint style="info" %}
 Selecting a Model Group from the list, sets it as a filter and only that Model Group is active on the layout; as such only models that are part of that group are displayed on the Preview screen. In order to revert back to all the models , Click on the ‘eye’ next to the Model Group name to deselect it.
@@ -64,13 +64,13 @@ Selecting a Model Group from the list, sets it as a filter and only that Model G
 
 Create a copy or clone of the currently selected group.
 
-![](<../../.gitbook/assets/image (790).png>)
+![](<../../.gitbook/assets/image (355).png>)
 
 ### Delete Empty Groups
 
 Delete any model group that is empty and contains no models or groups.
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../.gitbook/assets/image (174).png>)
 
 {% hint style="success" %}
 It is useful to have a Model Group (say “All Models”) and include all the models for your show and include that model group on the layout tab.

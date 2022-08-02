@@ -4,7 +4,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (228).png>)
 
-![](<../../.gitbook/assets/image (533) (1).png>)
+![](<../../.gitbook/assets/image (533).png>)
 
 The Fill effect starts from the left, right, bottom or top edge (position) and does a complete fill to the position value.
 

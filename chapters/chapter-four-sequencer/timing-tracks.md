@@ -4,7 +4,7 @@
 
 xLights can support multiple timing tracks on the sequencer, each with different frequencies of timing marks. By default, a timing track ‘New Timing’ is created for each sequence if you have not created one when creating a new sequence. Timing Tracks can be added via the File, Sequence Settings, Timing menu.
 
-![](<../../.gitbook/assets/image (515).png>)
+![](<../../.gitbook/assets/image (516).png>)
 
 ![](../../.gitbook/assets/base64295102e85a0ab30.png)
 
@@ -42,11 +42,11 @@ You can also have xLights create fixed timing interval timing tracks by selectin
 
 When xLights created a Metronome timing it is generated as a Fixed Timing Tracks. Fixed Timing Tracks are not editable and the timing marks cannot be changed. Fixed timing tracks are colored orange in the sequence tab by default.
 
-![](<../../.gitbook/assets/image (618).png>)
+![](<../../.gitbook/assets/image (618) (1).png>)
 
 To edit a Fixed timing track the user must right click and select Make Timing Track Variable.
 
-![](<../../.gitbook/assets/image (349) (1).png>)
+![](<../../.gitbook/assets/image (349).png>)
 
 ### Adding/Removing Timing Track
 
@@ -92,7 +92,7 @@ You can export the file as a PGO file , if you wish to provide the file for use 
 
 Multiple timing tracks can be exported to a single XTIMING file by selected them from the following dialog.
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (74) (1).png>)
 
 {% hint style="success" %}
 Timings are created just like effects which means they have a duration. Every timing effect has a starting edge and an ending edge. So you can have a timing effect that goes from 1 to 2 seconds and then another from 3 to 4 seconds with nothing in between 2 and 3 seconds. If you want one in there just select a range and hit "t" then drag the edges over to connect to the existing timing effects.
@@ -108,7 +108,7 @@ Right Click on the Timing Track name and select Import Notes.
 
 Specify a name for the Timing Track to be created , the Notes Source, and then navigate to and select the file from which the notes are to be Import.
 
-![](../../.gitbook/assets/base6476790ad4ccc42820.png)
+![](<../../.gitbook/assets/base6476790ad4ccc42820 (1).png>)
 
 Click OK and the Timing track will be created from the notes.
 

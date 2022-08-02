@@ -4,7 +4,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (259) (1).png>)
 
-![](<../../.gitbook/assets/image (196).png>)
+![](<../../.gitbook/assets/image (196) (1).png>)
 
 The Candle effect creates flickering effect that simulates a candle. The Color Palette is not used with this effect, it is always a orange to redish color.
 

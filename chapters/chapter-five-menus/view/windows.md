@@ -4,7 +4,7 @@
 
 There are a number of windows that enable simultaneous display of different views in xLights. When xLights first loads, a default set of windows are displayed. Which windows are open can be controlled via the Windows menu by selecting View, Windows and then clicking on the required window to open it. The window is dropped by default on the left side of the screen, however each window can be moved and docked to alternate locations on the same screen or moved to an alternate display screen if connected to your PC/ MAC.
 
-![](<../../../.gitbook/assets/image (200).png>)
+![](<../../../.gitbook/assets/image (200) (1).png>)
 
 ![Window Toolbar](<../../../.gitbook/assets/image (359).png>)
 
@@ -22,7 +22,7 @@ The Display Elements window enables views, Timings as well as models to be defin
 
 The Model Preview window displays the effects on a model as the sequence is playing. With the window open, right click on the model name when on the sequencer tab and select Play model. It can also be opened/closed by clicking on the icon on the toolbar.
 
-![](<../../../.gitbook/assets/image (441) (1).png>)
+![](<../../../.gitbook/assets/image (441).png>)
 
 ### ![](../../../.gitbook/assets/house-preview-icon.JPG) House Preview
 
@@ -48,7 +48,7 @@ It is possible to select a group of the same effects and change the settings of 
 
 The Effect Colors window enables the user to change the colors of the current effect that is being worked with. If an effect on the grid is selected or a new effect dragged to the grid, then this window uses the ‘current’ color.
 
-![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/image (27) (1).png>)
 
 Use the window to modify the colors of the effect as required. The results of the change are displayed in the model window when selected and in the House Preview window when the sequence is played.
 
@@ -136,7 +136,7 @@ If you want single line morphs instead of area morphs then it's easier to just c
 
 The Select Effects Window allows the user to select effects based on type, model, and time. Based on the these selection, multiple effects can be selected and then bulk edit can be used to adjust the settings. This allows the user to, for example, select all the pinwheel effects on there mini trees and change the number of arms with bulk edit.
 
-![](<../../../.gitbook/assets/image (856).png>)
+![](<../../../.gitbook/assets/image (19).png>)
 
 The "Effect Type" allows the user to select which effect type to select.  The Model List allows the user to select which models to filter selection on. Only highlighted model names, will have their effects selected. The Time Fields allows the user to effect filter selection by time. The Effects by Time List displays all the effects found based on the other options and will select the highlighted items.
 
@@ -144,7 +144,7 @@ The "Effect Type" allows the user to select which effect type to select.  The Mo
 
 The Video Preview Window allows the user to preview the video file, they are using while sequencing it as the audio track.
 
-![](<../../../.gitbook/assets/image (18) (1).png>)
+![](<../../../.gitbook/assets/image (18) (2).png>)
 
 ### Jukebox
 

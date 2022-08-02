@@ -2,9 +2,9 @@
 
 ![](../../.gitbook/assets/xlights-logo.png)
 
-![](<../../.gitbook/assets/image (386).png>)
+![](<../../.gitbook/assets/image (386) (1).png>)
 
-![](<../../.gitbook/assets/image (312) (1).png>)
+![](<../../.gitbook/assets/image (312).png>)
 
 ![](<../../.gitbook/assets/image (755).png>)
 
@@ -20,6 +20,6 @@
 
 ![](<../../.gitbook/assets/image (414).png>)
 
-![](<../../.gitbook/assets/image (340) (1).png>)
+![](<../../.gitbook/assets/image (340).png>)
 
 ![](<../../.gitbook/assets/image (231) (1).png>)
