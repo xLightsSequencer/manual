@@ -10,7 +10,7 @@
 {% endtab %}
 
 {% tab title="Skips" %}
-![](<../../.gitbook/assets/image (191) (1).png>)
+![](<../../.gitbook/assets/image (191).png>)
 {% endtab %}
 {% endtabs %}
 

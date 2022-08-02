@@ -8,7 +8,7 @@ xLights enables you to define models that do not fit into the concept of predesi
 
 A custom model grid will be displayed in which you enter numbers in the grid representing the nodes/channels in your model.
 
-![](<../../../.gitbook/assets/image (348).png>)
+![](<../../../.gitbook/assets/image (348) (1).png>)
 
 ![](<../../../.gitbook/assets/image (235).png>)
 

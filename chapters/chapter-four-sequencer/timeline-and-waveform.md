@@ -18,7 +18,7 @@ The waveform displays a sonographic representation of the audio portion of the m
 
 You can control the focus of the waveform.
 
-![](<../../.gitbook/assets/image (318).png>)
+![](<../../.gitbook/assets/image (318) (1).png>)
 
 * Zoom in on the waveform by double clicking on the waveform. Keep double clicking until you've got a zoom setting you can use. Or click on the ‘+’ button.
 * To zoom out, hold the shift key and double click on the waveform or click on the ‘-‘- button.

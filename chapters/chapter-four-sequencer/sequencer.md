@@ -2,7 +2,7 @@
 
 ## Sequencer
 
-![](<../../.gitbook/assets/image (152).png>)
+![](<../../.gitbook/assets/image (48).png>)
 
 The sequencer is where the majority of time will be spent and where most of the functionality that the user sees resides. The main areas and functions of the Sequence tab are as follows:
 

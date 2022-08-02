@@ -12,7 +12,7 @@ There are a number of windows that enable simultaneous display of different view
 
 The Display Elements window enables views, Timings as well as models to be defined and updated. Functionality for these functions is described in the Views, Timings and Models section of this document.
 
-![](<../../../.gitbook/assets/image (382) (1).png>)
+![](<../../../.gitbook/assets/image (382).png>)
 
 {% content-ref url="../../chapter-four-sequencer/views.md" %}
 [views.md](../../chapter-four-sequencer/views.md)
@@ -136,7 +136,7 @@ If you want single line morphs instead of area morphs then it's easier to just c
 
 The Select Effects Window allows the user to select effects based on type, model, and time. Based on the these selection, multiple effects can be selected and then bulk edit can be used to adjust the settings. This allows the user to, for example, select all the pinwheel effects on there mini trees and change the number of arms with bulk edit.
 
-![](<../../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 The "Effect Type" allows the user to select which effect type to select.  The Model List allows the user to select which models to filter selection on. Only highlighted model names, will have their effects selected. The Time Fields allows the user to effect filter selection by time. The Effects by Time List displays all the effects found based on the other options and will select the highlighted items.
 

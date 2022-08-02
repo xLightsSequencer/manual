@@ -10,11 +10,11 @@
 {% endtab %}
 
 {% tab title="End" %}
-![](<../../.gitbook/assets/image (73) (1).png>)
+![](<../../.gitbook/assets/image (73).png>)
 {% endtab %}
 
 {% tab title="Options" %}
-![](<../../.gitbook/assets/image (123).png>)
+![](<../../.gitbook/assets/image (123) (1).png>)
 {% endtab %}
 {% endtabs %}
 

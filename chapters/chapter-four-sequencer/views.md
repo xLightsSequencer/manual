@@ -4,7 +4,7 @@
 
 A view is used to be able to easily select a list of models and the sequence in which they are to be displayed on the sequencer.
 
-![](<../../.gitbook/assets/image (267) (1).png>)
+![](<../../.gitbook/assets/image (267).png>)
 
 Views work across sequences, so once you have setup a view with the models that you require, if you open any sequence, that view is available to use in that sequence.
 
@@ -18,7 +18,7 @@ Multiple views can be defined, with each view defining a list of models that are
 * An ‘Import Model’ view may contain only elements that you wish to sequence after importing other data from other sequencers.
 * A ‘Halloween Model’ view may contain only elements that you wish to sequence for Halloween.
 
-![](<../../.gitbook/assets/image (139).png>)
+![](<../../.gitbook/assets/image (34).png>)
 
 To Create a new View , click on the Add button, enter a unique name in the window and Click OK.
 
@@ -38,7 +38,7 @@ Similarly models can be removed from a View by highlighting the model in the Mod
 
 The position that the model appears within the view can be changed by highlighting the model and clicking on Up or Down Arrow.
 
-![](<../../.gitbook/assets/image (241).png>)
+![](<../../.gitbook/assets/image (241) (1).png>)
 
 The Double Left and Right Arrows will Add or Remove All the Models in either list.
 

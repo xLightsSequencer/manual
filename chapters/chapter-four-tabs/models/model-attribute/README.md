@@ -4,7 +4,7 @@
 
 The model settings determine the physical properties of the model or prop. These setting are critical for how xLights determines the render sequence data, start channels, and controller connections.
 
-![](<../../../../.gitbook/assets/image (133) (1).png>)
+![](<../../../../.gitbook/assets/image (133).png>)
 
 ### **Name**
 
@@ -56,7 +56,7 @@ If the controller dropdown is set to "Use Start Channel", by Default, xLights wi
 
 In this example, the Start Channel has been set to start immediately after the ‘Candy Canes-2’ model.
 
-![](<../../../../.gitbook/assets/image (142) (1).png>)
+![](<../../../../.gitbook/assets/image (142) (2).png>)
 
 xLights will automatically calculate the start channel and end channels, and if the ‘Candy Canes-2’ model’s channels change, then the start and end channels for this model will automatically be recalculated.
 
@@ -114,7 +114,7 @@ Each strand and node can have a name assigned to it. This is useful where for ex
 
 This setting is used to specify the Faces definition for custom models that support Singing faces.
 
-![](<../../../../.gitbook/assets/image (241) (1).png>)
+![](<../../../../.gitbook/assets/image (241) (2).png>)
 
 Click the ellipse button (three periods) to edit the Faces.
 
@@ -126,7 +126,7 @@ Functionality has been covered in the Singing Faces section.
 
 ## Dimming Curves
 
-![](<../../../../.gitbook/assets/image (657).png>)
+![](<../../../../.gitbook/assets/image (657) (1).png>)
 
 The Dimming Curves setting can be used to change/reduce the brightness of the lights for a specific model. The intensity of the lights is accordingly changed/reduced from its default value of 100%. Use the "Brightness" slider where you can reduce (or increase, but 99% of the time, you reduce) the brightness of the model in the FSEQ. Change the gamma curve of each of the red, blue or green values.
 

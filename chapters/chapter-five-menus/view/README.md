@@ -44,7 +44,7 @@ Select an Effect, using the On effect in this example, then click and drag on th
 
 The Effects will be places in the selected area.
 
-![](<../../../.gitbook/assets/image (202) (1).png>)
+![](<../../../.gitbook/assets/image (202).png>)
 
 ### Show AC Ramps
 

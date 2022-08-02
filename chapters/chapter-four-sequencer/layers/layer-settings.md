@@ -2,7 +2,7 @@
 
 ## Layer Settings
 
-![](<../../../.gitbook/assets/image (310) (1).png>)
+![](<../../../.gitbook/assets/image (310).png>)
 
 The Layer Settings window can be opened by clicking on the Layer Settings icon from the toolbar, or via the View, Windows menu.
 
@@ -16,7 +16,7 @@ This will reset the Layer Setting back to default every time you select or creat
 
 ## Buffer
 
-![](<../../../.gitbook/assets/image (334) (1).png>)
+![](<../../../.gitbook/assets/image (334).png>)
 
 #### Render Style
 
@@ -28,7 +28,7 @@ For example, for Arches – the default buffer treats each arch as a single line
 
 Additional options are available to change the buffer representation for the model or group. The list of values that are selectable are dynamic depending on the type of model.
 
-![](<../../../.gitbook/assets/image (695).png>)
+![](<../../../.gitbook/assets/image (695) (1).png>)
 
 For model groups, additional buffer render styles are available. The list below discrips all model render styles.
 
@@ -63,7 +63,7 @@ When using the "Per Preview" render style, this dropdown allows the user to sele
 
 The transformation attributes can be used to rotate the effect clockwise, counter clockwise (90 or 180 degrees) or to flip it either horizontally or vertically.
 
-![](<../../../.gitbook/assets/image (100).png>)
+![](<../../../.gitbook/assets/image (100) (1).png>)
 
 {% hint style="info" %}
 While some effects have settings to do similar things this is now the standard way to flip or rotate an effect.
@@ -73,7 +73,7 @@ While some effects have settings to do similar things this is now the standard w
 
 This attribute will cause the effect to ‘blur’ i.e. the colors become less distinct (hazy) and the edges of two colors will fade into each other i.e. will not have sharp edges. The level of haziness can be increased from 0 onwards using the slider or adjusted using the Value Curve functionality by clicking on the Value Curve icon.
 
-![](<../../../.gitbook/assets/image (408) (1).png>)
+![](<../../../.gitbook/assets/image (408).png>)
 
 #### Sub Buffer Selection
 
@@ -107,7 +107,7 @@ The term came from high persistence scopes where each trace just kept layering o
 
 The Roto-Zoom functionality enables the effect to be Rotated as well as have aspects of the effect Zoomed.
 
-![](<../../../.gitbook/assets/image (676) (1).png>)
+![](<../../../.gitbook/assets/image (676).png>)
 
 The Preset defines the type of rotation to be applied to the effect. The effect can be continuously rotated clockwise or counterclockwise, made to explode outwards , implode inwards , shake etc.
 

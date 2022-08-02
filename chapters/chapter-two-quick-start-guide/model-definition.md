@@ -20,25 +20,25 @@ Change the Model name to ‘Arch-1’. Click the Tab or Enter Key to set the new
 
 Change the Nodes Per Arch value to 25.
 
-![](<../../.gitbook/assets/image (211) (1).png>)
+![](<../../.gitbook/assets/image (211).png>)
 
 Set the controller to "Main Controller" or whatever name you set in the controller tab.
 
-![](<../../.gitbook/assets/image (510).png>)
+![](<../../.gitbook/assets/image (187).png>)
 
 Set the Controller Connection Port to 1. This is the port of the controller the model will be physically  connected too.
 
-![](<../../.gitbook/assets/image (212).png>)
+![](<../../.gitbook/assets/image (460).png>)
 
 The Start and End channel will be automatically calculated by xLights based on the model settings and the controller settings selected.
 
-![](<../../.gitbook/assets/image (511).png>)
+![](<../../.gitbook/assets/image (176).png>)
 
 If you are adding a second model to the same controller port, set the model chain order to determine the model order on the controller output.
 
-![](<../../.gitbook/assets/image (150).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
-![](<../../.gitbook/assets/image (158).png>)
+![](<../../.gitbook/assets/image (46).png>)
 
 {% hint style="success" %}
 You can change the model name or any settings by typing over/editing the settings field. For some settings, click in the settings field, to the right of the setting name.

@@ -1,6 +1,6 @@
 # Video
 
-![Icon](<../../.gitbook/assets/image (303).png>)
+![Icon](<../../.gitbook/assets/image (303) (1).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (390).png>)
 

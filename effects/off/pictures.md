@@ -6,7 +6,7 @@
 
 {% tabs %}
 {% tab title="Start Position" %}
-![](<../../.gitbook/assets/image (427).png>)
+![](<../../.gitbook/assets/image (427) (1).png>)
 {% endtab %}
 
 {% tab title="End Position" %}

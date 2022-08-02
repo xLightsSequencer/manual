@@ -6,15 +6,15 @@ If you have a set of lights connected to your controller, you can test them dire
 
 To ensure that the Controller channels and outputs setting match xLight, an Upload to Controller must be preformed. To do this, switch to the controller tab highlight the controller to test.
 
-![](<../../.gitbook/assets/image (239).png>)
+![](<../../.gitbook/assets/image (476).png>)
 
 Click the 'Upload Input' and 'Upload Output' to configure the controller. 'Upload Input' must be preformed first. Some controller types do not require the 'Upload  Input' action to be preformed and this button may be grayed out. A dialog may appear asking the user to override the previous controller setting, Click 'Yes' on this dialog.
 
-![](<../../.gitbook/assets/image (386).png>)
+![](<../../.gitbook/assets/image (104).png>)
 
 If successful, an Upload Compete message will appear in the bottom left status bar.
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (279).png>)
 
 Then select the Test option from the Tools menu.
 
@@ -22,7 +22,7 @@ Then select the Test option from the Tools menu.
 
 You will be presented with a screen that shows the controller and all the channels configured via the Controller Tab.
 
-![](<../../.gitbook/assets/image (272).png>)
+![](<../../.gitbook/assets/image (129).png>)
 
 You can select the channels you want to test or in this case select the controller which then selects all channels.
 
@@ -34,7 +34,7 @@ To display Model groups or Models instead, click on Model Groups or Models acros
 
 ![](<../../.gitbook/assets/image (290).png>)
 
-![](<../../.gitbook/assets/image (762).png>)
+![](<../../.gitbook/assets/image (406).png>)
 
 Different test functions are available for RGB, non RGB lights as well as the option to execute different test cycles. Set the Tools->Test section for more information.
 

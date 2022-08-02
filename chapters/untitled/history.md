@@ -4,7 +4,7 @@
 
 ## xLights & Nutcracker
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (80) (1).png>)
 
 ![](<../../.gitbook/assets/image (739).png>)
 
@@ -24,7 +24,7 @@ During the Fall of 2012 Matt had contacted Sean and asked if he could port the N
 
 ![xLights 3.0 release](../../.gitbook/assets/screen-shot-2019-02-25-at-7.55.14-pm.png)
 
-![xLights/Nutcracker 3 GUI](<../../.gitbook/assets/image (687) (1).png>)
+![xLights/Nutcracker 3 GUI](<../../.gitbook/assets/image (687).png>)
 
 2013 found both Matt and Sean developing xLights/Nutcracker into a show player and sequencer.
 

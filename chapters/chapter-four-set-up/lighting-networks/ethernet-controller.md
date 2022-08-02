@@ -2,23 +2,23 @@
 
 ## Ethernet Controller
 
-![](<../../../.gitbook/assets/image (760).png>)
+![](<../../../.gitbook/assets/image (442).png>)
 
 Ethernet Controller type is used to define a E1.31, Artnet, DDP or ZCPP controller. The controller will be attached to the PC thought the ethernet or Wifi interface.
 
-![](<../../../.gitbook/assets/image (765).png>)
+![](<../../../.gitbook/assets/image (378).png>)
 
 Click the Add Ethernet button to add a new Ethernet controller. Select a row to highlight the controller and change the settings.
 
 ## Ethernet Controller Settings
 
-![](<../../../.gitbook/assets/image (92).png>)
+![](<../../../.gitbook/assets/image (222).png>)
 
 ### Multicast
 
 **(ArtNet/E1.31)** When enabled, Multicast will send Ethernet data to all subscribed Ethernet controller on the network. IP address is not needed when enabled.
 
-![](<../../../.gitbook/assets/image (90).png>)
+![](<../../../.gitbook/assets/image (248).png>)
 
 ### IP Address
 
@@ -54,7 +54,7 @@ Sets the IP Address of the Ethernet controller. The host name can also be entere
 
 **(ArtNet/E1.31)** When Enabled, this allows the user to manually set each universe size independent of each other. Not recommended.
 
-![](<../../../.gitbook/assets/image (48).png>)
+![](<../../../.gitbook/assets/image (263).png>)
 
 ### Channels Per Packet
 

@@ -37,36 +37,6 @@ You must use the LOR hardware utility to set the DMX start address on a LOR cont
 
 ![](https://lh5.googleusercontent.com/bwNbH862Xcn265vgIp9p5u2jNRvmQGWUFP6a7\_\_1QU8-5YH60MmcrVzXf64VzbQxDRVa0bOyH-kis5lxri-L6s-uzDj7RRE5BF2BJ9SRNj9Cl8DGEVNQlX049zEfjGIPSeIUeIi-)
 
-## Convert a LOR LMS file to play using non LOR hardware
-
-_This section is based on a video created by Steve Giron_
-
-The item to be converted is a purchased 12 leg CCR tree sequence. The input file should be in LMS format. Within xLights, go to the Convert tab and from there Select Convert, navigate to where the LMS file is and select it. Select the ‘Show Verbose Channel Map’ attribute. ‘Click on Start Conversion.
-
-If you get an error “Unable to determine the length of this LOR sequence (looked for length of track 1)", it usually means that the LMS sequence has been saved using the demo software. The lms file from demo LOR is mostly binary and does not contain the xml tags.
-
-Error messages are expected for the first run in the status window on the right side. Scroll to top of error messages and look at messages that says “LOR Network”.
-
-![](https://lh6.googleusercontent.com/Z7iMVto0yQ4ovhbQ6Y8mFiNHij8xgh4ICZBK6G3wzC4PBLbSqINlqD\_ke8KcEFFY4cgbTOeCNq6TJo\_PRRVIfRQ57j6athzg7O-UN1chIFWBCvujrdXpunOu3deRAUJ\_tYDZvzYj)
-
-The messages tell us that two networks are required: One with zero channels – (this was a star where channels were deleted from), one with 1800 channels.
-
-Go to the Setup tab and define these.
-
-Setup tab (Existing layout)
-
-![LORSetupSteveVideo12CCR.png](https://lh5.googleusercontent.com/OfRngi4xLauRTtGkSRhbP240dQqsWGuRklpccVuXbuJk6bII-aqXegb56H45DUnste3KKvqQMX8MyCq53zJ5Oa\_bI6459KapZNEd5QaSHkVkSEr2JK8T5VL8CyvxGzuErQfnXbcP)
-
-Add two entries: Network type of LOR, any baud rate, however the last channel must map correctly. Then move them to the top using the green UP arrows.
-
-![LORSetupSteveVideo12CCR\_3.png](https://lh6.googleusercontent.com/NWdwSFkClg\_1KGeDwMJSw0qiqtyeq7iAPh9V5zP1nO29BvSPF775GyYVHmto1kYndSS0F8YSDLMYFXoylVczfKp-D3MhU6QFWHRF\_7EKVnu3aAiIjHPuY3rJS\_89UNMYOUCh7xlS)
-
-Ensure that ‘Map Empty LMS Channels’ is not selected (else you may get errors as the CCR macros do not have effects in them). Reconvert and it should convert with no errors.
-
-Open the xseq file that was created and play it to view the effects on the layout window. You may need to click on the ‘Render All’ button.
-
-If you are not playing the sequence though LOR hardware, go back to the setup and delete the two LOR entries that you added for the conversion, leaving your previous configuration as it was. If you are using LOR hardware, then these entries will need to be correctly defined.
-
 ## Converting a LOR sequence and importing into xLights
 
 _This section is based on a video created by Clyde Lindsey._
@@ -87,15 +57,17 @@ Therefore Channels 1-32 (Unit 1 and 2) have been defined – even if not require
 
 On the xLights setup screen, the corresponding channels must be defined.
 
-![LOR\_CL5.png](https://lh3.googleusercontent.com/0hXyxhjSE80UEjNUtk-9cQ3jlgq1euPnMr-tal1aQko8Pemqk6QALsVk5T33FgZIPFNvniyzaqoWBtePhDd2zGqQ0UONzjtI\_xocO90CCbqq70CfvytrENeQ\_NIDkZAjsqhizeGM)
-
 You can define it as a USB, with a network type of LOR, and set up the COM port (obtained from the LOR device manager) and you will need to try different baud rates.
+
+![](<../.gitbook/assets/image (156).png>)
 
 However, there is sometimes a lag associated with the sequence when you use this option.
 
-It is preferable to use a DMX (to E131) bridge if possible and then define the channels as E131.
+It is preferable to use a controller as an E131 to DMX bridge if possible and then define the channels as E131.
 
-![LOR\_CL6.png](https://lh4.googleusercontent.com/jzlnAK\_PJ4PEiabryFk3r8YcZbZAnz\_gjGW0adfQsZIPzaJ6ijipuTU-fSSf4sbxteZ\_LIM-scsz4S2JgJdR9MzCRxenJoNUlo7RloCiebOIyophcYBKVVA0h6W9tmqpAJFqPtPo)
+![LOR\_CL6.png](../.gitbook/assets/2022-08-02\_00h32\_30.png)
+
+
 
 For the three devices were defined in LOR, only 48 channels need to be defined, but to preserve a buffer for future use, an extra 16 channels corresponding to an additional LOR device, (i.e. a total of 64 channels) will be defined in Universe 1 as E1.31.
 
@@ -121,7 +93,7 @@ Create a new music sequence, add timing tracks and add the models you have defin
 
 Using the Import, Import Effects menu, change the ‘Import file’ file to LOR Music Sequence - LMS, navigate to where the LOR LMS file is and select the file to Import.
 
-![](<../.gitbook/assets/image (466).png>)
+![](<../.gitbook/assets/image (466) (1).png>)
 
 On the Map Channels dialog, all the xLights models will appear on the left hand side and all the LOR Channels on the right side.
 
@@ -137,11 +109,11 @@ When Done, Save the mapping first, so that you can re-use it later.
 
 Click OK to start the process.
 
-![](<../.gitbook/assets/image (330) (1).png>)
+![](<../.gitbook/assets/image (330).png>)
 
 Double Click the model name and then double click the stand name to see the effects on the nodes.
 
-![](<../.gitbook/assets/image (694) (1).png>)
+![](<../.gitbook/assets/image (694).png>)
 
 Click on the Render All icon and play the sequence.
 

@@ -14,7 +14,7 @@ The Color Tab allows the user to change the colors options of xLights. The First
 
 These Colors are used for the Timing Tracks Header's background color in the Sequence Tab.
 
-![Sequence Tab Timing Tracks](<../../../../.gitbook/assets/image (588).png>)
+![Sequence Tab Timing Tracks](<../../../../.gitbook/assets/image (588) (1).png>)
 
 ### Timings
 
@@ -38,7 +38,7 @@ Selected Effect Color (When Mouse Click and Dragging to select multiple effects.
 
 Effect Referenced Color.(The Effect the Effect Settings Dialog is Currently Referencing)
 
-![](<../../../../.gitbook/assets/image (468).png>)
+![](<../../../../.gitbook/assets/image (468) (1).png>)
 
 ### Row Heading
 
@@ -62,7 +62,7 @@ Currently Selected Row Heading Color
 
 Mouse Click and Drag Box Color
 
-![](<../../../../.gitbook/assets/image (440) (1).png>)
+![](<../../../../.gitbook/assets/image (440).png>)
 
 ### Gridlines
 
@@ -110,7 +110,7 @@ Timing Tracks that cannot be edited.
 
 Selected Locked Effect (Click and Drag Select)
 
-![](<../../../../.gitbook/assets/image (430) (1).png>)
+![](<../../../../.gitbook/assets/image (430).png>)
 
 ### Locked Reference Effect
 
@@ -122,7 +122,7 @@ Locked Effect Referenced Color (The Effect the Effect Settings Dialog is Current
 
 Audio Waveform Color
 
-![](<../../../../.gitbook/assets/image (582) (1).png>)
+![](<../../../../.gitbook/assets/image (582).png>)
 
 ### Waveform Background
 
@@ -156,13 +156,13 @@ Model Color
 
 Model Selected Color
 
-![](<../../../../.gitbook/assets/image (738) (1).png>)
+![](<../../../../.gitbook/assets/image (738).png>)
 
 ### Model Overlap
 
 Color of other models with overlapping channels of the selected model. Overlap checks enabled must me active for this to appear.
 
-![](<../../../../.gitbook/assets/image (59) (1).png>)
+![](<../../../../.gitbook/assets/image (59) (2).png>)
 
 ![](<../../../../.gitbook/assets/image (701).png>)
 
@@ -170,7 +170,7 @@ Color of other models with overlapping channels of the selected model. Overlap c
 
 Mouse Click and Drag Box Color
 
-![](<../../../../.gitbook/assets/image (69).png>)
+![](<../../../../.gitbook/assets/image (69) (1).png>)
 
 ## Buttons
 
