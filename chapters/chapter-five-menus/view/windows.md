@@ -60,7 +60,7 @@ It is possible to select a group of the same effect type and change the color of
 
 By clicking on one of the colors, the color box will appear allowing you to choose or create any color you desire. To create a custom color, click on the Define Custom Colors >> button.
 
-![](https://lh3.googleusercontent.com/UDBovR6ig4CcmmTSC67IE9Y3qFaGWzRRKZRy34S4T1mQ6\_sc7SzWGSJ\_7BABFFCZOoj82J7V6OoXPVpfMOTwAKtlYL6ImJvgh6oBOPs1J3sZj\_huOK12obOwDp3gzI1BtlIiGfz1)
+![](<../../../.gitbook/assets/pasted image 0 (37).png>)
 
 {% content-ref url="../../chapter-four-sequencer/changing-an-effect/changing-color-settings.md" %}
 [changing-color-settings.md](../../chapter-four-sequencer/changing-an-effect/changing-color-settings.md)

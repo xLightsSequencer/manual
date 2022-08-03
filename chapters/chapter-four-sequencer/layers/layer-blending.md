@@ -36,8 +36,8 @@ Put two effects on a model and step through each of the layering modes to see wh
 | ![](<../../../.gitbook/assets/pasted image 0 (9).png>) | ![](<../../../.gitbook/assets/pasted image 0 (10).png>) |
 | ------------------------------------------------------ | ------------------------------------------------------- |
 
-| ![](https://lh6.googleusercontent.com/8VqltNyiMNdMWdJ9jyiA8KO0CpuKyR\_GEZoDMDUZjQWcU0Lt6YX3fcZdJeFsn3BMQt2S2iVW5pd5P2h4coQj4AfvCc8UkTJxMCq9ef8N2GfX9oA8AKCesTpBxdhoxUk22DU19qaS) | ![](https://lh3.googleusercontent.com/\_3XMHX4fBN9nrSRO1xUp1Pb\_07nP9I2pTyIWslOF\_yX1uI1MVuMsgkCYyQIiFfrGzzAomcTHa2eTOzidsQQjeeZgsNfFR6\_tekDyRAKkEaHuq15fLcbjTjJ2jYhvNuy0DFY\_P4HL) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](<../../../.gitbook/assets/pasted image 0 (38).png>) | ![](<../../../.gitbook/assets/pasted image 0 (39).png>) |
+| ------------------------------------------------------- | ------------------------------------------------------- |
 
 | ![](<../../../.gitbook/assets/pasted image 0 (13).png>) | ![](<../../../.gitbook/assets/pasted image 0 (14).png>) |
 | ------------------------------------------------------- | ------------------------------------------------------- |
