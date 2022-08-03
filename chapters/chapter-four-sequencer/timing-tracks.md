@@ -32,7 +32,7 @@ If you have multiple timing tracks defined,
 * You can select the timing track radio button (to the left of the timing track name) to enable that track. You can also select more than one timing track to be displayed at the same time, however only one timing track will be active for effects to calculate the start and end position.
 * You can rename a timing track , by right clicking on the timing track name and then providing a new name in the window that gets displayed.
 
-![](https://lh3.googleusercontent.com/Lm0V6P5ht4qLyB3PiVSnkV69xQSZMIvD1bPUaLxDejAjl3cJYzEqFfFokk23F78jFJKx8rred7Dgd\_R5tbsTs5CH0knB9XXOyt9LViMCd7ri-n7UVRd82V7CvqBuGuEEhMppfY0C)
+![](<../../.gitbook/assets/pasted image 0 (11).png>)
 
 You can set up timing marks on any timing track manually, by placing your cursor on the waveform (above the grid) and while playing the sequence, press the ‘t’ key where you wish the timing mark to appear. This is equivalent to what is called a 'tapper' function.
 

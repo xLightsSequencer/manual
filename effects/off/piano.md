@@ -24,13 +24,13 @@ The Piano effect displays a piano keyboard effects where the keys modulate based
 
 Set the source to timing track and select the Track from the list of Timing tracks you have generated in the sequence.
 
-![](https://lh3.googleusercontent.com/1UJGiFxLvYDcANxRkSqT4ct1LmXs1Tl9EXiU2ZvNMYowTNbTDVDCytHDbJYlieZVwsLK544VHys6731hQ9R6eKi4\_oZfbi-wNvGIiNf4bBZiGq2I9kjqYe4JHbQo75\_xaOju2r55)
+![](../../.gitbook/assets/base64706f90a114b58098.png)
 
 Then, expand the view so that you can see the labels of the timing track and change the labels to match the required keys. The label can be the key letter or can be the MIDI value of the key.
 
 You can also specify multiple values in one label and accordingly multiple keys will be depressed.
 
-![](https://lh6.googleusercontent.com/F-W7L5yQtuDGkcDMk0jPYNFaUFHuQEOZD2zfXduedsrDKx9SzFo3YoB0o7ImJ8h-Uk8Y-FUDiqnxwKDvYbb3GWWTzaP0uIB5SAMhbU8vWwkkVcTwIEIAyKQffUAv9U6X1peGU5Ci)
+![](../../.gitbook/assets/base64241615b467b5a5cc.png)
 
 You can use a value of C# to depress the C# key , C to depress the C key or multiple values such as C F A to depress three keys.
 
