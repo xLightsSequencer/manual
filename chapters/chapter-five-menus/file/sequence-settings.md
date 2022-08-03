@@ -109,21 +109,21 @@ The purpose of ‘Render All’ is to render all the effects and data layers to 
 
 Before using this function, a new sequence should have been created or an existing sequence opened.
 
-![](https://lh4.googleusercontent.com/wgCL3uEhCz6R4Fzkh-EqV5-2PbenkGsNetWfZ6GzCj0J5S1mUtkz25aqwUBxGnU2vHCwP3hHST76BQAvTdUwfZsrBK7RTsZ4dmfPnrlpdaPYGvnClVWb7f-SeGCStly2rXe28PsE)
+![](<../../../.gitbook/assets/pasted image 0 (31).png>)
 
 From the Main Menu tab, select Sequence Settings and then Data Layers.
 
 Click on Import, navigate to where your input file (‘LMS’, ‘LSP’ etc) is, change the file type as required and select the file to be imported. Click ok.
 
-![](https://lh5.googleusercontent.com/5wBQmsVVg3OvNQJNeyk6OV3utPy4I4ksK-Rg8IpxrpNELK-oN0F\_Gai4Sx2rw\_0kgG999CA6Xj4IH\_OfWKQoN2bX2s9541roU7R9VAq4LSPGkL45i4aZ2facRPo22GTrHspo321T)
+![](<../../../.gitbook/assets/pasted image 0 (32).png>)
 
 On completion of the import, the Data layer details and the number of channels imported to the data later will be displayed. The file has been imported/converted and stored in an .iseq file.
 
-![](https://lh5.googleusercontent.com/mMtNJLq1xFEJe6kseJhnUsdXuMX6gri7bbMVrwpdmtf-r8Ow9Dug4vYKCrreVAja4Eux-KWS0H93Gg5xyRw-jIuTx70cj65BuhHK-xJPKeGoklGKmAf-fLGNMia23VQQfxMP9rD6)
+![](<../../../.gitbook/assets/pasted image 0 (33).png>)
 
 The normal (and default) option is for the xLights ‘layer’ to be on the top and the imported sequence data represented below it. When rendered, the data is rendered from the lowest layer upwards, so the xLights effects will be rendered last. (Refer to discussion under Move Up/Move Down).
 
-![](https://lh4.googleusercontent.com/N-cKAS2LBgkq7MFdT1yPCJEmQH04HvNoWjXR2zqufqmvFfP0wG2SkgVzZ334tP4OQWrBGNUDEbD7b\_KDQipEcYQI1Xn1x9O1V\_cJO246qIacu6KwnVJwDz4Qh0xc-e18DVFxYOjL)
+![](<../../../.gitbook/assets/pasted image 0 (34).png>)
 
 On the Main Menu, click on the ‘Render All’ button, after which the sequence can be played. Click on the ‘Save’ or ‘Save All’ buttons to save the sequence.
 
