@@ -4,7 +4,7 @@
 
 The ‘# Canes’ value can be set to the number of canes that the model represents (normally one).  Similarly you can set the nodes per cane and lights per node (normally 1). The angle of the cane can be adjusted by changing the Cane Rotation value, or grab and move the top of the cane clockwise or anti clockwise.
 
-![](https://lh3.googleusercontent.com/mxfVCN-iHZ\_SPs23An5MX5ToeAZiXXoNJq5CahBALRLfqlGWVHBPsJp\_rsJ-n2wn7W9K8Kw3ow13arOziNkwgavc3uM3m\_M2mUYp2hl1RlhbXDKaTxuNb91qMZXunIYiwfHtlwc0)
+![](../../../.gitbook/assets/base6431c3e69dc8418eeb.png)
 
 Select the Reverse attribute to set the the crock of the cane facing the opposite direction.  Select the Sticks attribute to set the cane to be a straight line without the curved crock.
 

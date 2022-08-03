@@ -2,7 +2,7 @@
 
 ## **Circle model**
 
-![](https://lh6.googleusercontent.com/5p67E75p3Wm9IyY0PL-TEyt1PIUPl1tMrm\_g\_zwU0hcd6r7NtcN\_OEQrcL8bf\_weHH6Yt8WaVyvcwE4AZskt0-8N7meitIxTaIZU4Xq5aBGW2\_IkZAFse93jHGIFeXwIIXOjVmcN)
+![](../../../.gitbook/assets/base64ce80058f227636b5.png)
 
 ### # of Strings
 
@@ -22,7 +22,7 @@ The Layers attribute value describe the concentric rings in the circle. This wil
 
 ![](<../../../.gitbook/assets/image (208).png>)
 
-![](https://lh4.googleusercontent.com/E9D5Y\_p54AkevsRoQOjwmCqiH09m7vSQb0SkfkDJycktl5I4N2IkbIMQHSb4b7eMNNaciUN8Eo\_Ozmzel5HuZVmjVfINrroYmNxKPA495gFwQhpY2c1GFinfCqPCVjlERmuffl6X)
+![](../../../.gitbook/assets/base6437c0669337ad8541.png)
 
 ### Starting Location
 
