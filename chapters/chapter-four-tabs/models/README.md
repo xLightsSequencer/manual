@@ -22,7 +22,7 @@ Depending on the type of model, it will either be bounded by four, three points 
 
 In this image, the Candy canes have three points. The bottom left is green and marks the beginning of the model, the bottom right is blue and marks the end of the model and the top center is blue and is used to rotate the model.
 
-![](https://lh3.googleusercontent.com/o06l9Z-jiblMKk6FTb-AW8Mp3ADwhBl5Qp-6BIyd34JwW8Wl51Hr0Bjremvzd75EIOu7hRMngXIHg7uSBV7SmhbgTI6WQCr0TGKj14H6uLQBH1HT4n9bRuvxC8z2xgjoexKHswtK)
+![](../../../.gitbook/assets/base641e0656fcb919992a.png)
 
 If you cannot locate your model after it has been created, click on the model name in the panel and the model image will be highlighted.
 
@@ -32,15 +32,15 @@ By clicking and holding in the center of the model - you can drag the model to t
 
 When the model is aligned horizontally, a red horizontal line will be displayed.
 
-![](https://lh5.googleusercontent.com/lx4kE7JP13W3yjoFHo-W8FBkl-tltwJzqm6yxjza\_YXGWQWw5dzjhlaxv9oKoyaxn1Os76aHWwh0ZFe8L54RsYl0Z1NUgszAfh745\_an9AL52cJjQwBoxs4Kj9mRvD6ewmFLKvyf)
+![](../../../.gitbook/assets/base64553463e2a95197ce.png)
 
 When the model is aligned vertically, a blue vertical line will be displayed.
 
-![](https://lh4.googleusercontent.com/B\_Edk9IVKObPYlDR--o\_6J-d7w0YkcYOlwUquOM9OmBRiEwIPwnpyz5hjTyCk1VEBb83bbBE8wWV6zuygYoluynKD9FiJ1hTugLvC6meDAEwjBVb7ngWbCK8IdLXl4YyulC2oP5u)
+![](../../../.gitbook/assets/base64b3248eca57169d9b.png)
 
 In this image, the Single Line model has two points. The bottom left is green and marks the beginning of the model, the bottom right is blue and marks the end of the model. The red superimposed red line indicates horizontal alignment.
 
-![](https://lh4.googleusercontent.com/x7UYtT0ngHm30kDD2FXV0lhYUeb-S5JPUsEsrMR5sjYrtSTXwOw-XaVm9Tnvo2ThMA7LNDYARI6\_xL-IgVpWVUW8CIOuNgcsrWqtgAxK2dXtkK\_HIq97zT-ozB\_bLm0RKR5DJY6W)
+![](../../../.gitbook/assets/base649c5b2715ff00d1fb.png)
 
 If you double click on the Single Line model icon (instead of using a single click) , then you can draw a single line (say as part of the roof line), then click on the layout again and draw another segment from the end of the first segment - this will create another model and so on. Or you can use this technique to draw multiple arches at the same time. Click on the model icon again to deselect it.
 
@@ -50,7 +50,7 @@ Both of the above examples have alternate ways of being implemented (using the P
 
 On the left of the layout canvas is a window which displays the name of the model that has just been created and the settings of the model.
 
-![](https://lh6.googleusercontent.com/mB-Z-MBswUa4Dku1XYiopTvuAeJgUs\_7IFFqImgaCg9H\_udwDtLWIP8sGtr-gqITTq7CsNTWrFywT2x7gg-k1IoQ8iLQ5ViV\_fDBn-bJCf7z3\_X4C60K7atd3qkkaU9kAXogLcx7)
+![](../../../.gitbook/assets/base6422a5f746f3bf6621.png)
 
 These are default values and you can then edit the values to suit your requirements - (change the name, start channel , number of nodes etc).
 

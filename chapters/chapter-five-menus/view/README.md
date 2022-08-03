@@ -62,7 +62,7 @@ Show Start and End Intensity for effects, similar to LOR.
 
 Perspectives saves the location and size of the "windows" you use.
 
-![](../../../.gitbook/assets/2022-08-02\_20h41\_34.png)
+![](<../../../.gitbook/assets/2022-08-02\_20h41\_34 (1).png>)
 
 Particularly for dual monitor setups, it lets you move and size the Preview and Color windows away, giving you a bigger program area. Going to View / Perspectives / Save Current will store your settings to the currently selected perspective.
 
