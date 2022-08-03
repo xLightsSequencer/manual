@@ -36,11 +36,11 @@ On the Timing tab you can select one or more of a number of timing bar options, 
 
 If intending to create an xLights sequence, on the next screen, select the View that you wish to use on the sequencer screen (use the Drop down if the View displayed is not what you require) and then press Quick Start.
 
-![](https://lh4.googleusercontent.com/K9bW2yrA-g3uEWqKn5vqSfjJRP-jEJpg3dHk9hyLljAg3p1SY1Mn29evATZ\_dV2ZDeJbZ3-o\_G3177hYqLGD4UJ7QvfAKFZ0HmiuJS0y3zRBEbUlVq8HL3qw94E087NANAibz0Gg)
+![](../../../.gitbook/assets/base64ba39807d3fe0c7f9.png)
 
 The next screen displayed will be the sequencer grid and all the models from the selected View, will be displayed.
 
-![](https://lh6.googleusercontent.com/2PyswMSU\_tSN4sWvjLgPWbi7nTChf0mJJ4NRCXgDu\_45J\_qc9xd0N5nqCqRtcWhs84HDKjwNAkBRpdttLi4MgSg6ffIH-\_zZSj0JlUnhfg9gYg2LcjXhKRoa0GzkJI0Qm7\_KAsz3)
+![](../../../.gitbook/assets/base641d1cbe887d36d1da.png)
 
 If you selected More options from the previous screen, then you are presented with this screen.
 
@@ -48,7 +48,7 @@ If creating an xLights sequence, at this stage you can select ‘Done’ and imp
 
 Press either Skip or click on Done.  If you pressed Skip then the following screen is displayed:
 
-![](https://lh4.googleusercontent.com/ks9wrD-77zC0XzDOviYKlq7Zf-vUBBX1RZ72-0SwqSaZjvvHniIOAf2sd2jWWR\_p28ZXuNAkdd7sZaNfQBxXnwDfihxfkEXrKYj1hScvwUkjwb494eYhQttAbdaIbVVOlnj7dhui)
+![](../../../.gitbook/assets/base64e12ed32c8c26bcb8.png)
 
 If you click on the Edit Metadata tab, this will lead to the Sequence Settings dialog box.  You can Import a Timing Track or click on any of the tabs for the corresponding functionality.
 
@@ -75,13 +75,13 @@ If creating an animation sequence, click on Animation Sequence.  No media/audio 
 
 This option enables you to create a timing track with marks at fixed intervals of your choice e.g every 1 second or every 5 secs.  This is especially useful for animation sequences so that you don’t then have to go through and create timing marks manually.
 
-![](https://lh5.googleusercontent.com/LsWObjYId8kO7R8nVI3Jq4yzYIl0NqfYP67\_\_RhRfzBVYoPZ5o4O9I-S3Cz0\_-3WUlkm-s\_vAEklH0yv60yLCVjlZ6ypvYCju0YECOcBMfQWfR4Jv0VuZgmp5eQWI5r6dwg6cGNj)
+![](../../../.gitbook/assets/base64d9d1301cdc77f1f5.png)
 
 Click on Timing and then from the drop down window , select the Metronome option.
 
 In the popup window select the timing interval between each mark in milli secs ie 1000 for every 1 sec,  5000 for 5 every secs etc.
 
-![](https://lh4.googleusercontent.com/XGrt8wq4itA-PSgQu44hVlf\_lCEHrMy3-JXKiOHtwyghwY2YHnM4xeGvVMKR4CCvUCRIr28xT5CmsmJEY2ByHCpvcWS10N09KOdqRfghsjnRsiIRC-m-sdqQGDCBLTWymLHDqATC)
+![](../../../.gitbook/assets/base64aa7ee647e09995e0.png)
 
 It must be a multiple of the base timing selected (ie 50 millisecs if 20fps was selected on the previous screen).
 
