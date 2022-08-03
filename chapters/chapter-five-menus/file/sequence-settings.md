@@ -64,9 +64,9 @@ Click Done when complete.
 
 The Import button enables you to import timing marks created externally for example using Audacity or where you have created a timing track manually or wish to import one from another sequencer in a supported format.
 
-You will be presented with a window to navigate to and select a file containing the timing marks to import to the timing grid. This can be a text file (.txt), a LOR lms file or a LOR LAS file.
+You will be presented with a window to navigate to and select a file containing the timing marks to import to the timing grid. This can be a text file (.txt), a LOR .LMS/.LAS file, Papagayo .PGO file, LSP File, or, xLights .XML/.xsq/.xtiming file.
 
-![](<../../../.gitbook/assets/pasted image 0 (30).png>)
+![](<../../../.gitbook/assets/base64538a6a09649a3a2 (1).png>)
 
 You can repeat this process to import another timing grid from the same file or from another file. Click Done when complete.
 
