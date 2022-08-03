@@ -24,7 +24,7 @@ Change the length of sequence duration to the new value, then save the sequence.
 
 The Metadata tab enables the media metadata to be entered or updated. The attributes supported are the author, email, website, song, artist, album, music url and a comment.
 
-![](https://lh4.googleusercontent.com/wHuHr45zyhXx6Alm9okLfiyUme8Thb\_TUSC19kqN7byaqebvkCiVLbPgqoLQsUBwfce-uLc8uZDNPJgZKaJXPjYmX53MIDLBcSzeiQ\_3b-I0Fcu3d-FgaSdjtHDfexgGlE2JDaIT)
+![](../../../.gitbook/assets/base64f2ca7b13272cf3a7.png)
 
 This information does not drive any functionality in xLights.
 
@@ -36,7 +36,7 @@ After updating any data Click on Done to Update.
 
 The Timings tab enables you to create or import one or more sets of timing marks on timing tracks for the audio of your sequence.
 
-![](https://lh5.googleusercontent.com/4lbyrAkDEoh9a-UMWIaLFpnE5FGS6OPJwxJ7GmaZW6sRo1z1z84Kgyoy44FrG\_nf7T6IVKwfoWrPP3IolCCu51mqJpZeNCZ8OcfPT0C7bLjfMh9pdoihvQ5f8MZmcNS0fpl0H58I)
+![](<../../../.gitbook/assets/pasted image 0 (12).png>)
 
 This screen is part of the flow when creating a new sequence or can be accessed via this tab at any time after creating a sequence to add additional timing tracks.
 
@@ -44,7 +44,7 @@ This screen is part of the flow when creating a new sequence or can be accessed 
 
 Clicking on New will present you with a list of options. You can either select a fixed value such as 50 or 100 ms or select from one of the options in the list.
 
-![](https://lh5.googleusercontent.com/Hduf\_4EmNWNTZHfi4Dajc2eGmdZlWw6KAL8a9L9fVBx0kiYJDYlLpR1a1Zz-QCvxyMnJEr\_lmxWa-RrXMzBRthNvWt6htWkKV5E180N6QgaGQPFx-wWDdApkG7yiwtnvluZI3-EU)
+![](<../../../.gitbook/assets/pasted image 0 (27).png>)
 
 {% hint style="info" %}
 This component uses the VAMP plugins to generate the timing marks.
@@ -52,9 +52,9 @@ This component uses the VAMP plugins to generate the timing marks.
 
 Selecting one of the options then presents a window where you can either select the defaults or change the timing name or any of the plug-in settings.
 
-![](https://lh4.googleusercontent.com/CTSFkpqhr3AYCihOuzFBoFvKlH4VFrFbSI8gD4-pOMQQmqIvHaBEGYbXnImKhgQUR0fnP3WF82x2v66G68IaYJVn3Ijo-iwyuHnRuEwVBZuxUaJykC0WlFmtxwRgv5G7dLMC3uQd)
+![](<../../../.gitbook/assets/pasted image 0 (28).png>)
 
-![](https://lh4.googleusercontent.com/GGvAjAYEQn6MRpAjK9hSPC6BaiVq9ouYTnNctFAV5CmUJOabEMHbqWBCqAW52McrnEBz3XykN0h0SzeJrMt7lCxcztBevhbaVz6cToJHn1fWCf5s3e3d0SQHtVa8s3rEufj-QKGB)
+![](<../../../.gitbook/assets/pasted image 0 (29).png>)
 
 Click Ok and the audio track will be analysed and a timing track will be created. You can then click New again to select another timing track (‘Beats’) to be created.
 
@@ -66,11 +66,9 @@ The Import button enables you to import timing marks created externally for exam
 
 You will be presented with a window to navigate to and select a file containing the timing marks to import to the timing grid. This can be a text file (.txt), a LOR lms file or a LOR LAS file.
 
-![](https://lh5.googleusercontent.com/0i8V5ccSJBqlYy7QjdOSsJrX6HDV\_-\_VDfFEo6H-EKzVYaMSmWkeWSZAvYC2JZIvJutRsN70VfT4a\_5-KQqneDA4ZBxdjhuW2xKEKsiK60JRRPZgvrHEw1HUgA9aVphmX4qLLbVe)
+![](<../../../.gitbook/assets/pasted image 0 (30).png>)
 
 You can repeat this process to import another timing grid from the same file or from another file. Click Done when complete.
-
-![](https://lh5.googleusercontent.com/gS-MkR25N4b4LjlDbfu2DqZEkr5go0R6nRYR5zM5KrmTkkah\_5F-nEGqRWngOYqO\_1GSXqHT804tuDtWni3texWbrIHbAGdXCNnI3wDUUXB8XtZNNtVQZJyeZKShjzdVWHtiP4Qo)
 
 ## Data Layers
 
