@@ -2,7 +2,7 @@
 
 ### **PolyLine Model**
 
-![](https://lh3.googleusercontent.com/PowHJuhKZzK2qOtx2TyF-3hZXX8IbC05zdnZPbx08C1-9LyTUy3Dey6UjZf1EsqI1SxPZEpqEEWi2slT4SGogMlvpAexJ6iF1lkoY8r4EqIUh74DNN4mpsuLxPJdEA74oIx0FFI9)
+![](../../../.gitbook/assets/base649c15adbfe91d234f.png)
 
 The Poly Line model enables several straight line or curved segments to be drawn as one model (rather than having to draw them as individual models).
 
@@ -22,7 +22,7 @@ Alternate Drop Nodes will skip every other hole to allow wiring up and down each
 
 Enabling the Individual Segments attribute selecting will present the different segments that form the poly line model.
 
-![](https://lh6.googleusercontent.com/W9YCjhKWLNsjf8WAAe6sL5sxma6Nb0EfZUynK1y\_POKw5KkA3IKcvWzuuFUnId51mfjBAn1JTOXNmamfGHiS8a-ZT3e\_mUI7nQ0Ua\_Hnw7HORmn\_O8VOSRhVInAbn2YTVJ\_zCrZH)
+![](../../../.gitbook/assets/base64385f09b5827b6764.png)
 
 You may end up with some in-between lines you don't want. So then check Indiv Segments and start clicking on each segment line in the property grid. It will highlight each segment as you click on them. Once you get to one of the "in-between" lines you don't want just type in a "0" for segment size and it will disappear from the drawing
 
@@ -34,7 +34,7 @@ You can also name all your line segments.
 
 To add a segment to an existing model, right click on a segment of the poly line model; the segment color will change to red.
 
-![](https://lh5.googleusercontent.com/QJ4Fh-JVtN3SNZ2Jivk1BCtIUwTmQSujHnKInIox-uuw2UFSGI6pwn-XWZ2sLL-AIStxWrlCPfLYee0cXKu-ejm3q2igrjn3WERUt9C-\_xDxe4-DqQuKyY8P1PIApk0jJfef6MJq)
+![](../../../.gitbook/assets/base64a95e00358de6da6f.png)
 
 Then select Add Point and a point will be added to the segment. The number of segments will increase by one. You can then work with the new segment and change the number of nodes via the panel.
 
