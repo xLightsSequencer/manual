@@ -8,7 +8,7 @@
 
 The Test Dialog enables you to test anything from a single channel, all channels for a model or all channels by sending different test patterns to your physical lights.
 
-![](../../../.gitbook/assets/base647b688d87c5c65c44.png)
+![](<../../../.gitbook/assets/base647b688d87c5c65c44 (1).png>)
 
 {% content-ref url="test.md" %}
 [test.md](test.md)
