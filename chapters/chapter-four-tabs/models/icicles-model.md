@@ -2,7 +2,7 @@
 
 ### **Icicles Model**
 
-![](https://lh5.googleusercontent.com/EFrrOC7537yIBp6aqSo4OdDEq8FJ7d51\_qM9F9fmRhFylnFcVSN7R7moQ1AFAiCcWFaEZqZTdBDtuZqu6ZIaVbjWpgkhDG3S1Y34MJj7QAsMMxSJ12vDie-VzpQGTZE3kPSJpSff)
+![](../../../.gitbook/assets/base64e285e6e00a774fb3.png)
 
 The # of Strings would normally be 1. &#x20;
 
