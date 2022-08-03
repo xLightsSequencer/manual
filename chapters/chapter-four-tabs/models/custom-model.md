@@ -4,7 +4,7 @@
 
 xLights enables you to define models that do not fit into the concept of predesigned common shapes. For example, a snowman outline, reindeer outline, a singing face, etc. In order to define such a model: Create a new model by selecting the Create new Custom Model icon. Select an area on the Layout screen and drag the mouse across. Note that there won't be anything displayed in the box as the custom model layout has not yet been defined. A new Custom Model will be created with an initial model name of ‘Custom’ or similar. You can rename it to something more suitable. Click within the Model Data box to enter the Custom Model setup window.
 
-![](https://lh4.googleusercontent.com/yengfcqLxHDFXD9P4DKtJA2bKaRmLofV8m2uvObfqkZksePZY0AYSDC6vq1s3Npl8EV5RW49OsCeq\_SEu8NBjh7dLo93JWaL50g44xvZazfDogBO94uRcSBygx9ehn\_j0E4sCu7A)
+![](../../../.gitbook/assets/base641b33920b2101a9b6.png)
 
 A custom model grid will be displayed in which you enter numbers in the grid representing the nodes/channels in your model.
 
@@ -42,7 +42,7 @@ Click on the Horizontal Flip or Vertical Flip buttons to shift the nodes in the 
 
 The following image is an example of a Singing Face custom model on a 50 by 50 grid.
 
-![](https://lh5.googleusercontent.com/6KhYDPbFjYp8pdGQl0ZX3YekuAmzUJE1n9ghCs5hNn52vJiaegEeR79G9y45TUZ3p\_o9htaibjzuRLlRMnpk8XpFZykjNy3X7X-KyvQ8XIqBhjfZRsSDs7y0Q0oC0CYjEbUSyqCW)
+![](../../../.gitbook/assets/base64192bd6809edb3235.png)
 
 To erase a number in a cell, selected the cell and press the Delete key.
 
@@ -68,7 +68,7 @@ Alternatively, open the Model Data window to open the Custom Model Window and se
 
 Click on the Model Data attribute. This will open up a window with the image in the background which will fill the grid size. Adjust the size of the grid by increasing the width and height values. Click on the ‘+’ and ‘-’ buttons to Zoom in and out of the grid.
 
-![](https://lh6.googleusercontent.com/Fw8\_vrbGV-l-WX7dmFMyz7Wx5mEXZnr4hDT\_zEM3\_Wd43TLnu0yNTMWLru6kTshPhzIRMoOo4ItV7m3LeuLdv7ARZRqapgm54Hlcsbpo7uyxmPvMLHZb17cbbchk\_1z-pJ12q4Og)
+![](../../../.gitbook/assets/base6421ed5502235020.png)
 
 The Background image slider can be used to adjust the brightness of the background so that the image is just visible. This will enable you to more easily see the numbers on the image and around the outline. Slide to the left for 100% brightness and to the right for 0% brightness. The magnifying glass at the right side of the slider will toggle the image on and off.
 
@@ -76,7 +76,7 @@ The Background image slider can be used to adjust the brightness of the backgrou
 
 You can then start typing the numbers in the positions that the pixels would be located. In this example, it would be around the edges of the snowman and hat.
 
-![](https://lh5.googleusercontent.com/xwJUFqYg54Ocum8tWfnUrI--2ik3gvAv1kf4YxmkuOUGlcABUaSwjTCzbaBESWEK4PR0Oz04d7FEBJjX4ZUzCfAEpESTOLKTuI2IE\_F29-K1ZDZkXJPufXvZPojeuf4vdUFgDkCb)
+![](../../../.gitbook/assets/base64951e11698c0fd82c.png)
 
 To erase a number in a cell, selected the cell and press the Delete key.
 
@@ -84,7 +84,7 @@ You can delete multiple cells by drawing a box around them and then pressing Del
 
 If you select the Auto Numbering setting to be active, the channel number that is shown in the Channel number box will be added at any cells selected.
 
-![](https://lh6.googleusercontent.com/GyDhdq-8ZZA\_bIFVTmis80U0dGi-MX2lsQX8SD9tl-flu27Tgbyn14iT0\_V3Cb1DxMGPZLoGI52p71Q6VDx\_R237SXwSbT\_McnuDfJ-fskX7OyYd1qh6s9BK4\_t77HLAQYgGYWJ2)
+![](../../../.gitbook/assets/base64fcf3694f3580730e.png)
 
 If the Auto Increment setting is set to be active, then after each selection, the number is automatically incremented. This is typically the case for smart strings of pixels.
 
@@ -110,7 +110,7 @@ To export a Custom Model, select the model and right click. Select Export xLight
 
 You will be prompted to specify a location and filename. Enter the filename click on Save. Note that the xLights custom models use a ".xmodel" file extension.
 
-![](https://lh6.googleusercontent.com/oe8NZiBptzP\_\_JnsWVbm69femA-D6ii7\_tNDjkcSu\_j63O2x9vdTteZ3-DpSKC6FpNV4bYXGMe9zqBqDp3BzceaMk2mPDzCQL1qLQhVcCmo5YyR-SxUH4LPYFUXIGZGR214nOKjy)
+![](../../../.gitbook/assets/base64b9b5c9502df0d600.png)
 
 The export process includes the faces and state definitions, as well as custom models, so these don’t need to be redefined when imported.
 
@@ -120,10 +120,10 @@ This function enables you to create a custom model from a previously exported cu
 
 Click on the ‘Create new Custom model’ icon and then click on the canvas where the new custom model is to be located. You will be prompted for the name and location of the custom model file (xmodel) to import.
 
-![](https://lh6.googleusercontent.com/-Cdc5j52KTIQPQvFYnIP2v2PXuf7hOMyo1a7-20kzXsHtkif9O0oS6p0e6feWX9bRtbTlbq4PWFkNk8TOEl33FUGNuudjSURXdV31T84a-a9AKEQyFokceRF33P81epMsWwIgodl)
+![](../../../.gitbook/assets/base64d71dbcb00dbe7150.png)
 
 Select the file name and a model will be created using information from the custom model file. The model name or other attributes can be edited as needed.
 
-![](https://lh4.googleusercontent.com/qwN0Y8MOWRvHi7ILu2ysWRqrNXq9XNpnB6ZtibRJV8JA2FxmJ6LuUdpgjSIEajzdGOWglM3tb69dUXaNvODTKkZqsN9IyuUSPozoA3GxodwxD6LsXiKtBxUTPSobpp9bd0xrF8a2)
+![](../../../.gitbook/assets/base64f1666632277ae7bf.png)
 
 The model will be located at the point selected, and can be resized or moved using the blue connectors similar to any other model.
