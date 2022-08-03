@@ -44,7 +44,7 @@ The Double Left and Right Arrows will Add or Remove All the Models in either lis
 
 ![](<../../.gitbook/assets/image (224).png>)
 
-Within each view, the models that are part of the view can be marked as visible or non visible via the ![eye-16.PNG](https://lh4.googleusercontent.com/wiL0OEoLqv14\_eWUGfnHhBBTGnb4NEvvqXtE-ZAdF2HRUkpYdbfldwOsayDaYmCMLaGtAwifBo3da4r4VaDOV7iN5FX3APblEd9p5Q5huhuk1zb2unS3ZCteJlXLZMlo8kNrzpie)button to the left of the model.
+Within each view, the models that are part of the view can be marked as visible or non visible via the ![eye-16.PNG](../../.gitbook/assets/eye-16.PNG)button to the left of the model.
 
 {% hint style="info" %}
 The visibility is across all sequences and not specific to the sequence that is open. So if you make a model non visible, it will become non visible in all sequences.
