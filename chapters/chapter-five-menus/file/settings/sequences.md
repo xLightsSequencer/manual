@@ -44,7 +44,7 @@ The Auto Save functionality creates a copy of your working sequence xml, in your
 
 ![](<../../../../.gitbook/assets/image (66) (1).png>)
 
-![](https://lh3.googleusercontent.com/zuDkOJbt4\_ToDqX5VR0iU6Z7zbpFQRbdVJCbhyApI7tAle2Biufsdxdz9Dd7Ncnm\_9Bhc0pbXmDe\_gR8cGKDKVifrBtVu3Y-2jq6IlfVcyfZXiDTb7X5mfo1ZpMiS462pw5ALk4p)
+![](../../../../.gitbook/assets/base64a2de46b68900ebd5.png)
 
 In order to recover your sequence file from an unexpected error or corruption to the point when the last autosave executed: e nsure that xlights is not active. Then rename your existing sequence file (’xxx.xml’) to another name and rename the ‘xxx.xbkp. file to ‘xxx.xml’. Restart xLights, open the sequence and Click on Render All.
 

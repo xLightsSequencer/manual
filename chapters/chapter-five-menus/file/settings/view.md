@@ -46,7 +46,7 @@ There are three sizes available:
 
 "Always On" will display the window in all cases, "Always Off" won’t display the window and "Auto Toggle" will display the window if the effect supports it, else won't display the window if the effect does not have this capability. Click on an effect in the sequencer grid and expand the Effect Assist window. If "Always on" is selected and the effect is not supported by this window, then you will see a red X in the window.
 
-![](https://lh3.googleusercontent.com/oJ1qR05VyFXZpxawaogvApOLAJwbaadAR0Yi\_yajBrGLb1cgce7-\_SPr6xSbM9BBSXHPJic3NKmq1vPjU0U8oBAc2K4AtP2qM4ffb0Xp9BzqvIzuk76XjMxYBhIjFzO5mDNtFy5d)
+![](../../../../.gitbook/assets/base641e8671d7df0a3029.png)
 
 ### Play Controls On Preview
 
