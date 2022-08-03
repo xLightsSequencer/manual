@@ -8,7 +8,7 @@
 
 The Test Dialog enables you to test anything from a single channel, all channels for a model or all channels by sending different test patterns to your physical lights.
 
-![](https://lh5.googleusercontent.com/0Dm4AzgxkGb-lfbRgygMuSwoOJ0K0UiRCaOJljoXv5qhFzxBO-nTPhZVS4Rm3QdmNTy8taq2gHSnbWRL8vGZbdlNBctKmISkDPfe5o3zRjA89QL0J4qOTBqUqaWi2MwiXY66R0Rh)
+![](<../../../.gitbook/assets/base647b688d87c5c65c44 (1).png>)
 
 {% content-ref url="test.md" %}
 [test.md](test.md)
@@ -105,7 +105,7 @@ The Export Models functionality creates a Spreadsheet (.xlsx) file with the deta
 
 The Spreadsheet file will be created with a row for each model defined listing all the key attributes. Additional sheets are added with group attributes and global Channel/pixel counts. Spreadsheet programs such as Microsoft Excel or [LibreOffice ](https://www.libreoffice.org/)are used to view the .xlsx files.
 
-![](https://lh5.googleusercontent.com/Ng4CzpTHY-h6Y0K-bYhN1m43tYah9lQ-Bq8uEYyQMWgJjXm-gmi\_3-s0pVPDhjRQiEU5OWgontRRuZtm-7\_TmvM-p\_mKDEYkpCqg0gZ\_7yR20ToyIQ\_JRc1WHhGQS5UDMidnjhlf)
+![](../../../.gitbook/assets/2022-08-02\_20h26\_52.png)
 
 ### Export Effects
 
@@ -127,7 +127,7 @@ The View Log option, enables a user to view the information / debug log that xLi
 
 ![](<../../../.gitbook/assets/image (334).png>)
 
-![](https://lh6.googleusercontent.com/lscnTcix3-SwMkjR-uFM7VHHMm6KNbCzv8dEY3C0XFvoydvjJ0mF\_aR9KQB6L7eUM1-dtHrKlHLvYUvraGQXxdCl7IWXM94glzxyBj7PO7sNvAy4iazRTtRf5JLY3NLeVU\_erdzy)
+![](../../../.gitbook/assets/2022-08-02\_20h28\_46.png)
 
 ### Package Log Files
 
@@ -139,7 +139,7 @@ From the Tools menu, with the sequence that needs to be investigated open, selec
 
 You can change either the ZIP file name and/or the location before saving the file.
 
-![](https://lh5.googleusercontent.com/6BCqngjJSMXgHXu5sg\_p0ujJO\_Fdw1Zky3oyQXB4Po6b380rUTe354PzOQYHwCoOhmXE5E0dIO10hSoAaGZ-A097ziKj3Aj\_\_UVa8rHCMFc4cMZWHjX0yMlNio33ikupvYlffK6i)
+![](../../../.gitbook/assets/2022-08-02\_20h29\_42.png)
 
 The zip file will contain the xLights network, rgbeffects, the sequence XSQ (if open is open) and a log file. The zip file can then be provided to the xLights team for analysis.
 

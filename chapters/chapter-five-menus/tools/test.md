@@ -12,7 +12,7 @@ The controllers and lights must be connected to the computer running xLights in 
 Testing from xLights, especially when using multicast may flood your network with data, and result in slower network connections. This is especially noticeable when using the Zoom Room for live assistance.
 {% endhint %}
 
-![](https://lh5.googleusercontent.com/0Dm4AzgxkGb-lfbRgygMuSwoOJ0K0UiRCaOJljoXv5qhFzxBO-nTPhZVS4Rm3QdmNTy8taq2gHSnbWRL8vGZbdlNBctKmISkDPfe5o3zRjA89QL0J4qOTBqUqaWi2MwiXY66R0Rh)
+![](../../../.gitbook/assets/base647b688d87c5c65c44.png)
 
 Ensure that output is enabled by selecting the "Output To Lights" button (it should be selected by default).
 

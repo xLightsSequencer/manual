@@ -16,7 +16,7 @@ By default xlights backs up the key files at the start of a session when xLights
 
 The files are saved in a subfolder with a timestamp and ‘\_onstart’ suffix.
 
-![](https://lh6.googleusercontent.com/P0tdvXNAx-bdxZzzvFKB80xmizSiXI73iORJA7wYiY88Tu3l2a\_9XW02lq5NUwoPQbZDFUPhViat47g6HzENaDEIAaIuOeQQ4uokDoWMNmgwoThcl2ZZE1x-mZq4RqUgKDv2VT5n)
+![](../../../.gitbook/assets/base64cb1936fe71100ffd.png)
 
 It will also create a backup when the show directory is changed. If you have enabled Backup on Save, it will also take a snapshot after every Save operation.
 
@@ -39,7 +39,7 @@ It is a good practice to also separately backup any files that you may have used
 
 Backing up the show directory (and media directory if it is different) to an alternate location is the simplest way to ensure that you have the files required.
 
-![](https://lh5.googleusercontent.com/01Vxfgt8wGxpwf6MizV8wsICSfvfhPBLbW-nWXoMTcuOBp1WJxalmSdYwTyz4FcObgWDLHWpXgse3FNf4Wb7WZA4-KGMaESj6RvyjfHkGfcXaURmORxrJh9nrghd0KEROcZEwPoA)
+![](../../../.gitbook/assets/base64eb106f42d3570ef4.png)
 
 ## Recovery
 
