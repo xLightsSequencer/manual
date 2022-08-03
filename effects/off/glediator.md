@@ -16,4 +16,4 @@ Place the Glediator effect in on timing cells that you wish to have the effect o
 
 You may also use Jinx! to create effects. It will create a ‘.out’ file which can be used with this effect. There is no need to rename the saved output file to .gled to use with the Glediator effect. The Glediator effect now supports .GLED and .OUT files.
 
-![](https://lh4.googleusercontent.com/rJFHc6iFjomvGp3JI8Gl6figZZR5bdKz-ZvfaUIUgyZkbJeESwhPDPzOde\_O4aYYiSF0iSdMgVqCXnqe6qlDI4rODO7ZTeG2Ry3CdhNDnoOXhU0srOgD5BOZaYevhGioqrmibYjY)
+![](<../../.gitbook/assets/pasted image 0 (35).png>)

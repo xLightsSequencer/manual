@@ -12,7 +12,7 @@ If you do change your mind about creating a sequence, click on the Don’t Creat
 
 If creating a music sequence, click on Musical Sequence.  A ‘Choose Audio File’ window will open, defaulting to your media directory.
 
-![](https://lh4.googleusercontent.com/UrJGEsXp\_r2M3vhj79Fxgl0F3fsRDoixfgUckbrMvT4i27UPDSlAh66n2y0ALkLBGSfZnW0jj4gTlM5Ikpz9H\_wYPKJp1f8pB2Su8NbF\_mdeUJjv5-RzJ04W5HUrNf-XobS1X4jD)
+![](../../../.gitbook/assets/base64c280805619ce1406.png)
 
 You can select ‘FPP Audio files’ or ‘xLights Audio files’ to filter which file types can then be selected.
 
@@ -28,7 +28,7 @@ The most common supported files on the FFP are .mp3 and .ogg. There is limited s
 
 Select the frames per second (fps) for your sequence.
 
-![](https://lh6.googleusercontent.com/kfz-WUViekLXeFxgbwaiFxO8lHzRVQgdZFAUJQKlSDB5whlrYccP6U4KQqHTbEbQxAkDOEYQBoqSBjPtLMolO9Usfl-0TQvQtdgznotL4USFJPZyqcUIHrVysozWJN2K-I-TL0Kq)
+![](<../../../.gitbook/assets/pasted image 0 (36).png>)
 
 The most common one used is 20fps (50ms).
 

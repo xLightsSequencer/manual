@@ -2,7 +2,7 @@
 
 ## Import
 
-![](../../.gitbook/assets/2022-08-02\_20h45\_58.png)
+![](<../../.gitbook/assets/2022-08-02\_20h45\_58 (1).png>)
 
 ### Import Effects
 
@@ -62,7 +62,7 @@ Ensure that your models are in your sequencer view before you start the import ,
 
 Select Import, Import Effects
 
-![](<../../.gitbook/assets/2022-08-02\_20h45\_58 (1).png>)
+![](../../.gitbook/assets/2022-08-02\_20h45\_58.png)
 
 Select the donor sequence xLights XSQ/XML or the Zip File.
 
