@@ -14,7 +14,7 @@ The existing files, including the saved sequence XSQ, will be backed up to the B
 
 With this setting activated, xLights will perform an backup (similar to a user pressing F10 to manually backup) each time xLights is launched. The existing files will be backed up to the Backup folder in your show directory, prior to the application launching and updating any xLights files when it is launched. The Backup sub directory created will have a suffix of ‘\_OnStart’ added to the folder name.
 
-![](https://lh3.googleusercontent.com/Gj\_dlECG5u3kLvTUz4EFSCHZVEDsuFZbfalKz\_8PubdgJfGTp22pFAQDjMCQQSpQcgzTDcDgqPYiJggSLa7kEshIIKuCsR8FkEhGA7JIFkrlpczkm93YWUMqlJoVuOZhw3BqdIiA)
+![](../../../../.gitbook/assets/base64740e22b7264dec50.png)
 
 ### Backup Subfolders
 
