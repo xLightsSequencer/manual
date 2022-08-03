@@ -24,7 +24,7 @@ The Piano effect displays a piano keyboard effects where the keys modulate based
 
 Set the source to timing track and select the Track from the list of Timing tracks you have generated in the sequence.
 
-![](<../../.gitbook/assets/base64706f90a114b58098 (1).png>)
+![](../../.gitbook/assets/base64706f90a114b58098.png)
 
 Then, expand the view so that you can see the labels of the timing track and change the labels to match the required keys. The label can be the key letter or can be the MIDI value of the key.
 

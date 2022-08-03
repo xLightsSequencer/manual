@@ -80,7 +80,7 @@ The Preview setting controls whether the model is to appear in the House Preview
 
 The ‘Default’ value represents the default preview window.
 
-![](https://lh4.googleusercontent.com/3-iiyZ5wxCRs7TcRliAl\_gsZEvSyjt1DaRyquybWhdKM0B6NEWSfHfSYgpsphKArPyNCdICcfenK2pmfkDXuDzi4Wcm77-xVbnJDFEujKI1V7HK36y5F4ltTJcZNHoMRVOkvLCTI)
+![](../../../../.gitbook/assets/base64e4e88339c80b39b4.png)
 
 ‘All Previews’ indicates that the Model is to be displayed in all Preview Windows.
 
@@ -106,7 +106,7 @@ The model is assigned to the Preview.
 
 Click the ellipse button (three periods) to edit the Strand / Node Names.
 
-![](https://lh6.googleusercontent.com/XMPoMja7F3rEsUmo05NOV5o-YE3AuUBsRbR7uYvPiAXJ577aG7XHMetDJwfBzyElRgt9V1FRJO1JvCHbPwjNm5CtQVm1xkpz9n5vbARvS5Hz3OX1EakHOxtbOP9QX-npTlGpfSLa)
+![](<../../../../.gitbook/assets/pasted image 0 (40).png>)
 
 Each strand and node can have a name assigned to it. This is useful where for example you have single channel models that are grouped together (singing faces, tombstones or DMX props etc). On the sequencer, double clicking on the strand reveals the nodes with meaningful names against them.
 
@@ -132,7 +132,7 @@ The Dimming Curves setting can be used to change/reduce the brightness of the li
 
 You can select from the options to have a single gamma value or change individual gamma values. You can also select the values from a file, in which case you are prompted for the location of the file.
 
-![](https://lh5.googleusercontent.com/rwLWwriqGZO32hMS7xnRQhJT8Rv-HHK-VsldJpXxAz1yIDcopyaA\_cI\_FNqtySGinC3vwVhXPDc9j5Jfim7BVg03yqCvmB6QKAJfN0Ebw-fx-ij0CjlUg\_RXCd1-MaNlsPjxGwBA)
+![](../../../../.gitbook/assets/base64bc7cb70c23e7dc47.png)
 
 | **Color**       | RGB Values        |
 | --------------- | ----------------- |
@@ -197,7 +197,7 @@ The String Type enables you to set or change the ‘RGB’ orientation of your n
 
 The first six options in the list below are used for Pixels - these can also be set in the hardware controller. Dumb pixels are set to either 3 Channel RGB or 4 channel RGB and single “A/C” or store bought fairy lights are set to single channel.
 
-![](https://lh6.googleusercontent.com/3HNiKjGn2RmEAfZsWlg\_U60v1SQDDcwIM9cdkEzUpVZRxlC6L2nvt6J2bSxc3GGy81oEcnbDNY0CRpOkvknWNj\_EAeQgxVULCVD\_3JkMeU0MfTBLmGFTkFx7L813UpnLnSMxH9ZQ)
+![](../../../../.gitbook/assets/base648a4df27cffcabea4.png)
 
 The Color setting is used for Single Color string types to define which color the string responds to. If set to White , then only when the White is on, on the sequence , will it light. If set to say Red , then it will light if Red is on (which is 255,0,0) or if White is on (because White sets 255,255,255 on).
 
