@@ -2,7 +2,7 @@
 
 ## Import
 
-![](https://lh4.googleusercontent.com/mz1p3hcPqQzqsND1uZfsrQWudnTZ8rOs3r8gNpNuFQmUFPc6YKTIXauBf\_QwHlpBMDfwmOXhQrQiEVrEC7nS4jiuIAKBSRekkhJ6WEa\_lQ\_AGfSvKndsPYUBCaiX4HiRySDd9u\_d)
+![](../../.gitbook/assets/2022-08-02\_20h45\_58.png)
 
 ### Import Effects
 
@@ -62,19 +62,19 @@ Ensure that your models are in your sequencer view before you start the import ,
 
 Select Import, Import Effects
 
-![](https://lh5.googleusercontent.com/PAlQ\_M7fJADeDZNTGdzSYxNmp53MGXyZLV5f9CqKUIui\_N3RtE5sKS7f1L6Wf8AighmPgoG3WBjXw9AL7vjtDEz5UkhVEqfz8C91j-sSFwf\_3cJxVmG9XH6uR67o49lcclUUJWjI)
+![](<../../.gitbook/assets/2022-08-02\_20h45\_58 (1).png>)
 
-Select the file type of XML by changed the dropdown at the bottom right. Select the donor sequence xLights XML.
+Select the donor sequence xLights XSQ/XML or the Zip File.
 
-![](https://lh3.googleusercontent.com/BCgV\_tWskJEVIjxHuRE37WThmi\_KGKaOM9cjm8tMMS8s457-1ZWJu8TCBzbtPgxCNeS6B9WBM\_IfyUk0-lCNEybYAfGYOOe9ISeVG1wAtJC3eRk2jXWaB8Vow75TkngFdTB8YWCd)
+![](../../.gitbook/assets/2022-08-02\_20h49\_24.png)
 
 A model mapping window is displayed. On the top left is a list containing the timing tracks to import. On the left are the models and model groups from YOUR layout/sequencer tab("Model"). 'Blue' items are Model Groups. On the right is a list of models/groups/submodels ("Available") that contain effects from the sequence being imported. Click and drag a model name from the right list to the ‘Map To’ column in the row that you want to import the model to. You may also highlight the "Map To" cell and double click on a "Available" model to map it or highlight a "Available" model and double click the "Map To" cell.
 
-![Import Dialog](<../../.gitbook/assets/image (143) (1).png>)
+![Import Dialog](../../.gitbook/assets/2022-08-02\_20h53\_53.png)
 
 Models in the "Available" list will turn gray when used. These items can still be used multiple times even when grayed out.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](../../.gitbook/assets/2022-08-02\_20h51\_22.png)
 
 When done, select "Save Mapping", and save the XMAP file. This XMAP file can then be loaded in the future when mapping another sequence from the same layout.
 
