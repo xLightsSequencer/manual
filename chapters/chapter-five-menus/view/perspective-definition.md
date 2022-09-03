@@ -14,7 +14,7 @@ Select a saved perspective and double click to load the required windows.
 
 To load and use a different perspective or change/remove one, click on Edit/Load. Select the perspective and use the ‘-’ button to delete it or Click on Rename to Rename it.
 
-![](../../../.gitbook/assets/base64d723158e3576d189.png)
+![](../../../.gitbook/assets/2022-08-02\_21h57\_47.png)
 
 Double Click to load and use the perspective. You can also do this by selecting the perspective directly by clicking on its name in the previous window. To revert to the default perspective, click on Default Perspective in the previous window.
 

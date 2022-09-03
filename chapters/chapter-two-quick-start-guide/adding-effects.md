@@ -8,7 +8,7 @@ You can then drop and effect against either the Model Group or the Model. Model 
 
 If you double Click on the Model Group name, it will expand and show you the models that have been defined as part of the Model group - in this case the ‘Arch 1’ model. Double Click again to collapse the Model Group.
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (67) (3).png>)
 
 ## Adding Effects To a Model
 

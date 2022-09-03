@@ -8,7 +8,7 @@
 
 The Test Dialog enables you to test anything from a single channel, all channels for a model or all channels by sending different test patterns to your physical lights.
 
-![](../../../.gitbook/assets/base647b688d87c5c65c44.png)
+![](<../../../.gitbook/assets/base647b688d87c5c65c44 (1).png>)
 
 {% content-ref url="test.md" %}
 [test.md](test.md)
@@ -113,7 +113,7 @@ The Export Effects functionality creates a CSV file with the details of all the 
 
 A CSV file will be created with a row for each effect defined listing all the key attributes. In addition summary rows are created showing the number of times each sequence is used as well as the total duration of each effect.
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (68) (3).png>)
 
 ### Export Controller Connections
 
