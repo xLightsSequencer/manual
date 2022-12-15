@@ -10,15 +10,29 @@ Select the Sequence Settings option from the File menu. This screen can also be 
 
 ## Info/Media
 
-The Info/Media tab displays information about the sequence including the xLights release that was used to create the sequence, the number of models saved, the Sequence Type (i.e. Media or animated), if media has been specified then the name and location of the media file. The sequence duration, the sequence timing and whether the media tags should be overwritten.
+The Info/Media tab displays information about the sequence including the xLights release that was used to create the sequence, the number of models saved, the Sequence Type (i.e. Media or Animated), if media has been specified then the name and location of the media file. The sequence duration, the sequence timing and whether the media tags should be overwritten.
 
 The sequence type, media file name or location, the sequence duration and whether media tags can be overwritten can be changed from this tab after the sequence has been created.
 
 ![](<../../../.gitbook/assets/image (649).png>)
 
-If you have reduced the length of the media file after starting on the sequence, and want the sequence to adjust to the new length or if you want to change the default length of an animation:
+#### Sequence Duration
 
-Change the length of sequence duration to the new value, then save the sequence. Delete the fseq file, close the sequence, re-open it and save (creating a new fseq file).
+Sequence Duration determines the playback length of the sequence in seconds. For Media sequence types this is fixed to the media/audio file length used and cannot be changed.  Animated Sequence duration defaults to 30 seconds and can be changed to the new length from this dialog.
+
+#### Sequence Timing
+
+Sequence Timing dictates the playback speed of the sequence.  A Sequence Timing of 50 milliseconds would have a playback speed of 20 frames per second. Click the Question Mark to change the Sequence Timing.
+
+$$
+fps = 1000ms / sequence timing
+$$
+
+#### Allow Blending Between Models
+
+Allow Blending Between Models determines if effects from the model groups blend with model level effects. If enabled the model groups effect data will be merged with the model effect data. If disabled models lower in the render order with override effect data of models higher in the render order.&#x20;
+
+Changes to the length of sequence duration, Sequence Timing, and Allow Blending Between Models require a "Render All" for the change to take effect in the current open sequence.
 
 ## Metadata
 
