@@ -66,6 +66,6 @@ Version 1 is the "original" FSEQ file format. V1 files contain all the channel d
 
 ### FSEQ Directory
 
-![](<../../../../.gitbook/assets/image (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1).png>)
 
 This defines where xLights will save FSEQ files. The FSEQ files are the raw sequence data for each sequence. If "Use Show Folder" is 'checked' xLights will use the current show folder. If 'unchecked' xLights will use the set folder path. If this folder doesn't exist (move computers or remove a harddrive) the FSEQ directory will default back to the show directory.

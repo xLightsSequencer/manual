@@ -45,11 +45,11 @@ Number of channels of the serial device. For most DMX devices this needs to be 5
 
 LOR Optimized is much closer to true LOR protocol and utilizes some of the more advanced commands.&#x20;
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (2).png>)
 
 First, set an ID of the output, this is **not** the LOR unit ID of a controller box, it is a unique ID that xLights will use to direct the channel data to this output. The port is the COM port of the dongle in use, Baud Rate is adjustable. NOTE: Older black or white LOR dongles do not support speeds over 115200, Only the red LOR dongle will support higher speeds. Description is user defined value to identify the controller. The Devices setting sets the number of LOR Controller. Based on the Devices number, the settings grid will add setting for each LOR controller.
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)
 
 The settings grid will list the LOR controller. Each controller will be listed by controller type, **Unit ID**, Channels, and Address Mode. Note: xLights cannot set the unit ID to the controller, this must be done via the LOR software or from the DIP switches on the controller board if applicable.
 

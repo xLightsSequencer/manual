@@ -104,7 +104,7 @@ Clear the Model Brightness.
 
 ## Controller Port Right Click Menu
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (5).png>)
 
 ### Set Protocol
 

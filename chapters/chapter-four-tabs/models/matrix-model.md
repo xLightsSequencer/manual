@@ -4,14 +4,22 @@
 
 ![](../../../.gitbook/assets/base648038b4f1a6b4b22f.png)
 
-The direction can be defined as horizontal (the most common) or vertical. The ‘# Strings’ refers to the number of vertical columns of the matrix and the Lights/string refers to the number of nodes in each horizontal row. &#x20;
+The direction can be defined as horizontal (the most common) or vertical. The ‘# Strings’ refers to the number of controller connections of the matrix. The Nodes/String refers to the number of nodes in each string. The 'Strands/String' is the number of 'rows' or zigzags per string. With AC lights ‘# Strings’ is the number of channels the Lights/string is the lights per string.
 
 The starting location indicates where the matrix is connected to the controller (or where channel 1 of the matrix is).
 
-![](../../../.gitbook/assets/base6411e6667e3f5f355b.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-This is an example of a horizontal matrix used to define a P10 panel matrix. &#x20;
+Above is an example of a horizontal matrix with 16 rows and 50 pixels per row. &#x20;
 
-Each panel is (32 W x 16 H) pixels and the panel matrix is 8 panels in landscape.  The Start channel number is 11800.
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-For P10 panel matrices run off the BBB using the falcon player, , the matrix must always be defined as a horizontal matrix starting at the top left corner, irrespective of how the panels are physically  oriented.
+If the Strands/String is set to '2' it will add a zigzag and there will be 32 rows with 25 pixels per row.
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Alternate Nodes will "hop" every other node down and back to have the string start and stop at the same location.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
