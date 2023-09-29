@@ -24,7 +24,7 @@ It is also used within xLights functionality to generate Singing Faces. The use 
 
 ### Color Pallet
 
-The color pallet is used to determine the color of the signing face. If force custom colors is enabled in the model's face definition, the custom colors take president and the color pallet will not change the effects color.
+The color pallet is used to determine the color of the signing face. If force custom colors is enabled in the model's face definition, the custom colors takes precedence and the color pallet will not change the effects color.
 
 ![](<../../.gitbook/assets/image (138).png>)
 
