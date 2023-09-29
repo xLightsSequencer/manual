@@ -8,11 +8,11 @@ The direction can be defined as horizontal (the most common) or vertical. The â€
 
 The starting location indicates where the matrix is connected to the controller (or where channel 1 of the matrix is).
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Above is an example of a horizontal matrix with 16 rows and 50 pixels per row. &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the Strands/String is set to '2' it will add a zigzag and there will be 32 rows with 25 pixels per row.
 

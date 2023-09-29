@@ -20,28 +20,38 @@ Used to define any generic DMX Fixture. Can be used for 3/4 Channel RGBW lights 
 
 ![](<../../../.gitbook/assets/image (818).png>)
 
-
+Used for multichannel Flood lights. The Single Line Model can all be used for DMX Floodlights.
 
 ### Moving Head/ Moving Head 3D
 
 ![](<../../../.gitbook/assets/image (825).png>)
 
+For DMX Moving Heads. Supports Shutter control, RGBW channels, Color Wheel, etc.
+
 ### Servo
 
-
+Induvial Servo Control, Supports 16 bit servos.
 
 ### Skull
 
+For Skulls with servos embedded in them. Skulltronix Skulls are also supported.
+
 ![](<../../../.gitbook/assets/image (820).png>)
 
-![](../../../.gitbook/assets/base643e1add0a5b4e8ea7.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-The first one above is the Moving Head Top view, the next is the Moving Head Side view, the 3rd is the Moving Head Bars view, the 4th is the Moving Head Top Bars and the 5th is the Moving Head Side Bars view.
+| Property            | Value                                                                                                                                                                                                                                          |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DMX Style           | Moving Head Display Style: Moving Head Top, Moving Head Side, Moving Head Bars, Moving Head Top Bars, Moving Head Side Bars, Moving Head 3D                                                                                                    |
+| # of Channels       | Defines how many channels the model uses                                                                                                                                                                                                       |
+| Number of Preset    | Set the Number of Preset DMX Presets. These define presets are values that are assigned to a Channel when rendering non DMX effects.                                                                                                           |
+| Pan Attributes      | Set the Pan Channel, Orientation, Rotation                                                                                                                                                                                                     |
+| Tilt Attributes     | Set the Tilt Channel, Orientation, Rotation                                                                                                                                                                                                    |
+| Color Type          | RGBW is 4 individual color channels. Color Wheel uses one channel for the color wheel and one for brightness.                                                                                                                                  |
+| Shutter Attributes  | Set the Shutter Channel, Open Threshold,  and On Value. 'Open Threshold' is the DMX value when the shutter will open and the light will be visible. 'On Value' is a fixed value the shutter channel will be once enabled, '0' will disable it. |
 
-The # of Channels defines how many channels the model uses.
 
-The Pan attributes define the channel controlling the Pan movement, it’s orientation and the degree it rotates up to.
 
-The Tilt attributes define the channel controlling the Tilt movement, it’s orientation and the degree it rotates up to.
-
-The next three attributes define the channels controlling the red, green and blue colors.
+{% hint style="info" %}
+Due to the Custom Render Styles of DMX model it is recommended to use Per Model Default render style when added effects to a group of DMX Models
+{% endhint %}
