@@ -30,7 +30,7 @@ If the Model checkbox is selected, xLights will upload the Model Data for the di
 
 ![Model Upload Column](<../../../.gitbook/assets/image (216) (1).png>)
 
-The UDP Out dropdown will enable xLights to upload The E1.31 and DDP Channel Output definitions from the Setup Tab in xLights. 'All' will uploads All the E1.31 and DDP Channel Output Definitions, 'Proxied' will only upload E1.31 and DDP Ouput Channel Definitions of proxied controllers on that FPP instance. 'All' should be selected on Standalone/Master FPP Devices and 'Proxied' should be used for Remote FPP Devices that act as a tunnel to other controllers like a F16v3.
+The UDP Out dropdown will enable xLights to upload The E1.31 and DDP Channel Output definitions from the Setup Tab in xLights. 'All' should be selected on Player FPP Devices that will send E1.31, DDP, or Artnet data to another controller and 'Proxied' should be used for any FPP Devices that act as a proxy tunnel to other controllers like a F16v3.
 
 ![](<../../../.gitbook/assets/image (25) (1).png>)
 

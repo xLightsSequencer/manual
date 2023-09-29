@@ -102,7 +102,11 @@ By default, data will be sent every output frame, If this option is enabled, xLi
 
 ### FPP Proxy IP/Hostname
 
-![](<../../.gitbook/assets/image (440).png>)
+<div align="center">
+
+<img src="../../.gitbook/assets/image (440).png" alt="">
+
+</div>
 
 This is needed when a FPP device is being used as proxy or bridge between your home network and show network, where the controller are attached.  This is typically the WIFI IP of a FPP instance that bridges the wifi and Ethernet networks. The FPP Proxy IP/Host option is used in conjunction with FPP 2.8+ Controller Proxy.
 

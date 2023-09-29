@@ -40,7 +40,7 @@ Sets the IP Address of the Ethernet controller. The host name can also be entere
 
 ### Start Universe
 
-**(ArtNet/E1.31)** This sets what is the first universe for the controller to listen for data on. **** Can be any value from 1 to 63999. It is recommend to not overlap universe between controllers.
+**(ArtNet/E1.31)** This sets what is the first universe for the controller to listen for data on. Can be any value from 1 to 63999. It is recommend to not overlap universe between controllers.
 
 ### Universe Count
 
@@ -48,7 +48,7 @@ Sets the IP Address of the Ethernet controller. The host name can also be entere
 
 ### **Universe Size**
 
-**(ArtNet/E1.31)** This **** sets the number of channel per universe. Universe can be any size up to 512 channels. Some controllers require a size of 510 or 512. 510 is recommended.
+**(ArtNet/E1.31)** This sets the number of channel per universe. Universe can be any size up to 512 channels. Some controllers require a size of 510 or 512. 510 is recommended.
 
 ### Individual Sizes
 

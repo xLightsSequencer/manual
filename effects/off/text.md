@@ -35,14 +35,4 @@ Specific "Keys" can be used to insert Sequence Settings Values into the text eff
 
 ![](<../../.gitbook/assets/image (67).png>)![](<../../.gitbook/assets/image (65).png>)
 
-| Replace Key         | Sequence Settings Meta Data |   |   |
-| ------------------- | --------------------------- | - | - |
-| ${TITLE} or ${SONG} | Song                        |   |   |
-| ${ARTIST}           | Artist                      |   |   |
-| ${ALBUM}            | Album                       |   |   |
-| ${FILENAME}         | Media File Name             |   |   |
-| ${AUTHOR}           | Author                      |   |   |
-| ${AUTHOREMAIL}      | Email                       |   |   |
-| ${COMMENT}          | Comment                     |   |   |
-| ${URL}              | Music URL                   |   |   |
-| ${WEBSITE}          | Website                     |   |   |
+<table><thead><tr><th>Replace Key</th><th>Sequence Settings Meta Data</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td>${TITLE} or ${SONG}</td><td>Song</td><td></td><td></td></tr><tr><td>${ARTIST}</td><td>Artist</td><td></td><td></td></tr><tr><td>${ALBUM}</td><td>Album</td><td></td><td></td></tr><tr><td>${FILENAME}</td><td>Media File Name</td><td></td><td></td></tr><tr><td>${AUTHOR}</td><td>Author</td><td></td><td></td></tr><tr><td>${AUTHOREMAIL}</td><td>Email</td><td></td><td></td></tr><tr><td>${COMMENT}</td><td>Comment</td><td></td><td></td></tr><tr><td>${URL}</td><td>Music URL</td><td></td><td></td></tr><tr><td>${WEBSITE}</td><td>Website</td><td></td><td></td></tr></tbody></table>
