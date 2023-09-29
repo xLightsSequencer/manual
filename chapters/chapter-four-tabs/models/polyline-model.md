@@ -8,13 +8,15 @@ The Poly Line model enables several straight line or curved segments to be drawn
 
 This model is useful for the roof line , rafters , fences etc where the lines are at an angle to each other.
 
-![](<../../../.gitbook/assets/image (559).png>)
+<figure><img src="../../../.gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
 
 To draw, select this model and drag on the layout as usual. At the end of each segment, click once with the mouse left button, then draw another segment. Left mouse button Click to end the segment.
 
 At the end press the ESC key (after the Click) to deselect the drawing action. You can then grab any of the blue or green pixels and move it around to change the shape of the model image.
 
-The # of Nodes defines the total number of nodes for the entire model, the Lights/Node is normally one and the Starting location can be the left  or Right.
+The # of Nodes defines the total number of nodes for the entire model, the Lights/Node is normally one and the Starting location can be the Green Square(Left) or Blue Square(Right).
+
+Strings is the number of physical connections i.e ports to the controller. &#x20;
 
 The drop pattern allows the polyline to be used as icicles, this indicates how the pixels are arranged on each drop and how many.
 
