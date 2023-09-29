@@ -6,7 +6,7 @@
 
 The Poly Line model enables several straight line or curved segments to be drawn as one model (rather than having to draw them as individual models).
 
-This model is useful for the roof line , rafters , fences etc where the lines are at an angle to each other.
+This model is useful for the roof line, rafters, fences, etc where the lines are at an angle to each other.
 
 <figure><img src="../../../.gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
 
