@@ -10,17 +10,20 @@ The Faces effect is used by xLights to generate singing and talking face effects
 
 It is also used within xLights functionality to generate Singing Faces. The use of this effect is described in the section describing Singing Faces.
 
-| **Option/Settings**           | Description                                                                                                                  |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Phoneme**                   | Sets Face to specific mouth position.                                                                                        |
-| **Timing Track**              | Sets Timing Track to use for Lyrics/Phonemes                                                                                 |
-| **Face Definition**           | Sets Face Definition to use. These are setup in the model preference under the 'Faces' option.                               |
-| **Eyes**                      | Sets if the Eyes are open close, automatic, or off                                                                           |
-| **Show Outline**              | Show outline if defined in the Face Definition.                                                                              |
-| **Suppress when not singing** | If set, the Face will disappear if not lyrics are present, in the timing track.                                              |
-| **Lead In/Out Frames**        | Number of frames the face will appear before the lyrics start/end, Only available if 'Suppress when not singing' is enabled. |
-| **Fade during lead in/out**   | Fade the face in and out during the Lead in/out frames, Only available if 'Suppress when not singing' is enabled.            |
-| **Transparent Black**         | Sets the black pixels transparent to show effects on lower layers.                                                           |
+| **Option/Settings**           | Description                                                                                                                              |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Phoneme**                   | Sets Face to specific mouth position.                                                                                                    |
+| **Timing Track**              | Sets Timing Track to use for Lyrics/Phonemes                                                                                             |
+| **Face Definition**           | Sets Face Definition to use. These are setup in the model preference under the 'Faces' option.                                           |
+| **Eyes**                      | Sets if the Eyes are 'Open', 'Close', 'Automatic', or '(off)'.  'Automatic' blinks the eye based on frequency. '(off)' disables the eye. |
+| **Eye Blink Frequency**       | Set the speed of Automatic Eye Blinking                                                                                                  |
+| **Show Outline**              | Show outline if defined in the Face Definition.                                                                                          |
+| **Suppress Shimmer**          | Skip '-shimmer' tags in Timing Tracks lyrics.                                                                                            |
+| **Use State as outline**      | Use a State Definition for 'coloring' the Outline                                                                                        |
+| **Suppress when not singing** | If set, the Face will disappear if not lyrics are present, in the timing track.                                                          |
+| **Lead In/Out Frames**        | Number of frames the face will appear before the lyrics start/end, Only available if 'Suppress when not singing' is enabled.             |
+| **Fade during lead in/out**   | Fade the face in and out during the Lead in/out frames, Only available if 'Suppress when not singing' is enabled.                        |
+| **Transparent Black**         | Sets the black pixels transparent to show effects on lower layers.                                                                       |
 
 ### Color Pallet
 
