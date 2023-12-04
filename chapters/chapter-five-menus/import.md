@@ -25,7 +25,7 @@ This process can be used to
 * Import effects from a xLights sequence from another user
 * Import effects from another of your (e.g. older) xLights sequence into an existing xLights sequence
 
-Step 1
+#### Step 1
 
 Create a new directory and unzip the sequence files to that directory. It is recommended to create this directory within your show folder. The zip file should contain the xlights\_rgbeffects.xml, the sequence.xsq or sequence.xml and any other required files(image, shader, etc files). Change the show folder in xLights to point to the new directory. Copy the music file to the new folder if missing.
 
@@ -43,7 +43,7 @@ Look for the correct quantity of elements in the donor sequence that will match 
 
 Make a note of the names of each donor model you want to copy to a model of your own layout. Watch the sequence several times.
 
-Step 2
+#### Step 2
 
 Make sure you have the appropriate music file in your own media show directory. Close the sequence you were watching, go to the controller tab and change the show folder back to your own directories.
 
