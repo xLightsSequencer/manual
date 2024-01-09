@@ -10,7 +10,7 @@ The Show Folder should be in you personal documents folder i.e "My Documents" or
 
 You should be presented with the following screen:
 
-![Select Show Directory Dialog](<../../.gitbook/assets/image (436) (1).png>)
+![Select Show Directory Dialog](<../../.gitbook/assets/image (27).png>)
 
 This screen will allow you to navigate to "Documents" and create the show folder.
 
@@ -20,7 +20,7 @@ Right Click in the "Documents" folder and select New->Folder
 
 Rename the folder to a unique name.
 
-![](<../../.gitbook/assets/image (697).png>)
+![](<../../.gitbook/assets/image (365).png>)
 
 In the following example I created a show folder is called "xLights"
 
@@ -32,5 +32,5 @@ After setting up your show folder the main xLights window should appear.
 
 "C:\Users\\\<username>\Documents\xLights"
 
-![](<../../.gitbook/assets/image (635).png>)
+![](<../../.gitbook/assets/image (332).png>)
 

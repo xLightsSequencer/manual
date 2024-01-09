@@ -59,7 +59,7 @@ On the xLights setup screen, the corresponding channels must be defined.
 
 You can define it as a USB, with a network type of LOR, and set up the COM port (obtained from the LOR device manager) and you will need to try different baud rates.
 
-![](<../.gitbook/assets/image (810).png>)
+![](<../.gitbook/assets/image (49).png>)
 
 However, there is sometimes a lag associated with the sequence when you use this option.
 
@@ -93,11 +93,11 @@ Create a new music sequence, add timing tracks and add the models you have defin
 
 Using the Import, Import Effects menu, change the ‘Import file’ file to LOR Music Sequence - LMS, navigate to where the LOR LMS file is and select the file to Import.
 
-![](<../.gitbook/assets/image (466).png>)
+![](<../.gitbook/assets/image (628).png>)
 
 On the Map Channels dialog, all the xLights models will appear on the left hand side and all the LOR Channels on the right side.
 
-![](<../.gitbook/assets/image (534).png>)
+![](<../.gitbook/assets/image (456).png>)
 
 Do not select the Map by Strand/CCR option in this case.
 
@@ -105,19 +105,19 @@ Highlight the 'Map To' Cell – in line with the model name. Double Click the LO
 
 When Done, Save the mapping first, so that you can re-use it later.
 
-![](<../.gitbook/assets/image (731).png>)
+![](<../.gitbook/assets/image (199).png>)
 
 Click OK to start the process.
 
-![](<../.gitbook/assets/image (330) (1).png>)
+![](<../.gitbook/assets/image (1055).png>)
 
 Double Click the model name and then double click the stand name to see the effects on the nodes.
 
-![](<../.gitbook/assets/image (694).png>)
+![](<../.gitbook/assets/image (1002).png>)
 
 Click on the Render All icon and play the sequence.
 
-![](<../.gitbook/assets/image (75) (1).png>)
+![](<../.gitbook/assets/image (1016).png>)
 
 {% hint style="success" %}
 **If you were importing data from a Singing face where your model has multiple channels, then you need to double click in the Channel column, but against the node row instead.**

@@ -2,11 +2,11 @@
 
 ## Wave
 
-![Icon](<../../.gitbook/assets/image (281).png>)
+![Icon](<../../.gitbook/assets/image (935).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (576).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (442).png>)
 
-![](<../../.gitbook/assets/image (590).png>)
+![](<../../.gitbook/assets/image (927).png>)
 
 The Wave effect generates a waveform effect across the model. Different types of waveforms are possible as described below. One or multiple colors can be used for the effect.
 

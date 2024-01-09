@@ -1,3 +1,3 @@
 # Advanced Features
 
-![](../.gitbook/assets/xlights-logo.png)
+![](../.gitbook/assets/xLights-Logo.png)

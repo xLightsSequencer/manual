@@ -4,7 +4,7 @@
 
 The Perspectives Window enables you to save your current window positions and retrieve and use them later. So you can have a set of windows open for a single monitor , a different set when you have two monitors etc.
 
-![](../../../.gitbook/assets/2022-08-02\_20h41\_34.png)
+![](<../../../.gitbook/assets/2022-08-02\_20h41\_34 (1).png>)
 
 You can specify a name for each Perspective (Single Window Perspective, Dual Monitor Perspective etc). In order to do so, with the windows arranged as required, Click on Save as New. You will be prompted to specify a name. Click on Save to save it.
 
@@ -32,7 +32,7 @@ You can however arrange the windows in any fashion.
 
 The rearranged windows must be saved as the default perspective so that it is loaded in that fashion whenever you open xLights.
 
-![Save Current Perspective](<../../../.gitbook/assets/image (24) (1).png>)
+![Save Current Perspective](<../../../.gitbook/assets/image (1115).png>)
 
 Click on View, Perspective and then Save Current.
 

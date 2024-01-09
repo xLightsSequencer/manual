@@ -2,17 +2,17 @@
 
 ## Controller Visualizer
 
-![](<../../../.gitbook/assets/image (463).png>)
+![](<../../../.gitbook/assets/image (324).png>)
 
 The Controller Visualizer allows the user to drag and drop models onto the controller ports. All model setting are update and saved in real time. If the "Auto Layout Models" option is disabled for the controller, this dialog will only allow the user view the model port connections set in the layout tab.
 
 Hover over a model to display its current settings.
 
-![](<../../../.gitbook/assets/image (651).png>)
+![](<../../../.gitbook/assets/image (372).png>)
 
 ### Size Adjustment Sliders
 
-![](<../../../.gitbook/assets/image (124).png>)
+![](<../../../.gitbook/assets/image (820).png>)
 
 The Box Size and Font Size sliders will change the size of the drag and drop boxes and font size.
 
@@ -20,7 +20,7 @@ The Box Size and Font Size sliders will change the size of the drag and drop box
 
 The Status Message Box will display errors that are found in the current controller configuration. If an error is displayed, xLights will not upload the controller configuration.
 
-![](<../../../.gitbook/assets/image (613).png>)
+![](<../../../.gitbook/assets/image (375).png>)
 
 ### Adding/Moving Models
 
@@ -60,7 +60,7 @@ Change the physical number of strings i.e controller ports a model consumes. Whe
 
 ### Smart Remotes
 
-![](<../../../.gitbook/assets/image (728).png>)
+![](<../../../.gitbook/assets/image (20).png>)
 
 #### None/A/B/C/D/E/F
 
@@ -70,7 +70,7 @@ Set the Smart Receiver ID for Falcon/Kulp/FPP/HinksPix Controllers. None is used
 
 Set the Type of Smart Receiver. V1 "White" Receivers are "falconv1", "Blue" or "Black" Receivers are "falconv2" or "fppv2".
 
-![](<../../../.gitbook/assets/image (832).png>)
+![](<../../../.gitbook/assets/image (26).png>)
 
 #### Cascade Down Port
 
@@ -82,35 +82,35 @@ This allow multi-string models to use multiple smart receivers daisy chained tog
 
 ![4 Cascade Remotes with Cascade Down Port Disabled](../../../.gitbook/assets/2022-08-02\_12h04\_24.png)
 
-![4 Cascade Remotes with Cascade Down Port Enabled](<../../../.gitbook/assets/image (735).png>)
+![4 Cascade Remotes with Cascade Down Port Enabled](<../../../.gitbook/assets/image (50).png>)
 
 #### Smart Receiver Color
 
 Smart Receivers will display as different colors if set. Green is 'A', Purple is 'B', Orange is 'C', and Light Blue is 'D'. The colors will repeat after 'D', Green is 'E', etc.
 
-![](<../../../.gitbook/assets/image (152).png>)
+![](<../../../.gitbook/assets/image (801).png>)
 
 ### Set Brightness
 
 Set the Model Brightness.
 
-![](<../../../.gitbook/assets/image (162).png>)
+![](<../../../.gitbook/assets/image (826).png>)
 
 ### Clear Brightness
 
 Clear the Model Brightness.
 
-![](<../../../.gitbook/assets/image (840).png>)
+![](<../../../.gitbook/assets/image (1174).png>)
 
 ## Controller Port Right Click Menu
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (574).png>)
 
 ### Set Protocol
 
 Set the Controller Port Protocol.
 
-![](<../../../.gitbook/assets/image (49).png>)
+![](<../../../.gitbook/assets/image (459).png>)
 
 ### Remove all models from port
 

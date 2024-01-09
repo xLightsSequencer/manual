@@ -1,10 +1,10 @@
 # Bars
 
-![Icon](<../../.gitbook/assets/image (157) (1).png>)
+![Icon](<../../.gitbook/assets/image (958).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (692).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (513).png>)
 
-![](<../../.gitbook/assets/image (549).png>)
+![](<../../.gitbook/assets/image (881).png>)
 
 The Bars effect creates straight edged multiple color bars that move across a model. The edges may be hard, highlighted or 3D (soft).
 

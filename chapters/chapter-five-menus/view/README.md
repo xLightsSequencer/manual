@@ -2,28 +2,28 @@
 
 ## View
 
-![](<../../../.gitbook/assets/image (607).png>)
+![](<../../../.gitbook/assets/image (451).png>)
 
 The view menu enables you to zoom in or out on the sequencer view, define and use Perspectives and nominate which windows you want to have open.
 
-### ![](../../../.gitbook/assets/zoom-in-icon.JPG) Zoom In
+### ![](<../../../.gitbook/assets/Zoom In Icon.JPG>) Zoom In
 
 Selecting this option while on the sequencer tab will zoom in on the details on the sequencer grid. Use this for fine tuning timing marks or effects.
 
 Zooming in can be performed by:
 
 * Selecting _View/Zoom In_ from the Menu Bar
-* Clicking on the Zoom In Icon on the Tool Bar ![](../../../.gitbook/assets/zoom-in-icon.JPG)&#x20;
+* Clicking on the Zoom In Icon on the Tool Bar ![](<../../../.gitbook/assets/Zoom In Icon.JPG>)&#x20;
 * Using the + (plus) key on the keyboard
 
-### ![](../../../.gitbook/assets/zoom-out-icon.JPG) Zoom Out
+### ![](<../../../.gitbook/assets/Zoom Out Icon.JPG>) Zoom Out
 
 Selecting this option while on the sequencer tab will zoom out of the details on the sequencer grid. Use this for seeing more of the sequence.
 
 Zooming in can be performed by:
 
 * Selecting _View/Zoom Out_ from the Menu Bar
-* Clicking on the Zoom Out Icon on the Tool Bar ![](../../../.gitbook/assets/zoom-out-icon.JPG)&#x20;
+* Clicking on the Zoom Out Icon on the Tool Bar ![](<../../../.gitbook/assets/Zoom Out Icon.JPG>)&#x20;
 * Using the - (minus) key on the keyboard
 
 ### Reset Toolbars
@@ -32,11 +32,11 @@ The Reset Toolbar option, when selected, will reset the Toolbars to the default 
 
 ### AC Lights Toolbar
 
-![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (425).png>)
+![AC Lights Toolbar Disabled](<../../../.gitbook/assets/image (102).png>)
 
 The AC Lights Toolbar allows you to add On, Off, Shimmer, Twinkle, and Ramp effect in bulk, similar to LOR.
 
-![AC Lights Toolbar enabled](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![AC Lights Toolbar enabled](<../../../.gitbook/assets/image (682).png>)
 
 Select an Effect, using the On effect in this example, then click and drag on the desired rows to populated.
 
@@ -44,13 +44,13 @@ Select an Effect, using the On effect in this example, then click and drag on th
 
 The Effects will be places in the selected area.
 
-![](<../../../.gitbook/assets/image (202) (1).png>)
+![](<../../../.gitbook/assets/image (917).png>)
 
 ### Show AC Ramps
 
 Show Start and End Intensity for effects, similar to LOR.
 
-![](<../../../.gitbook/assets/image (448).png>)
+![](<../../../.gitbook/assets/image (153).png>)
 
 ### Windows
 
@@ -62,7 +62,7 @@ Show Start and End Intensity for effects, similar to LOR.
 
 Perspectives saves the location and size of the "windows" you use.
 
-![](<../../../.gitbook/assets/2022-08-02\_20h41\_34 (1).png>)
+![](../../../.gitbook/assets/2022-08-02\_20h41\_34.png)
 
 Particularly for dual monitor setups, it lets you move and size the Preview and Color windows away, giving you a bigger program area. Going to View / Perspectives / Save Current will store your settings to the currently selected perspective.
 

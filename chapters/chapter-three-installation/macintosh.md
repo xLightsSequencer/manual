@@ -8,7 +8,7 @@ The latest release of xLights for MacOS can be found Mac App Store.
 
 The link will redirect your browser to the App Store Preview, and will automatically launch the app bringing you to the xLights download page.
 
-![](<../../.gitbook/assets/image (349).png>)
+![](<../../.gitbook/assets/image (334).png>)
 
 {% hint style="info" %}
 xLights is compatible with the ARM based M1 hardware and the Intel based hardware
@@ -22,19 +22,19 @@ xLights will run on macOS 10.14 and above.
 
 Search for "xlights" in the Apple App Store.
 
-![](<../../.gitbook/assets/image (202).png>)
+![](<../../.gitbook/assets/image (758).png>)
 
 Download xLights by Clicking the "Get" button.&#x20;
 
-![](<../../.gitbook/assets/image (216).png>)
+![](<../../.gitbook/assets/image (844).png>)
 
 After Entering your Apple ID and password, Click the "Install" Button.
 
-![](<../../.gitbook/assets/image (262).png>)
+![](<../../.gitbook/assets/image (1043).png>)
 
 After installing, "xLights" will appear in the Dock
 
-![](<../../.gitbook/assets/image (722).png>)
+![](<../../.gitbook/assets/image (386).png>)
 
 ## Installing QM Vamp Plugin
 
@@ -46,4 +46,4 @@ For Intel based hardwar,e download the 'Vamp Plugin Pack Installer' from [https:
 
 Double click the downloaded .dmg file and run the installer inside the dmg file. Restart xLight and the new timing track options to appear.
 
-![](<../../.gitbook/assets/image (433).png>)
+![](<../../.gitbook/assets/image (341).png>)

@@ -18,7 +18,7 @@ The waveform displays a sonographic representation of the audio portion of the m
 
 You can control the focus of the waveform.
 
-![](<../../.gitbook/assets/image (318) (1).png>)
+![](<../../.gitbook/assets/image (506).png>)
 
 * Zoom in on the waveform by double clicking on the waveform. Keep double clicking until you've got a zoom setting you can use. Or click on the ‘+’ button.
 * To zoom out, hold the shift key and double click on the waveform or click on the ‘-‘- button.
@@ -47,7 +47,7 @@ You can highlight a range on the waveform to play only that section. If you move
 * Highlighting a portion of the waveform will cause only that section to be played. Pressing the spacebar will replay that section.
 * The ‘Replay’ button  will replay the highlighted section of the waveform. It will start from the beginning of the highlighted area and when it reaches the end of the area , will loop back to play from the beginning of that area. &#x20;
 
-![](<../../.gitbook/assets/image (741).png>)
+![](<../../.gitbook/assets/image (525).png>)
 
 Clicking on an effect in the grid will not alter the waveform area that has been highlighted to be played. The effect becomes the focus point, if you zoom in and out, but the play range does not change. If you do want the start position to move to where your effect is, or to be based on the edit position in the grid, then double click in the grid and that will then remove any highlighted position/area in the waveform and set the start position in line with where you have double clicked.
 
@@ -63,12 +63,12 @@ The audio will be played as you scrub the line. Therefore you can play a small s
 
 ### Timeline Tags
 
-![Red Boxes Highlight Timeline Tags](<../../.gitbook/assets/image (707).png>)
+![Red Boxes Highlight Timeline Tags](<../../.gitbook/assets/image (779).png>)
 
 Timeline Tags allow the user to create "bookmarks" or "shortcuts" on timeline numbered 0-9. You can then type CTRL + 0-9 to scroll the timeline to the numbered tag's location. To add a timeline tag right-click on the timeline at the desired timing location and select a number 0-9. Numbers with check-marks already have tags placed on the timeline. You can reuse a tag with a check-mark but the previous location will be overwritten.
 
-![](<../../.gitbook/assets/image (398).png>)
+![](<../../.gitbook/assets/image (173).png>)
 
 To delete a timeline tag Right Click on the timeline and Select Delete and then the number of the tag you want to remove.
 
-![](<../../.gitbook/assets/image (696).png>)
+![](<../../.gitbook/assets/image (452).png>)

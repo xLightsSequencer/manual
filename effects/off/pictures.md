@@ -1,16 +1,16 @@
 # Pictures
 
-![Icon](<../../.gitbook/assets/image (783).png>)
+![Icon](<../../.gitbook/assets/image (783) (1).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (684).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (674).png>)
 
 {% tabs %}
 {% tab title="Start Position" %}
-![](<../../.gitbook/assets/image (427).png>)
+![](<../../.gitbook/assets/image (478).png>)
 {% endtab %}
 
 {% tab title="End Position" %}
-![](<../../.gitbook/assets/image (322).png>)
+![](<../../.gitbook/assets/image (584).png>)
 {% endtab %}
 
 {% tab title="Start Scale" %}
@@ -18,7 +18,7 @@
 {% endtab %}
 
 {% tab title="End Scale" %}
-![](<../../.gitbook/assets/image (167) (1).png>)
+![](<../../.gitbook/assets/image (1128).png>)
 {% endtab %}
 {% endtabs %}
 

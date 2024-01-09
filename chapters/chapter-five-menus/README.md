@@ -1,5 +1,5 @@
 # Menus
 
-![](../../.gitbook/assets/xlights-logo.png)
+![](../../.gitbook/assets/xLights-Logo.png)
 
-![](<../../.gitbook/assets/image (454).png>)
+![](<../../.gitbook/assets/image (226).png>)

@@ -6,7 +6,7 @@
 
 This function enables you to to play the audio during sequencing at normal (Full) speed or to adjust the audio to faster or slower speeds as shown below.  Slower speeds are useful for fine tuning timings to the audio, especially on fast paced songs.  Higher speeds are useful for seeings all the effects used without having to listen to the entire song.
 
-![](../../.gitbook/assets/audio-speed-options.JPG)
+![](<../../.gitbook/assets/Audio Speed Options.JPG>)
 
 Click in the waveform and then select one of the speed options. Click Play. The audio will then be played at the selected speed and the vertical visual indicator will move along at the speed being played. &#x20;
 

@@ -4,7 +4,7 @@
 
 The model settings determine the physical properties of the model or prop. These setting are critical for how xLights determines the render sequence data, start channels, and controller connections.
 
-![](<../../../../.gitbook/assets/image (133).png>)
+![](<../../../../.gitbook/assets/image (678).png>)
 
 ### **Name**
 
@@ -34,13 +34,13 @@ Lights per String denotes the number of lights per string. This will be used ins
 
 Location of the first pixel or first channel location. "Green Square" means the starting location is the green square on the layout and "Blue Square" means the starting location is the blue square.
 
-![](<../../../../.gitbook/assets/image (795) (1).png>)
+![](<../../../../.gitbook/assets/image (1145).png>)
 
 ## Controller
 
 xLights has two systems to define model start channel locations. If the controller dropdown is set to a controller name specified in the controller tab, the start channel will be auto generated based on the Controller Port and Model Chaining settings. **This is the preferred method of configuring start channels.**
 
-![](<../../../../.gitbook/assets/image (509).png>)
+![](<../../../../.gitbook/assets/image (700).png>)
 
 {% hint style="info" %}
 If no controller names appear in the dropdown, double check the Auto Layout Model is enabled in the Controller Tab.
@@ -48,7 +48,7 @@ If no controller names appear in the dropdown, double check the Auto Layout Mode
 
 ## Start Channel
 
-![](<../../../../.gitbook/assets/image (447).png>)
+![](<../../../../.gitbook/assets/image (709).png>)
 
 The Start Channel corresponds to the starting channel of the first node for the model. xLights will automatically calculate the end channel based on the model settings.
 
@@ -56,23 +56,23 @@ If the controller dropdown is set to "Use Start Channel", by Default, xLights wi
 
 In this example, the Start Channel has been set to start immediately after the ‘Candy Canes-2’ model.
 
-![](<../../../../.gitbook/assets/image (142).png>)
+![](<../../../../.gitbook/assets/image (284).png>)
 
 xLights will automatically calculate the start channel and end channels, and if the ‘Candy Canes-2’ model’s channels change, then the start and end channels for this model will automatically be recalculated.
 
 Click the ellipse button (three periods) to edit the start channel.
 
-![](<../../../../.gitbook/assets/image (128).png>)
+![](<../../../../.gitbook/assets/image (126).png>)
 
 Model Start Channel can use Absolute, Universe, Start/End of Model or Controller based addressing.
 
-![](<../../../../.gitbook/assets/image (435).png>)
+![](<../../../../.gitbook/assets/image (671).png>)
 
 ### Individual Start Channels
 
 For models with multiple strands or elements, you can specify the start channel for each strand individually if required. This is useful where the channel numbering is not contiguous.
 
-![](<../../../../.gitbook/assets/image (90) (2).png>)
+![](<../../../../.gitbook/assets/image (1180).png>)
 
 ## Preview Display
 
@@ -102,7 +102,7 @@ The model is assigned to the Preview.
 
 ## **Strand / Node Names**
 
-![](<../../../../.gitbook/assets/image (67) (2).png>)
+![](<../../../../.gitbook/assets/image (388).png>)
 
 Click the ellipse button (three periods) to edit the Strand / Node Names.
 
@@ -114,7 +114,7 @@ Each strand and node can have a name assigned to it. This is useful where for ex
 
 This setting is used to specify the Faces definition for custom models that support Singing faces.
 
-![](<../../../../.gitbook/assets/image (241).png>)
+![](<../../../../.gitbook/assets/image (282).png>)
 
 Click the ellipse button (three periods) to edit the Faces.
 
@@ -126,7 +126,7 @@ Functionality has been covered in the Singing Faces section.
 
 ## Dimming Curves
 
-![](<../../../../.gitbook/assets/image (657).png>)
+![](<../../../../.gitbook/assets/image (257).png>)
 
 The Dimming Curves setting can be used to change/reduce the brightness of the lights for a specific model. The intensity of the lights is accordingly changed/reduced from its default value of 100%. Use the "Brightness" slider where you can reduce (or increase, but 99% of the time, you reduce) the brightness of the model in the FSEQ. Change the gamma curve of each of the red, blue or green values.
 
@@ -157,7 +157,7 @@ It helps when all of your LEDs have the same wavelength of colors in them. If on
 
 ## **State**
 
-![](<../../../../.gitbook/assets/image (725) (1).png>)
+![](<../../../../.gitbook/assets/image (1175).png>)
 
 This setting is used to specify the State definition for custom models. Functionality has been covered in the State Effect section.
 
@@ -167,13 +167,13 @@ This setting is used to specify the State definition for custom models. Function
 
 ## Sub-Models
 
-![](<../../../../.gitbook/assets/image (21) (1).png>)
+![](<../../../../.gitbook/assets/image (230).png>)
 
 This setting is used to specify parts of a model to be controlled as if it were its own model. This is used for example if you have a wire frame with 2 arm positions you then can sub model those and control them without the need for adding a 2nd or 3rd model.
 
 Click the ellipse button (three periods) to edit the Sub-Models
 
-![Submodel Dialog](<../../../../.gitbook/assets/image (678) (1).png>)
+![Submodel Dialog](<../../../../.gitbook/assets/image (1126).png>)
 
 You will find the sub-model listed as parent model name/sub model name. This can be added to groupings and added to sequencing as a stand alone model.
 
@@ -187,11 +187,13 @@ See the Sub-Models Section for more info.
 
 The Controller Connection settings are used for the Upload to Controller Options in the Controller Tab. Port specify which output of the controller is being used by this model. Protocol is the pixel type or serial type. If a serial protocol is set i.e. DMX the Port setting sets which DMX Port is used on the controller. If the Protocol is set to a pixel protocol i.e. ws2811 the Port setting sets which pixel output is used on the controller board. The additional settings(Null Pixels, Brightness, Gamma, Color Order, etc) will override the setting in the controller if checked. Not all controllers support all settings and some controllers only support one setting per controller port.
 
-![](<../../../../.gitbook/assets/image (72) (1).png>)
+![](<../../../../.gitbook/assets/image (116).png>)
 
 Upload to Controller is covered under controller tab.
 
 ## String properties
+
+#### String Type
 
 The String Type enables you to set or change the ‘RGB’ orientation of your nodes.
 
@@ -199,7 +201,35 @@ The first six options in the list below are used for Pixels - these can also be 
 
 ![](../../../../.gitbook/assets/base648a4df27cffcabea4.png)
 
-The Color setting is used for Single Color string types to define which color the string responds to. If set to White , then only when the White is on, on the sequence , will it light. If set to say Red , then it will light if Red is on (which is 255,0,0) or if White is on (because White sets 255,255,255 on).
+<table data-full-width="false"><thead><tr><th>Type</th><th width="312">Option</th><th>Channels</th></tr></thead><tbody><tr><td>RGB Nodes</td><td>3 Color Pixel Strings. Standard WS2811 Bullet Type Pixels</td><td>3 Channels per Node(Pixel)</td></tr><tr><td>Node Single Color</td><td>Single Color Pixel Strings</td><td>1 Channels per Node(Pixel)</td></tr><tr><td>3 Channel RGB</td><td>3 Channel 'Dumb' RGB Pixel Strings or RGB Flood Lights</td><td>4 Channels per String</td></tr><tr><td>4 Channel RGBW/WRGB</td><td>4 Channel 'Dumb' RGB Pixel String or RGBW Flood Lights</td><td>4 Channels per String</td></tr><tr><td>Strobes</td><td>Single Channel Strobe Bulb, Flashes every 7th frame of sequence</td><td>1 Channels per String</td></tr><tr><td>Single Color</td><td>Single Color String of Lights, Ex: LED/Incandescent Strings. String will responds to that color in the Sequencer.</td><td>1 Channels per String</td></tr><tr><td>Single Color Intensity</td><td>Single Stand String of Lights, Ex: LED/Incandescent Strings. String will responds to ANY color in the Sequencer.</td><td>1 Channels per String</td></tr><tr><td>Superstring</td><td>Multiple Single Color String of Lights. Strings will responds to the colors in the Sequencer.</td><td>Number of Colors * 1 Channels per String</td></tr><tr><td>WRGB Nodes</td><td>RGB and White Color Pixels</td><td>4 Channels per Node(Pixel)</td></tr><tr><td>RGBWW Nodes</td><td>RGB, Cool White, Warm White Color Pixels</td><td>5 Channels per Node(Pixel)</td></tr></tbody></table>
+
+#### Color
+
+The Color setting is used for Single Color/Node Single Color String types to define which color the string responds to. If set to White , then only when the White is on, on the sequence , will it light. If set to say Red , then it will light if Red is on (which is 255,0,0) or if White is on (because White sets 255,255,255 on).
+
+#### RGBW Color Handling
+
+{% tabs %}
+{% tab title="RGB -> W" %}
+If the RGB color values are all equal ( R == B == G ), the White Channel is used and the RGB are disabled.
+{% endtab %}
+
+{% tab title="RGB" %}
+If the RGB color channels are used and the White Channel is disabled.
+{% endtab %}
+
+{% tab title="White Only" %}
+If the White channel are used and the RGB color Channels is disabled.
+{% endtab %}
+
+{% tab title="Advanced" %}
+The Hue value of the RGB color is calculated for the White Channel values RGB Channel is darkened to compensate for the white color value.
+{% endtab %}
+
+{% tab title="While On All" %}
+If the RGB color values are all equal ( R == B == G ), the White Channel is used and the RGB Channel also output the color data.
+{% endtab %}
+{% endtabs %}
 
 ## Appearance
 

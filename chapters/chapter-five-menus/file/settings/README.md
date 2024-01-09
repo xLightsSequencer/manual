@@ -8,7 +8,7 @@ Backup Preferences contains all the backup and restore settings.
 [backup.md](backup.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (758).png>)
+![](<../../../../.gitbook/assets/image (35).png>)
 
 ## View
 
@@ -18,7 +18,7 @@ View Preferences contains settings related to the scaling and size of items on t
 [view.md](view.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (637).png>)
+![](<../../../../.gitbook/assets/image (872).png>)
 
 ## Effects Grid
 
@@ -28,7 +28,7 @@ Effects Grid Preferences contains settings for the Sequencer Effects Grid.
 [effects-grid.md](effects-grid.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (247).png>)
+![](<../../../../.gitbook/assets/image (203).png>)
 
 ## Sequences
 
@@ -38,7 +38,7 @@ Sequences Preferences contains settings for rendering and saving sequences.
 [sequences.md](sequences.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (815).png>)
+![](<../../../../.gitbook/assets/image (31).png>)
 
 ## Output
 
@@ -48,15 +48,15 @@ Output Preferences are related to sending data to physical hardware.
 [output.md](output.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (111) (1).png>)
+![](<../../../../.gitbook/assets/image (507).png>)
 
 ## Random Effects
 
 The Random Effects tab allows the user to set which effects are used by the Generate Random Effects Right click menu option in the sequencer.
 
-![](<../../../../.gitbook/assets/image (151) (1).png>)
+![](<../../../../.gitbook/assets/image (220).png>)
 
-![](<../../../../.gitbook/assets/image (47).png>)
+![](<../../../../.gitbook/assets/image (256).png>)
 
 ## Colors
 
@@ -66,7 +66,7 @@ The Color Tab allows the user to change the colors options of xLights.
 [color-manager.md](color-manager.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (138) (2).png>)
+![](<../../../../.gitbook/assets/image (1075).png>)
 
 ## Other
 
@@ -76,4 +76,4 @@ Output Preferences contains settings that did not fall under the other categorie
 [other.md](other.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (803).png>)
+![](<../../../../.gitbook/assets/image (13).png>)

@@ -20,7 +20,7 @@ The Center % is used to indicate how much area the empty area of the circle occu
 
 The Layers attribute value describe the concentric rings in the circle. This will create node count settings for each layer. The sum of the node counts must add up to the number of nodes in the model.
 
-![](<../../../.gitbook/assets/image (208).png>)
+![](<../../../.gitbook/assets/image (732).png>)
 
 ![](../../../.gitbook/assets/base6437c0669337ad8541.png)
 
@@ -30,4 +30,4 @@ The default starting pixel is at the bottom of the circle, go clockwise on the o
 
 
 
-![](<../../../.gitbook/assets/image (96).png>)
+![](<../../../.gitbook/assets/image (104).png>)

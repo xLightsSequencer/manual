@@ -1,10 +1,10 @@
 # Garlands
 
-![Icon](<../../.gitbook/assets/image (186).png>)
+![Icon](<../../.gitbook/assets/image (99).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (515).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (406).png>)
 
-![](<../../.gitbook/assets/image (345).png>)
+![](<../../.gitbook/assets/image (1038).png>)
 
 The Garlands effect creates an effect that simulates a circle of rings that drop on each other (depending on the direction of the effect).
 

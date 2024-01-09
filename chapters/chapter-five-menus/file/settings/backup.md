@@ -2,7 +2,7 @@
 
 ## Backup
 
-![](<../../../../.gitbook/assets/image (257).png>)
+![](<../../../../.gitbook/assets/image (1006).png>)
 
 ### Backup On Save
 
@@ -24,19 +24,19 @@ When selected, backups are made of all relevant files both in the show directory
 
 This drop-down sets how long xLights will keep backup. With "Never" selected xLights will not delete any backups. 365, 90, 31, and 7 days will delete backup folder older than the selected length. This helps to clear out older files and free up space.
 
-![](<../../../../.gitbook/assets/image (681).png>)
+![](<../../../../.gitbook/assets/image (407).png>)
 
 ### Backup Directory
 
-![](<../../../../.gitbook/assets/image (60).png>)
+![](<../../../../.gitbook/assets/image (474).png>)
 
 This defines the location where the backup folder(Backup on Save/Launch or F10) will be saved. If the 'Use Show Folder' Checkbox is selected (the default) the backup files will be saved in the current show folder. If this is unchecked and a folder path is specified all the backup files will be saved to that location. If this folder doesn't exist (move computers or remove a harddrive) the backup directory will default back to the show directory.
 
-![](<../../../../.gitbook/assets/image (270).png>)
+![](<../../../../.gitbook/assets/image (1035).png>)
 
 ### Alternative Backup Directory
 
-![](<../../../../.gitbook/assets/image (219).png>)
+![](<../../../../.gitbook/assets/image (790).png>)
 
 This is the location where the Alternative backups will be saved. This is manually triggered with F11 or the File Menu option. This Backup function is intended as a secondary backup location, like a external hardrive or NAS device. By default the location is not set and will prompt you if you attempt to do a Alternative Backup and no folder is set. To enable, set the desired folder or drive location.
 

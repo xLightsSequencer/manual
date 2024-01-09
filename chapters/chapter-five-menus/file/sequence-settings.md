@@ -2,11 +2,11 @@
 
 ## Sequence Settings
 
-![](<../../../.gitbook/assets/image (180).png>)
+![](<../../../.gitbook/assets/image (443).png>)
 
 Select the Sequence Settings option from the File menu. This screen can also be accessed by clicking on the button of the toolbar. The Sequence Settings screen has four tabs.
 
-![](<../../../.gitbook/assets/image (491).png>)
+![](<../../../.gitbook/assets/image (85).png>)
 
 ## Info/Media
 
@@ -14,7 +14,7 @@ The Info/Media tab displays information about the sequence including the xLights
 
 The sequence type, media file name or location, the sequence duration and whether media tags can be overwritten can be changed from this tab after the sequence has been created.
 
-![](<../../../.gitbook/assets/image (649).png>)
+![](<../../../.gitbook/assets/image (252).png>)
 
 #### Sequence Duration
 
@@ -86,7 +86,7 @@ You can repeat this process to import another timing grid from the same file or 
 
 ## Data Layers
 
-![](<../../../.gitbook/assets/image (217).png>)
+![](<../../../.gitbook/assets/image (721).png>)
 
 ### Render Mode
 
@@ -113,7 +113,7 @@ This conversion is done in two places.
 * When you a import a data layer
 * When you press the ‘Render All’ button
 
-![](<../../../.gitbook/assets/image (355).png>)
+![](<../../../.gitbook/assets/image (926).png>)
 
 {% hint style="info" %}
 The purpose of ‘Render All’ is to render all the effects and data layers to the sequence object without saving to disk. The already imported ISEQ file data is used. If the source (‘LMS’, ‘SEQ’, ‘HLS’ etc) file is changed, then you need to go to the Data Layer tab, click on that layer and select the Re-Import function.

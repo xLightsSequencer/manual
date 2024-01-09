@@ -1,10 +1,10 @@
 # Fill
 
-![Icon](<../../.gitbook/assets/image (604).png>)
+![Icon](<../../.gitbook/assets/image (480).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (228) (1).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (196).png>)
 
-![](<../../.gitbook/assets/image (533).png>)
+![](<../../.gitbook/assets/image (465).png>)
 
 The Fill effect starts from the left, right, bottom or top edge (position) and does a complete fill to the position value.
 

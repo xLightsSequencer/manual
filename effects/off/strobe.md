@@ -1,10 +1,10 @@
 # Strobe
 
-![Icon](<../../.gitbook/assets/image (555).png>)
+![Icon](<../../.gitbook/assets/image (884).png>)
 
-![Sequencer Grid](<../../.gitbook/assets/image (520).png>)
+![Sequencer Grid](<../../.gitbook/assets/image (185).png>)
 
-![](<../../.gitbook/assets/image (635) (1).png>)
+![](<../../.gitbook/assets/image (1080).png>)
 
 The Strobe effect provides an effect where light particles turn off and on rapidly, but at fixed intervals. One or multiple colors can be used for the effect.
 

@@ -1,25 +1,25 @@
 # Built-in Effects
 
-![](../../.gitbook/assets/xlights-logo.png)
+![](../../.gitbook/assets/xLights-Logo.png)
 
-![](<../../.gitbook/assets/image (386).png>)
+![](<../../.gitbook/assets/image (979).png>)
 
-![](<../../.gitbook/assets/image (312).png>)
+![](<../../.gitbook/assets/image (462).png>)
 
 ![](<../../.gitbook/assets/image (755).png>)
 
-![](<../../.gitbook/assets/image (632).png>)
+![](<../../.gitbook/assets/image (135).png>)
 
-![](<../../.gitbook/assets/image (283) (1).png>)
+![](<../../.gitbook/assets/image (518).png>)
 
-![](<../../.gitbook/assets/image (333).png>)
+![](<../../.gitbook/assets/image (718).png>)
 
-![](<../../.gitbook/assets/image (383).png>)
+![](<../../.gitbook/assets/image (143).png>)
 
-![](<../../.gitbook/assets/image (222) (1).png>)
+![](<../../.gitbook/assets/image (530).png>)
 
-![](<../../.gitbook/assets/image (414).png>)
+![](<../../.gitbook/assets/image (174).png>)
 
-![](<../../.gitbook/assets/image (340).png>)
+![](<../../.gitbook/assets/image (423).png>)
 
-![](<../../.gitbook/assets/image (231) (1).png>)
+![](<../../.gitbook/assets/image (907).png>)

@@ -2,21 +2,21 @@
 
 ## Layer Blending
 
-![](<../../../.gitbook/assets/image (318).png>)
+![](<../../../.gitbook/assets/image (977).png>)
 
 The Layer Blending window can be opened by clicking on the Layer Blending icon from the toolbar or via the View , Windows menus.
 
-![](<../../../.gitbook/assets/image (666).png>)
+![](<../../../.gitbook/assets/image (397).png>)
 
 #### Reset panel when changing effects
 
-![](<../../../.gitbook/assets/image (269).png>)
+![](<../../../.gitbook/assets/image (615).png>)
 
 This will reset the Layer Setting back to default every time you select or create a new effect. Checked is the recommended setting for most users.
 
 ## Layer Blending
 
-![Layer Blending Dropdown](<../../../.gitbook/assets/image (57) (1).png>)
+![Layer Blending Dropdown](<../../../.gitbook/assets/image (156).png>)
 
 The Layer blending settings allows the user to dictate how effects on multiple layers will be merged together for a model/group/submodel.
 
@@ -24,7 +24,7 @@ When setting the layer blending modes, the current layer is considered layer 1 a
 
 Click the Question Mark(?) Button for more Information.
 
-![](<../../../.gitbook/assets/image (220).png>)
+![](<../../../.gitbook/assets/image (806).png>)
 
 {% hint style="success" %}
 Put two effects on a model and step through each of the layering modes to see what they will look like. Experience is much better than reading about it.
@@ -52,7 +52,7 @@ Put two effects on a model and step through each of the layering modes to see wh
 
 This is not to be confused with the Morph Effect. This is a layering option that can be applied to any two effects.
 
-![](<../../../.gitbook/assets/image (541).png>)
+![](<../../../.gitbook/assets/image (553).png>)
 
 The morph option of layer blending will magically make effect 1 ‘morph’ into effect 2 during the length of the timing cell that the effects are in. You will not see effect 2 at the beginning of the timing cell, and you will not see effect 1 at the end of the timing cell. Somewhere near the middle you will see the effect 1 ‘morph’ into effect 2.
 
@@ -68,7 +68,7 @@ This will pause or stop an effect at the specified frame and hold that frame and
 
 There are 19 layer blending transition choices. Using the transitions will help you bridge between effects providing a way to smooth out abrupt changes between different effects. A stylistic use would be between sections of a song such as the chorus to verse or verse to verse. Keep in mind that the blending is done within the boundary of the timing mark and does not transition between timing marks.
 
-![](<../../../.gitbook/assets/image (227) (1).png>)
+![](<../../../.gitbook/assets/image (950).png>)
 
 These transitions are common in the video editing world, and should be visually familiar to anyone who’s used video editing software or anyone who’s watched anything on TV in the past 20 years.
 
@@ -100,17 +100,17 @@ When setting a layer transition, the setting will apply to all future effects pl
 
 If an effect has a transitions applied a green bar will appear for an in transitions and a red bar for an out transitions. If the in and out transitions overlap, the overlap area will appear yellow.
 
-![](<../../../.gitbook/assets/image (602) (1).png>)
+![](<../../../.gitbook/assets/image (1170).png>)
 
 ## Mix Slider
 
 This slider adjusts the level of each effect in the combined output of the effects. You can use this to just put a hint (or more) of one effect on another.
 
-![](<../../../.gitbook/assets/image (159) (1).png>)
+![](<../../../.gitbook/assets/image (1150).png>)
 
 ## Canvas
 
-![](<../../../.gitbook/assets/image (524).png>)
+![](<../../../.gitbook/assets/image (411).png>)
 
 Canvas Mode is a special render mode that only works with specific effects. The default render mode in xLights will draw the effects on a blank buffer for each layer. Canvas Mode allows an effect to draw on a previous layer without "blanking it" out. This is used by effects like the Warp and Kaleidoscope Effect that manipulate data from the underlying layers.
 
@@ -118,6 +118,6 @@ Canvas Mode is a special render mode that only works with specific effects. The 
 
 This Dialog allows the user which layers to use when Canvas Mode is Enabled
 
-![](<../../../.gitbook/assets/image (746).png>)
+![](<../../../.gitbook/assets/image (259).png>)
 
-![](<../../../.gitbook/assets/image (245) (1).png>)
+![](<../../../.gitbook/assets/image (522).png>)

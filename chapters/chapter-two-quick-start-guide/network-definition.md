@@ -14,26 +14,26 @@ If you do want to define the controllers details at this stage, select the Contr
 
 To define a E131/DDP/Artnet type controller, Click on the Add Ethernet button:
 
-![](<../../.gitbook/assets/image (457).png>)
+![](<../../.gitbook/assets/image (376).png>)
 
 Set the Name of the Controller, this can be any value, but make it something specific that is easy to remember for later use.
 
-![](<../../.gitbook/assets/image (107).png>)
+![](<../../.gitbook/assets/image (95).png>)
 
 Set the Controller Vendor, Model, and Variant. Not all controllers have a variant type, this will be blank for some controllers.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (690).png>)
 
 After setting the Controller Type, Enable the Auto Layout Model option.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (716).png>)
 
 Set the controller "IP address", If unknown just use a generic value like "192.168.1.50". Set the "Start Universe" to 1, "Universe Count" to 20, "Channel per Universe" to 510, and press Enter.
 
-![](<../../.gitbook/assets/image (841).png>)
+![](<../../.gitbook/assets/image (1164).png>)
 
 This will create a basic controller with 20 universes. Each universe will have 510 channels. The start and end channel are automatically calculated and displayed in the mapping column.
 
 Click on Save Button to save the controller setting that were added.
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (244).png>)

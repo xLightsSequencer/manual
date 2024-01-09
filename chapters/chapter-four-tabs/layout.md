@@ -2,7 +2,7 @@
 
 ## Layout
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../.gitbook/assets/image (96).png>)
 
 
 
@@ -20,4 +20,4 @@ The layout tab displays a full preview of your show and provides a view of how a
 * Assign Models to Specific Controller Connection
 * Assign the Model Start Channels
 
-![](<../../.gitbook/assets/image (623).png>)
+![](<../../.gitbook/assets/image (944).png>)

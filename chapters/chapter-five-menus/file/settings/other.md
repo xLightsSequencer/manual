@@ -2,7 +2,7 @@
 
 ## Other
 
-![](<../../../../.gitbook/assets/image (779).png>)
+![](<../../../../.gitbook/assets/image (11).png>)
 
 ### eMail Address
 
@@ -40,7 +40,7 @@ This option will cause xLights to save both the Controller Settings and Layout S
 
 When Uploading Controller Inputs and Outputs, this will cause xLights to do both upload actions when Upload Output is clicked.
 
-![](<../../../../.gitbook/assets/image (144).png>)
+![](<../../../../.gitbook/assets/image (809).png>)
 
 ### Prompt issues during batch render
 
@@ -54,4 +54,4 @@ Force xLights to download the newest Vender Models on startup. It is recommended
 
 Set the 'Level' of tips of the day, you will receive. Off will disable Tip of the day.
 
-![](<../../../../.gitbook/assets/image (809).png>)
+![](<../../../../.gitbook/assets/image (48).png>)
