@@ -46,7 +46,7 @@ This Dialog also contains links to the Singing Faces Project Lyric tracks. You m
 
 ### Batch Render
 
-![](<../../../.gitbook/assets/image (961).png>)
+<figure><img src="../../../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
 
 Batch Render allows the user to re-render multiple sequence files. This is useful if a Layout change was made and all the FSEQ files need to be updated. The "Filter" drop-down allows the user to select which folders to search for the sequence XSQ/XML files in.
 
