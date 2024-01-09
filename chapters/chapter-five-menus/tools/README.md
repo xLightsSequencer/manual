@@ -85,6 +85,10 @@ Bulk Controller Upload allows the user to upload the E1.31 Universe Inputs, and 
 
 ![](<../../../.gitbook/assets/image (665).png>)
 
+Right Click to enable options to Select Controllers based on Active, Auto Config or FPP Proxy
+
+<figure><img src="../../../.gitbook/assets/image (1198).png" alt=""><figcaption></figcaption></figure>
+
 ### HinksPix Export
 
 HinksPix Export dialog is used to generate the required SD card files to use the HinksPix controllers in standalone mode. The selected sequences files will be generated for the selected controllers.
