@@ -18,7 +18,7 @@ A **channel** is the smallest controllable element that xLights can control. The
 
 ## DDP
 
-**DDP** (Distributed Display Protocol) is a high efficiency data protocol. It is more efficiency than ArtNET or E1.31. Currently, this protocol is only supported on a handful of controllers, NOT by all Ethernet based controllers. (only on FPP/Kulp, Falcon FW 2.58+, HinksPix, ESPixelStick, WLED FW 0.12+, and Minleon as of July 2021).&#x20;
+**DDP** (Distributed Display Protocol) is a high efficiency data protocol. It is more efficiency than ArtNET or E1.31. Currently, this protocol is only supported on a handful of controllers, NOT by all Ethernet based controllers. (only on FPP/Kulp, Falcon FW 2.58+, HinksPix, ESPixelStick, WLED FW 0.12+, Genius , and Minleon as of July 2021).&#x20;
 
 ## DMX
 
@@ -50,9 +50,9 @@ An **Effect** is what xLights uses to determine which lights are on at which int
 [singing-faces](../chapters/chapter-four-sequencer/singing-faces/)
 {% endcontent-ref %}
 
-## FPP (Falcon Pi Player)
+## FPP (Falcon Player)
 
-The **Falcon Pi Player** (FPP) is a lightweight, optimized, feature-rich sequence player designed to run on low-cost SBC's (Single Board Computers). It was originally created to run on the Raspberry Pi, hence the middle 'P' in the short name. The FPP software runs on more than just the Raspberry Pi, such as the BeagleBone Controllers, but the name has remained. &#x20;
+The **Falcon Player** (FPP) is a lightweight, optimized, feature-rich sequence player designed to run on low-cost SBC's (Single Board Computers). It was originally created to run on the Raspberry Pi, hence the middle 'P' in the short name. The FPP software runs on more than just the Raspberry Pi, such as the BeagleBone Controllers, but the name has remained. &#x20;
 
 FPP is a software solution that you download and install on hardware which can be purchased from numerous sources around the internet. FPP aims to be controller agnostic, it can talk E1.31, DMX, Pixelnet, and Renard to hardware from multiple hardware vendors.
 
