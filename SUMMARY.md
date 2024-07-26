@@ -142,6 +142,7 @@
   * [Marquee](effects/off/marquee.md)
   * [Meteors](effects/off/meteors.md)
   * [Morph](effects/off/morph.md)
+  * [Moving Head](effects/off/moving-head.md)
   * [Music](effects/off/music.md)
   * [Piano](effects/off/piano.md)
   * [Pictures](effects/off/pictures.md)
