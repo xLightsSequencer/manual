@@ -6,7 +6,7 @@
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="461"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt="" width="461"><figcaption></figcaption></figure>
 
 </div>
 
