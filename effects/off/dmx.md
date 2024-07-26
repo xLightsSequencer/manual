@@ -4,11 +4,9 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (405).png>)
 
-![](<../../.gitbook/assets/image (427).png>)
-
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="461"><figcaption></figcaption></figure>
 
 </div>
 
