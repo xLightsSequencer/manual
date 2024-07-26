@@ -45,7 +45,7 @@
     * [Circle Model](chapters/chapter-four-tabs/models/circle-model.md)
     * [Cube Model](chapters/chapter-four-tabs/models/cube-model.md)
     * [Custom Model](chapters/chapter-four-tabs/models/custom-model.md)
-    * [DMX Model](chapters/chapter-four-tabs/models/dmx-model/README.md)
+    * [DMX Model](chapters/chapter-four-tabs/models/dmx-model.md)
       * [DMX Moving Head Advance](chapters/chapter-four-tabs/models/dmx-model/dmx-moving-head-advance.md)
     * [Image Model](chapters/chapter-four-tabs/models/image-model.md)
     * [Icicles Model](chapters/chapter-four-tabs/models/icicles-model.md)
