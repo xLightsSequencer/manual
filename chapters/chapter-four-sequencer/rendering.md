@@ -16,6 +16,14 @@ The Effect is overlaid onto the render buffer to calculate the color data of the
 
 
 
+### Group Render Buffer
+
+Default Minimal Grid will Draws a 2D grip over the models in the group and attempt to put each pixel in its own box, Up to the Max Grid Size, Normally 400x400.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUczyTTS52yvM3s0r22roSTXII8KMXFtsIisgK6_JOQvKRAhHiX905wvuGvDP8yBO5Lum-UbjLGl9rzaET-bOR1fW4sGRMmO_x0cFR49xjeBamL-GypUP5QjdRH3qVWEzC578qELX3UeRoeT9cf04FIf8Hrtsg=s2048?key=1gBjmeJmolgwdkZH-qLraA" alt=""><figcaption></figcaption></figure>
+
+
+
 ### Model Rendering Low Level Model
 
 <div data-full-width="true">
