@@ -46,6 +46,10 @@ Sets the IP Address of the Ethernet controller. The host name can also be entere
 
 **(ArtNet/E1.31)** The number of universe sets the number of channels allocated for the controller. This is multiplied by the universe size to get the total channels. If using Auto Size this will be grayed out and set automatically.
 
+### Universe Per String
+
+**(ArtNet/E1.31)** The number of channels in each universe will be resizes to match the number of channel in each string of a model. This will align the Model's string channels with the universes. This is needed for controllers that don't support 'virtual strings' and require data in a fixed structure. The option is only available when 'Auto Layout' is enabled. It is needed for the HinksPix Controllers.
+
 ### **Universe Size**
 
 **(ArtNet/E1.31)** This sets the number of channel per universe. Universe can be any size up to 512 channels. Some controllers require a size of 510 or 512. 510 is recommended.
