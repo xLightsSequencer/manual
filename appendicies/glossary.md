@@ -18,7 +18,7 @@ A **channel** is the smallest controllable element that xLights can control. The
 
 ## DDP
 
-**DDP** (Distributed Display Protocol) is a high efficiency data protocol. It is more efficiency than ArtNET or E1.31. Currently, this protocol is only supported on a handful of controllers, NOT by all Ethernet based controllers. (only on FPP/Kulp, Falcon FW 2.58+, HinksPix, ESPixelStick, WLED FW 0.12+, Genius , and Minleon as of July 2021).&#x20;
+**DDP** (Distributed Display Protocol) is a high efficiency data protocol. It is more efficiency than ArtNET or E1.31. This protocol is supported by most modern controllers(2021+). It is NOT supported by all Ethernet based controllers. FPP/Kulp, Falcon FW 2.58+, HinksPix, ESPixelStick, WLED FW 0.12+, Genius, and Minleon all support it.&#x20;
 
 ## DMX
 
@@ -58,7 +58,7 @@ FPP is a software solution that you download and install on hardware which can b
 
 ## FSEQ
 
-This is the format that xLights sequences are stored in for playback on various platforms, most commonly xSchedule and FPP. &#x20;
+This is the file format that xLights sequences are stored in for playback on various platforms, most commonly xSchedule and FPP.  FSEQ files have multiple versions and compression types. V1 FSEQ files have no compression. V2 FSEQ files can be uncompressed  or use the ZStandard or zLib compression format. Not all software and/or hardware support all the versions and compression types.
 
 {% hint style="warning" %}
 The FSEQ file will become very large with high channel counts, long sequence lengths, or when certain effects such as video are added.  This can be of concern with small storage drives or slow connection speeds. &#x20;
@@ -88,7 +88,7 @@ A **matrix** is simply combination of rows and columns. Most commonly, a matrix 
 
 **Light-O-Rama** is a company/lighting system designed for animated lighting displays. All in one system with proprietary software and hardware. Some of the LOR protocols/standards has been reverse engineered and ported to xLights. Currently Supported LOR devices and formats
 
-* Importing of S2, S4, S5, SuperStar and Pixel Editor Sequences
+* Importing of S2, S4, S5, S6 SuperStar and Pixel Editor Sequences
 * Controlling LOR controllers in DMX mode.&#x20;
   * Must be configures with the LOR Hardware Utils
 * Controlling LOR controllers in LOR protocol mode with a LOR dongle.
