@@ -205,7 +205,7 @@ This is not to be used to convert files into an xLights sequence – use the Dat
 
 ### Prepare Audio
 
-Prepare Audio allows xLights to load an audio "Cut List" file and edit an audio file to remove sections of a song or combine multiple songs. Reaper files(.rpp) and xAudio Files (.xAudio) Files.
+Prepare Audio allows xLights to load an audio "Cut List" file and edit an audio file to remove sections of a song or combine multiple songs. Reaper project files(.rpp) and xAudio Files (.xAudio) Files are supported.
 
 ### User Lyric Dictionary
 
