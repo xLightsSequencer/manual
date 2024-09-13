@@ -171,7 +171,7 @@ The Generate Custom Model function enables you to generate an xLights custom mod
 
 ![](<../../../.gitbook/assets/image (842).png>)
 
-
+{% embed url="https://youtu.be/PrvqctYHC7I?si=-B5vEklLsqp1y6Av" %}
 
 {% content-ref url="generate-custom-model.md" %}
 [generate-custom-model.md](generate-custom-model.md)
@@ -188,6 +188,8 @@ This tool is used to take a model with valid/useful face definitions, state defi
 The Generate Lyrics From Data allows xLights to generate Lyric Timing Tracks with Phonemes from channel data. This data can be a LOR LMS or LAS file, that has been imported as a data layer first. Select the start channel of the channel data and the offset for each mouth movement channel. xLights will then generate the Phonemes Track from this data.
 
 ![](<../../../.gitbook/assets/image (1060).png>)
+
+{% embed url="https://www.youtube.com/watch?v=iYFGEfJiCB4" %}
 
 ### Convert
 
