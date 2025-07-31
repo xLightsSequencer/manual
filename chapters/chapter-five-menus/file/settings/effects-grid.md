@@ -72,4 +72,14 @@ If checked, color bars are display to represent transitions, like fade in or fad
 
 ![](<../../../../.gitbook/assets/image (905).png>)
 
-##
+### Hide Color Update Warning
+
+Disable Color Update all Warning Popup Box
+
+### Show Alternate Timing Format
+
+Sequencer timing will be displayed in seconds and milliseconds.
+
+### Bell on render completion
+
+Play an Annoying Bell sound on Render Completion
