@@ -2,7 +2,7 @@
 
 ## View
 
-![](<../../../../.gitbook/assets/image (872).png>)
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Tool Icon Size
 
@@ -12,19 +12,7 @@ Four options are available:
 
 ![](<../../../../.gitbook/assets/image (1132).png>)
 
-#### OpenGL Version
 
-![](<../../../../.gitbook/assets/image (1064).png>)
-
-The OpenGL setting is used to define what version of the OpenGL API is being used for certain components of xLight rendering of 2D and 3D graphics.
-
-This option does not have to be used unless you see issues with the waveform or icons not being displayed or the sequencer is jerky. In which case, starting with 3.x and working downwards , select an option and restart xLights and check the results. Advise the xLights team, as it could be that your video card drivers on your computer need updating.
-
-#### OpenGL Render Order
-
-In 3D mode, Model and Objects sometimes do not look correct in the house preview on all videocards. The Render Order 1-6 options use different render methods to generate the model layout. If you are having unwanted visual artifacts, try a different options and see if the models look better on your specific computer.
-
-![](<../../../../.gitbook/assets/image (1096).png>)
 
 ### Model Handle Size
 
@@ -57,3 +45,36 @@ This Options will display Play, Pause, Stop, Scrub Bar to the House Preview to a
 ### Auto Show House Preview
 
 Automatically Show the House Preview Window when the sequence is playing and hide the House Preview when the sequence is stopped.
+
+### Enable Base Show Folder Settings
+
+Enabled Options on the Controller Tab to use a **Base Show Folder**. Base Show Folder's allow models and controllers to be used across multiple Show Folders.
+
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### Timeline Zooming
+
+Zoom in on the Sequencer Timeline based on the Play Marker(Green Triangle with Red Line) Or the Mouse Curser Location
+
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+### Hide Preset Preview
+
+Enable to disable the Effect Preview in the Effects Preset Dialog.
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### Zoom to Curser
+
+Zoom to the Mouse Curser in the layout tab or to the center of the screen if disabled.
+
+### Disable key acceleration when held down
+
+Disable Acceleration when Moving Models with the Keyboard Arrow Keys. This will use a constant speed over speeding up as the key is held down.
+
+### Grid Center Crosshair Size
+
+Size of the Red Crosshair displayed for the Group Center in the Layout Tab.
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+

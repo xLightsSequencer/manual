@@ -10,7 +10,7 @@ The Butterfly effect creates seemingly random patterns of color swirling around,
 
 | **Options/Settings** | **Description**                                                                                                                   |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **Colors**           | Rainbow or Palette can be selected.  If Palette is selected, then the colors from the Color selection window are used**.**        |
+| **Colors**           | Rainbow or Palette can be selected.  If Palette is selected, then the colors from the Color selection window are use&#x64;**.**   |
 | **Style**            | Up to 10 different styles can be selected for the effect.                                                                         |
 | **Bkgrd Chunks**     | Controls whether and how sections of black color are to be used between the colors.  Can be adjusted via the Value Curves options |
 | **Bkgrd Skip**       | Used in conjunction with the background chunks to skip the black background.  Can be adjusted via the Value Curves options.       |

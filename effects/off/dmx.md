@@ -4,11 +4,7 @@
 
 ![Sequencer Grid](<../../.gitbook/assets/image (405).png>)
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt="" width="461"><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt="" width="461"><figcaption></figcaption></figure></div>
 
 The DMX effect is used to output a value between 0-255 to the model. Channel 1 in the DMX effect corresponds to the first channel of the model and up to 48 channels can be controlled.
 
@@ -33,11 +29,7 @@ For Pan/Tilt head control movement, select the Use Ramps attribute and set it to
 
 Remapping DMX Channels allows for channel data to be "swapped" or moved on a DMX Effect. This can be used if the DMX data from an imported model uses different channels. The data can be offset or scaled to fix issues with direction and rotational differences.
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 
 

@@ -4,7 +4,7 @@ description: This page lists the shortcuts that can be used from your keyboard i
 
 # Keyboard Shortcuts
 
-A list of keyboard shortcuts is also available by selecting File_/Key Bindings_ within xLights. &#x20;
+A list of keyboard shortcuts is also available by selecting Fil&#x65;_/Key Bindings_ within xLights. &#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2021-12-08 at 3.55.22 PM.png>)
 

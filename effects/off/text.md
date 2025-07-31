@@ -33,6 +33,6 @@ In order to stop the text after one cycle, use the "Vector" Movement option and 
 
 Specific "Keys" can be used to insert Sequence Settings Values into the text effect. These "keys" will replaced with the values specified in the Sequence Settings.
 
-![](<../../.gitbook/assets/image (9).png>)![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (9).png>)![](<../../.gitbook/assets/image (6) (1).png>)
 
 <table><thead><tr><th>Replace Key</th><th>Sequence Settings Meta Data</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td>${TITLE} or ${SONG}</td><td>Song</td><td></td><td></td></tr><tr><td>${ARTIST}</td><td>Artist</td><td></td><td></td></tr><tr><td>${ALBUM}</td><td>Album</td><td></td><td></td></tr><tr><td>${FILENAME}</td><td>Media File Name</td><td></td><td></td></tr><tr><td>${AUTHOR}</td><td>Author</td><td></td><td></td></tr><tr><td>${AUTHOREMAIL}</td><td>Email</td><td></td><td></td></tr><tr><td>${COMMENT}</td><td>Comment</td><td></td><td></td></tr><tr><td>${URL}</td><td>Music URL</td><td></td><td></td></tr><tr><td>${WEBSITE}</td><td>Website</td><td></td><td></td></tr></tbody></table>

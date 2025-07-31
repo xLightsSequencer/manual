@@ -6,7 +6,7 @@
 
 ### # of Strings
 
-The # of Strings corresponds to the physical number of strings for that model**.** This should match the number of controller ports you plan to use.&#x20;
+The # of Strings corresponds to the physical number of strings for that mode&#x6C;**.** This should match the number of controller ports you plan to use.&#x20;
 
 ### Nodes/String or Lights/String
 

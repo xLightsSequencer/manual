@@ -10,7 +10,7 @@ The Candle effect creates flickering effect that simulates a candle. The Color P
 
 | **Options/Settings** | **Description**                                                   |
 | -------------------- | ----------------------------------------------------------------- |
-| **Flame Agility**    | Changes how "fast" the flame flickers**.**                        |
+| **Flame Agility**    | Changes how "fast" the flame flicker&#x73;**.**                   |
 | **Wind Baseline**    | Sets the stating point from where the color change happens.       |
 | **Wind Variability** | Sets the range of the flickering.                                 |
 | **Wind Calmness**    | Sets the acceleration of there flickering.                        |

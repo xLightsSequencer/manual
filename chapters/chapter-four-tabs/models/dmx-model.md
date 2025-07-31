@@ -38,7 +38,7 @@ For Skulls with servos embedded in them. Skulltronix Skulls are also supported.
 
 ![](<../../../.gitbook/assets/image (38).png>)
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Property            | Value                                                                                                                                                                                                                                          |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
