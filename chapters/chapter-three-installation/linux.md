@@ -2,13 +2,18 @@
 
 ## Downloading xLights
 
-The latest AppImage release of xLights for Linux can be found at the following link: [https://github.com/smeighan/xLights/releases](https://github.com/smeighan/xLights/releases)
+The latest AppImage release of xLights for Linux can be found at the following link:&#x20;
 
-You can also download the source from [https://github.com/smeighan/xLights](https://github.com/smeighan/xLights) and compile as per the included README.linux file.
+[https://github.com/xLightsSequencer/xLights/releases](https://github.com/xLightsSequencer/xLights/releases)
+
+You can also download the source from [https://github.com/xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) and compile as per the included README.linux file.
 
 ## Installing xLights
 
 #### AppImage Builds
 
-1. Download the latest "xLights-xxxx.xx.glibc2.17-x86\_64.AppImage" file from: [https://github.com/smeighan/xLights/releases](https://github.com/smeighan/xLights/releases)
-2. Set the AppImage file as an executable (for example ‘chmod +x ./xLights-xxxx.xx.glibc2.17-x86\_64.AppImage’) and then run the file directly.
+1. Appimage builds are created with Ubuntu 22.04.&#x20;
+   1. Debian and Gnome based distribution are recommended for best compatibility.&#x20;
+2. Download the latest "xLights-20xx.xx-x86\_64.AppImage" file from:&#x20;
+   1. [https://github.com/xLightsSequencer/xLights/releases](https://github.com/xLightsSequencer/xLights/releases)
+3. Set the AppImage file as an executable (for example ‘chmod +x ./xLights-xxxx.xx-x86\_64.AppImage’) and then run the file directly.
