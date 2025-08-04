@@ -50,6 +50,12 @@ Output Preferences are related to sending data to physical hardware.
 
 ![](<../../../../.gitbook/assets/image (507).png>)
 
+## Check Sequence
+
+Enable/Disable warning or errors in the check sequence output.
+
+<figure><img src="../../../../.gitbook/assets/image (1203).png" alt=""><figcaption></figcaption></figure>
+
 ## Random Effects
 
 The Random Effects tab allows the user to set which effects are used by the Generate Random Effects Right click menu option in the sequencer.
@@ -68,6 +74,14 @@ The Color Tab allows the user to change the colors options of xLights.
 
 ![](<../../../../.gitbook/assets/image (1075).png>)
 
+## Services
+
+Enable 3rd Party Services
+
+<figure><img src="../../../../.gitbook/assets/image (1205).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ## Other
 
 Output Preferences contains settings that did not fall under the other categories.
@@ -76,4 +90,4 @@ Output Preferences contains settings that did not fall under the other categorie
 [other.md](other.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (13).png>)
+<figure><img src="../../../../.gitbook/assets/image (1204).png" alt=""><figcaption></figcaption></figure>
