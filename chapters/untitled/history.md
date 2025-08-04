@@ -40,4 +40,5 @@ On February 18th, 2017, the sequence player/scheduler was removed making xLights
 
 The Summer of 2018 saw the release of the 3D layout and rendering capabilities thanks to Gil Jones.
 
-Both Matt and Sean have always believed their software should be made available free to the lighting community. As such you can download the source code from: [https://github.com/smeighan/xLights](https://github.com/smeighan/xLights).
+Both Matt and Sean have always believed their software should be made available free to the lighting community. As such you can download the source code from: [https://github.com/xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights).
+
