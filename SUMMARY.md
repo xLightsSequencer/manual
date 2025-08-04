@@ -24,7 +24,7 @@
 * [Installation](chapters/chapter-three-installation/README.md)
   * [Upgrade](chapters/chapter-three-installation/backup.md)
   * [Windows](chapters/chapter-three-installation/windows.md)
-  * [Macintosh](chapters/chapter-three-installation/macintosh.md)
+  * [MacOS](chapters/chapter-three-installation/macintosh.md)
   * [Linux](chapters/chapter-three-installation/linux.md)
 * [Controllers Tab](chapters/chapter-four-set-up/README.md)
   * [Controllers](chapters/chapter-four-set-up/set-up.md)
@@ -181,4 +181,4 @@
 
 * [Configure Matrix Panels](tutorials/configure-matrix-panels.md)
 * [Coming from LOR](tutorials/coming-from-lor.md)
-* [Editing xLights\_rgb.xml](tutorials/xlights\_rgb.xml.md)
+* [Editing xLights\_rgb.xml](tutorials/xlights_rgb.xml.md)
