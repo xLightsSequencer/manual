@@ -32,13 +32,25 @@ The Spiral Wraps attribute defines many times a strand is wrapped around the tre
 
 The Bottom/Top Ratio determines the angle of the tree strands. A ratio of 6 will have a bottom 6 times larger than the top. A ratio of 1 will create a straight vertical cylinder. This can be used to adjust the cone shape of the tree.
 
+### Alternate Nodes
+
+Alternate Nodes will "hop" every other node down and back to have the string start and stop at the same location.
+
+### Don't Zig Zag
+
+When Enabled all strands will start at the bottom and end at the top or start at left and end at the right. The strands normally "fold" or zigzag at the top and/or bottom.
+
+### Strand Direction
+
+Strand direction defines the direction of the pixel/light stands. Vertical (the most common) is normally used for trees and Horizontal can be used for Tunnels.
+
 ### Starting Location
 
 The Starting Location is used to define where the first node starts in a multidimensional model (i.e. a matrix or mega tree).  Set to the default value of Bottom Left if running from left to right or Bottom Right if running from right to left.
 
 In this example, a 360 degree Mega Tree visually has 15 strings of 50 pixels on each string, with 2 Strands per String. This will "fold" the strings once causing the tree to be 30 strands wide and have strands of 25 pixels long.
 
-![](../../../.gitbook/assets/base64fa21bae3561e4ba6.png)
+<figure><img src="../../../.gitbook/assets/image (1208).png" alt=""><figcaption></figcaption></figure>
 
 Each string starts from the bottom, goes up to the top of the tree and loops back down. So half the number of physical strings are required.
 

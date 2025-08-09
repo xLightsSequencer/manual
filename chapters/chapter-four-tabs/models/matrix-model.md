@@ -8,18 +8,22 @@ The direction can be defined as horizontal (the most common) or vertical. The â€
 
 The starting location indicates where the matrix is connected to the controller (or where channel 1 of the matrix is).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1209).png" alt=""><figcaption></figcaption></figure>
 
 Above is an example of a horizontal matrix with 16 rows and 50 pixels per row. &#x20;
 
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-If the Strands/String is set to '2' it will add a zigzag and there will be 32 rows with 25 pixels per row.
+If the **Strands/String** is set to '2' it will add a zigzag and there will be 32 rows with 25 pixels per row.
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Alternate Nodes will "hop" every other node down and back to have the string start and stop at the same location.
+**Alternate Nodes** will "hop" every other node down and back to have the string start and stop at the same location.
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Don't Zig Zag
+
+When Enabled all strands will start at the bottom and end at the top or start at left and end at the right. The strands normally "fold" or zigzag at the top and/or bottom.
