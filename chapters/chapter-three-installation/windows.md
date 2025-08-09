@@ -21,10 +21,22 @@ The xLights software will be installed in the destination location. In addition 
 
 The location can be modified during the software install process by the user.
 
-When xlights is installed, some browsers/virus scanners may flag the file and either prevent download or require you to provide extra assurances that you really want to download the file.
+When xLights is installed, some browsers/virus scanners may flag the file and either prevent download or require you to provide extra assurances that you really want to download the file.
+
+### Winget
+
+xLight is available in the winget package manager. Run the following command in terminal to install.&#x20;
+
+```
+winget install xLights
+```
+
+### Windows On ARM
+
+xLights works with the x64 Emulation in Windows on ARM. To work correctly a OpenGL on DirectX 12 driver needs to be installed. Link to Microsoft Store: [https://apps.microsoft.com/detail/9nqpsl29bfff?hl=en-us\&gl=US\&ocid=pdpshare](https://apps.microsoft.com/detail/9nqpsl29bfff?hl=en-us\&gl=US\&ocid=pdpshare)
 
 ### Installing Queen Mary Vamp Plugins
 
 If you do not have Audacity installed on your computer, then you should at least install the Queen Mary Vamp plugins for Audacity.
 
-For the QM vamp plugin packages that can be installed without Audacity installed you will need to download two installers, the first is the Microsoft Visual C++ 2015 Redistributable([vc\_redist.x64.exe](https://www.microsoft.com/en-us/download/confirmation.aspx?id=52685)) and the second is the QM Vamp Plugins([Vamp\_Plugin64.exe](https://xlights.org/downloads/Vamp\_Plugin64.exe)). Both installer can be found at: [https://xlights.org/releases/](https://xlights.org/releases/). Run the "vc\_redist.x64.exe" installer first and then the "Vamp\_Plugin64.exe" installer.
+For the QM vamp plugin packages that can be installed without Audacity installed you will need to download two installers, the first is the Microsoft Visual C++ 2015 Redistributable([vc\_redist.x64.exe](https://www.microsoft.com/en-us/download/confirmation.aspx?id=52685)) and the second is the QM Vamp Plugins([Vamp\_Plugin64.exe](https://xlights.org/downloads/Vamp_Plugin64.exe)). Both installer can be found at: [https://xlights.org/releases/](https://xlights.org/releases/). Run the "vc\_redist.x64.exe" installer first and then the "Vamp\_Plugin64.exe" installer.
