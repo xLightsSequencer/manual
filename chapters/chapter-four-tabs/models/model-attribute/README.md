@@ -74,6 +74,10 @@ For models with multiple strands or elements, you can specify the start channel 
 
 ![](<../../../../.gitbook/assets/image (1180).png>)
 
+## Shadow Model For
+
+Shadow Model allows model to be used as surrogates models for unique render styles or controller configuration. This will disable the channel overlap warnings, as it was intentional.&#x20;
+
 ## Preview Display
 
 The Preview setting controls whether the model is to appear in the House Preview screen and also which Preview layout screen. Click within the setting to open up a window which lists all the available Previews. If you have created additional Preview layouts, they will be listed in the window.
