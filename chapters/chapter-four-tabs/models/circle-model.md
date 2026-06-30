@@ -31,3 +31,13 @@ The default starting pixel is at the bottom of the circle, go clockwise on the o
 
 
 ![](<../../../.gitbook/assets/image (104).png>)
+
+## Model Settings
+
+<!-- TODO: screenshot -->
+
+| **Options/Setting** | **Description** |
+| --- | --- |
+| **Center %** | How much of the circle is taken up by the empty center area (0-100). Decreasing it pulls the rings inward; increasing it pushes them outward. |
+| **Layers** | The number of concentric rings in the circle (1-100). When more than one layer is set, a node count is exposed for each layer (the innermost is labelled **Inside**, the outermost **Outside**, the rest **Layer 2**, **Layer 3**, etc., each 1-1000). The layer node counts must add up to the total number of nodes in the model. |
+| **Starting Location** | Where wiring begins and which way it runs. Choices: **Top Outer-CCW**, **Top Outer-CW**, **Top Inner-CCW**, **Top Inner-CW**, **Bottom Outer-CCW**, **Bottom Outer-CW**, **Bottom Inner-CCW**, **Bottom Inner-CW**. The default starts at the bottom of the outer ring and runs clockwise (Bottom Outer-CW). |
