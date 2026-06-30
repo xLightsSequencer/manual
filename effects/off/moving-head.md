@@ -53,7 +53,7 @@ The Pattern tab generates the pan and tilt movement from a parametric shape inst
 
 The pattern can be rotated, and the rotation can be animated across the duration of the effect using a Value Curve, so the shape sweeps or spins as it plays.
 
-<!-- TODO: screenshot -->
+<figure><img src="../../.gitbook/assets/moving-head-pattern-tab.png" alt="" width="350"><figcaption></figcaption></figure>
 
 ### Gobo Tab
 
@@ -61,4 +61,4 @@ The Gobo tab is available when the moving head model has gobo support configured
 
 Use this tab to select which gobo is projected by the selected heads and to set the gobo rotation.
 
-<!-- TODO: screenshot -->
+<figure><img src="../../.gitbook/assets/moving-head-gobo-tab.png" alt="" width="350"><figcaption></figcaption></figure>

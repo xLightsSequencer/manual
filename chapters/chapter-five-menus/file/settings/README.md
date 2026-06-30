@@ -2,6 +2,8 @@
 
 The Preferences dialog groups all of the global xLights settings into a number of pages. On Windows and Linux these pages are listed down the left side of the dialog with an icon for each, and you click a page to display its settings.
 
+![](<../../../../.gitbook/assets/preferences-page-list.png>)
+
 ## Backup
 
 Backup Preferences contains all the backup and restore settings.
