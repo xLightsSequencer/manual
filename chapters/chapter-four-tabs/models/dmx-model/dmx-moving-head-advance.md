@@ -34,3 +34,11 @@ Parameters:
   Upside Down: Check this box if you head is mounted inverted
 * Most other properties are similar to the previous moving heads
 * BaseMesh, YokeMesh, HeadMesh: These can be used to change the OBJ objects used to draw the head.
+* Gobo: You can set a Gobo Channel and an optional Gobo Rotation Channel, then define named gobo slots that pair a name with the DMX value that selects it. The Moving Head effect's Gobo tab can then choose a gobo by name and animate its rotation.
+
+Position Zones:
+
+* Position Zones let you define named pan/tilt regions for the fixture - for example "Audience", "Stage Left" or "Sky". Once defined, a zone can be recalled by name instead of dialing in raw pan/tilt values.
+* Each zone is entered using spinner inputs for its pan/tilt extents, with on-screen instructions and a preview indicator shown while you edit so you can see where the zone points. Related defaults can be set in Preferences.
+
+<!-- TODO: screenshot -->

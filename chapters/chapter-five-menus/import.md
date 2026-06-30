@@ -82,6 +82,28 @@ When done, select "Save Mapping", and save the XMAP file. This XMAP file can the
 
 Click OK when done.
 
+### Mapping Dialog Options
+
+The Import Effects mapping dialog provides a number of options to make mapping larger or repeated imports faster.
+
+* **Load Mapping / multiple map files** – A previously saved XMAP file can be loaded to populate the Map To column. You can load more than one mapping file in succession. When a loaded mapping would overwrite mappings that are already in place, you are prompted to either **Replace** the existing mappings or **Add Additional** mappings on top of them, so several maps can be stacked together.
+* **Clear All / Clear Selected** – Clear every mapping at once, or clear only the highlighted rows, without having to start the dialog over.
+* **Number of effects** – The left side of the mapping list shows how many effects each model in the donor sequence contains, helping you decide which elements are worth mapping.
+* **Convert to Per Model** – When importing onto a model group, effects can be converted to render Per Model so they map onto the individual models in the group.
+* **Add empty group** – While mapping you can add an empty group to map effects into.
+* **Submodels** – Submodels can be sorted within their model and unmapped submodels can be hidden to reduce clutter. Models are matched to your layout by alias where one exists.
+* **Show Timeline** – Lyric/phoneme timing tracks are mapped using checkboxes, and the dialog remembers your show-timeline preference between sessions.
+
+A key binding can be assigned to open the Import Effects window directly. See the Key Bindings dialog to set one.
+
+<!-- TODO: screenshot -->
+
+### AI and Lua Auto-Mapping
+
+When one or more AI Services are enabled (see Preferences → Services), xLights can attempt to automatically map the donor sequence's models to the models in your layout, matching them by name and characteristics. Review and adjust the suggested mappings before clicking OK, as automatic matches are not guaranteed to be correct.
+
+Sequence importing and auto-mapping can also be driven from Lua scripts, allowing repetitive imports to be automated.
+
 ### Importing a SuperStar Sequence
 
 Change the File Type drop-down to SUP. Then select the SuperStar Sequence File.

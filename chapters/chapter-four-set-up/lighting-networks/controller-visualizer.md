@@ -10,6 +10,18 @@ Hover over a model to display its current settings.
 
 ![](<../../../.gitbook/assets/image (372).png>)
 
+### Model Search
+
+A search box at the top of the model list lets you quickly jump to a model by name. Start typing part of a model name to filter or locate the matching model, which is useful when a show has a large number of models.
+
+<!-- TODO: screenshot -->
+
+### Base Show Folder Models
+
+Model boxes for models that come from the base show folder display a link icon. This indicates the model is shared from the base show folder rather than defined directly in the current show folder.
+
+<!-- TODO: screenshot -->
+
 ### Size Adjustment Sliders
 
 ![](<../../../.gitbook/assets/image (820).png>)
@@ -72,6 +84,8 @@ Set the Type of Smart Receiver. V1 "White" Receivers are "falconv1", "Blue" or "
 
 ![](<../../../.gitbook/assets/image (26).png>)
 
+For controllers that require all ports in a port block to use the same smart receiver type, changing the type on one port automatically syncs that type across the rest of the port block, so the ports stay consistent.
+
 #### Cascade Down Port
 
 When enable, this will change the string order to proceed down the daisy chained receivers on the current "chain" of remotes. This is needed for controllers that don't support 'Virtual Strings' like the HinksPix Pro.
@@ -111,6 +125,8 @@ Clear the Model Brightness.
 Set the Controller Port Protocol.
 
 ![](<../../../.gitbook/assets/image (459).png>)
+
+On KulpLights controllers that have two serial ports, each serial port can be set to its own protocol independently, so the two ports do not have to share the same serial protocol.
 
 ### Remove all models from port
 

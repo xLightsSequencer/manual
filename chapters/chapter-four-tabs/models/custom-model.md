@@ -100,6 +100,20 @@ To edit the custom model, select the Model Data the same as was done with the in
 Run Check Sequence to indicate if any Custom Models have skipped node numbers.
 {% endhint %}
 
+## Displaying the Image in the Layout
+
+A custom model can optionally keep its image visible in the Layout and House Preview, not just while editing the grid. In the model properties, **Background Image Scale %** sets how large the image is drawn relative to the model bounds (100 = fit the model), and **Background Image Brightness %** controls how bright it appears (0 = black, 100 = full brightness). This is handy for props such as cut-outs or wire-frames where seeing the underlying artwork helps you place the model.
+
+<!-- TODO: screenshot -->
+
+## Strings and Start Channels
+
+The number of physical **Strings** on a custom model is configurable, and custom models support a large number of strings for big props that are split across many controller ports.
+
+Custom models also support **Individual Start Channels**, letting each string be assigned its own start channel rather than running sequentially from the model's start channel. This is useful when the strings of a single model connect to different ports or controllers.
+
+The Wiring View shows a running **Total Nodes** count in its header overlay so you can confirm the model has the expected number of nodes as you build it.
+
 ## **Export Custom Model**
 
 A custom model can be exported so that it can be shared with others, used in different layout, or for adding additional copies of the model to this layout.

@@ -28,6 +28,8 @@ The Model Preview window displays the effects on a model as the sequence is play
 
 The House Preview window displays the effects of your entire display where the model or model group has been assigned to the currently selected Preview window. Refer to explanations of multiple Preview windows in the Layout section. It can also be opened/closed by clicking on the icon on the toolbar.
 
+When the House Preview is popped out into its own window, a right-click **Keep on Top** option keeps that window above other applications, which is handy when previewing alongside another program.
+
 ![](<../../../.gitbook/assets/image (1137).png>)
 
 ### ![](<../../../.gitbook/assets/Effect Settings Icon.JPG>) Effect Settings

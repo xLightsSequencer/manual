@@ -38,10 +38,27 @@ You can click and drag the circle around to change the color.\
 If you Shift-Left click you can define additional circles and a number appears inside the circle.\
 Multiple circles will cause the effect to do a colorwash through the selected colors.\
 Click a circle and press the delete key to remove one.\
-The color bar at the bottom can be used to dial down the brightness of the selected color.
+The color bar at the bottom can be used to dial down the brightness of the selected color.\
+Control (Ctrl) click in the color circle to open the custom color picker for precise color entry.
 
 
 
 <figure><img src="../../.gitbook/assets/image (1201).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (1202).png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Pattern Tab
+
+The Pattern tab generates the pan and tilt movement from a parametric shape instead of a hand-drawn path. Pick a shape - such as Circle, Eight, Diamond, or Lissajous - and the effect automatically calculates the pan and tilt values needed for the selected heads to trace that shape.
+
+The pattern can be rotated, and the rotation can be animated across the duration of the effect using a Value Curve, so the shape sweeps or spins as it plays.
+
+<!-- TODO: screenshot -->
+
+### Gobo Tab
+
+The Gobo tab is available when the moving head model has gobo support configured. In the model's properties you define a gobo channel, an optional gobo rotation channel, and named gobo slots for the fixture.
+
+Use this tab to select which gobo is projected by the selected heads and to set the gobo rotation.
+
+<!-- TODO: screenshot -->

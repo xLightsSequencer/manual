@@ -17,6 +17,7 @@ It is also used within xLights functionality to generate Singing Faces. The use 
 | **Face Definition**           | Sets Face Definition to use. These are setup in the model preference under the 'Faces' option.                                           |
 | **Eyes**                      | Sets if the Eyes are 'Open', 'Close', 'Automatic', or '(off)'.  'Automatic' blinks the eye based on frequency. '(off)' disables the eye. |
 | **Eye Blink Frequency**       | Set the speed of Automatic Eye Blinking                                                                                                  |
+| **Eye Blink Length**          | Sets how long each automatic eye blink lasts (the duration the eyes stay closed during a blink).                                         |
 | **Show Outline**              | Show outline if defined in the Face Definition.                                                                                          |
 | **Suppress Shimmer**          | Skip '-shimmer' tags in Timing Tracks lyrics.                                                                                            |
 | **Use State as outline**      | Use a State Definition for 'coloring' the Outline                                                                                        |

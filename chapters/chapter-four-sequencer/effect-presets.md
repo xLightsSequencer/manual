@@ -39,3 +39,15 @@ To import a preset, click on Import Preset, browse to where the  ‘.xpreset’ 
 ### Maintaining Presets
 
 You can move an effect preset from one group to another group by dragging it across from one group to another. You can also highlight the name and delete it or rename it.
+
+### Docking the Presets Window
+
+The Effect Presets window can be docked into the main xLights window like the other panels, instead of floating, so it can be kept open alongside the sequencer grid.
+
+### Smart Presets
+
+Presets can be saved so that they adapt when applied. As well as the standard absolute presets, you can save relative and automatic layer-mode presets that adjust to the target effect or drop location. Pasting a multi-layer preset with Ctrl+V (Cmd+V on OSX) automatically inserts the layers it needs at the paste location.
+
+### Base Show Folder Presets
+
+If you use a base show folder, the presets stored in that base folder can be accessed and applied in your sequences, so shared presets are available across the shows that build on it.

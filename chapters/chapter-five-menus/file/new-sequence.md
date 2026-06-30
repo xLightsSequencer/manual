@@ -71,6 +71,12 @@ Ensure that you save the sequence prior to exiting to save the work that has bee
 
 If creating an animation sequence, click on Animation Sequence.  No media/audio file is required or requested for.
 
+The new sequence wizard adds a default timing track for you so the sequence has somewhere to place timing marks from the start.
+
+### Effect Sequence
+
+An Effect Sequence is a special sequence type designed for reusable effect overlays that won't interfere with other models on your controllers. Effect sequences are saved as sparse V2 FSEQ files containing only the exact channel ranges used, with no default timing tracks and no view selection. This makes them well suited to short, reusable effects that can be layered on top of other sequences.
+
 ### Metronome Timing Track
 
 This option enables you to create a timing track with marks at fixed intervals of your choice e.g every 1 second or every 5 secs.  This is especially useful for animation sequences so that you don’t then have to go through and create timing marks manually.

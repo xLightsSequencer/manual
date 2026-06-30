@@ -15,3 +15,5 @@ In this example, the single strand model has ten nodes and starts at channel 724
 In the case if you have a vertical setup , then the first channel should match the node connected to the controller or end of the previous model.
 
 Accordingly change the orientation of the model to match that. You can however, reverse the orientation in many hardware controllers as well.
+
+To quickly reverse the wiring direction, right click the model on the Layout tab and choose **Swap Start/End**. This flips the start and end points so the string runs the other way without having to redraw the model.

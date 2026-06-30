@@ -49,8 +49,17 @@ For Skulls with servos embedded in them. Skulltronix Skulls are also supported.
 | Tilt Attributes     | Set the Tilt Channel, Orientation, Rotation                                                                                                                                                                                                    |
 | Color Type          | RGBW is 4 individual color channels. Color Wheel uses one channel for the color wheel and one for brightness.                                                                                                                                  |
 | Shutter Attributes  | Set the Shutter Channel, Open Threshold,  and On Value. 'Open Threshold' is the DMX value when the shutter will open and the light will be visible. 'On Value' is a fixed value the shutter channel will be once enabled, '0' will disable it. |
+| Gobo Attributes     | Set the Gobo Channel and (optional) Gobo Rotation Channel, and define named gobo slots. Each slot pairs a name with the DMX value that selects it, so the Moving Head effect can choose a gobo by name and animate its rotation. See below.    |
 
 
+
+### Gobo Support
+
+Moving Head models can be configured with a gobo wheel. In the model properties you set a **Gobo Channel** and, for fixtures with a rotating gobo, an optional **Gobo Rotation Channel**. You then define **named gobo slots**, each pairing a friendly name with the DMX value that selects that gobo on the wheel.
+
+Once the model is configured, the Moving Head effect provides a Gobo tab that lets you pick a gobo by name and set its rotation, so you do not have to remember the raw DMX values for each slot.
+
+<!-- TODO: screenshot -->
 
 {% hint style="info" %}
 Due to the Custom Render Styles of DMX model it is recommended to use Per Model Default render style when added effects to a group of DMX Models

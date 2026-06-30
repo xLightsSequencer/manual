@@ -46,6 +46,10 @@ From the sequencer grid view, right click on a model name, and click on the Togg
 
 ![](<../../.gitbook/assets/pasted image 0 (19).png>)
 
+{% hint style="success" %}
+You can also Shift+double-click a model row to expand or collapse its strands. When expanding a model you can use the right-click menu to hide any unused submodels so only the ones with effects are shown.
+{% endhint %}
+
 With the strands view open (i.e. displayed), right click on a strand to either toggle the strands closed or to Toggle Nodes and display the nodes for a strand.
 
 This is often useful to see how a particular effect has been rendered down to the node level.

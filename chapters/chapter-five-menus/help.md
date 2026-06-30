@@ -16,7 +16,7 @@ This opens the default web-browser with a link to the xLights Zoom Meeting Room.
 
 ### Key Bindings
 
-View a list of the current keyboard shortcuts.
+View a list of the current keyboard shortcuts. The list opens in a resizable, scrollable window so the full set of shortcuts can be reached on any display size.
 
 ### Content
 
@@ -52,8 +52,14 @@ Link to the Offical xLights PayPal Donation web page.
 
 ### Check for Updates
 
-Checks for new version of xLights. This is also done automatically on program startup.
+Checks for new version of xLights. This is also done automatically on program startup. When a newer release is available, xLights can download the new release installer directly from GitHub and run it for you, instead of just opening a web browser to the download page.
 
 ### About
 
-The About option display a window containing xLights release information, the official website, copyright and acknowledgements.
+The About option display a window containing xLights release information, the official website, copyright and acknowledgements. The About window also reports the active graphics backend (for example, which OpenGL implementation is in use), which is useful when diagnosing display issues.
+
+## Command Palette
+
+The Command Palette is a searchable launcher for almost any menu command or effect. Press Ctrl+Shift+K (Cmd+Shift+K on macOS) to open it, then start typing. The list filters with a fuzzy match as you type, and you can move through the results with the keyboard and press Enter to run the selected command or drop the selected effect. This provides a fast, mouse-free way to reach a command without hunting through the menus.
+
+<!-- TODO: screenshot -->

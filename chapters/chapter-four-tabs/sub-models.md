@@ -114,6 +114,24 @@ This will Shift all the submodels nodes numbering 1->21, 100->120
 
 This will reverse all the submodels nodes numbering. 1->100, 100->1.
 
+### Symmetrize
+
+Symmetrize generates additional submodels that mirror an existing submodel around the model, which is handy for building matching segments such as the arms of a snowflake or the points of a star. When you symmetrize you can choose:
+
+* **Degree of Symmetry** – how many copies are produced around the model.
+* **Rotation Direction** – whether the copies are built clockwise or counter‑clockwise.
+* **Build Order** – the order in which the resulting submodels are created and numbered.
+
+These choices are remembered between openings, so the dialog reopens with your last‑used settings.
+
+### Combine Strands
+
+Combine Strands merges multiple strands into a single submodel.
+
+{% hint style="info" %}
+The Symmetrize and Combine Strands options are greyed out when they do not apply to the current selection.
+{% endhint %}
+
 ## Import
 
 ![](<../../.gitbook/assets/image (311).png>)

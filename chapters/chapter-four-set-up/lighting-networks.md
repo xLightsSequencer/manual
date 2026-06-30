@@ -36,6 +36,10 @@ To add a controller, click the add button for the desired controller type.
 
 This will automatically find ZCPP and DDP controllers already attached to the local network.
 
+WLED controllers that advertise themselves on the network (mDNS / `_wled._tcp`) are also discovered automatically. A discovered WLED device is added as a DDP controller with Auto Size and Auto Layout Models enabled, so it is ready to have models assigned to its ports with little additional configuration.
+
+FPP controller discovery uses the operating system's native mDNS / DNS-SD support, including on Windows, so FPP devices on the local network are found without extra setup.
+
 ## Controller Settings Grid
 
 ![](<../../.gitbook/assets/image (84).png>)
@@ -109,6 +113,12 @@ By default, data will be sent every output frame, If this option is enabled, xLi
 </div>
 
 This is needed when a FPP device is being used as proxy or bridge between your home network and show network, where the controller are attached.  This is typically the WIFI IP of a FPP instance that bridges the wifi and Ethernet networks. The FPP Proxy IP/Host option is used in conjunction with FPP 2.8+ Controller Proxy.
+
+### Last Input / Output Dates
+
+The controller settings also show the date the controller configuration was last uploaded to xLights (input) and last uploaded from xLights to the controller (output). These dates make it easy to confirm whether the settings on the controller are in sync with the current xLights configuration.
+
+<!-- TODO: screenshot -->
 
 ## USB Controller
 

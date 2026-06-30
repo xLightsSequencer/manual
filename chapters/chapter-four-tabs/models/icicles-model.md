@@ -21,3 +21,7 @@ This pattern is then repeated until 80 nodes have been accounted for.
 Alternate Nodes will skip every other hole to allow wiring up and down each icicle and prevent wire splicing.
 
 ![](<../../../.gitbook/assets/image (323).png>)
+
+### Export / Import
+
+An Icicles model can be saved to and loaded from an xModel file. Right click the model on the Layout tab and choose **Export xLights Model** to save it, or use the **Import xLights Model** option to recreate it in another layout. This makes it easy to reuse the same icicle configuration across shows or share it with others.

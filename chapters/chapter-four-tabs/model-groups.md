@@ -28,6 +28,8 @@ If ‘Grid as per preview’ is selected , then the buffer used will be exactly 
 
 If ‘Minimal Grid’ is selected then the buffer area will be an area just surrounding the model group.
 
+The **Per Model Default** layout option can also be chosen for a model group. When selected, any effect placed on the group that uses the *Default* render style is automatically rendered per-model on that group, rather than across a single combined buffer.
+
 {% hint style="success" %}
 Select minimal grid wherever you can. Large grid sizes can significantly slow down rendering, particularly on some effects like fan and shockwave.
 {% endhint %}
@@ -43,6 +45,8 @@ The order of the models in the ‘Models in Group’ determines the render order
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (1056).png>)
+
+The model group panel also provides **Sort By Name** and **Sort By Location** options to reorder the models in the group. Sorting by name lists the models alphabetically, while sorting by location orders them based on their position in the layout. Because the order of the models determines the render order for *Per Model* group render styles, sorting is a quick way to set a sensible default order.
 
 ### Delete Group
 

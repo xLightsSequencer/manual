@@ -1,5 +1,7 @@
 # Preferences
 
+The Preferences dialog groups all of the global xLights settings into a number of pages. On Windows and Linux these pages are listed down the left side of the dialog with an icon for each, and you click a page to display its settings.
+
 ## Backup
 
 Backup Preferences contains all the backup and restore settings.
@@ -76,11 +78,24 @@ The Color Tab allows the user to change the colors options of xLights.
 
 ## Services
 
-Enable 3rd Party Services
+The Services page lets you enable and configure third-party AI services. Once enabled, these services can be used inside xLights to generate color palettes, generate images (for example for the Pictures effect), and assist with automatically mapping imported sequences.
 
 <figure><img src="../../../../.gitbook/assets/image (1205).png" alt=""><figcaption></figcaption></figure>
 
+A number of providers are supported, including:
 
+* **ChatGPT** (OpenAI)
+* **Generic OpenAI** – any local or remote service that implements the OpenAI v1 API
+* **Ollama** – locally hosted models
+* **Gemini** (Google)
+* **Claude / Anthropic**
+* **Apple Intelligence** – on supported Macs
+
+Most services require an API key, which you enter on this page. For ChatGPT, the Generic OpenAI client, and Ollama, xLights can fetch the list of available models from the server and present it as a dropdown so you can pick which model to use; a model picker is also available in the AI image generation dialog. Which providers and features are available depends on the platform and the services you have enabled. Use the Test button to confirm that an enabled service is reachable.
+
+{% hint style="info" %}
+Image generation and color palette features depend on the capabilities of the selected provider and platform. For example, some Apple Intelligence features require a recent version of macOS.
+{% endhint %}
 
 ## Other
 

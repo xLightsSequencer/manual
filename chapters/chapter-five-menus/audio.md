@@ -11,7 +11,7 @@ This function enables you to to play the audio during sequencing at normal (Full
 Click in the waveform and then select one of the speed options. Click Play. The audio will then be played at the selected speed and the vertical visual indicator will move along at the speed being played. &#x20;
 
 {% hint style="info" %}
-As the speed is slowed the pitch of the song will get lower.
+On Windows, the audio pitch is now preserved when playing at adjusted speeds, so the song stays at its normal pitch even when sped up or slowed down.
 {% endhint %}
 
 To return to normal speed, select Play Full Speed.
