@@ -17,3 +17,8 @@ Place the Glediator effect in on timing cells that you wish to have the effect o
 You may also use Jinx! to create effects. It will create a ‘.out’ file which can be used with this effect. There is no need to rename the saved output file to .gled to use with the Glediator effect. The Glediator effect now supports .GLED and .OUT files.
 
 ![](<../../.gitbook/assets/pasted image 0 (35).png>)
+
+| **Options/Setting** | **Description** |
+| --- | --- |
+| **Glediator File** | Path to a Glediator (.gled), Jinx (.out), or CSV file containing pre-rendered pixel data to play back on the model. |
+| **Duration Treatment** | How to handle timing when the file length differs from the effect duration. Normal stops at the end, Loop restarts from the beginning, Slow/Accelerate stretches or compresses playback to fit. Options: Normal, Loop, Slow/Accelerate. Default Normal. |
