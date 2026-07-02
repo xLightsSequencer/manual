@@ -66,7 +66,7 @@ Click on Save Changes if you want to save your changes. If you click Cancel then
 
 ![](<../../../.gitbook/assets/image (338).png>)
 
-The Preferences Dialog allows the user to set all the global settings in xLights. These settings are stored in the system register and are persistent between show folders.
+The Preferences Dialog allows the user to set all the global settings in xLights. These settings are stored in an xLights settings file (settings.json) in your user application data folder and are persistent between show folders.
 
 {% content-ref url="settings/" %}
 [settings](settings/)
@@ -105,6 +105,10 @@ The Export House Preview Video feature will "Play" the loaded sequence and creat
 In order to change your show Directory, select Select Show Folder from the File menu, press F9 or click on the Change button against the Show Directory on the Setup tab.You will be prompted to navigate to and select a new directory folder to select.
 
 Ensure that you have the correct xLights XML files (xlights\_keybindings.xml, xlights\_networks.xml and xlights\_rgbeffects.xml) in your new directory.
+
+{% hint style="info" %}
+The first time you run xLights with no show folder set, it offers to create and use a default show folder at Documents/xLights so you can get started straight away. You can accept this default or choose a different folder.
+{% endhint %}
 
 ### ![](<../../../.gitbook/assets/Show Directory Icon.JPG>) Recent Show Folder
 

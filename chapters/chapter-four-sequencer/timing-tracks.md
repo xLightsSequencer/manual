@@ -34,9 +34,25 @@ If you have multiple timing tracks defined,
 
 ![](<../../.gitbook/assets/pasted image 0 (11).png>)
 
+{% hint style="info" %}
+In the Master view more than one timing track can be active at the same time.
+{% endhint %}
+
 You can set up timing marks on any timing track manually, by placing your cursor on the waveform (above the grid) and while playing the sequence, press the ‘t’ key where you wish the timing mark to appear. This is equivalent to what is called a 'tapper' function.
 
-You can also have xLights create fixed timing interval timing tracks by selecting the Metronome timing option and then choosing the timing interval.
+You can also have xLights create fixed timing interval timing tracks by selecting the Metronome timing option and then choosing the timing interval. Metronome timing tracks can be given a name when they are created.
+
+### Audio-Generated Timing Tracks
+
+The Add Timing Track dialog can also analyse the sequence audio to generate timing marks automatically:
+
+* **Audio Tempo** detects the beat and drops a fixed timing track with a mark on every beat.
+* **Audio Onsets** places marks at detected percussive onsets.
+* **Audio Chords** detects the chords being played and drops a variable timing track whose back-to-back marks are labelled with the detected chord names.
+
+On macOS, a **Speech Recognizer** option can create a timing track from the spoken words in the audio. It works best with clean voice tracks and announcement-style material.
+
+<!-- TODO: screenshot -->
 
 ### Fixed Timing Tracks
 
@@ -55,6 +71,14 @@ While on the sequencer tab, you can add new timing tracks or delete an existing 
 Right Click , with your cursor in the area of the timing track names and select Add Timing Track or Delete Timing Track.
 
 ![](<../../.gitbook/assets/image (520).png>)
+
+### Subdividing and Editing Marks
+
+Right-clicking a timing track gives you tools for reworking its marks. You can subdivide the existing marks to generate a finer timing track, and divide the selected timings by a predefined interval (also available as keyboard shortcuts). On lyric timing tracks a Find/Replace option lets you fix or change the imported text across the track.
+
+### Online Lyric Search
+
+Right-clicking a timing track offers a "Search for Lyrics Online" option that looks up synced lyrics by song title and artist (pre-filled from the sequence header) and imports the chosen result as a phrase-per-line lyric timing track. Lyrics can also be generated using AI services configured in Preferences.
 
 ### Importing Timing Track
 

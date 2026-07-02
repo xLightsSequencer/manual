@@ -102,6 +102,8 @@ If an effect has a transitions applied a green bar will appear for an in transit
 
 ![](<../../../.gitbook/assets/image (1170).png>)
 
+Many of the transitions support a Blur setting, which softens the edge of the transition as it wipes across the model so the change between effects is less abrupt.
+
 ## Mix Slider
 
 This slider adjusts the level of each effect in the combined output of the effects. You can use this to just put a hint (or more) of one effect on another.

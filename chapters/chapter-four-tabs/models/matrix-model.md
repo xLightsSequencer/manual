@@ -27,3 +27,15 @@ If the **Strands/String** is set to '2' it will add a zigzag and there will be 3
 ### Don't Zig Zag
 
 When Enabled all strands will start at the bottom and end at the top or start at left and end at the right. The strands normally "fold" or zigzag at the top and/or bottom.
+
+## Model Settings
+
+<!-- TODO: screenshot -->
+
+| **Options/Setting** | **Description** |
+| --- | --- |
+| **Direction** | Orientation of the matrix: **Horizontal** (the most common) or **Vertical**. |
+| **Alternate Nodes** | "Hops" every other node down and back so the string starts and stops at the same location. Disabled when **Don't Zig Zag** is enabled. |
+| **Don't Zig Zag** | When enabled, every strand starts at the bottom and ends at the top (or starts at the left and ends at the right) instead of folding/zigzagging at the ends. Disabled when **Alternate Nodes** is enabled. |
+| **Strands/String** | The number of rows (zigzags) per string (1-2500). Setting it to 2, for example, folds each string into two rows. Must divide evenly into Nodes/String. |
+| **Starting Location** | Where channel 1 of the matrix connects to the controller: **Top Left**, **Top Right**, **Bottom Left**, or **Bottom Right**. |

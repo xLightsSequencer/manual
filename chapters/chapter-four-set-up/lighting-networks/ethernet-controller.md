@@ -54,6 +54,8 @@ Sets the IP Address of the Ethernet controller. The host name can also be entere
 
 **(ArtNet/E1.31)** This sets the number of channel per universe. Universe can be any size up to 512 channels. Some controllers require a size of 510 or 512. 510 is recommended.
 
+If Auto Size is enabled together with an uncommon universe size, xLights displays a warning. Auto Size will change the channel count to fit the assigned models, and an unusual universe size combined with Auto Size can produce unexpected channel layouts, so the warning prompts you to confirm the configuration is intentional.
+
 ### Individual Sizes
 
 **(ArtNet/E1.31)** When Enabled, this allows the user to manually set each universe size independent of each other. Not recommended.

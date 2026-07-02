@@ -10,6 +10,7 @@ The Cube model is a 3D model that is used to model objects like Pixel/Peace Stak
 
 | Options/Settings                | Description                                                                                                                                                                                                                                                                                                               |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Shape                           | Choose **Cube** to lay the nodes out in a rectangular box, or **Cylinder** to wrap the layers into a round tube. See below.                                                                                                                                                                                                |
 | Starting Location               | Determines the starting of the pixel string wiring.                                                                                                                                                                                                                                                                       |
 | Direction                       | Direction of the wiring and how it "snakes" though the nodes. Horizontal proceeds left and right based on the front perspective. Vertical will go up and down. Stacked will wire each layer then move to the next layer. See below for examples                                                                           |
 | Stand Style                     | <p><strong>Zig Zag</strong> - Wiring winds back and forth.</p><p><strong>No Zig Zag</strong> - Wiring follows the direction and starts back at the beginning of the next line.</p><p><strong>Alternate Pixel</strong> - Wiring 'jumps' over every other node to and winds back thought populating the 'jumped' nodes.</p> |
@@ -17,7 +18,17 @@ The Cube model is a 3D model that is used to model objects like Pixel/Peace Stak
 | Width                           | Width of Cube                                                                                                                                                                                                                                                                                                             |
 | Height                          | Height of Cube                                                                                                                                                                                                                                                                                                            |
 | Depth                           | Depth of Cube                                                                                                                                                                                                                                                                                                             |
+| Row Offset                      | (Cube shape only) Shifts every other layer half a node in the **Positive** or **Negative** direction, or **None** to keep the layers aligned. Useful for staggered/brick style layouts.                                                                                                                                    |
 | Strings                         | Number of Physical Strings of Pixels or Lights                                                                                                                                                                                                                                                                            |
+
+### Shape
+
+The **Shape** option controls how the layers of nodes are arranged.
+
+* **Cube** - the layers are stacked as a rectangular box using the Width, Height and Depth values. A **Row Offset** option is available to stagger alternate layers.
+* **Cylinder** - the layers are wrapped into a round tube. When Cylinder is selected the **Width** field becomes **Circumference** (the number of nodes around the tube), **Depth** becomes **Layers** (how many rings are stacked), and a **Hollow %** value sets the inner hollow radius as a percentage of the outer radius (0 = solid, 99 = thin shell).
+
+<!-- TODO: screenshot -->
 
 ### Stand Style
 

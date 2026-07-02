@@ -18,3 +18,4 @@
 | **# Strings**         | The # of Strings corresponds to the physical number of strings for the model.               |
 | **Nodes/String**      | The Nodes/String represents the physical number of light nodes, bulbs or pixels per string. |
 | **Strands/String**    | Number of "Folds" per string. 1 has no folds. 2 has one zig-zag/fold.                       |
+| **Alternate Nodes**   | Skips every other node so the string can be wired up and back down, preventing wire splicing. |

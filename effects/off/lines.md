@@ -8,6 +8,8 @@
 
 This is the Lines effect. It was inspired by the Mystify Screensaver in Windows.
 
+The settings accept fractional (float) values, allowing finer control and more variation in the line movement.
+
 | Option/Settings | Description                            |
 | --------------- | -------------------------------------- |
 | **Lines**       | Number of lines.                       |

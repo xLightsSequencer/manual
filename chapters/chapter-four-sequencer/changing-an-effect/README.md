@@ -36,7 +36,7 @@ Similarly an effect can also be moved vertically from one model to another. Use 
 
 An effect or group of effects can be moved, by highlighting the effect, or range and moving it along the same model row/rows on the grid forwards or backwards. Hold the Shift key to move multiple effects.
 
-Multiple effects can also be moved by using the Ctrl key. Click on the first effect , then hold down the Ctrl key and click on other effects. Then use the arrow keys (Up , Down , Left , Right) to move the selected effects together in the required direction.
+Multiple effects can also be moved by using the Ctrl key. Click on the first effect , then hold down the Ctrl key and click on other effects. Then use the arrow keys (Up , Down , Left , Right) to move the selected effects together in the required direction. Like a single effect, a multiple-effect selection will skip over blocking effects when moved with the arrow keys, and the grid scrolls as needed to keep the moved effects in view.
 
 {% hint style="success" %}
 Effects can be stretched by using the Alt key and dragging one edge of the effect highlighted (most commonly the bottom right corner) to provide a Chase effect. You may need to use Toggle Nodes to view the nodes so as to be able to stretch an effect.
@@ -49,6 +49,22 @@ A simple way to do a chase effect is to select a block of cells and hit 'd' for 
 {% hint style="info" %}
 On OSX use Cmd key instead of Ctrl key.
 {% endhint %}
+
+### Dragging Effects with the Mouse
+
+As well as the arrow keys, effects can be repositioned by dragging them with the mouse. While you drag, a "ghost" outline follows the cursor to show where the effect (or effects) will land when you release the mouse button. Drop on the same row to move the effect in time, or on another model or layer row to move it vertically.
+
+When you run a dragged effect up against a neighbouring effect, it is clamped flush against that neighbour instead of bouncing back to its original position, making it easy to butt effects together. The dragged selection stays selected after the drop, and holding the Ctrl (Cmd on OSX) key while dragging adds the result to the current selection.
+
+When dragging several effects at once, only the ghost outlines that would collide with an existing effect turn red, so you can see exactly which effects are blocked while the rest are free to drop.
+
+{% hint style="success" %}
+A single click on an effect just selects it - clicking will not accidentally resize the effect. Grab one of its edges to change its duration.
+{% endhint %}
+
+### Fade In and Fade Out
+
+You can set an effect's fade in and fade out directly on the grid. Hold the Shift key and drag the left edge of an effect inwards to create a fade in, or drag the right edge inwards to create a fade out. The fade ramps are drawn as diagonal lines on the effect.
 
 ### Aligning effects
 
@@ -86,6 +102,10 @@ Examples
 If it was 100% of the source cell, then the full target cell will be covered.
 
 If it was 50% of the source cell, then 50% of the target will be selected.
+
+{% hint style="success" %}
+A copied selection of effects can also be pasted back at the exact times they were copied from. This is handy for copying a block of effects from one model to another while keeping it perfectly time-aligned with the original.
+{% endhint %}
 
 You can delete an effect, by selecting the effect in the grid and pressing delete on your keyboard or pressing Ctrl+X.
 
@@ -166,3 +186,11 @@ If effects of different types are selected Bulk Edit will only change the settin
 Select and highlight an area on the effects grid. Right click and select the "Create Random effects" option. Effects will be randomly selected (along with different colors and options) and created in the area highlighted, each between consecutive timing marks. If no timing marks are active, then a default time length will be used for each effect. Use the shortcut key ‘R’ to achieve the same result by highlighting one or more cells and pressing 'R' on the keyboard. The Effects used by Create Random Effects can be set in the File->Preferences Menu under the "Random Effects" Tab.
 
 ![](../../../.gitbook/assets/random.gif)
+
+### Close Gaps
+
+Select two or more effects on the same row, right click and choose the option to close the gaps between them. Each effect is stretched (or moved) so that it meets the next one with no empty space in between.
+
+### Split Effects
+
+You can split one or more selected effects from the right-click menu. Each selected effect is divided into two effects that together span the original duration.

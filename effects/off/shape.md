@@ -8,6 +8,8 @@
 
 The shape effect displays different geometric shapes. They are predefined sharps or System Font can be used.
 
+The effect panel groups its settings into Shape, Size, Motion, and Triggers tabs to make the large number of options easier to navigate.
+
 | Option/Settings                | Description                                                                                                                                 |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Object to Draw**             | Defines what shape to draw. Options: Circle, Square, Triangle, Star, Polygon, Heart, Tree, Candy Cane, Snow Flake, Crucifix, Present, Emoji |

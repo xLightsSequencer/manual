@@ -1,5 +1,9 @@
 # Preferences
 
+The Preferences dialog groups all of the global xLights settings into a number of pages. On Windows and Linux these pages are listed down the left side of the dialog with an icon for each, and you click a page to display its settings.
+
+![](<../../../../.gitbook/assets/preferences-page-list.png>)
+
 ## Backup
 
 Backup Preferences contains all the backup and restore settings.
@@ -76,11 +80,13 @@ The Color Tab allows the user to change the colors options of xLights.
 
 ## Services
 
-Enable 3rd Party Services
+The Services page lets you enable and configure third-party AI services. Once enabled, these services can be used inside xLights to generate color palettes, generate images (for example for the Pictures effect), and assist with automatically mapping imported sequences.
+
+{% content-ref url="services.md" %}
+[services.md](services.md)
+{% endcontent-ref %}
 
 <figure><img src="../../../../.gitbook/assets/image (1205).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## Other
 

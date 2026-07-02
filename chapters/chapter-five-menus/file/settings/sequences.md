@@ -16,6 +16,10 @@ When Enabled model like matrixes and trees can be set to render at a smaller res
 
 When enabled, the Model Blending option in the sequence settings dialog will be enabled when creating a new sequence.
 
+### Default Sequence Duration and FPS
+
+These settings let you choose the default sequence length and frame rate (fps) used when creating a new sequence, so you don't have to adjust them each time. The duration applies to animation sequences (media sequences take their length from the audio file), and the fps sets the default timing for new sequences.
+
 ### Default View For New Sequences
 
 ![](<../../../../.gitbook/assets/image (34).png>)

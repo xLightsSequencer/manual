@@ -34,6 +34,14 @@ Allow Blending Between Models determines if effects from the model groups blend 
 
 Changes to the length of sequence duration, Sequence Timing, and Allow Blending Between Models require a "Render All" for the change to take effect in the current open sequence.
 
+#### Trimming Audio
+
+The audio used by the sequence can be trimmed from this tab, so the sequence works with just the portion of the audio file you want.
+
+#### Alternate Audio
+
+In addition to the main audio file, a sequence can reference one or more alternate audio tracks. Alternate audio can be displayed in the waveform and used by features such as the VU Meter effect and value curves. The selector supports multi-select so you can manage several alternate tracks at once, and you can select audio that lives inside a sequence package (zip/piz/xsqz) file.
+
 ## Metadata
 
 The Metadata tab enables the media metadata to be entered or updated. The attributes supported are the author, email, website, song, artist, album, music url and a comment.
@@ -83,6 +91,12 @@ You will be presented with a window to navigate to and select a file containing 
 ![](<../../../.gitbook/assets/base64538a6a09649a3a2 (1).png>)
 
 You can repeat this process to import another timing grid from the same file or from another file. Click Done when complete.
+
+## Images
+
+The Images tab manages the images a sequence uses, for example by the Pictures effect. Images that live in the show or media folder can be embedded directly inside the sequence (.xsq) file rather than only being referenced by path, which makes the sequence more portable when shared. Imports that create many images (such as SuperStar imports) can embed those images automatically. Embedded images are loaded when the sequence is opened and cached for rendering.
+
+<!-- TODO: screenshot -->
 
 ## Data Layers
 

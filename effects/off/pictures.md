@@ -26,6 +26,8 @@ The Pictures effect is used to import a supported image type (gif, bmp, jpg etc)
 
 Place the Picture effect in on timing cells that you wish to have the effect on a model. Click on the effect on the grid and amend the parameters as required. First click on the Browse button and navigate to the location of your image, select the image and click open or double click to select the image.
 
+The effect panel shows a preview of the selected image, and includes an AI Generate button that can create an image for the effect. Images used by a sequence can be embedded in the sequence file itself and are managed from the Images tab in Sequence Settings, which makes sequences more portable. When an image is selected, the scaling option is automatically set to "Scale To Fit" when that is the appropriate choice for the image and model.
+
 | Option/Settings | Description |
 | --------------- | ----------- |
 

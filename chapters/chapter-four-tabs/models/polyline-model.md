@@ -32,6 +32,8 @@ You can change the number of nodes in each segment.
 
 You can also name all your line segments.
 
+To reverse the wiring direction of the whole model, right click the poly line on the Layout tab and choose **Swap Start/End**. This flips the start and end points so the model runs the other way without having to redraw it.
+
 #### Adding Segments &#x20;
 
 To add a segment to an existing model, right click on a segment of the poly line model; the segment color will change to red.

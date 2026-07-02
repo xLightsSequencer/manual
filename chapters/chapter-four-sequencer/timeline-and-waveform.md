@@ -23,8 +23,12 @@ You can control the focus of the waveform.
 * Zoom in on the waveform by double clicking on the waveform. Keep double clicking until you've got a zoom setting you can use. Or click on the ‘+’ button.
 * To zoom out, hold the shift key and double click on the waveform or click on the ‘-‘- button.
 * Click the edge of an effect, hold down control and use the mouse scroll wheel to go in or out.
+* The timeline can be zoomed out far enough to show effects that lie beyond the end of the sequence duration, so any effects left past the end of a shortened sequence stay visible and reachable.
+* Right-click the timeline to reset the zoom level.
 
 ![](<../../.gitbook/assets/pasted image 0 (3).png>)
+
+When a sequence is opened, the timeline is automatically fitted so that the full sequence fits the width of the sequencer viewport.
 
 ### Scroll Left/Right
 
@@ -53,6 +57,10 @@ Clicking on an effect in the grid will not alter the waveform area that has been
 
 To scroll Left/ Right, click in the grid. Then hold down the Shift key and use the scroll key of the mouse to move the grid left or right.
 
+### Time Display Format
+
+The timeline can show time either as minutes:seconds:milliseconds or as seconds + milliseconds, so you can work in whichever format suits the sequence.
+
 ### Audio Scrubbing
 
 Hold the Ctrl key down and placing the mouse on the waveform, click and hold the mouse left button down and and drag it across the waveform.
@@ -60,6 +68,18 @@ Hold the Ctrl key down and placing the mouse on the waveform, click and hold the
 ![](../../.gitbook/assets/base64b90d979d5aa69211.png)
 
 The audio will be played as you scrub the line. Therefore you can play a small section again and again, backwards and forwards so as to identify a particular note inflection, timing mark or a word of a lyric.
+
+### Waveform Display Options
+
+Right-clicking on the waveform offers a range of alternative ways to view the audio, which can make timing work easier on different kinds of material:
+
+* **Filters** that change how the peaks are drawn - for example an RMS energy band overlaid on the peaks, a perceptual (LUFS) loudness view, and vocals / non-vocals centre-extract views. On macOS, machine-learning stem separation can split the mix into Drums, Bass, Other and Vocals so you can both see and hear just one part of the track.
+* **View as spectrogram** replaces the peak display with a log-frequency magnitude view of the audio.
+* **Show Onsets** overlays markers at detected percussive onsets, and **Show Pitch Contour** overlays a colour-coded pitch-versus-time line that is useful for vocal and melody timing.
+
+The waveform and the audio you hear both follow the option you pick, so (for example) choosing a vocals stem lets you listen to just the vocal line while you set timing marks. The first time a machine-learning stem filter is used you are prompted to download the model into an `ai-models` folder in the show or media folder; later uses are instant. Some options are only available on certain platforms.
+
+<!-- TODO: screenshot -->
 
 ### Timeline Tags
 

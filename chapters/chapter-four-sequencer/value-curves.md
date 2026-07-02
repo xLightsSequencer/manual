@@ -32,6 +32,10 @@ Another type of Value Curve is the Sawtooth variation. The selected attribute to
 
 Custom Value Curves can also be created. Select the Custom option from the drop-down. You can then click on the waveform to add new points and drag them as necessary.
 
+A Custom curve has a Cycles control (1 to 10) that repeats the shape you have drawn across the effect, so you can replicate a pattern without having to draw it more than once.
+
+The Exponential, Logarithmic and Parabolic curve types also provide Start and End level controls, so the curve can begin and end at the levels you choose rather than spanning the full range.
+
 ### Load and Export
 
 Value curves can be loaded and exported as a .XVC file. By default, the files will be loaded and previewed if they are in the 'valuecurves' folder automatically created in the current show folder.

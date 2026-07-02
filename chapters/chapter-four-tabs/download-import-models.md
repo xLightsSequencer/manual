@@ -20,6 +20,10 @@ Then select the local .xmodel file with the File Select Window
 
 The imported model will be the same model type it was exported as. If the .xmodel file contains a custom Model, the imported model will also be a custom model.
 
+A single .xmodel file can contain more than one model, allowing several models to be exported and imported together. When a multi-model file is imported, the models keep their relative positions to one another rather than being stacked on top of each other.
+
+When importing models from another layout, you can choose which groups the imported models should be added to. If the source layout has a ruler defined, the imported model sizes are scaled to match the destination layout's ruler so they arrive at a realistic real-world size.
+
 ## Download Model
 
 ![Download Model Button](<../../.gitbook/assets/image (986).png>)
@@ -31,6 +35,8 @@ After Selecting the Download Model button, You must click and drag out a box and
 The Model Dialog will appear where you can select the desired model you would like to insert.
 
 ![Download Model Dialog](<../../.gitbook/assets/image (424).png>)
+
+The Model Download dialog supports multi-select, so you can choose several models and download them all at once.
 
 Click Insert and Model will be added to your layout.
 

@@ -27,3 +27,7 @@ To add layers at the strand level, click on the Model name in the sequencer to d
 ![](<../../../.gitbook/assets/image (468).png>)
 
 The strands blend onto the model level effects.
+
+{% hint style="info" %}
+The "Collapse Layers" option collapses the expanded effect layers back down to a single row. It also collapses any expanded Timing Tracks at the same time, tidying up the row header in one step.
+{% endhint %}

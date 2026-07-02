@@ -13,3 +13,9 @@ If no timing track is selected then you can drag and drop even if you have no ti
 {% hint style="success" %}
 Select and open the Views, Window menu and select windows to be opened.
 {% endhint %}
+
+### Radial Effect Wheel
+
+Double-clicking an empty area of the sequencer grid pops up a radial wheel of effects centred on the cursor. Move the mouse out to the effect you want and click to drop it at that location, giving quick access to your key-bound effects without going to the effects toolbar. The wheel is not shown when you double-click on a timing track.
+
+<!-- TODO: screenshot -->

@@ -2,9 +2,11 @@
 
 ## Edit
 
-From the Edit menu , you can select the Undo, Cut, Copy and Paste functions and apply them where where applicable. As an example, when on the sequencer grid, you can highlight an effect, click Edit and then click on Copy (to copy the data to the clipboard). Move your cursor to where you want the effect to be duplicated and then click File and Paste.
+From the Edit menu , you can select the Undo, Redo, Cut, Copy and Paste functions and apply them where where applicable. As an example, when on the sequencer grid, you can highlight an effect, click Edit and then click on Copy (to copy the data to the clipboard). Move your cursor to where you want the effect to be duplicated and then click File and Paste.
 
 You can also use the associated Ctrl keys instead i.e. Ctrl+C and Ctrl+V in this case. The functionality of each option is self explanatory.
+
+Redo reapplies the most recently undone change and has its own keyboard shortcut.
 
 ![](<../../.gitbook/assets/image (902).png>)
 
