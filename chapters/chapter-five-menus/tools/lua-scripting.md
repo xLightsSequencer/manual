@@ -10,9 +10,9 @@ Lua scripting is reached from **Tools → Run Scripts**. This opens a dialog whe
 
 ### Where scripts live
 
-* Scripts are plain text `.lua` files. You can keep them anywhere on disk; the Run Scripts dialog lets you browse to any location.
-* Many users keep a personal scripts folder outside their show folder so the same scripts can be reused across multiple shows/seasons.
-* Community-contributed scripts are published on GitHub rather than bundled inside the xLights installer — this keeps the install size down and lets scripts be updated independently of xLights releases. A good starting point is browsing existing example scripts (search GitHub for "xlights\_scripts") to see working patterns before writing your own.
+* Scripts are plain text `.lua` files. Scrips are loaded from '{show folder}/scripts'.
+* Community-contributed scripts are published on GitHub rather than bundled inside the xLights installer — this keeps the install size down and lets scripts be updated independently of xLights releases. A good starting point is browsing existing example scripts to see working patterns before writing your own. [https://github.com/xLightsSequencer/xLights/tree/master/resources/scripts](https://github.com/xLightsSequencer/xLights/tree/master/resources/scripts)
+*
 
 ### Running a script
 
@@ -107,8 +107,4 @@ Print("Batch export complete.")
 * Wrap risky operations (file paths that might not exist, uploads that might fail) so a bad run reports a clear `xlDisplayError` message rather than leaving you guessing.
 * Keep destructive operations (overwriting sequences, uploading to live controllers) behind an explicit confirmation prompt (`xlPromptSelection`) until the script is well-tested.
 
-### Getting help
-
-* Check the **Run Scripts** dialog's built-in function reference for the current, version-accurate list of available calls.
-* The xLights [Facebook group](https://www.facebook.com/groups/xlights) and [GitHub Discussions/Issues](https://github.com/xLightsSequencer/xLights) are good places to ask about specific automation functions or share scripts.
-* If you write something broadly useful, consider publishing it (with a license) so other users can adapt it — most community scripts circulate this way rather than being bundled with xLights itself.
+###
