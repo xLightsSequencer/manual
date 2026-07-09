@@ -109,6 +109,7 @@
     * [Convert](chapters/chapter-five-menus/tools/convert.md)
     * [Generate Custom Model](chapters/chapter-five-menus/tools/generate-custom-model.md)
     * [FPP Connect](chapters/chapter-five-menus/tools/fpp-connect.md)
+    * [Lua Scripting](chapters/chapter-five-menus/tools/lua-scripting.md)
   * [View](chapters/chapter-five-menus/view/README.md)
     * [Windows](chapters/chapter-five-menus/view/windows.md)
     * [Perspectives](chapters/chapter-five-menus/view/perspective-definition.md)
