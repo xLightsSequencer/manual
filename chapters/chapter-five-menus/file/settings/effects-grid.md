@@ -10,9 +10,9 @@ This function enables you to change the size (i.e. width of each band) of the se
 
 Five options are available: Extra Small, Small, Medium, Large, Extra Large.
 
-![](<../../../../.gitbook/assets/image (1046).png>)
+![](<../../../../.gitbook/assets/image (708).png>)
 
-![Grid Spacing Small ](<../../../../.gitbook/assets/image (788).png>)
+![Grid Spacing Small](<../../../../.gitbook/assets/image (788).png>)
 
 ![Grid Spacing Extra Large](<../../../../.gitbook/assets/image (1184).png>)
 
@@ -70,7 +70,7 @@ When Enabled, the audio waveform will appear smaller on the screen. This is desi
 
 If checked, color bars are display to represent transitions, like fade in or fade out.
 
-![](<../../../../.gitbook/assets/image (905).png>)
+![](<../../../../.gitbook/assets/image (224).png>)
 
 ### Hide Color Update Warning
 

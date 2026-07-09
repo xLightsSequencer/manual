@@ -14,7 +14,7 @@
 {% endtab %}
 
 {% tab title="Options" %}
-![](<../../.gitbook/assets/image (488).png>)
+![](<../../.gitbook/assets/image (485).png>)
 {% endtab %}
 {% endtabs %}
 

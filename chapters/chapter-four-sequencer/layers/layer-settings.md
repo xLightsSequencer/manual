@@ -22,7 +22,7 @@ This will reset the Layer Setting back to default every time you select or creat
 
 This attribute controls how the buffer is laid out for a model or model group when the effect is rendered. Every model has a ‘Default’ buffer which can be view by opening the model's node layout in the Layout Tab.
 
-![Arch Model Render Styles ](<../../../.gitbook/assets/image (953).png>)
+![Arch Model Render Styles](<../../../.gitbook/assets/image (953).png>)
 
 For example, for Arches – the default buffer treats each arch as a single line and stacks the arches on top of eachother, for a Star model, the default is a square grid that cases effects to chase across the face of a star.
 
@@ -40,13 +40,13 @@ For model groups, additional buffer render styles are available. The list below 
 | As Pixel                    | Treats all the model nodes as one pixel.                                                                                                 |
 | Horizontal Stacked          | Places each Model next to each other horizontally in a single row that is aligned to the bottom                                          |
 | Vertically Stacked          | Places each Model on top of each other Vertically in a single column, aligned to the left side.                                          |
-| Horizontal Stacked - Scaled | Places each Model next to each other horizontally in a single row, scales  each models buffer size to be the same.                       |
-| Vertically Stacked - Scaled | Places each Model on top of each other Vertically in a single column, scales  each models buffer size to be the same.                    |
+| Horizontal Stacked - Scaled | Places each Model next to each other horizontally in a single row, scales each models buffer size to be the same.                        |
+| Vertically Stacked - Scaled | Places each Model on top of each other Vertically in a single column, scales each models buffer size to be the same.                     |
 | Horizontal Per Model        | Each Model's nodes are setup as a single row in the buffer horizontally and then each model is stacked vertically.                       |
 | Vertical Per Model          | Each Model's nodes are setup as a single column in the buffer vertically and then each model is place horizontally next to each other.   |
 | Horizontal Per Model/Strand | Each Model's strands are setup as a single row in the buffer horizontally and then each model is stacked vertically.                     |
 | Vertical Per Model/Strand   | Each Model's strands are setup as a single column in the buffer vertically and then each model is place horizontally next to each other. |
-| Overlay -  Centered         | Model are "set" on top of each other and the buffers are Centered                                                                        |
+| Overlay - Centered          | Model are "set" on top of each other and the buffers are Centered                                                                        |
 | Overlay - Scaled            | Model are "set' on top of each other and the buffer sizes are scaled to be the same.                                                     |
 | Single Line as a Pixel      | Each Model is represented as a single Pixel and placed in a single line.                                                                 |
 | Per Model Default           | Render the Effects on Each Individual Model using the model's default buffer                                                             |
@@ -107,7 +107,7 @@ The term came from high persistence scopes where each trace just kept layering o
 
 The Roto-Zoom functionality enables the effect to be Rotated as well as have aspects of the effect Zoomed.
 
-![](<../../../.gitbook/assets/image (993).png>)
+![](<../../../.gitbook/assets/image (254).png>)
 
 The Preset defines the type of rotation to be applied to the effect. The effect can be continuously rotated clockwise or counterclockwise, made to explode outwards , implode inwards , shake etc.
 

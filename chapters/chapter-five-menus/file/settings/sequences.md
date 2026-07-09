@@ -56,7 +56,7 @@ In order to recover your sequence file from an unexpected error or corruption to
 
 ![](<../../../../.gitbook/assets/image (101).png>)
 
-This defines where xLights will search for audio/picture/video files, This should only be set if  the audio/picture/video files are **not** stored in the current show folder or a sub-directory of the current show folder. On Mac OS, adding folders in this section will give xLights the correct permissions to search them.
+This defines where xLights will search for audio/picture/video files, This should only be set if the audio/picture/video files are **not** stored in the current show folder or a sub-directory of the current show folder. On Mac OS, adding folders in this section will give xLights the correct permissions to search them.
 
 ### Save FSEQ On Save
 
@@ -64,7 +64,7 @@ This will save the current rendered data to the FSEQ file on save. If this setti
 
 ### FSEQ Version
 
-![](<../../../../.gitbook/assets/image (1011).png>)
+![](<../../../../.gitbook/assets/image (344).png>)
 
 Version 1 is the "original" FSEQ file format. V1 files contain all the channel data and can be very large file. xLights, FPP, and most controllers support V1. Version 2 of the FSEQ file format added compression and "skips" off channels to reduce file sizes. FPP 2.5 and lower do not support the V2 file format. ZSTD, ZLIB, Uncompressed are additional options to select which compression format to use. ZSTD is the default and is the preferred setting. These options can be changed in xLights to generate FSEQ files in the different file format for devices that require them. xLights 2019.64 and FPP 2.6+ support all the available file formats.
 

@@ -10,7 +10,7 @@ A custom model grid will be displayed in which you enter numbers in the grid rep
 
 ![](<../../../.gitbook/assets/image (524).png>)
 
-![](<../../../.gitbook/assets/image (663).png>)
+![](<../../../.gitbook/assets/image (524).png>)
 
 Change the width and height values to increase the size of the grid to fit the layout.
 
@@ -20,7 +20,7 @@ The depth is used to make a 3D custom model. Future edits to the manual will ela
 
 The Right Click Menu Allows you to Flip, Rotate, Compress, Trim Unusued Space, and Shrink Space.
 
-![](<../../../.gitbook/assets/image (151).png>)
+![](<../../../.gitbook/assets/image (125).png>)
 
 For example, to model a custom candy cane with 12 nodes, you could have a grid 4 columns wide and 10 rows high. Place the numbers 1-9 up the right hand side, 10 and 11 in the middle cells in the top row and 12 would go in column A row 2. This is shown below.
 
@@ -48,7 +48,7 @@ To erase a number in a cell, selected the cell and press the Delete key.
 
 You can delete multiple cells by drawing a box around them and then pressing Delete.
 
-![](<../../../.gitbook/assets/image (299).png>)
+![](<../../../.gitbook/assets/image (283).png>)
 
 You can use the ‘+’ and ‘-‘ keys to make zoom in and out, respectively.
 
@@ -103,8 +103,6 @@ Run Check Sequence to indicate if any Custom Models have skipped node numbers.
 ## Displaying the Image in the Layout
 
 A custom model can optionally keep its image visible in the Layout and House Preview, not just while editing the grid. In the model properties, **Background Image Scale %** sets how large the image is drawn relative to the model bounds (100 = fit the model), and **Background Image Brightness %** controls how bright it appears (0 = black, 100 = full brightness). This is handy for props such as cut-outs or wire-frames where seeing the underlying artwork helps you place the model.
-
-<!-- TODO: screenshot -->
 
 ## Strings and Start Channels
 

@@ -10,9 +10,7 @@ This function enables you to change the size of the tool icons that are used to 
 
 Four options are available:
 
-![](<../../../../.gitbook/assets/image (1132).png>)
-
-
+![](<../../../../.gitbook/assets/image (660).png>)
 
 ### Model Handle Size
 
@@ -77,4 +75,3 @@ Disable Acceleration when Moving Models with the Keyboard Arrow Keys. This will 
 Size of the Red Crosshair displayed for the Group Center in the Layout Tab.
 
 <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-

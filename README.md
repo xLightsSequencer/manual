@@ -1,4 +1,3 @@
 # User Manual
 
-![](<.gitbook/assets/New-User-Manual-Cover-2 (2).png>)
-
+![](<.gitbook/assets/new-user-manual-cover-2 (1).png>)

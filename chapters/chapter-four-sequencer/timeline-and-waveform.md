@@ -34,7 +34,7 @@ When a sequence is opened, the timeline is automatically fitted so that the full
 
 Click on the waveform. Then hold down the Shift key and use the scroll key of the mouse to move the waveform and grid left or right.
 
-![](<../../.gitbook/assets/pasted image 0 (4).png>)
+![](<../../.gitbook/assets/pasted image 0 (1).png>)
 
 When playing the sequence, a vertical line indicates the start position and another vertical line extending right through the grid indicates where the audio being played current is
 
@@ -44,12 +44,12 @@ The time counter displays the time from the beginning of the sequence that the c
 
 You can highlight a range on the waveform to play only that section. If you move your cursor on the waveform towards either edge of the highlighted area, a ‘hand’ appears and you can use that to move the edge.
 
-* If the Pause button  is selected, and then pressed again, the sequence will restart from the current position that it stopped at.
+* If the Pause button is selected, and then pressed again, the sequence will restart from the current position that it stopped at.
 * If after a Pause, if the Play button is pressed, then the sequence will restart from the marked ‘start position’.
 * Clicking on the Stop button will reset the start position to the beginning of the sequence.
 * After Stop has been pressed the Rewind button will start from the beginning of the sequence and the fast forward button will play from the last component of the sequence.
 * Highlighting a portion of the waveform will cause only that section to be played. Pressing the spacebar will replay that section.
-* The ‘Replay’ button  will replay the highlighted section of the waveform. It will start from the beginning of the highlighted area and when it reaches the end of the area , will loop back to play from the beginning of that area. &#x20;
+* The ‘Replay’ button will replay the highlighted section of the waveform. It will start from the beginning of the highlighted area and when it reaches the end of the area , will loop back to play from the beginning of that area.
 
 ![](<../../.gitbook/assets/image (525).png>)
 
@@ -78,8 +78,6 @@ Right-clicking on the waveform offers a range of alternative ways to view the au
 * **Show Onsets** overlays markers at detected percussive onsets, and **Show Pitch Contour** overlays a colour-coded pitch-versus-time line that is useful for vocal and melody timing.
 
 The waveform and the audio you hear both follow the option you pick, so (for example) choosing a vocals stem lets you listen to just the vocal line while you set timing marks. The first time a machine-learning stem filter is used you are prompted to download the model into an `ai-models` folder in the show or media folder; later uses are instant. Some options are only available on certain platforms.
-
-<!-- TODO: screenshot -->
 
 ### Timeline Tags
 

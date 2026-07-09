@@ -4,7 +4,7 @@
 
 The Color Tab allows the user to change the colors options of xLights. The First two Columns Relate to the colors in the Sequence Tab, while the third column changes Layout Colors.
 
-![](<../../../../.gitbook/assets/image (572).png>)
+![](<../../../../.gitbook/assets/image (253).png>)
 
 ## Sequencer Colors
 
@@ -56,7 +56,7 @@ Row Heading Text Color
 
 Currently Selected Row Heading Color
 
-![Selected](<../../../../.gitbook/assets/image (645).png>)
+![Selected](<../../../../.gitbook/assets/image (309).png>)
 
 ### Dashed Selected
 
@@ -122,7 +122,7 @@ Locked Effect Referenced Color (The Effect the Effect Settings Dialog is Current
 
 Audio Waveform Color
 
-![](<../../../../.gitbook/assets/image (1014).png>)
+![](<../../../../.gitbook/assets/image (588).png>)
 
 ### Waveform Background
 
@@ -174,7 +174,7 @@ Mouse Click and Drag Box Color
 
 ## Buttons
 
-![](<../../../../.gitbook/assets/image (757).png>)
+![](<../../../../.gitbook/assets/image (90).png>)
 
 ### Import
 

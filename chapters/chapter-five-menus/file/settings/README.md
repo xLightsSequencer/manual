@@ -2,7 +2,7 @@
 
 The Preferences dialog groups all of the global xLights settings into a number of pages. On Windows and Linux these pages are listed down the left side of the dialog with an icon for each, and you click a page to display its settings.
 
-![](<../../../../.gitbook/assets/preferences-page-list.png>)
+![](../../../../.gitbook/assets/preferences-page-list.png)
 
 ## Backup
 
@@ -22,7 +22,7 @@ View Preferences contains settings related to the scaling and size of items on t
 [view.md](view.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (872).png>)
+![](<../../../../.gitbook/assets/image (121).png>)
 
 ## Effects Grid
 
@@ -64,7 +64,7 @@ Enable/Disable warning or errors in the check sequence output.
 
 The Random Effects tab allows the user to set which effects are used by the Generate Random Effects Right click menu option in the sequencer.
 
-![](<../../../../.gitbook/assets/image (220).png>)
+![](<../../../../.gitbook/assets/image (113).png>)
 
 ![](<../../../../.gitbook/assets/image (256).png>)
 
@@ -76,7 +76,7 @@ The Color Tab allows the user to change the colors options of xLights.
 [color-manager.md](color-manager.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (1075).png>)
+![](<../../../../.gitbook/assets/image (919).png>)
 
 ## Services
 

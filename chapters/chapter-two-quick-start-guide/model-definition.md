@@ -12,7 +12,7 @@ Click on the Layout tab, then click on the Arches icon. The selected icon will h
 
 Then click anywhere on the Canvas and drag slightly. An image of an arch will be displayed and an Arch model called ‘Arches’ (the default name that is assigned to the model may be slightly different) will be created with a default set of model settings.
 
-![](<../../.gitbook/assets/addarc (1).gif>)
+![](../../.gitbook/assets/addarc.gif)
 
 Change the Model name to ‘Arch-1’. Click the Tab or Enter Key to set the new name.
 
@@ -26,7 +26,7 @@ Set the controller to "Main Controller" or whatever name you set in the controll
 
 ![](<../../.gitbook/assets/image (860).png>)
 
-Set the Controller Connection Port to 1. This is the port of the controller the model will be physically  connected too.
+Set the Controller Connection Port to 1. This is the port of the controller the model will be physically connected too.
 
 ![](<../../.gitbook/assets/image (1182).png>)
 

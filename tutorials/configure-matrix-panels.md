@@ -32,7 +32,7 @@ Next, Define a model ‘P10Matrix’ for in the Layout Tab
 
 First Select the 'Matrix' model icon in the Model Toolbar.
 
-![Matrix Model ](<../.gitbook/assets/image (396).png>)
+![Matrix Model](<../.gitbook/assets/image (396).png>)
 
 Click the Left Mouse Button Down then Drag the Pointer to the Right, and Release.
 
@@ -40,7 +40,7 @@ Click the Left Mouse Button Down then Drag the Pointer to the Right, and Release
 
 Next, define the model settings. Set the model name to ‘P10Matrix’ (or any name of your choice) set it as a horizontal matrix.
 
-![](<../.gitbook/assets/image (965).png>)
+![](<../.gitbook/assets/image (112).png>)
 
 Set ‘# Strings’ = 64 (corresponds to number of rows), ‘Nodes/String’ as 64 (corresponds to the columns) and ‘Strands /String’ = 1. 'Starting Location' = Top Left.
 
@@ -84,7 +84,7 @@ Click the 'Input/Output Setup' Menu Banner and Select the 'Channel Outputs' Opti
 
 On the LED Panel page, Check the Enable LED Panel Output Option. The panel layout is 2 x 4. The Start channel should automatically been updated by the Upload To Controller Option used earlier. Make sure this matches the model definition in xLights. 'Single Panel Size' sets the Panel Size and Scan Rate. For most indoor P10 panels this is '32x16 1/8 Scan'. The channel count is automatically is calculated. This should also match the model in xLights. The 'Model Start Corner' should be the same as the 'Starting Location' in xLights. 'Default Panel Color Order' should match the panel vendors recommendation. Different vendors use different Color Orders. You may have to do try all the options to find the correct one. 'Brightness' is the Panel brightness, 10 is 100%, 1 is 10%. All the other options keep to the defaults.
 
-![LED Panel Output Page](<../.gitbook/assets/image (1069).png>)
+![LED Panel Output Page](<../.gitbook/assets/image (274).png>)
 
 The vertical arrows correspond to the Up/Down physical setting of the arrows on the panel backside. The LED Panel Layout orientation is as if viewed from the **front** of the panels. 'O-1', 'O-2', 'O-3', etc are the outputs ports on the Octoscroller. 'P-1', 'P-2', 'P-3', etc. is the panel order for each output. The first panel connected to the Octoscroller output is 'P-1', the second panel is 'P-2' and so forth.
 

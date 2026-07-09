@@ -140,13 +140,13 @@ The Select Effects Window allows the user to select effects based on type, model
 
 ![](<../../../.gitbook/assets/image (83).png>)
 
-The "Effect Type" allows the user to select which effect type to select.  The Model List allows the user to select which models to filter selection on. Only highlighted model names, will have their effects selected. The Time Fields allows the user to effect filter selection by time. The Effects by Time List displays all the effects found based on the other options and will select the highlighted items.
+The "Effect Type" allows the user to select which effect type to select. The Model List allows the user to select which models to filter selection on. Only highlighted model names, will have their effects selected. The Time Fields allows the user to effect filter selection by time. The Effects by Time List displays all the effects found based on the other options and will select the highlighted items.
 
 ### Video Preview
 
 The Video Preview Window allows the user to preview the video file, they are using while sequencing it as the audio track.
 
-![](<../../../.gitbook/assets/image (1004).png>)
+![](<../../../.gitbook/assets/image (703).png>)
 
 ### Jukebox
 

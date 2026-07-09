@@ -24,7 +24,7 @@ When selected, backups are made of all relevant files both in the show directory
 
 This drop-down sets how long xLights will keep backup. With "Never" selected xLights will not delete any backups. 365, 90, 31, and 7 days will delete backup folder older than the selected length. This helps to clear out older files and free up space.
 
-![](<../../../../.gitbook/assets/image (407).png>)
+![](<../../../../.gitbook/assets/image (292).png>)
 
 ### Backup Directory
 
@@ -39,4 +39,3 @@ This defines the location where the backup folder(Backup on Save/Launch or F10) 
 ![](<../../../../.gitbook/assets/image (790).png>)
 
 This is the location where the Alternative backups will be saved. This is manually triggered with F11 or the File Menu option. This Backup function is intended as a secondary backup location, like a external hardrive or NAS device. By default the location is not set and will prompt you if you attempt to do a Alternative Backup and no folder is set. To enable, set the desired folder or drive location.
-

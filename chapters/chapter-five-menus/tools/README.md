@@ -2,7 +2,7 @@
 
 ## Tools
 
-![](../../../.gitbook/assets/2022-08-02\_01h48\_51.png)
+![](../../../.gitbook/assets/2022-08-02_01h48_51.png)
 
 ### Test
 
@@ -46,7 +46,7 @@ This Dialog also contains links to the Singing Faces Project Lyric tracks. You m
 
 ### Batch Render
 
-<figure><img src="../../../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1196).png" alt=""><figcaption></figcaption></figure>
 
 Batch Render allows the user to re-render multiple sequence files. This is useful if a Layout change was made and all the FSEQ files need to be updated. The "Filter" drop-down allows the user to select which folders to search for the sequence XSQ/XML files in.
 
@@ -71,7 +71,7 @@ If a Error is found during batch rendering, xLights will display a popup and wil
 
 ### FPP Connect
 
-![](<../../../.gitbook/assets/image (653).png>)
+![](<../../../.gitbook/assets/image (568).png>)
 
 FPP Connect is used to upload to a Falcon Pi Player that is playing the role as a show player the channel and model configurations and one or more sequences (including associated audio).
 
@@ -109,7 +109,7 @@ The Export Models functionality creates a Spreadsheet (.xlsx) file with the deta
 
 The Spreadsheet file will be created with a row for each model defined listing all the key attributes. Additional sheets are added with group attributes and global Channel/pixel counts. Spreadsheet programs such as Microsoft Excel or [LibreOffice ](https://www.libreoffice.org/)are used to view the .xlsx files.
 
-![](../../../.gitbook/assets/2022-08-02\_20h26\_52.png)
+![](../../../.gitbook/assets/2022-08-02_20h26_52.png)
 
 ### Export Effects
 
@@ -131,7 +131,7 @@ The View Log option, enables a user to view the information / debug log that xLi
 
 ![](<../../../.gitbook/assets/image (387).png>)
 
-![](../../../.gitbook/assets/2022-08-02\_20h28\_46.png)
+![](../../../.gitbook/assets/2022-08-02_20h28_46.png)
 
 ### Package Log Files
 
@@ -143,7 +143,7 @@ From the Tools menu, with the sequence that needs to be investigated open, selec
 
 You can change either the ZIP file name and/or the location before saving the file.
 
-![](../../../.gitbook/assets/2022-08-02\_20h29\_42.png)
+![](../../../.gitbook/assets/2022-08-02_20h29_42.png)
 
 The zip file will contain the xLights network, rgbeffects, the sequence XSQ (if open is open) and a log file. The zip file can then be provided to the xLights team for analysis.
 
@@ -163,7 +163,7 @@ This 2D Path Generate Tool allows you to create X and Y value curve "paths" that
 
 Click and Drag the endpoint Dots, to move them. Double Click to add a new Line Segment. The Browse button allows the user to load a image to trace if needed. The slider will adjust the image brightness. Load will allow you to edit previously generated files. The Generate Button will save the path to two value curves files (X & Y Direction) to be loaded by an effect.
 
-![ Value curve Files](<../../../.gitbook/assets/image (1100).png>)
+![Value curve Files](<../../../.gitbook/assets/image (1100).png>)
 
 ### Generate Custom Model
 
@@ -221,11 +221,11 @@ The User Lyric Dictionary Dialog allows the user to manually add word phonemes b
 
 **Windows and Linux** - This menu option will launch the xLights scheduler/player xSchedule.
 
-### &#x20;xCapture
+### xCapture
 
 **Windows and Linux** - This menu option will launch the xCapture E131 Recording Tool.
 
-### &#x20;xScanner
+### xScanner
 
 **Windows and Linux** - This menu option will launch the xScanner, which can be used to discover controllers located on the network.
 

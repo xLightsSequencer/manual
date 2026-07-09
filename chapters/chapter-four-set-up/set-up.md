@@ -2,7 +2,7 @@
 
 ## **Controllers**
 
-![](<../../.gitbook/assets/image (277).png>)
+![](<../../.gitbook/assets/image (92).png>)
 
 The Controllers tab is used to define the locations of the Show directory and the Sub Folders, as well as to configure the setting for each controller.
 

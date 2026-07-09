@@ -1,6 +1,6 @@
 # Built-in Effects
 
-![](../../.gitbook/assets/xLights-Logo.png)
+![](../../.gitbook/assets/xlights-logo.png)
 
 ![](<../../.gitbook/assets/image (979).png>)
 

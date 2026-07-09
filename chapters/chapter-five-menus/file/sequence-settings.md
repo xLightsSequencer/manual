@@ -18,11 +18,11 @@ The sequence type, media file name or location, the sequence duration and whethe
 
 #### Sequence Duration
 
-Sequence Duration determines the playback length of the sequence in seconds. For Media sequence types this is fixed to the media/audio file length used and cannot be changed.  Animated Sequence duration defaults to 30 seconds and can be changed to the new length from this dialog.
+Sequence Duration determines the playback length of the sequence in seconds. For Media sequence types this is fixed to the media/audio file length used and cannot be changed. Animated Sequence duration defaults to 30 seconds and can be changed to the new length from this dialog.
 
 #### Sequence Timing
 
-Sequence Timing dictates the playback speed of the sequence.  A Sequence Timing of 50 milliseconds would have a playback speed of 20 frames per second. Click the Question Mark to change the Sequence Timing.
+Sequence Timing dictates the playback speed of the sequence. A Sequence Timing of 50 milliseconds would have a playback speed of 20 frames per second. Click the Question Mark to change the Sequence Timing.
 
 $$
 fps = 1000ms / sequence timing
@@ -30,7 +30,7 @@ $$
 
 #### Allow Blending Between Models
 
-Allow Blending Between Models determines if effects from the model groups blend with model level effects. If enabled the model groups effect data will be merged with the model effect data. If disabled models lower in the render order with override effect data of models higher in the render order.&#x20;
+Allow Blending Between Models determines if effects from the model groups blend with model level effects. If enabled the model groups effect data will be merged with the model effect data. If disabled models lower in the render order with override effect data of models higher in the render order.
 
 Changes to the length of sequence duration, Sequence Timing, and Allow Blending Between Models require a "Render All" for the change to take effect in the current open sequence.
 
@@ -88,15 +88,13 @@ The Import button enables you to import timing marks created externally for exam
 
 You will be presented with a window to navigate to and select a file containing the timing marks to import to the timing grid. This can be a text file (.txt), a LOR .LMS/.LAS file, Papagayo .PGO file, LSP File, or, xLights .XML/.xsq/.xtiming file.
 
-![](<../../../.gitbook/assets/base64538a6a09649a3a2 (1).png>)
+![](../../../.gitbook/assets/base64538a6a09649a3a2.png)
 
 You can repeat this process to import another timing grid from the same file or from another file. Click Done when complete.
 
 ## Images
 
 The Images tab manages the images a sequence uses, for example by the Pictures effect. Images that live in the show or media folder can be embedded directly inside the sequence (.xsq) file rather than only being referenced by path, which makes the sequence more portable when shared. Imports that create many images (such as SuperStar imports) can embed those images automatically. Embedded images are loaded when the sequence is opened and cached for rendering.
-
-<!-- TODO: screenshot -->
 
 ## Data Layers
 

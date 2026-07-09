@@ -6,7 +6,7 @@ Backing up your critical files and sequences should be done regularly – as goo
 
 What should be backed up ? Anything you require to run your show, but in particular your XML sequences, your media files and your user specific xLights configuration files.
 
-![](<../../../.gitbook/assets/image (798).png>)
+![](<../../../.gitbook/assets/image (658).png>)
 
 The xLights configuration files are located in your show directory and are: xlights\_keybindings.xml, xlights\_networks.xml and xlights\_rgbeffects.xml
 
@@ -46,9 +46,9 @@ Backing up the show directory (and media directory if it is different) to an alt
 To summarise the backup functionality:
 
 * When xlIghts starts up - a folder timestamp\_OnStart is created and the XML and XBKP files in the show directory are backed up there.
-* When F10 / F11  is pressed , a folder (timestamp) is created  in the show/alt location and the above files are backed up there (referred to as an on demand save).
+* When F10 / F11 is pressed , a folder (timestamp) is created in the show/alt location and the above files are backed up there (referred to as an on demand save).
 * Every x (3,10,15,30) minutes , the current open XML file (i.e xxx.xml) is backed up (overwrite) to xxx.xbkp or \_\_.xbkp (for a new unnamed sequence) in the show directory. This will occur if there have been any changes since the last auto save or on demand (F10/F11) save.
-* Every x minutes (same value as set above), the xlights\_rgbeffects.xml is backed up to xlights\_rgbeffects.xbkp in the show directory. This includes the layout as well.  This will occur if there have been any changes since the last auto save or on demand (F10/F11) save.
+* Every x minutes (same value as set above), the xlights\_rgbeffects.xml is backed up to xlights\_rgbeffects.xbkp in the show directory. This includes the layout as well. This will occur if there have been any changes since the last auto save or on demand (F10/F11) save.
 
 ### Restore Backup
 
@@ -56,9 +56,7 @@ If you need to recover, File -> Restore Backup
 
 ![](<../../../.gitbook/assets/image (39).png>)
 
-
-
-![](../../../.gitbook/assets/2022-08-02\_00h53\_10.png)
+![](../../../.gitbook/assets/2022-08-02_00h53_10.png)
 
 Select the backup folder from the left list and "check" which files to restore. The right list display basic data about the files found in the selected backup folder.
 
@@ -73,6 +71,3 @@ The Sequence Tab can be used to backup sequence files.
 Click the "Restore Files" button to start the restore process.
 
 ![](<../../../.gitbook/assets/image (22).png>)
-
-
-

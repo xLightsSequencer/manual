@@ -2,7 +2,7 @@
 
 ## Import
 
-![](<../../.gitbook/assets/2022-08-02\_20h45\_58 (1).png>)
+![](../../.gitbook/assets/2022-08-02_20h45_58.png)
 
 ### Import Effects
 
@@ -18,7 +18,7 @@ The Import Effect dialog supports multiple sequence file formats. xLights, Light
 
 The following example describes how to use this function to import an effects from an xLights XSQ/XML sequence.
 
-* First ensure that you have created or opened an existing sequence that has the models added to the sequencer that you wish to import to.  Note you must select a View first. If there are no models or groups displayed on the Sequencer, then you won’t be presented with any models to import to.
+* First ensure that you have created or opened an existing sequence that has the models added to the sequencer that you wish to import to. Note you must select a View first. If there are no models or groups displayed on the Sequencer, then you won’t be presented with any models to import to.
 
 This process can be used to
 
@@ -54,7 +54,7 @@ If importing into a new sequence, then
 
 Else
 
-* Open the sequence you want to import into,  add your display elements or select a view.
+* Open the sequence you want to import into, add your display elements or select a view.
 
 {% hint style="success" %}
 Ensure that your models are in your sequencer view before you start the import , else you won’t have any models to import into.
@@ -62,19 +62,19 @@ Ensure that your models are in your sequencer view before you start the import ,
 
 Select Import, Import Effects
 
-![](../../.gitbook/assets/2022-08-02\_20h45\_58.png)
+![](../../.gitbook/assets/2022-08-02_20h45_58.png)
 
 Select the donor sequence xLights XSQ/XML or the Zip File.
 
-![](../../.gitbook/assets/2022-08-02\_20h49\_24.png)
+![](../../.gitbook/assets/2022-08-02_20h49_24.png)
 
 A model mapping window is displayed. On the top left is a list containing the timing tracks to import. On the left are the models and model groups from YOUR layout/sequencer tab("Model"). 'Blue' items are Model Groups. On the right is a list of models/groups/submodels ("Available") that contain effects from the sequence being imported. Click and drag a model name from the right list to the ‘Map To’ column in the row that you want to import the model to. You may also highlight the "Map To" cell and double click on a "Available" model to map it or highlight a "Available" model and double click the "Map To" cell.
 
-![Import Dialog](../../.gitbook/assets/2022-08-02\_20h53\_53.png)
+![Import Dialog](../../.gitbook/assets/2022-08-02_20h53_53.png)
 
 Models in the "Available" list will turn gray when used. These items can still be used multiple times even when grayed out.
 
-![](../../.gitbook/assets/2022-08-02\_20h51\_22.png)
+![](../../.gitbook/assets/2022-08-02_20h51_22.png)
 
 When done, select "Save Mapping", and save the XMAP file. This XMAP file can then be loaded in the future when mapping another sequence from the same layout.
 
@@ -95,8 +95,6 @@ The Import Effects mapping dialog provides a number of options to make mapping l
 * **Show Timeline** – Lyric/phoneme timing tracks are mapped using checkboxes, and the dialog remembers your show-timeline preference between sessions.
 
 A key binding can be assigned to open the Import Effects window directly. See the Key Bindings dialog to set one.
-
-<!-- TODO: screenshot -->
 
 ### AI and Lua Auto-Mapping
 

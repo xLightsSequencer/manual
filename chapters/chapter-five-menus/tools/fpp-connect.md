@@ -16,7 +16,7 @@ The Upload Checkbox Column will "Enable" the FPP instances for xLights to upload
 
 The Location Column will display the DNS host name and IP address. The Description Column DNS Host description value. The Version Column is the FPP software version installed on the device.
 
-![FPP Host Information, IP Address and Version ](<../../../.gitbook/assets/image (792).png>)
+![FPP Host Information, IP Address and Version](<../../../.gitbook/assets/image (792).png>)
 
 The FSEQ Type Column allows the user to select which FSEQ file version to upload to each FPP device. V1 FSEQ files are required for FPP 2.5 and lower. The V2 FSEQ file format is a compressed files format that only works with FPP 2.6 and newer. The V2 FSEQ Sparse file format is the same a V2 but limits the channel range to what is required for that FPP instances output devices. If using FPP 2.6 or newer, it is recommended to use the V2 file format on the Standalone/Master FPP devices and the V2 Sparse file format on FPP remote devices. For FPP 2.5 and lower, V1 file format must be used. xLights will select a default FSEQ version based on the FPP version and if a Pixel Hat/Cap is attached or if a LED matrix is set up. This can be changed by the user if needed.
 
@@ -44,7 +44,7 @@ The Pixel Hat/Cap Column will display if a Output device is attached and configu
 
 You can then select one or more sequences to upload. The sequence FSEQ files are listed here. If the sequence is an audio sequence then the media file will also be uploaded if the media checkbox is selected.
 
-![Sequence Selection](<../../../.gitbook/assets/image (959).png>)
+![Sequence Selection](<../../../.gitbook/assets/image (218).png>)
 
 There is a Right Click Menu to Select All Sequences, Clear Selections, Select Highlighted, or Deselect Highlighted.
 

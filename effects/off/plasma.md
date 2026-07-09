@@ -1,6 +1,6 @@
 # Plasma
 
-![Icon](<../../.gitbook/assets/image (1097).png>)
+![Icon](<../../.gitbook/assets/image (118).png>)
 
 ![Sequencer Grid](<../../.gitbook/assets/image (551).png>)
 

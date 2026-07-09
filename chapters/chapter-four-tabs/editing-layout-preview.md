@@ -24,7 +24,7 @@ The image size has to be the same as the default image and as such, it is not av
 
 The preview window can now be used to create Models or Model Groups against similar to the Default Preview layout. Models can be reassigned to the different Preview by changing the "Preview" Model Setting.
 
-![](<../../.gitbook/assets/image (655).png>)
+![](<../../.gitbook/assets/image (213).png>)
 
 If you wish to delete the preview , right click within the window and click on the ‘Delete this Preview’ option.
 

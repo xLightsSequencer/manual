@@ -16,19 +16,19 @@ To create a Model Group, from the layout tab right click within the Model list w
 
 In the layout windows, a Model Group can be added by highlight multiple models, right click, and select 'Create Group'.
 
-![](<../../.gitbook/assets/image (1031).png>)
+![](<../../.gitbook/assets/image (1010).png>)
 
 In xLights, Model Groups are sequenced against an internal grid representation.
 
 The Default Layout Mode and Max Grid Size provides options on how the ‘internal grid’ is to be calculated when effects run across a model group.
 
-![](../../.gitbook/assets/2022-07-31\_00h51\_52.png)
+![](../../.gitbook/assets/2022-07-31_00h51_52.png)
 
 If ‘Grid as per preview’ is selected , then the buffer used will be exactly as to how the the house preview appears i.e will be quite large.
 
 If ‘Minimal Grid’ is selected then the buffer area will be an area just surrounding the model group.
 
-The **Per Model Default** layout option can also be chosen for a model group. When selected, any effect placed on the group that uses the *Default* render style is automatically rendered per-model on that group, rather than across a single combined buffer.
+The **Per Model Default** layout option can also be chosen for a model group. When selected, any effect placed on the group that uses the _Default_ render style is automatically rendered per-model on that group, rather than across a single combined buffer.
 
 {% hint style="success" %}
 Select minimal grid wherever you can. Large grid sizes can significantly slow down rendering, particularly on some effects like fan and shockwave.
@@ -44,9 +44,9 @@ The models that are currently in the group will be displayed in the ‘Models in
 The order of the models in the ‘Models in Group’ determines the render order of the Group Render Styles. 'Per Model' group render styles are rendered in model order top to bottom.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (1056).png>)
+![](<../../.gitbook/assets/image (579).png>)
 
-The model group panel also provides **Sort By Name** and **Sort By Location** options to reorder the models in the group. Sorting by name lists the models alphabetically, while sorting by location orders them based on their position in the layout. Because the order of the models determines the render order for *Per Model* group render styles, sorting is a quick way to set a sensible default order.
+The model group panel also provides **Sort By Name** and **Sort By Location** options to reorder the models in the group. Sorting by name lists the models alphabetically, while sorting by location orders them based on their position in the layout. Because the order of the models determines the render order for _Per Model_ group render styles, sorting is a quick way to set a sensible default order.
 
 ### Delete Group
 

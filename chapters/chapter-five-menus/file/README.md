@@ -6,8 +6,6 @@ The File menu enables you to create a new xLights sequence, open an existing xLi
 
 ![](<../../../.gitbook/assets/FIle Icons.JPG>)
 
-
-
 ![](<../../../.gitbook/assets/image (783).png>)
 
 ### ![](<../../../.gitbook/assets/New Seq Icon.JPG>) New Sequence
@@ -30,7 +28,7 @@ To open a recently used sequence, select any item from this list.
 
 ### ![](<../../../.gitbook/assets/Save Seq Icon.JPG>) Save Sequence
 
-To save an open sequence, either use the Save Sequence icon, select Save Sequence from the File menu or press Ctrl S. If the sequence has not been saved previously, you will be presented with the Save As dialogue window to enter the name for the sequence.&#x20;
+To save an open sequence, either use the Save Sequence icon, select Save Sequence from the File menu or press Ctrl S. If the sequence has not been saved previously, you will be presented with the Save As dialogue window to enter the name for the sequence.
 
 ![](<../../../.gitbook/assets/image (1165).png>)
 
@@ -52,7 +50,7 @@ You can stretch and expand the window to see all the models.
 
 To save an open sequence with a different name, either use the Save As Sequence icon or select Save As Sequence from the File menu. You will be presented with the Save As dialogue window to enter the name for the sequence. If the Render on Save setting (under the Settings menu) is set (i.e. checked) then all the effects on all the models will be rendered first before the sequence is saved in the FSEQ file. This is the default. Progress status messages are displayed on the last line of the window. When the sequence has completed saving, a message will be displayed on the last line indicating the name of the FSEQ file and how long the save process took.
 
-![](<../../../.gitbook/assets/base6468e83ff059cafe45 (1).png>)
+![](../../../.gitbook/assets/base6468e83ff059cafe45.png)
 
 ### Close Sequence
 
@@ -84,7 +82,7 @@ The Sequence Settings Dialog allows the user to edit all the settings for the cu
 [sequence-settings.md](sequence-settings.md)
 {% endcontent-ref %}
 
-![Sequence Setting](<../../../.gitbook/assets/image (1033).png>)
+![Sequence Setting](<../../../.gitbook/assets/image (362).png>)
 
 ### Key bindings
 
@@ -168,4 +166,3 @@ To quit xLights, select Quit from the File menu or press ALT+F4.
 If you have a sequence open and the sequence data has not been saved since the last change, you will be presented with the Save Sequence Dialog.
 
 ![](<../../../.gitbook/assets/image (1166).png>)
-

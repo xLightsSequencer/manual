@@ -14,7 +14,7 @@ xLights was created by Matt Brown in early 2010 and was released to the public o
 
 Nutcracker, originally called rgbsb, was written by Sean Meighan in February 2012. Sean, who was new to animated Christmas lights, wanted an easier way of creating effects on smart RGB devices. He came up with the unique concept at the time of defining a model (megatree, matrix, arches, etc.) and then dropping effects (butterfly, spirals, text, .etc.) onto the model. Sean gave a presentation on the newly renamed Nutcracker software at the Texas Academy in the Summer of 2012. People were excited. Nutcracker could produce either lms or Vixen 2 files. Nutcracker 1 and 2 were developed as a web based php application. To create effects users would log into the web applicaton, define models and apply effects.
 
-![Online version of the original Nutcracker.](<../../.gitbook/assets/image (753).png>)
+![Online version of the original Nutcracker.](<../../.gitbook/assets/image (91).png>)
 
 {% hint style="info" %}
 The Nutcracker name came about because Sean had built two 9' tall nutcrackers for his show and it was suggested he rename his rgbsb application to Nutcracker.
@@ -36,9 +36,8 @@ In 2014 Sean had discussions with Dave Pitts about making xLights resemble a vid
 
 With the release of version 4.3 on December 17th, 2015, Sean changed the name and dropped the reference to Nutcracker and was simply called xLights. Starting in 2016, xLights dropped the version 4.x numbering scheme and switched to a year/version scheme (i.e 2019.17).
 
-On February 18th, 2017, the sequence player/scheduler was removed making xLights a light sequencer only application.  This capability was replaced with a standalone application called xScheduler created by Keith Westley.
+On February 18th, 2017, the sequence player/scheduler was removed making xLights a light sequencer only application. This capability was replaced with a standalone application called xScheduler created by Keith Westley.
 
 The Summer of 2018 saw the release of the 3D layout and rendering capabilities thanks to Gil Jones.
 
 Both Matt and Sean have always believed their software should be made available free to the lighting community. As such you can download the source code from: [https://github.com/xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights).
-

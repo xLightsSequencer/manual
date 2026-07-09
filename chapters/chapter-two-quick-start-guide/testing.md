@@ -1,14 +1,14 @@
 # Testing
 
-## &#x20;Testing
+## Testing
 
-If you have a set of lights connected to your controller, you can test them directly via xLights.&#x20;
+If you have a set of lights connected to your controller, you can test them directly via xLights.
 
 To ensure that the Controller channels and outputs setting match xLight, an Upload to Controller must be preformed. To do this, switch to the controller tab highlight the controller to test.
 
 ![](<../../.gitbook/assets/image (1146).png>)
 
-Click the 'Upload Input' and 'Upload Output' to configure the controller. 'Upload Input' must be preformed first. Some controller types do not require the 'Upload  Input' action to be preformed and this button may be grayed out. A dialog may appear asking the user to override the previous controller setting, Click 'Yes' on this dialog.
+Click the 'Upload Input' and 'Upload Output' to configure the controller. 'Upload Input' must be preformed first. Some controller types do not require the 'Upload Input' action to be preformed and this button may be grayed out. A dialog may appear asking the user to override the previous controller setting, Click 'Yes' on this dialog.
 
 ![](<../../.gitbook/assets/image (363).png>)
 
@@ -34,7 +34,7 @@ To display Model groups or Models instead, click on Model Groups or Models acros
 
 ![](<../../.gitbook/assets/image (771).png>)
 
-![](<../../.gitbook/assets/image (995).png>)
+![](<../../.gitbook/assets/image (378).png>)
 
 Different test functions are available for RGB, non RGB lights as well as the option to execute different test cycles. Set the Tools->Test section for more information.
 
