@@ -99,6 +99,10 @@ HinksPix Export dialog is used to generate the required SD card files to use the
 
 This dialog allows the user to run Lua scripts to automate xLights functions.
 
+{% content-ref url="lua-scripting.md" %}
+[lua-scripting.md](lua-scripting.md)
+{% endcontent-ref %}
+
 ![](<../../../.gitbook/assets/image (36).png>)
 
 ### Export Models
